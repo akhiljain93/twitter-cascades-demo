@@ -1,0 +1,1823 @@
+{
+  "children": [
+    {
+      "entropy_score": 0.0, 
+      "favourites": 0, 
+      "follower": true, 
+      "id": 456025560213233664, 
+      "reply": false, 
+      "timestamp": "Tue Apr 15 11:05:40 +0000 2014", 
+      "tree_size": 1, 
+      "tweet": "RT @whoajordie: Perhaps you don't know what \"color assistant\" means. http://t.co/GOf3D8vg4i", 
+      "uid": 193409136, 
+      "user": 26, 
+      "user_score": 0.0, 
+      "users": {
+        "26": 1
+      }
+    }, 
+    {
+      "children": [
+        {
+          "entropy_score": 0.0, 
+          "favourites": 0, 
+          "follower": false, 
+          "id": 456029011756716032, 
+          "reply": true, 
+          "timestamp": "Tue Apr 15 11:19:23 +0000 2014", 
+          "tree_size": 1, 
+          "tweet": "@OpTiC_85 Thank you!", 
+          "uid": 31407587, 
+          "user": 0, 
+          "user_score": 0.0, 
+          "users": {
+            "0": 1
+          }
+        }
+      ], 
+      "entropy_score": 0.0, 
+      "favourites": 0, 
+      "follower": true, 
+      "id": 456025684666634240, 
+      "reply": true, 
+      "timestamp": "Tue Apr 15 11:06:10 +0000 2014", 
+      "tree_size": 2, 
+      "tweet": "@whoajordie You are a champ! A pox on the nay-sayers...A pox!", 
+      "uid": 21760939, 
+      "user": 27, 
+      "user_score": 0.6931471805599453, 
+      "users": {
+        "0": 1, 
+        "27": 1
+      }
+    }, 
+    {
+      "children": [
+        {
+          "entropy_score": 0.0, 
+          "favourites": 0, 
+          "follower": false, 
+          "id": 456028872275165184, 
+          "reply": true, 
+          "timestamp": "Tue Apr 15 11:18:50 +0000 2014", 
+          "tree_size": 1, 
+          "tweet": "@nonteentitan Cheers!", 
+          "uid": 31407587, 
+          "user": 0, 
+          "user_score": 0.0, 
+          "users": {
+            "0": 1
+          }
+        }
+      ], 
+      "entropy_score": 0.0, 
+      "favourites": 1, 
+      "follower": true, 
+      "id": 456025745547350016, 
+      "reply": true, 
+      "timestamp": "Tue Apr 15 11:06:24 +0000 2014", 
+      "tree_size": 2, 
+      "tweet": "@whoajordie Thanks for the peek into the process and for all your great work !", 
+      "uid": 193409136, 
+      "user": 26, 
+      "user_score": 0.6931471805599453, 
+      "users": {
+        "0": 1, 
+        "26": 1
+      }
+    }, 
+    {
+      "entropy_score": 0.0, 
+      "favourites": 0, 
+      "follower": true, 
+      "id": 456025924862230530, 
+      "reply": false, 
+      "timestamp": "Tue Apr 15 11:07:07 +0000 2014", 
+      "tree_size": 1, 
+      "tweet": "RT @whoajordie: Perhaps you don't know what \"color assistant\" means. http://t.co/GOf3D8vg4i", 
+      "uid": 86398584, 
+      "user": 25, 
+      "user_score": 0.0, 
+      "users": {
+        "25": 1
+      }
+    }, 
+    {
+      "entropy_score": 0.0, 
+      "favourites": 0, 
+      "follower": false, 
+      "id": 456026151727931392, 
+      "reply": false, 
+      "timestamp": "Tue Apr 15 11:08:01 +0000 2014", 
+      "tree_size": 1, 
+      "tweet": "RT @whoajordie: Perhaps you don't know what \"color assistant\" means. http://t.co/GOf3D8vg4i", 
+      "uid": 21567363, 
+      "user": 24, 
+      "user_score": 0.0, 
+      "users": {
+        "24": 1
+      }
+    }, 
+    {
+      "entropy_score": 0.0, 
+      "favourites": 0, 
+      "follower": false, 
+      "id": 456026361573158912, 
+      "reply": true, 
+      "timestamp": "Tue Apr 15 11:08:51 +0000 2014", 
+      "tree_size": 1, 
+      "tweet": "@whoajordie I said it before and I'll say it again: fuck 'em, you rule", 
+      "uid": 21567363, 
+      "user": 24, 
+      "user_score": 0.0, 
+      "users": {
+        "24": 1
+      }
+    }, 
+    {
+      "entropy_score": 0.0, 
+      "favourites": 0, 
+      "follower": false, 
+      "id": 456026542842576896, 
+      "reply": true, 
+      "timestamp": "Tue Apr 15 11:09:35 +0000 2014", 
+      "tree_size": 1, 
+      "tweet": "@whoajordie ignore the haterz !", 
+      "uid": 19243598, 
+      "user": 23, 
+      "user_score": 0.0, 
+      "users": {
+        "23": 1
+      }
+    }, 
+    {
+      "children": [
+        {
+          "entropy_score": 0.0, 
+          "favourites": 0, 
+          "follower": false, 
+          "id": 456026964391124992, 
+          "reply": true, 
+          "timestamp": "Tue Apr 15 11:11:15 +0000 2014", 
+          "tree_size": 1, 
+          "tweet": "@RepStones Yep! :) All mac all the time!", 
+          "uid": 31407587, 
+          "user": 0, 
+          "user_score": 0.0, 
+          "users": {
+            "0": 1
+          }
+        }
+      ], 
+      "entropy_score": 0.0, 
+      "favourites": 0, 
+      "follower": false, 
+      "id": 456026631581466624, 
+      "reply": true, 
+      "timestamp": "Tue Apr 15 11:09:56 +0000 2014", 
+      "tree_size": 2, 
+      "tweet": "@whoajordie also, just out of interest, do you use a mac?", 
+      "uid": 19243598, 
+      "user": 23, 
+      "user_score": 0.6931471805599453, 
+      "users": {
+        "0": 1, 
+        "23": 1
+      }
+    }, 
+    {
+      "children": [
+        {
+          "entropy_score": 0.0, 
+          "favourites": 0, 
+          "follower": false, 
+          "id": 456028852549337088, 
+          "reply": true, 
+          "timestamp": "Tue Apr 15 11:18:45 +0000 2014", 
+          "tree_size": 1, 
+          "tweet": "@Unsuccesful Aw, thanks kindly! :)", 
+          "uid": 31407587, 
+          "user": 0, 
+          "user_score": 0.0, 
+          "users": {
+            "0": 1
+          }
+        }
+      ], 
+      "entropy_score": 0.0, 
+      "favourites": 0, 
+      "follower": true, 
+      "id": 456026761231597569, 
+      "reply": true, 
+      "timestamp": "Tue Apr 15 11:10:27 +0000 2014", 
+      "tree_size": 2, 
+      "tweet": "@whoajordie That post was actually super helpful in seeing how you colour books! So thank you =D and feck the haters, you rock!", 
+      "uid": 24899476, 
+      "user": 22, 
+      "user_score": 0.6931471805599453, 
+      "users": {
+        "0": 1, 
+        "22": 1
+      }
+    }, 
+    {
+      "entropy_score": 0.0, 
+      "favourites": 0, 
+      "follower": false, 
+      "id": 456033639479128064, 
+      "reply": false, 
+      "timestamp": "Tue Apr 15 11:37:47 +0000 2014", 
+      "tree_size": 1, 
+      "tweet": "RT @whoajordie: Perhaps you don't know what \"color assistant\" means. http://t.co/GOf3D8vg4i", 
+      "uid": 136975774, 
+      "user": 21, 
+      "user_score": 0.0, 
+      "users": {
+        "21": 1
+      }
+    }, 
+    {
+      "entropy_score": 0.0, 
+      "favourites": 0, 
+      "follower": false, 
+      "id": 456033906618535936, 
+      "reply": false, 
+      "timestamp": "Tue Apr 15 11:38:50 +0000 2014", 
+      "tree_size": 1, 
+      "tweet": "RT @whoajordie: Perhaps you don't know what \"color assistant\" means. http://t.co/GOf3D8vg4i", 
+      "uid": 79005580, 
+      "user": 20, 
+      "user_score": 0.0, 
+      "users": {
+        "20": 1
+      }
+    }, 
+    {
+      "entropy_score": 0.0, 
+      "favourites": 0, 
+      "follower": true, 
+      "id": 456036468499423232, 
+      "reply": false, 
+      "timestamp": "Tue Apr 15 11:49:01 +0000 2014", 
+      "tree_size": 1, 
+      "tweet": "RT @whoajordie: Perhaps you don't know what \"color assistant\" means. http://t.co/GOf3D8vg4i", 
+      "uid": 16045547, 
+      "user": 19, 
+      "user_score": 0.0, 
+      "users": {
+        "19": 1
+      }
+    }, 
+    {
+      "entropy_score": 0.0, 
+      "favourites": 0, 
+      "follower": false, 
+      "id": 456047519718309888, 
+      "reply": false, 
+      "timestamp": "Tue Apr 15 12:32:56 +0000 2014", 
+      "tree_size": 1, 
+      "tweet": "RT @whoajordie: Perhaps you don't know what \"color assistant\" means. http://t.co/GOf3D8vg4i", 
+      "uid": 14528570, 
+      "user": 18, 
+      "user_score": 0.0, 
+      "users": {
+        "18": 1
+      }
+    }, 
+    {
+      "entropy_score": 0.0, 
+      "favourites": 0, 
+      "follower": false, 
+      "id": 456048221446344704, 
+      "reply": true, 
+      "timestamp": "Tue Apr 15 12:35:43 +0000 2014", 
+      "tree_size": 1, 
+      "tweet": "@whoajordie excellent post about process. Sucks that idiots are idiots. Stay off the comments for your sanity.", 
+      "uid": 14528570, 
+      "user": 18, 
+      "user_score": 0.0, 
+      "users": {
+        "18": 1
+      }
+    }, 
+    {
+      "children": [
+        {
+          "entropy_score": 0.0, 
+          "favourites": 0, 
+          "follower": false, 
+          "id": 456053858004119553, 
+          "reply": true, 
+          "timestamp": "Tue Apr 15 12:58:07 +0000 2014", 
+          "tree_size": 1, 
+          "tweet": "@mercurialblonde Deadpool is one. Massive is usually another but not lately. Back when I used to color Rocketeer was one..", 
+          "uid": 31407587, 
+          "user": 0, 
+          "user_score": 0.0, 
+          "users": {
+            "0": 1
+          }
+        }, 
+        {
+          "entropy_score": 0.0, 
+          "favourites": 0, 
+          "follower": false, 
+          "id": 456053987046080512, 
+          "reply": true, 
+          "timestamp": "Tue Apr 15 12:58:38 +0000 2014", 
+          "tree_size": 1, 
+          "tweet": "@mercurialblonde And..Manhattan Projects because the original \"flats\" that come back for that are a CRAZY rainbow. Like, insane sherbet.", 
+          "uid": 31407587, 
+          "user": 0, 
+          "user_score": 0.0, 
+          "users": {
+            "0": 1
+          }
+        }, 
+        {
+          "entropy_score": 0.0, 
+          "favourites": 0, 
+          "follower": false, 
+          "id": 456054228818341888, 
+          "reply": true, 
+          "timestamp": "Tue Apr 15 12:59:35 +0000 2014", 
+          "tree_size": 1, 
+          "tweet": "@mercurialblonde And usually whatever is running so beyond late it's late and I'm working directly behind the artist.", 
+          "uid": 31407587, 
+          "user": 0, 
+          "user_score": 0.0, 
+          "users": {
+            "0": 1
+          }
+        }, 
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "entropy_score": 0.0, 
+                          "favourites": 0, 
+                          "follower": false, 
+                          "id": 456059202050719745, 
+                          "reply": true, 
+                          "timestamp": "Tue Apr 15 13:19:21 +0000 2014", 
+                          "tree_size": 1, 
+                          "tweet": "@mercurialblonde Oh right, I missed this tweet! TOTALLY! Usually they are referencing ALL my work in high res so the decisions are-", 
+                          "uid": 31407587, 
+                          "user": 0, 
+                          "user_score": 0.0, 
+                          "users": {
+                            "0": 1
+                          }
+                        }, 
+                        {
+                          "entropy_score": 0.0, 
+                          "favourites": 0, 
+                          "follower": false, 
+                          "id": 456059363984420864, 
+                          "reply": true, 
+                          "timestamp": "Tue Apr 15 13:20:00 +0000 2014", 
+                          "tree_size": 1, 
+                          "tweet": "@mercurialblonde -kinda informed my previous decisions I've made. BUT, I would say sometimes I hear Kelly say like, \"Oh man - \"", 
+                          "uid": 31407587, 
+                          "user": 0, 
+                          "user_score": 0.0, 
+                          "users": {
+                            "0": 1
+                          }
+                        }, 
+                        {
+                          "entropy_score": 0.0, 
+                          "favourites": 1, 
+                          "follower": false, 
+                          "id": 456059432523563008, 
+                          "reply": true, 
+                          "timestamp": "Tue Apr 15 13:20:16 +0000 2014", 
+                          "tree_size": 1, 
+                          "tweet": "@mercurialblonde \"-when you made that scene all pink like, I never thought pink. I thought blue. But you did something WEIRD. Cool!\"", 
+                          "uid": 31407587, 
+                          "user": 0, 
+                          "user_score": 0.0, 
+                          "users": {
+                            "0": 1
+                          }
+                        }, 
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "children": [
+                                    {
+                                      "children": [
+                                        {
+                                          "children": [
+                                            {
+                                              "entropy_score": 0.0, 
+                                              "favourites": 1, 
+                                              "follower": true, 
+                                              "id": 456063181694062592, 
+                                              "reply": true, 
+                                              "timestamp": "Tue Apr 15 13:35:10 +0000 2014", 
+                                              "tree_size": 1, 
+                                              "tweet": "@whoajordie I've been digging the like hardcore primary color blocks from late 60s Godard stuff lately.  It chops up space in crazy ways", 
+                                              "uid": 13971862, 
+                                              "user": 16, 
+                                              "user_score": 0.0, 
+                                              "users": {
+                                                "16": 1
+                                              }
+                                            }, 
+                                            {
+                                              "children": [
+                                                {
+                                                  "children": [
+                                                    {
+                                                      "children": [
+                                                        {
+                                                          "children": [
+                                                            {
+                                                              "children": [
+                                                                {
+                                                                  "children": [
+                                                                    {
+                                                                      "children": [
+                                                                        {
+                                                                          "entropy_score": 0.0, 
+                                                                          "favourites": 0, 
+                                                                          "follower": false, 
+                                                                          "id": 456066220153135104, 
+                                                                          "reply": false, 
+                                                                          "timestamp": "Tue Apr 15 13:47:14 +0000 2014", 
+                                                                          "tree_size": 1, 
+                                                                          "tweet": "RT @mercurialblonde: @whoajordie do you know about this lady: http://t.co/cz9sKNIb1v ?", 
+                                                                          "uid": 31407587, 
+                                                                          "user": 0, 
+                                                                          "user_score": 0.0, 
+                                                                          "users": {
+                                                                            "0": 1
+                                                                          }
+                                                                        }
+                                                                      ], 
+                                                                      "entropy_score": 0.0, 
+                                                                      "favourites": 0, 
+                                                                      "follower": true, 
+                                                                      "id": 456065644417404928, 
+                                                                      "reply": true, 
+                                                                      "timestamp": "Tue Apr 15 13:44:57 +0000 2014", 
+                                                                      "tree_size": 2, 
+                                                                      "tweet": "@whoajordie do you know about this lady: http://t.co/cz9sKNIb1v ?", 
+                                                                      "uid": 13971862, 
+                                                                      "user": 16, 
+                                                                      "user_score": 0.6931471805599453, 
+                                                                      "users": {
+                                                                        "0": 1, 
+                                                                        "16": 1
+                                                                      }
+                                                                    }, 
+                                                                    {
+                                                                      "children": [
+                                                                        {
+                                                                          "children": [
+                                                                            {
+                                                                              "entropy_score": 0.0, 
+                                                                              "favourites": 0, 
+                                                                              "follower": false, 
+                                                                              "id": 456065983695044609, 
+                                                                              "reply": true, 
+                                                                              "timestamp": "Tue Apr 15 13:46:18 +0000 2014", 
+                                                                              "tree_size": 1, 
+                                                                              "tweet": "@mercurialblonde this is so up my alley right now, it's stupid how up my alley this is. it is IN my alley going through the trash.", 
+                                                                              "uid": 31407587, 
+                                                                              "user": 0, 
+                                                                              "user_score": 0.0, 
+                                                                              "users": {
+                                                                                "0": 1
+                                                                              }
+                                                                            }, 
+                                                                            {
+                                                                              "children": [
+                                                                                {
+                                                                                  "children": [
+                                                                                    {
+                                                                                      "children": [
+                                                                                        {
+                                                                                          "entropy_score": 0.0, 
+                                                                                          "favourites": 1, 
+                                                                                          "follower": false, 
+                                                                                          "id": 456066887085203457, 
+                                                                                          "reply": true, 
+                                                                                          "timestamp": "Tue Apr 15 13:49:53 +0000 2014", 
+                                                                                          "tree_size": 1, 
+                                                                                          "tweet": "@mercurialblonde I'll follow her work wherever she goes if I can!", 
+                                                                                          "uid": 31407587, 
+                                                                                          "user": 0, 
+                                                                                          "user_score": 0.0, 
+                                                                                          "users": {
+                                                                                            "0": 1
+                                                                                          }
+                                                                                        }
+                                                                                      ], 
+                                                                                      "entropy_score": 0.0, 
+                                                                                      "favourites": 0, 
+                                                                                      "follower": true, 
+                                                                                      "id": 456066737683705856, 
+                                                                                      "reply": true, 
+                                                                                      "timestamp": "Tue Apr 15 13:49:18 +0000 2014", 
+                                                                                      "tree_size": 2, 
+                                                                                      "tweet": "@whoajordie yeah it's prett-ty much heaven.  I don't know how much more there will be, because I think she's going to start working in film", 
+                                                                                      "uid": 13971862, 
+                                                                                      "user": 16, 
+                                                                                      "user_score": 0.6931471805599453, 
+                                                                                      "users": {
+                                                                                        "0": 1, 
+                                                                                        "16": 1
+                                                                                      }
+                                                                                    }, 
+                                                                                    {
+                                                                                      "entropy_score": 0.0, 
+                                                                                      "favourites": 0, 
+                                                                                      "follower": false, 
+                                                                                      "id": 456089370403942400, 
+                                                                                      "reply": true, 
+                                                                                      "timestamp": "Tue Apr 15 15:19:14 +0000 2014", 
+                                                                                      "tree_size": 1, 
+                                                                                      "tweet": "@whoajordie @mercurialblonde Indeed", 
+                                                                                      "uid": 126285329, 
+                                                                                      "user": 17, 
+                                                                                      "user_score": 0.0, 
+                                                                                      "users": {
+                                                                                        "17": 1
+                                                                                      }
+                                                                                    }
+                                                                                  ], 
+                                                                                  "entropy_score": 0.7001655851242942, 
+                                                                                  "favourites": 0, 
+                                                                                  "follower": false, 
+                                                                                  "id": 456066202159579136, 
+                                                                                  "important_entropy": true, 
+                                                                                  "reply": true, 
+                                                                                  "timestamp": "Tue Apr 15 13:47:10 +0000 2014", 
+                                                                                  "tree_size": 4, 
+                                                                                  "tweet": "@mercurialblonde I'm in love with this. Thank you SO much for sharing!!!", 
+                                                                                  "uid": 31407587, 
+                                                                                  "user": 0, 
+                                                                                  "user_score": 1.0397207708399179, 
+                                                                                  "users": {
+                                                                                    "0": 2, 
+                                                                                    "16": 1, 
+                                                                                    "17": 1
+                                                                                  }
+                                                                                }
+                                                                              ], 
+                                                                              "entropy_score": 0.7001655851242942, 
+                                                                              "favourites": 0, 
+                                                                              "follower": true, 
+                                                                              "id": 456066000706752512, 
+                                                                              "reply": true, 
+                                                                              "timestamp": "Tue Apr 15 13:46:22 +0000 2014", 
+                                                                              "tree_size": 5, 
+                                                                              "tweet": "@whoajordie it's such a crazy project because she just color corrects images in huge batches and then posts them in waves", 
+                                                                              "uid": 13971862, 
+                                                                              "user": 16, 
+                                                                              "user_score": 1.0549201679861442, 
+                                                                              "users": {
+                                                                                "0": 2, 
+                                                                                "16": 2, 
+                                                                                "17": 1
+                                                                              }
+                                                                            }, 
+                                                                            {
+                                                                              "entropy_score": 0.0, 
+                                                                              "favourites": 0, 
+                                                                              "follower": true, 
+                                                                              "id": 456066037964750849, 
+                                                                              "reply": true, 
+                                                                              "timestamp": "Tue Apr 15 13:46:31 +0000 2014", 
+                                                                              "tree_size": 1, 
+                                                                              "tweet": "@whoajordie and it's all contextual to the previous wave", 
+                                                                              "uid": 13971862, 
+                                                                              "user": 16, 
+                                                                              "user_score": 0.0, 
+                                                                              "users": {
+                                                                                "16": 1
+                                                                              }
+                                                                            }, 
+                                                                            {
+                                                                              "entropy_score": 0.0, 
+                                                                              "favourites": 0, 
+                                                                              "follower": true, 
+                                                                              "id": 456066082160123906, 
+                                                                              "reply": true, 
+                                                                              "timestamp": "Tue Apr 15 13:46:41 +0000 2014", 
+                                                                              "tree_size": 1, 
+                                                                              "tweet": "@whoajordie so you can scroll down and it is really amazing", 
+                                                                              "uid": 13971862, 
+                                                                              "user": 16, 
+                                                                              "user_score": 0.0, 
+                                                                              "users": {
+                                                                                "16": 1
+                                                                              }
+                                                                            }
+                                                                          ], 
+                                                                          "entropy_score": 1.8810627161736695, 
+                                                                          "favourites": 0, 
+                                                                          "follower": false, 
+                                                                          "id": 456065872629862401, 
+                                                                          "important_entropy": true, 
+                                                                          "reply": true, 
+                                                                          "timestamp": "Tue Apr 15 13:45:51 +0000 2014", 
+                                                                          "tree_size": 9, 
+                                                                          "tweet": "@mercurialblonde oh my goodness.", 
+                                                                          "uid": 31407587, 
+                                                                          "user": 0, 
+                                                                          "user_score": 0.9649629230074277, 
+                                                                          "users": {
+                                                                            "0": 4, 
+                                                                            "16": 4, 
+                                                                            "17": 1
+                                                                          }
+                                                                        }
+                                                                      ], 
+                                                                      "entropy_score": 1.8810627161736695, 
+                                                                      "favourites": 0, 
+                                                                      "follower": true, 
+                                                                      "id": 456065819512803328, 
+                                                                      "reply": true, 
+                                                                      "timestamp": "Tue Apr 15 13:45:39 +0000 2014", 
+                                                                      "tree_size": 10, 
+                                                                      "tweet": "@whoajordie she basically does waves of black to white color shifts, and it's really inspirational to sift through", 
+                                                                      "uid": 13971862, 
+                                                                      "user": 16, 
+                                                                      "user_score": 0.9433483923290391, 
+                                                                      "users": {
+                                                                        "0": 4, 
+                                                                        "16": 5, 
+                                                                        "17": 1
+                                                                      }
+                                                                    }
+                                                                  ], 
+                                                                  "entropy_score": 2.3766800459266046, 
+                                                                  "favourites": 0, 
+                                                                  "follower": false, 
+                                                                  "id": 456065430097244160, 
+                                                                  "reply": true, 
+                                                                  "timestamp": "Tue Apr 15 13:44:06 +0000 2014", 
+                                                                  "tree_size": 13, 
+                                                                  "tweet": "@mercurialblonde Hope you dig it. We try to play with white in it but I'm actually really into BLACK lately. Getting very bored of white.", 
+                                                                  "uid": 31407587, 
+                                                                  "user": 0, 
+                                                                  "user_score": 0.9110175397125628, 
+                                                                  "users": {
+                                                                    "0": 6, 
+                                                                    "16": 6, 
+                                                                    "17": 1
+                                                                  }
+                                                                }
+                                                              ], 
+                                                              "entropy_score": 2.3766800459266046, 
+                                                              "favourites": 0, 
+                                                              "follower": true, 
+                                                              "id": 456065259279626240, 
+                                                              "reply": true, 
+                                                              "timestamp": "Tue Apr 15 13:43:25 +0000 2014", 
+                                                              "tree_size": 14, 
+                                                              "tweet": "@whoajordie I've only seen some of the previews.  I'm planning to read it.", 
+                                                              "uid": 13971862, 
+                                                              "user": 16, 
+                                                              "user_score": 0.8982053397041498, 
+                                                              "users": {
+                                                                "0": 6, 
+                                                                "16": 7, 
+                                                                "17": 1
+                                                              }
+                                                            }, 
+                                                            {
+                                                              "entropy_score": 0.0, 
+                                                              "favourites": 0, 
+                                                              "follower": true, 
+                                                              "id": 456065359431233536, 
+                                                              "reply": true, 
+                                                              "timestamp": "Tue Apr 15 13:43:49 +0000 2014", 
+                                                              "tree_size": 1, 
+                                                              "tweet": "@whoajordie my favorite white thing of yours that I've seen is actually the Captain Marvel issue with snow and dinosaurs I think", 
+                                                              "uid": 13971862, 
+                                                              "user": 16, 
+                                                              "user_score": 0.0, 
+                                                              "users": {
+                                                                "16": 1
+                                                              }
+                                                            }, 
+                                                            {
+                                                              "entropy_score": 0.0, 
+                                                              "favourites": 0, 
+                                                              "follower": true, 
+                                                              "id": 456065489114890240, 
+                                                              "reply": true, 
+                                                              "timestamp": "Tue Apr 15 13:44:20 +0000 2014", 
+                                                              "tree_size": 1, 
+                                                              "tweet": "@whoajordie there's a really cool section where you kind of set up white really well and I was like drooling a little bit", 
+                                                              "uid": 13971862, 
+                                                              "user": 16, 
+                                                              "user_score": 0.0, 
+                                                              "users": {
+                                                                "16": 1
+                                                              }
+                                                            }
+                                                          ], 
+                                                          "entropy_score": 2.886434960635677, 
+                                                          "favourites": 0, 
+                                                          "follower": false, 
+                                                          "id": 456064809705152513, 
+                                                          "reply": true, 
+                                                          "timestamp": "Tue Apr 15 13:41:38 +0000 2014", 
+                                                          "tree_size": 17, 
+                                                          "tweet": "@mercurialblonde So I'm guessing you've looked at Moon Knight? No one can stop talkin' about the white. Bluh. I'm like, meh.", 
+                                                          "uid": 31407587, 
+                                                          "user": 0, 
+                                                          "user_score": 0.868719682914265, 
+                                                          "users": {
+                                                            "0": 7, 
+                                                            "16": 9, 
+                                                            "17": 1
+                                                          }
+                                                        }
+                                                      ], 
+                                                      "entropy_score": 2.886434960635677, 
+                                                      "favourites": 0, 
+                                                      "follower": true, 
+                                                      "id": 456063897800171520, 
+                                                      "reply": true, 
+                                                      "timestamp": "Tue Apr 15 13:38:01 +0000 2014", 
+                                                      "tree_size": 18, 
+                                                      "tweet": "@whoajordie you also get this powerful sense of white, which is my current color crush thing.", 
+                                                      "uid": 13971862, 
+                                                      "user": 16, 
+                                                      "user_score": 0.8544149816001841, 
+                                                      "users": {
+                                                        "0": 7, 
+                                                        "16": 10, 
+                                                        "17": 1
+                                                      }
+                                                    }
+                                                  ], 
+                                                  "entropy_score": 2.886434960635677, 
+                                                  "favourites": 0, 
+                                                  "follower": false, 
+                                                  "id": 456063418555187200, 
+                                                  "reply": true, 
+                                                  "timestamp": "Tue Apr 15 13:36:06 +0000 2014", 
+                                                  "tree_size": 19, 
+                                                  "tweet": "@mercurialblonde I might begin drooling over here.", 
+                                                  "uid": 31407587, 
+                                                  "user": 0, 
+                                                  "user_score": 0.8569977547780645, 
+                                                  "users": {
+                                                    "0": 8, 
+                                                    "16": 10, 
+                                                    "17": 1
+                                                  }
+                                                }
+                                              ], 
+                                              "entropy_score": 2.886434960635677, 
+                                              "favourites": 0, 
+                                              "follower": true, 
+                                              "id": 456063334601605121, 
+                                              "reply": true, 
+                                              "timestamp": "Tue Apr 15 13:35:46 +0000 2014", 
+                                              "tree_size": 20, 
+                                              "tweet": "@whoajordie and because it's so basic, the textural elements of the paint become more prominent", 
+                                              "uid": 13971862, 
+                                              "user": 16, 
+                                              "user_score": 0.8451132568429528, 
+                                              "users": {
+                                                "0": 8, 
+                                                "16": 11, 
+                                                "17": 1
+                                              }
+                                            }
+                                          ], 
+                                          "entropy_score": 3.0970234507891665, 
+                                          "favourites": 1, 
+                                          "follower": false, 
+                                          "id": 456062521146081280, 
+                                          "reply": true, 
+                                          "timestamp": "Tue Apr 15 13:32:32 +0000 2014", 
+                                          "tree_size": 22, 
+                                          "tweet": "@mercurialblonde Well, I'm here whenever you wanna talk in a pub someday and talk color in films, comics and EVERYTHING!", 
+                                          "uid": 31407587, 
+                                          "user": 0, 
+                                          "user_score": 0.8367742263818623, 
+                                          "users": {
+                                            "0": 9, 
+                                            "16": 12, 
+                                            "17": 1
+                                          }
+                                        }
+                                      ], 
+                                      "entropy_score": 3.0970234507891665, 
+                                      "favourites": 0, 
+                                      "follower": true, 
+                                      "id": 456062239955365888, 
+                                      "reply": true, 
+                                      "timestamp": "Tue Apr 15 13:31:25 +0000 2014", 
+                                      "tree_size": 23, 
+                                      "tweet": "@whoajordie I've actually been writing less about color than I would like.  I need to do more of it.", 
+                                      "uid": 13971862, 
+                                      "user": 16, 
+                                      "user_score": 0.8259567010149779, 
+                                      "users": {
+                                        "0": 9, 
+                                        "16": 13, 
+                                        "17": 1
+                                      }
+                                    }, 
+                                    {
+                                      "children": [
+                                        {
+                                          "entropy_score": 0.0, 
+                                          "favourites": 0, 
+                                          "follower": false, 
+                                          "id": 456062593321684992, 
+                                          "reply": true, 
+                                          "timestamp": "Tue Apr 15 13:32:50 +0000 2014", 
+                                          "tree_size": 1, 
+                                          "tweet": "@mercurialblonde I dig it. That's my life! I do it ALL the time!", 
+                                          "uid": 31407587, 
+                                          "user": 0, 
+                                          "user_score": 0.0, 
+                                          "users": {
+                                            "0": 1
+                                          }
+                                        }
+                                      ], 
+                                      "entropy_score": 0.0, 
+                                      "favourites": 1, 
+                                      "follower": true, 
+                                      "id": 456062406351781888, 
+                                      "reply": true, 
+                                      "timestamp": "Tue Apr 15 13:32:05 +0000 2014", 
+                                      "tree_size": 2, 
+                                      "tweet": "@whoajordie but pretty much all of my conversations with people end up going into color thoughts, whether it's film or comics", 
+                                      "uid": 13971862, 
+                                      "user": 16, 
+                                      "user_score": 0.6931471805599453, 
+                                      "users": {
+                                        "0": 1, 
+                                        "16": 1
+                                      }
+                                    }
+                                  ], 
+                                  "entropy_score": 3.403669759734613, 
+                                  "favourites": 0, 
+                                  "follower": false, 
+                                  "id": 456061078662029312, 
+                                  "reply": true, 
+                                  "timestamp": "Tue Apr 15 13:26:49 +0000 2014", 
+                                  "tree_size": 26, 
+                                  "tweet": "@mercurialblonde I've seen you go at it before! You're a analytical genius and  I love talkin' to those types! 'Cause I'm that type!! :)", 
+                                  "uid": 31407587, 
+                                  "user": 0, 
+                                  "user_score": 0.8225715143524169, 
+                                  "users": {
+                                    "0": 11, 
+                                    "16": 14, 
+                                    "17": 1
+                                  }
+                                }, 
+                                {
+                                  "children": [
+                                    {
+                                      "entropy_score": 0.0, 
+                                      "favourites": 0, 
+                                      "follower": true, 
+                                      "id": 456062524828315648, 
+                                      "reply": true, 
+                                      "timestamp": "Tue Apr 15 13:32:33 +0000 2014", 
+                                      "tree_size": 1, 
+                                      "tweet": "@whoajordie Yes!  I need to go to more than one con a year or something.", 
+                                      "uid": 13971862, 
+                                      "user": 16, 
+                                      "user_score": 0.0, 
+                                      "users": {
+                                        "16": 1
+                                      }
+                                    }
+                                  ], 
+                                  "entropy_score": 0.0, 
+                                  "favourites": 0, 
+                                  "follower": false, 
+                                  "id": 456061233759023104, 
+                                  "reply": true, 
+                                  "timestamp": "Tue Apr 15 13:27:26 +0000 2014", 
+                                  "tree_size": 2, 
+                                  "tweet": "@mercurialblonde One day we gotta chat it up in person.", 
+                                  "uid": 31407587, 
+                                  "user": 0, 
+                                  "user_score": 0.6931471805599453, 
+                                  "users": {
+                                    "0": 1, 
+                                    "16": 1
+                                  }
+                                }
+                              ], 
+                              "entropy_score": 3.686720264332828, 
+                              "favourites": 0, 
+                              "follower": true, 
+                              "id": 456060785131675648, 
+                              "reply": true, 
+                              "timestamp": "Tue Apr 15 13:25:39 +0000 2014", 
+                              "tree_size": 29, 
+                              "tweet": "@whoajordie I wish I had caught you at ECCC.  Talking about colors in comics is probbbbbably my favorite thing.", 
+                              "uid": 13971862, 
+                              "user": 16, 
+                              "user_score": 0.8093544729763877, 
+                              "users": {
+                                "0": 12, 
+                                "16": 16, 
+                                "17": 1
+                              }
+                            }
+                          ], 
+                          "entropy_score": 3.686720264332828, 
+                          "favourites": 1, 
+                          "follower": false, 
+                          "id": 456059520088035328, 
+                          "reply": true, 
+                          "timestamp": "Tue Apr 15 13:20:37 +0000 2014", 
+                          "tree_size": 30, 
+                          "tweet": "@mercurialblonde It kinda shows them they can open up past literal colors I think. Sometimes. Anyway, so much tweetin. SORRY!", 
+                          "uid": 31407587, 
+                          "user": 0, 
+                          "user_score": 0.8110053415676062, 
+                          "users": {
+                            "0": 13, 
+                            "16": 16, 
+                            "17": 1
+                          }
+                        }
+                      ], 
+                      "entropy_score": 4.131681200283801, 
+                      "favourites": 0, 
+                      "follower": true, 
+                      "id": 456055385817092096, 
+                      "reply": true, 
+                      "timestamp": "Tue Apr 15 13:04:11 +0000 2014", 
+                      "tree_size": 34, 
+                      "tweet": "@whoajordie It's also interesting to see this process like this, because you get to see two different people make color choices on something", 
+                      "uid": 13971862, 
+                      "user": 16, 
+                      "user_score": 0.8050062185928623, 
+                      "users": {
+                        "0": 16, 
+                        "16": 17, 
+                        "17": 1
+                      }
+                    }, 
+                    {
+                      "children": [
+                        {
+                          "entropy_score": 0.0, 
+                          "favourites": 1, 
+                          "follower": false, 
+                          "id": 456058865411719168, 
+                          "reply": true, 
+                          "timestamp": "Tue Apr 15 13:18:01 +0000 2014", 
+                          "tree_size": 1, 
+                          "tweet": "@mercurialblonde It definitely does. I'm so frazzled 100% even though I change so much of what Kelly does she translates it so I can see!", 
+                          "uid": 31407587, 
+                          "user": 0, 
+                          "user_score": 0.0, 
+                          "users": {
+                            "0": 1
+                          }
+                        }
+                      ], 
+                      "entropy_score": 0.0, 
+                      "favourites": 0, 
+                      "follower": true, 
+                      "id": 456055709348536320, 
+                      "reply": true, 
+                      "timestamp": "Tue Apr 15 13:05:28 +0000 2014", 
+                      "tree_size": 2, 
+                      "tweet": "@whoajordie it makes your own coloring choices more...seeable I think.  Because it's less of a whole big thing.", 
+                      "uid": 13971862, 
+                      "user": 16, 
+                      "user_score": 0.6931471805599453, 
+                      "users": {
+                        "0": 1, 
+                        "16": 1
+                      }
+                    }
+                  ], 
+                  "entropy_score": 4.367696270977847, 
+                  "favourites": 1, 
+                  "follower": false, 
+                  "id": 456054780922982401, 
+                  "reply": true, 
+                  "timestamp": "Tue Apr 15 13:01:47 +0000 2014", 
+                  "tree_size": 37, 
+                  "tweet": "@mercurialblonde It's a curse for me but amazing to see them do so well so quickly. They learn about speed, scheduling and basic print stuff", 
+                  "uid": 31407587, 
+                  "user": 0, 
+                  "user_score": 0.798664310366875, 
+                  "users": {
+                    "0": 18, 
+                    "16": 18, 
+                    "17": 1
+                  }
+                }
+              ], 
+              "entropy_score": 4.367696270977847, 
+              "favourites": 0, 
+              "follower": true, 
+              "id": 456054515813191680, 
+              "reply": true, 
+              "timestamp": "Tue Apr 15 13:00:44 +0000 2014", 
+              "tree_size": 38, 
+              "tweet": "@whoajordie yeah I would imagine they pick up a lot of knowledge very quickly, particularly if you're giving them feedback", 
+              "uid": 13971862, 
+              "user": 16, 
+              "user_score": 0.7962432058765612, 
+              "users": {
+                "0": 18, 
+                "16": 19, 
+                "17": 1
+              }
+            }
+          ], 
+          "entropy_score": 4.367696270977847, 
+          "favourites": 0, 
+          "follower": false, 
+          "id": 456054332434436097, 
+          "reply": true, 
+          "timestamp": "Tue Apr 15 13:00:00 +0000 2014", 
+          "tree_size": 39, 
+          "tweet": "@mercurialblonde And I do not currently have any assists now because I got them jobs coloring for real and now they are too cool. :(", 
+          "uid": 31407587, 
+          "user": 0, 
+          "user_score": 0.7946211023264481, 
+          "users": {
+            "0": 19, 
+            "16": 19, 
+            "17": 1
+          }
+        }
+      ], 
+      "entropy_score": 4.737066312542842, 
+      "favourites": 0, 
+      "follower": true, 
+      "id": 456053543695159298, 
+      "reply": true, 
+      "timestamp": "Tue Apr 15 12:56:52 +0000 2014", 
+      "tree_size": 43, 
+      "tweet": "@whoajordie Do your color assistant or assistants just work on one particular book each, or do they handle all of whatever number of books?", 
+      "uid": 13971862, 
+      "user": 16, 
+      "user_score": 0.7863726867409399, 
+      "users": {
+        "0": 22, 
+        "16": 20, 
+        "17": 1
+      }
+    }, 
+    {
+      "entropy_score": 0.0, 
+      "favourites": 0, 
+      "follower": false, 
+      "id": 456058308856922112, 
+      "reply": false, 
+      "timestamp": "Tue Apr 15 13:15:48 +0000 2014", 
+      "tree_size": 1, 
+      "tweet": "RT @whoajordie: Perhaps you don't know what \"color assistant\" means. http://t.co/GOf3D8vg4i", 
+      "uid": 15885994, 
+      "user": 15, 
+      "user_score": 0.0, 
+      "users": {
+        "15": 1
+      }
+    }, 
+    {
+      "entropy_score": 0.0, 
+      "favourites": 0, 
+      "follower": false, 
+      "id": 456059072442560512, 
+      "reply": false, 
+      "timestamp": "Tue Apr 15 13:18:50 +0000 2014", 
+      "tree_size": 1, 
+      "tweet": "RT @whoajordie: Perhaps you don't know what \"color assistant\" means. http://t.co/GOf3D8vg4i", 
+      "uid": 14270396, 
+      "user": 14, 
+      "user_score": 0.0, 
+      "users": {
+        "14": 1
+      }
+    }, 
+    {
+      "entropy_score": 0.0, 
+      "favourites": 0, 
+      "follower": true, 
+      "id": 456067638306037760, 
+      "reply": false, 
+      "timestamp": "Tue Apr 15 13:52:52 +0000 2014", 
+      "tree_size": 1, 
+      "tweet": "RT @whoajordie: Perhaps you don't know what \"color assistant\" means. http://t.co/GOf3D8vg4i", 
+      "uid": 14785495, 
+      "user": 13, 
+      "user_score": 0.0, 
+      "users": {
+        "13": 1
+      }
+    }, 
+    {
+      "children": [
+        {
+          "entropy_score": 0.0, 
+          "favourites": 0, 
+          "follower": false, 
+          "id": 456068066863247360, 
+          "reply": true, 
+          "timestamp": "Tue Apr 15 13:54:35 +0000 2014", 
+          "tree_size": 1, 
+          "tweet": "@elizabethamber Maybe...Tumblr ask? Or...just let me have it and I'll see if I can answer it in a concise, simple way?", 
+          "uid": 31407587, 
+          "user": 0, 
+          "user_score": 0.0, 
+          "users": {
+            "0": 1
+          }
+        }, 
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "entropy_score": 0.0, 
+                  "favourites": 0, 
+                  "follower": false, 
+                  "id": 456069531077992448, 
+                  "reply": true, 
+                  "timestamp": "Tue Apr 15 14:00:24 +0000 2014", 
+                  "tree_size": 1, 
+                  "tweet": "@elizabethamber Oh man, because my \"color corrector\" takes WAY less time doing the color correcting than flatting.", 
+                  "uid": 31407587, 
+                  "user": 0, 
+                  "user_score": 0.0, 
+                  "users": {
+                    "0": 1
+                  }
+                }, 
+                {
+                  "children": [
+                    {
+                      "entropy_score": 0.0, 
+                      "favourites": 0, 
+                      "follower": false, 
+                      "id": 456069750968573952, 
+                      "reply": true, 
+                      "timestamp": "Tue Apr 15 14:01:16 +0000 2014", 
+                      "tree_size": 1, 
+                      "tweet": "@elizabethamber (not a stupid question, a very good question!) it costs me more in the long run to get the single page prepped but, guh.", 
+                      "uid": 31407587, 
+                      "user": 0, 
+                      "user_score": 0.0, 
+                      "users": {
+                        "0": 1
+                      }
+                    }, 
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "entropy_score": 0.0, 
+                              "favourites": 0, 
+                              "follower": false, 
+                              "id": 456070453359308800, 
+                              "reply": true, 
+                              "timestamp": "Tue Apr 15 14:04:04 +0000 2014", 
+                              "tree_size": 1, 
+                              "tweet": "@elizabethamber Oh no no! She's just tapping into that page and wizzin' around right quick bringing some sensibility to it all. :)", 
+                              "uid": 31407587, 
+                              "user": 0, 
+                              "user_score": 0.0, 
+                              "users": {
+                                "0": 1
+                              }
+                            }, 
+                            {
+                              "children": [
+                                {
+                                  "children": [
+                                    {
+                                      "children": [
+                                        {
+                                          "children": [
+                                            {
+                                              "entropy_score": 0.0, 
+                                              "favourites": 0, 
+                                              "follower": false, 
+                                              "id": 456099107153907713, 
+                                              "reply": true, 
+                                              "timestamp": "Tue Apr 15 15:57:55 +0000 2014", 
+                                              "tree_size": 1, 
+                                              "tweet": "@elizabethamber Sure! Hope it was answered the question without being too, too lengthy! :)", 
+                                              "uid": 31407587, 
+                                              "user": 0, 
+                                              "user_score": 0.0, 
+                                              "users": {
+                                                "0": 1
+                                              }
+                                            }
+                                          ], 
+                                          "entropy_score": 0.0, 
+                                          "favourites": 0, 
+                                          "follower": true, 
+                                          "id": 456098996432691201, 
+                                          "reply": true, 
+                                          "timestamp": "Tue Apr 15 15:57:29 +0000 2014", 
+                                          "tree_size": 2, 
+                                          "tweet": "@whoajordie Thanks for the clarifications.", 
+                                          "uid": 14785495, 
+                                          "user": 13, 
+                                          "user_score": 0.6931471805599453, 
+                                          "users": {
+                                            "0": 1, 
+                                            "13": 1
+                                          }
+                                        }
+                                      ], 
+                                      "entropy_score": 0.0, 
+                                      "favourites": 0, 
+                                      "follower": false, 
+                                      "id": 456071025055518720, 
+                                      "reply": true, 
+                                      "timestamp": "Tue Apr 15 14:06:20 +0000 2014", 
+                                      "tree_size": 3, 
+                                      "tweet": "@elizabethamber Yea those \"first step\" flatters take very little communication. :( some colorists work with flatters who do the 2nd step 1st", 
+                                      "uid": 31407587, 
+                                      "user": 0, 
+                                      "user_score": 0.6365141682948128, 
+                                      "users": {
+                                        "0": 2, 
+                                        "13": 1
+                                      }
+                                    }
+                                  ], 
+                                  "entropy_score": 0.0, 
+                                  "favourites": 0, 
+                                  "follower": true, 
+                                  "id": 456070858852032513, 
+                                  "reply": true, 
+                                  "timestamp": "Tue Apr 15 14:05:40 +0000 2014", 
+                                  "tree_size": 4, 
+                                  "tweet": "@whoajordie That's what stuck out. The woman on the right has a completely different uniform color than the final. Seemed like an odd step.", 
+                                  "uid": 14785495, 
+                                  "user": 13, 
+                                  "user_score": 0.6931471805599453, 
+                                  "users": {
+                                    "0": 2, 
+                                    "13": 2
+                                  }
+                                }
+                              ], 
+                              "entropy_score": 0.0, 
+                              "favourites": 0, 
+                              "follower": false, 
+                              "id": 456070581369458688, 
+                              "reply": true, 
+                              "timestamp": "Tue Apr 15 14:04:34 +0000 2014", 
+                              "tree_size": 5, 
+                              "tweet": "@elizabethamber Plus, color picking from my older pages to keep things consistent with colors I've chosen for like, a space or person.", 
+                              "uid": 31407587, 
+                              "user": 0, 
+                              "user_score": 0.6730116670092565, 
+                              "users": {
+                                "0": 3, 
+                                "13": 2
+                              }
+                            }
+                          ], 
+                          "entropy_score": 0.49561732975293515, 
+                          "favourites": 0, 
+                          "follower": true, 
+                          "id": 456070086189932544, 
+                          "reply": true, 
+                          "timestamp": "Tue Apr 15 14:02:36 +0000 2014", 
+                          "tree_size": 7, 
+                          "tweet": "@whoajordie  Oh. Ok. It seemed so vastly different. I thought the second step was gutting it all completely &amp; starting over.", 
+                          "uid": 14785495, 
+                          "user": 13, 
+                          "user_score": 0.6829081047004717, 
+                          "users": {
+                            "0": 4, 
+                            "13": 3
+                          }
+                        }
+                      ], 
+                      "entropy_score": 0.49561732975293515, 
+                      "favourites": 0, 
+                      "follower": false, 
+                      "id": 456069844430241792, 
+                      "reply": true, 
+                      "timestamp": "Tue Apr 15 14:01:38 +0000 2014", 
+                      "tree_size": 8, 
+                      "tweet": "@elizabethamber I just don't have time to flat it myself and then correct crazy flats all by myself!", 
+                      "uid": 31407587, 
+                      "user": 0, 
+                      "user_score": 0.6615632381579821, 
+                      "users": {
+                        "0": 5, 
+                        "13": 3
+                      }
+                    }
+                  ], 
+                  "entropy_score": 0.8793326351802704, 
+                  "favourites": 0, 
+                  "follower": false, 
+                  "id": 456069623637897216, 
+                  "reply": true, 
+                  "timestamp": "Tue Apr 15 14:00:46 +0000 2014", 
+                  "tree_size": 10, 
+                  "tweet": "@elizabethamber Flatting can take like..1-2 hours depending on the page, maybe longer! But what Kelly does takes her maybe--10-20 minutes?", 
+                  "uid": 31407587, 
+                  "user": 0, 
+                  "user_score": 0.6108643020548935, 
+                  "users": {
+                    "0": 7, 
+                    "13": 3
+                  }
+                }
+              ], 
+              "entropy_score": 1.2144323422644323, 
+              "favourites": 0, 
+              "follower": true, 
+              "id": 456068877932572672, 
+              "reply": true, 
+              "timestamp": "Tue Apr 15 13:57:48 +0000 2014", 
+              "tree_size": 12, 
+              "tweet": "@whoajordie LOL no, just looking at that Deadpool pg. 1 &amp; 2 are so different, why use a flatter?", 
+              "uid": 14785495, 
+              "user": 13, 
+              "user_score": 0.6365141682948128, 
+              "users": {
+                "0": 8, 
+                "13": 4
+              }
+            }
+          ], 
+          "entropy_score": 1.2144323422644323, 
+          "favourites": 1, 
+          "follower": false, 
+          "id": 456068158861094912, 
+          "reply": true, 
+          "timestamp": "Tue Apr 15 13:54:57 +0000 2014", 
+          "tree_size": 13, 
+          "tweet": "@elizabethamber If you're gonna ask something like, why am I butthead or why do I even color comics I can just tell you, \"I don't know.\"", 
+          "uid": 31407587, 
+          "user": 0, 
+          "user_score": 0.6172417697303416, 
+          "users": {
+            "0": 9, 
+            "13": 4
+          }
+        }
+      ], 
+      "entropy_score": 1.4974828468626473, 
+      "favourites": 0, 
+      "follower": true, 
+      "id": 456067886717886464, 
+      "reply": true, 
+      "timestamp": "Tue Apr 15 13:53:52 +0000 2014", 
+      "tree_size": 15, 
+      "tweet": "@whoajordie I want to ask a question but I know the answer will be really long &amp; I'll sound like an idiot.", 
+      "uid": 14785495, 
+      "user": 13, 
+      "user_score": 0.6365141682948128, 
+      "users": {
+        "0": 10, 
+        "13": 5
+      }
+    }, 
+    {
+      "entropy_score": 0.0, 
+      "favourites": 0, 
+      "follower": true, 
+      "id": 456072808011821056, 
+      "reply": false, 
+      "timestamp": "Tue Apr 15 14:13:25 +0000 2014", 
+      "tree_size": 1, 
+      "tweet": "RT @whoajordie: Perhaps you don't know what \"color assistant\" means. http://t.co/GOf3D8vg4i", 
+      "uid": 17912843, 
+      "user": 12, 
+      "user_score": 0.0, 
+      "users": {
+        "12": 1
+      }
+    }, 
+    {
+      "entropy_score": 0.0, 
+      "favourites": 0, 
+      "follower": true, 
+      "id": 456073639633629184, 
+      "reply": false, 
+      "timestamp": "Tue Apr 15 14:16:43 +0000 2014", 
+      "tree_size": 1, 
+      "tweet": "RT @whoajordie: Perhaps you don't know what \"color assistant\" means. http://t.co/GOf3D8vg4i", 
+      "uid": 43125846, 
+      "user": 11, 
+      "user_score": 0.0, 
+      "users": {
+        "11": 1
+      }
+    }, 
+    {
+      "entropy_score": 0.0, 
+      "favourites": 0, 
+      "follower": false, 
+      "id": 456083825198497792, 
+      "reply": false, 
+      "timestamp": "Tue Apr 15 14:57:12 +0000 2014", 
+      "tree_size": 1, 
+      "tweet": "RT @whoajordie: Perhaps you don't know what \"color assistant\" means. http://t.co/GOf3D8vg4i", 
+      "uid": 243978312, 
+      "user": 10, 
+      "user_score": 0.0, 
+      "users": {
+        "10": 1
+      }
+    }, 
+    {
+      "entropy_score": 0.0, 
+      "favourites": 0, 
+      "follower": true, 
+      "id": 456088362701434882, 
+      "reply": false, 
+      "timestamp": "Tue Apr 15 15:15:14 +0000 2014", 
+      "tree_size": 1, 
+      "tweet": "RT @whoajordie: Perhaps you don't know what \"color assistant\" means. http://t.co/GOf3D8vg4i", 
+      "uid": 1471210628, 
+      "user": 9, 
+      "user_score": 0.0, 
+      "users": {
+        "9": 1
+      }
+    }, 
+    {
+      "entropy_score": 0.0, 
+      "favourites": 0, 
+      "follower": true, 
+      "id": 456092340336472065, 
+      "reply": false, 
+      "timestamp": "Tue Apr 15 15:31:02 +0000 2014", 
+      "tree_size": 1, 
+      "tweet": "RT @whoajordie: Perhaps you don't know what \"color assistant\" means. http://t.co/GOf3D8vg4i", 
+      "uid": 390474423, 
+      "user": 8, 
+      "user_score": 0.0, 
+      "users": {
+        "8": 1
+      }
+    }, 
+    {
+      "entropy_score": 0.0, 
+      "favourites": 0, 
+      "follower": true, 
+      "id": 456093431807635456, 
+      "reply": false, 
+      "timestamp": "Tue Apr 15 15:35:22 +0000 2014", 
+      "tree_size": 1, 
+      "tweet": "RT @whoajordie: Perhaps you don't know what \"color assistant\" means. http://t.co/GOf3D8vg4i", 
+      "uid": 137085480, 
+      "user": 7, 
+      "user_score": 0.0, 
+      "users": {
+        "7": 1
+      }
+    }, 
+    {
+      "entropy_score": 0.0, 
+      "favourites": 0, 
+      "follower": false, 
+      "id": 456096347121528832, 
+      "reply": false, 
+      "timestamp": "Tue Apr 15 15:46:57 +0000 2014", 
+      "tree_size": 1, 
+      "tweet": "RT @whoajordie: Perhaps you don't know what \"color assistant\" means. http://t.co/GOf3D8vg4i", 
+      "uid": 17882881, 
+      "user": 6, 
+      "user_score": 0.0, 
+      "users": {
+        "6": 1
+      }
+    }, 
+    {
+      "entropy_score": 0.0, 
+      "favourites": 0, 
+      "follower": false, 
+      "id": 456097402903359488, 
+      "reply": false, 
+      "timestamp": "Tue Apr 15 15:51:09 +0000 2014", 
+      "tree_size": 1, 
+      "tweet": "RT @whoajordie: Perhaps you don't know what \"color assistant\" means. http://t.co/GOf3D8vg4i", 
+      "uid": 320932227, 
+      "user": 5, 
+      "user_score": 0.0, 
+      "users": {
+        "5": 1
+      }
+    }, 
+    {
+      "entropy_score": 0.0, 
+      "favourites": 0, 
+      "follower": true, 
+      "id": 456097912749973504, 
+      "reply": false, 
+      "timestamp": "Tue Apr 15 15:53:10 +0000 2014", 
+      "tree_size": 1, 
+      "tweet": "RT @whoajordie: Perhaps you don't know what \"color assistant\" means. http://t.co/GOf3D8vg4i", 
+      "uid": 14357865, 
+      "user": 4, 
+      "user_score": 0.0, 
+      "users": {
+        "4": 1
+      }
+    }, 
+    {
+      "entropy_score": 0.0, 
+      "favourites": 0, 
+      "follower": true, 
+      "id": 456099988892708864, 
+      "reply": false, 
+      "timestamp": "Tue Apr 15 16:01:25 +0000 2014", 
+      "tree_size": 1, 
+      "tweet": "RT @whoajordie: Perhaps you don't know what \"color assistant\" means. http://t.co/GOf3D8vg4i", 
+      "uid": 118604746, 
+      "user": 3, 
+      "user_score": 0.0, 
+      "users": {
+        "3": 1
+      }
+    }, 
+    {
+      "entropy_score": 0.0, 
+      "favourites": 1, 
+      "follower": true, 
+      "id": 456101089939435520, 
+      "reply": true, 
+      "timestamp": "Tue Apr 15 16:05:48 +0000 2014", 
+      "tree_size": 1, 
+      "tweet": "@whoajordie I'm glad I haven't heard that rumor before. Night Nurse would be fighting angry!", 
+      "uid": 118604746, 
+      "user": 3, 
+      "user_score": 0.0, 
+      "users": {
+        "3": 1
+      }
+    }, 
+    {
+      "entropy_score": 0.0, 
+      "favourites": 0, 
+      "follower": true, 
+      "id": 456115862442090497, 
+      "reply": false, 
+      "timestamp": "Tue Apr 15 17:04:30 +0000 2014", 
+      "tree_size": 1, 
+      "tweet": "RT @whoajordie: Perhaps you don't know what \"color assistant\" means. http://t.co/GOf3D8vg4i", 
+      "uid": 16272686, 
+      "user": 2, 
+      "user_score": 0.0, 
+      "users": {
+        "2": 1
+      }
+    }, 
+    {
+      "entropy_score": 0.0, 
+      "favourites": 0, 
+      "follower": false, 
+      "id": 456116278227656704, 
+      "reply": false, 
+      "timestamp": "Tue Apr 15 17:06:09 +0000 2014", 
+      "tree_size": 1, 
+      "tweet": "RT @whoajordie: Perhaps you don't know what \"color assistant\" means. http://t.co/GOf3D8vg4i", 
+      "uid": 49010775, 
+      "user": 1, 
+      "user_score": 0.0, 
+      "users": {
+        "1": 1
+      }
+    }, 
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "entropy_score": 0.0, 
+                      "favourites": 4, 
+                      "follower": true, 
+                      "id": 456097113588649984, 
+                      "reply": true, 
+                      "timestamp": "Tue Apr 15 15:50:00 +0000 2014", 
+                      "tree_size": 1, 
+                      "tweet": "@declanshalvey @whoajordie @Stephen_Mooney and the bag.", 
+                      "uid": 11439162, 
+                      "user": 28, 
+                      "user_score": 0.0, 
+                      "users": {
+                        "28": 1
+                      }
+                    }
+                  ], 
+                  "entropy_score": 0.0, 
+                  "favourites": 0, 
+                  "follower": false, 
+                  "id": 456096276141322240, 
+                  "reply": true, 
+                  "timestamp": "Tue Apr 15 15:46:40 +0000 2014", 
+                  "tree_size": 2, 
+                  "tweet": "@whoajordie @Stephen_Mooney yeah, it's the photoshop. And lack of talent", 
+                  "uid": 17882881, 
+                  "user": 6, 
+                  "user_score": 0.6931471805599453, 
+                  "users": {
+                    "28": 1, 
+                    "6": 1
+                  }
+                }, 
+                {
+                  "children": [
+                    {
+                      "entropy_score": 0.0, 
+                      "favourites": 0, 
+                      "follower": true, 
+                      "id": 456031838771769344, 
+                      "reply": true, 
+                      "timestamp": "Tue Apr 15 11:30:37 +0000 2014", 
+                      "tree_size": 1, 
+                      "tweet": "@Stephen_Mooney @whoajordie @declanshalvey Jordie is *so* fast!!!", 
+                      "uid": 148237540, 
+                      "user": 29, 
+                      "user_score": 0.0, 
+                      "users": {
+                        "29": 1
+                      }
+                    }, 
+                    {
+                      "entropy_score": 0.0, 
+                      "favourites": 1, 
+                      "follower": true, 
+                      "id": 456100255809814528, 
+                      "reply": true, 
+                      "timestamp": "Tue Apr 15 16:02:29 +0000 2014", 
+                      "tree_size": 1, 
+                      "tweet": "@Stephen_Mooney @whoajordie @declanshalvey Jordie is too good indeed, but we all reap the benefits. :)", 
+                      "uid": 118604746, 
+                      "user": 3, 
+                      "user_score": 0.0, 
+                      "users": {
+                        "3": 1
+                      }
+                    }
+                  ], 
+                  "entropy_score": 0.7624618986159398, 
+                  "favourites": 2, 
+                  "follower": false, 
+                  "id": 456029254283956224, 
+                  "important_entropy": true, 
+                  "important_users": true, 
+                  "reply": true, 
+                  "timestamp": "Tue Apr 15 11:20:21 +0000 2014", 
+                  "tree_size": 3, 
+                  "tweet": "@whoajordie @declanshalvey I know his pain. Watching you working at lightning speed on PS hurts my brain. You're too good, Bellaire.", 
+                  "uid": 136975774, 
+                  "user": 21, 
+                  "user_score": 1.0986122886681096, 
+                  "users": {
+                    "21": 1, 
+                    "29": 1, 
+                    "3": 1
+                  }
+                }
+              ], 
+              "entropy_score": 1.502774732326122, 
+              "favourites": 1, 
+              "follower": false, 
+              "id": 456028992307740672, 
+              "important_entropy": true, 
+              "important_users": true, 
+              "reply": true, 
+              "timestamp": "Tue Apr 15 11:19:19 +0000 2014", 
+              "tree_size": 6, 
+              "tweet": "@Stephen_Mooney @declanshalvey Mostly it's the photoshop that holds him back. Sort of adorable.", 
+              "uid": 31407587, 
+              "user": 0, 
+              "user_score": 1.7917594692280547, 
+              "users": {
+                "0": 1, 
+                "21": 1, 
+                "28": 1, 
+                "29": 1, 
+                "3": 1, 
+                "6": 1
+              }
+            }
+          ], 
+          "entropy_score": 1.502774732326122, 
+          "favourites": 3, 
+          "follower": true, 
+          "id": 456028931557453824, 
+          "important_users": true, 
+          "reply": true, 
+          "timestamp": "Tue Apr 15 11:19:04 +0000 2014", 
+          "tree_size": 7, 
+          "tweet": "@Stephen_Mooney @declanshalvey If only. He can't color his way out of a paper bag!", 
+          "uid": 31407587, 
+          "user": 0, 
+          "user_score": 1.7478680974667573, 
+          "users": {
+            "0": 2, 
+            "21": 1, 
+            "28": 1, 
+            "29": 1, 
+            "3": 1, 
+            "6": 1
+          }
+        }
+      ], 
+      "entropy_score": 1.502774732326122, 
+      "favourites": 3, 
+      "follower": false, 
+      "id": 456023677331836928, 
+      "important_users": true, 
+      "reply": true, 
+      "timestamp": "Tue Apr 15 10:58:11 +0000 2014", 
+      "tree_size": 8, 
+      "tweet": "@whoajordie It means @declanshalvey, right?", 
+      "uid": 136975774, 
+      "user": 21, 
+      "user_score": 1.7328679513998633, 
+      "users": {
+        "0": 2, 
+        "21": 2, 
+        "28": 1, 
+        "29": 1, 
+        "3": 1, 
+        "6": 1
+      }
+    }
+  ], 
+  "entropy_score": 10.097163400026952, 
+  "favourites": 31, 
+  "id": 456023521173700610, 
+  "important_entropy": true, 
+  "important_users": true, 
+  "reply": false, 
+  "timestamp": "Tue Apr 15 10:57:34 +0000 2014", 
+  "total_tweets": 101, 
+  "total_users": 30, 
+  "tree_size": 101, 
+  "tweet": "Perhaps you don't know what \"color assistant\" means. http://t.co/GOf3D8vg4i", 
+  "uid": 31407587, 
+  "user": 0, 
+  "user_score": 2.366929902751037, 
+  "users": {
+    "0": 39, 
+    "1": 1, 
+    "10": 1, 
+    "11": 1, 
+    "12": 1, 
+    "13": 6, 
+    "14": 1, 
+    "15": 1, 
+    "16": 20, 
+    "17": 1, 
+    "18": 2, 
+    "19": 1, 
+    "2": 1, 
+    "20": 1, 
+    "21": 3, 
+    "22": 1, 
+    "23": 2, 
+    "24": 2, 
+    "25": 1, 
+    "26": 2, 
+    "27": 1, 
+    "28": 1, 
+    "29": 1, 
+    "3": 3, 
+    "4": 1, 
+    "5": 1, 
+    "6": 2, 
+    "7": 1, 
+    "8": 1, 
+    "9": 1
+  }
+}

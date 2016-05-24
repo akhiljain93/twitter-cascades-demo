@@ -1,0 +1,1886 @@
+{
+  "children": [
+    {
+      "entropy_score": 0.0, 
+      "favourites": 0, 
+      "follower": true, 
+      "id": 458358613342711808, 
+      "reply": true, 
+      "timestamp": "Mon Apr 21 21:36:23 +0000 2014", 
+      "tree_size": 1, 
+      "tweet": "@DCPlod there are people who actually read that scene as Cersei refusing and it as rape apparently. But that doesn't matter.", 
+      "uid": 152224898, 
+      "user": 1, 
+      "user_score": 0.0, 
+      "users": {
+        "1": 1
+      }
+    }, 
+    {
+      "children": [
+        {
+          "entropy_score": 0.0, 
+          "favourites": 0, 
+          "follower": true, 
+          "id": 458359198309679104, 
+          "reply": true, 
+          "timestamp": "Mon Apr 21 21:38:43 +0000 2014", 
+          "tree_size": 1, 
+          "tweet": "@anibundel Yeah, I've just read that as well. I was watching that with my family, the unanimous reaction was - rape.", 
+          "uid": 28654635, 
+          "user": 0, 
+          "user_score": 0.0, 
+          "users": {
+            "0": 1
+          }
+        }, 
+        {
+          "entropy_score": 0.0, 
+          "favourites": 0, 
+          "follower": false, 
+          "id": 458393254997032960, 
+          "reply": false, 
+          "timestamp": "Mon Apr 21 23:54:03 +0000 2014", 
+          "tree_size": 1, 
+          "tweet": "RT @anibundel: @DCPlod the point is that a) as staged it was rape in the show. And b) the director DIDNT KNOW IT.", 
+          "uid": 11148162, 
+          "user": 2, 
+          "user_score": 0.0, 
+          "users": {
+            "2": 1
+          }
+        }, 
+        {
+          "children": [
+            {
+              "entropy_score": 0.0, 
+              "favourites": 0, 
+              "follower": true, 
+              "id": 458359388110331905, 
+              "reply": true, 
+              "timestamp": "Mon Apr 21 21:39:28 +0000 2014", 
+              "tree_size": 1, 
+              "tweet": "@iboudreau @DCPlod I can accept that the scene in the book is muddy because Jaime's POV does not think it rape, but a 3rd person POV might.", 
+              "uid": 152224898, 
+              "user": 1, 
+              "user_score": 0.0, 
+              "users": {
+                "1": 1
+              }
+            }, 
+            {
+              "entropy_score": 0.0, 
+              "favourites": 0, 
+              "follower": true, 
+              "id": 458359560198447104, 
+              "reply": true, 
+              "timestamp": "Mon Apr 21 21:40:09 +0000 2014", 
+              "tree_size": 1, 
+              "tweet": "@iboudreau @DCPlod and I could even accept that the directors decided to interpret it that way.", 
+              "uid": 152224898, 
+              "user": 1, 
+              "user_score": 0.0, 
+              "users": {
+                "1": 1
+              }
+            }, 
+            {
+              "children": [
+                {
+                  "entropy_score": 0.0, 
+                  "favourites": 0, 
+                  "follower": true, 
+                  "id": 458359766914699264, 
+                  "reply": false, 
+                  "timestamp": "Mon Apr 21 21:40:59 +0000 2014", 
+                  "tree_size": 1, 
+                  "tweet": "RT @anibundel: @iboudreau @DCPlod but to stage a rape scene and then say \"oh that isn't rape.\" No. Absolutely not.", 
+                  "uid": 28654635, 
+                  "user": 0, 
+                  "user_score": 0.0, 
+                  "users": {
+                    "0": 1
+                  }
+                }, 
+                {
+                  "entropy_score": 0.0, 
+                  "favourites": 0, 
+                  "follower": true, 
+                  "id": 458359817329864704, 
+                  "reply": true, 
+                  "timestamp": "Mon Apr 21 21:41:11 +0000 2014", 
+                  "tree_size": 1, 
+                  "tweet": "@anibundel @DCPlod Yeah that's horseshit.", 
+                  "uid": 40146181, 
+                  "user": 3, 
+                  "user_score": 0.0, 
+                  "users": {
+                    "3": 1
+                  }
+                }
+              ], 
+              "entropy_score": 0.7624618986159398, 
+              "favourites": 1, 
+              "follower": true, 
+              "id": 458359702561513474, 
+              "reply": true, 
+              "timestamp": "Mon Apr 21 21:40:43 +0000 2014", 
+              "tree_size": 3, 
+              "tweet": "@iboudreau @DCPlod but to stage a rape scene and then say \"oh that isn't rape.\" No. Absolutely not.", 
+              "uid": 152224898, 
+              "user": 1, 
+              "user_score": 1.0986122886681096, 
+              "users": {
+                "0": 1, 
+                "1": 1, 
+                "3": 1
+              }
+            }, 
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "entropy_score": 0.0, 
+                              "favourites": 0, 
+                              "follower": true, 
+                              "id": 458360437525184512, 
+                              "reply": true, 
+                              "timestamp": "Mon Apr 21 21:43:38 +0000 2014", 
+                              "tree_size": 1, 
+                              "tweet": "@anibundel @iboudreau Yeah, I've read the passage now and I get the 'muddyness', but what's clear is Cersei does start asking for it...", 
+                              "uid": 28654635, 
+                              "user": 0, 
+                              "user_score": 0.0, 
+                              "users": {
+                                "0": 1
+                              }
+                            }, 
+                            {
+                              "children": [
+                                {
+                                  "children": [
+                                    {
+                                      "children": [
+                                        {
+                                          "entropy_score": 0.0, 
+                                          "favourites": 0, 
+                                          "follower": true, 
+                                          "id": 458361621497536513, 
+                                          "reply": true, 
+                                          "timestamp": "Mon Apr 21 21:48:21 +0000 2014", 
+                                          "tree_size": 1, 
+                                          "tweet": "@iboudreau @DCPlod it's very important. It destroys his whole arc if he rapes her.", 
+                                          "uid": 152224898, 
+                                          "user": 1, 
+                                          "user_score": 0.0, 
+                                          "users": {
+                                            "1": 1
+                                          }
+                                        }
+                                      ], 
+                                      "entropy_score": 0.0, 
+                                      "favourites": 0, 
+                                      "follower": true, 
+                                      "id": 458361390575943680, 
+                                      "reply": true, 
+                                      "timestamp": "Mon Apr 21 21:47:26 +0000 2014", 
+                                      "tree_size": 2, 
+                                      "tweet": "@anibundel @DCPlod That's going to be pretty important, if Jaime is going to remain an at least partially-sympathetic character.", 
+                                      "uid": 40146181, 
+                                      "user": 3, 
+                                      "user_score": 0.6931471805599453, 
+                                      "users": {
+                                        "1": 1, 
+                                        "3": 1
+                                      }
+                                    }, 
+                                    {
+                                      "children": [
+                                        {
+                                          "children": [
+                                            {
+                                              "entropy_score": 0.0, 
+                                              "favourites": 0, 
+                                              "follower": false, 
+                                              "id": 458393187812646912, 
+                                              "reply": false, 
+                                              "timestamp": "Mon Apr 21 23:53:47 +0000 2014", 
+                                              "tree_size": 1, 
+                                              "tweet": "RT @anibundel: @DCPlod @iboudreau he's supposed to be a demented kind of chivalrous, loyal to the point of obsessed with Cersei. He wouldn'\u2026", 
+                                              "uid": 11148162, 
+                                              "user": 2, 
+                                              "user_score": 0.0, 
+                                              "users": {
+                                                "2": 1
+                                              }
+                                            }, 
+                                            {
+                                              "entropy_score": 0.0, 
+                                              "favourites": 0, 
+                                              "follower": false, 
+                                              "id": 458395181385928704, 
+                                              "reply": false, 
+                                              "timestamp": "Tue Apr 22 00:01:42 +0000 2014", 
+                                              "tree_size": 1, 
+                                              "tweet": "RT @anibundel: @DCPlod @iboudreau he's supposed to be a demented kind of chivalrous, loyal to the point of obsessed with Cersei. He wouldn'\u2026", 
+                                              "uid": 15655393, 
+                                              "user": 6, 
+                                              "user_score": 0.0, 
+                                              "users": {
+                                                "6": 1
+                                              }
+                                            }
+                                          ], 
+                                          "entropy_score": 0.7624618986159398, 
+                                          "favourites": 0, 
+                                          "follower": true, 
+                                          "id": 458361951253700608, 
+                                          "reply": true, 
+                                          "timestamp": "Mon Apr 21 21:49:39 +0000 2014", 
+                                          "tree_size": 3, 
+                                          "tweet": "@DCPlod @iboudreau he's supposed to be a demented kind of chivalrous, loyal to the point of obsessed with Cersei. He wouldn't rape her.", 
+                                          "uid": 152224898, 
+                                          "user": 1, 
+                                          "user_score": 1.0986122886681096, 
+                                          "users": {
+                                            "1": 1, 
+                                            "2": 1, 
+                                            "6": 1
+                                          }
+                                        }, 
+                                        {
+                                          "entropy_score": 0.0, 
+                                          "favourites": 0, 
+                                          "follower": false, 
+                                          "id": 458393171379388416, 
+                                          "reply": false, 
+                                          "timestamp": "Mon Apr 21 23:53:43 +0000 2014", 
+                                          "tree_size": 1, 
+                                          "tweet": "RT @DCPlod: @anibundel @iboudreau Same here. Also, this interpretation makes very little sense. Jaime went out of his way to save Brienne f\u2026", 
+                                          "uid": 11148162, 
+                                          "user": 2, 
+                                          "user_score": 0.0, 
+                                          "users": {
+                                            "2": 1
+                                          }
+                                        }, 
+                                        {
+                                          "entropy_score": 0.0, 
+                                          "favourites": 0, 
+                                          "follower": false, 
+                                          "id": 458395171948744704, 
+                                          "reply": false, 
+                                          "timestamp": "Tue Apr 22 00:01:40 +0000 2014", 
+                                          "tree_size": 1, 
+                                          "tweet": "RT @DCPlod: @anibundel @iboudreau Same here. Also, this interpretation makes very little sense. Jaime went out of his way to save Brienne f\u2026", 
+                                          "uid": 15655393, 
+                                          "user": 6, 
+                                          "user_score": 0.0, 
+                                          "users": {
+                                            "6": 1
+                                          }
+                                        }
+                                      ], 
+                                      "entropy_score": 1.807759491772498, 
+                                      "favourites": 1, 
+                                      "follower": true, 
+                                      "id": 458361745070125056, 
+                                      "reply": true, 
+                                      "timestamp": "Mon Apr 21 21:48:50 +0000 2014", 
+                                      "tree_size": 6, 
+                                      "tweet": "@anibundel @iboudreau Same here. Also, this interpretation makes very little sense. Jaime went out of his way to save Brienne from rape...", 
+                                      "uid": 28654635, 
+                                      "user": 0, 
+                                      "user_score": 1.3296613488547582, 
+                                      "users": {
+                                        "0": 1, 
+                                        "1": 1, 
+                                        "2": 2, 
+                                        "6": 2
+                                      }
+                                    }, 
+                                    {
+                                      "children": [
+                                        {
+                                          "entropy_score": 0.0, 
+                                          "favourites": 0, 
+                                          "follower": true, 
+                                          "id": 458362820459900928, 
+                                          "reply": true, 
+                                          "timestamp": "Mon Apr 21 21:53:07 +0000 2014", 
+                                          "tree_size": 1, 
+                                          "tweet": "@DCPlod @anibundel Also odd that the episode makes so many mentions of rape in unrelated dialogues.", 
+                                          "uid": 40146181, 
+                                          "user": 3, 
+                                          "user_score": 0.0, 
+                                          "users": {
+                                            "3": 1
+                                          }
+                                        }, 
+                                        {
+                                          "children": [
+                                            {
+                                              "entropy_score": 0.0, 
+                                              "favourites": 0, 
+                                              "follower": true, 
+                                              "id": 458363428785389568, 
+                                              "reply": true, 
+                                              "timestamp": "Mon Apr 21 21:55:32 +0000 2014", 
+                                              "tree_size": 1, 
+                                              "tweet": "@iboudreau @DCPlod it would have made much more sense if the director just said, look, yes we changed it, b/c we needed to streamline stuff", 
+                                              "uid": 152224898, 
+                                              "user": 1, 
+                                              "user_score": 0.0, 
+                                              "users": {
+                                                "1": 1
+                                              }
+                                            }
+                                          ], 
+                                          "entropy_score": 0.0, 
+                                          "favourites": 0, 
+                                          "follower": true, 
+                                          "id": 458362968971821056, 
+                                          "reply": true, 
+                                          "timestamp": "Mon Apr 21 21:53:42 +0000 2014", 
+                                          "tree_size": 2, 
+                                          "tweet": "@DCPlod @anibundel Odd, I mean, given that the directors are saying what happened between Jaime and Cersei wasn't.", 
+                                          "uid": 40146181, 
+                                          "user": 3, 
+                                          "user_score": 0.6931471805599453, 
+                                          "users": {
+                                            "1": 1, 
+                                            "3": 1
+                                          }
+                                        }
+                                      ], 
+                                      "entropy_score": 0.7001655851242942, 
+                                      "favourites": 1, 
+                                      "follower": true, 
+                                      "id": 458362022712074240, 
+                                      "reply": true, 
+                                      "timestamp": "Mon Apr 21 21:49:56 +0000 2014", 
+                                      "tree_size": 4, 
+                                      "tweet": "@anibundel @iboudreau ...and even told Brienne he'd make someone kill him to avoid being raped. Why would this man commit rape?", 
+                                      "uid": 28654635, 
+                                      "user": 0, 
+                                      "user_score": 1.0397207708399179, 
+                                      "users": {
+                                        "0": 1, 
+                                        "1": 1, 
+                                        "3": 2
+                                      }
+                                    }, 
+                                    {
+                                      "children": [
+                                        {
+                                          "children": [
+                                            {
+                                              "entropy_score": 0.0, 
+                                              "favourites": 0, 
+                                              "follower": true, 
+                                              "id": 458367161497841665, 
+                                              "reply": true, 
+                                              "timestamp": "Mon Apr 21 22:10:22 +0000 2014", 
+                                              "tree_size": 1, 
+                                              "tweet": "@anibundel @iboudreau I still have big issues with their interpretation, but the rape culture perpetuation seems to be all on Graves. Ugh.", 
+                                              "uid": 28654635, 
+                                              "user": 0, 
+                                              "user_score": 0.0, 
+                                              "users": {
+                                                "0": 1
+                                              }
+                                            }
+                                          ], 
+                                          "entropy_score": 0.0, 
+                                          "favourites": 0, 
+                                          "follower": true, 
+                                          "id": 458366795968421889, 
+                                          "reply": true, 
+                                          "timestamp": "Mon Apr 21 22:08:54 +0000 2014", 
+                                          "tree_size": 2, 
+                                          "tweet": "@DCPlod @iboudreau so they DID write it as rape. Ha. Ok then.", 
+                                          "uid": 152224898, 
+                                          "user": 1, 
+                                          "user_score": 0.6931471805599453, 
+                                          "users": {
+                                            "0": 1, 
+                                            "1": 1
+                                          }
+                                        }, 
+                                        {
+                                          "children": [
+                                            {
+                                              "children": [
+                                                {
+                                                  "entropy_score": 0.0, 
+                                                  "favourites": 0, 
+                                                  "follower": true, 
+                                                  "id": 458372380289540096, 
+                                                  "reply": true, 
+                                                  "timestamp": "Mon Apr 21 22:31:06 +0000 2014", 
+                                                  "tree_size": 1, 
+                                                  "tweet": "@DCPlod @anibundel @iboudreau i reckon they don't see it as fucking up his redemption arc, which is pretty depressing.", 
+                                                  "uid": 46822887, 
+                                                  "user": 4, 
+                                                  "user_score": 0.0, 
+                                                  "users": {
+                                                    "4": 1
+                                                  }
+                                                }, 
+                                                {
+                                                  "entropy_score": 0.0, 
+                                                  "favourites": 0, 
+                                                  "follower": true, 
+                                                  "id": 458372586955485185, 
+                                                  "reply": true, 
+                                                  "timestamp": "Mon Apr 21 22:31:55 +0000 2014", 
+                                                  "tree_size": 1, 
+                                                  "tweet": "@DCPlod @AngryBlackLady @anibundel As it's staged, I took it as being, \"He's back in Kings Landing, so he's going back to being a shitbag.\"", 
+                                                  "uid": 40146181, 
+                                                  "user": 3, 
+                                                  "user_score": 0.0, 
+                                                  "users": {
+                                                    "3": 1
+                                                  }
+                                                }
+                                              ], 
+                                              "entropy_score": 0.7624618986159398, 
+                                              "favourites": 0, 
+                                              "follower": false, 
+                                              "id": 458372202543710208, 
+                                              "reply": true, 
+                                              "timestamp": "Mon Apr 21 22:30:23 +0000 2014", 
+                                              "tree_size": 3, 
+                                              "tweet": "@AngryBlackLady @anibundel @iboudreau I know right? That's what drove me to consult the book, b/c it made the opposite of sense given S3.", 
+                                              "uid": 28654635, 
+                                              "user": 0, 
+                                              "user_score": 1.0986122886681096, 
+                                              "users": {
+                                                "0": 1, 
+                                                "3": 1, 
+                                                "4": 1
+                                              }
+                                            }
+                                          ], 
+                                          "entropy_score": 0.7624618986159398, 
+                                          "favourites": 0, 
+                                          "follower": true, 
+                                          "id": 458371813978800128, 
+                                          "reply": true, 
+                                          "timestamp": "Mon Apr 21 22:28:51 +0000 2014", 
+                                          "tree_size": 4, 
+                                          "tweet": "@DCPlod @anibundel @iboudreau either way, why fuck up Jaime's redemption arc? Oy.", 
+                                          "uid": 46822887, 
+                                          "user": 4, 
+                                          "user_score": 1.0397207708399179, 
+                                          "users": {
+                                            "0": 1, 
+                                            "3": 1, 
+                                            "4": 2
+                                          }
+                                        }, 
+                                        {
+                                          "children": [
+                                            {
+                                              "children": [
+                                                {
+                                                  "children": [
+                                                    {
+                                                      "children": [
+                                                        {
+                                                          "children": [
+                                                            {
+                                                              "entropy_score": 0.0, 
+                                                              "favourites": 0, 
+                                                              "follower": false, 
+                                                              "id": 458373624060473344, 
+                                                              "reply": true, 
+                                                              "timestamp": "Mon Apr 21 22:36:02 +0000 2014", 
+                                                              "tree_size": 1, 
+                                                              "tweet": "@AngryBlackLady @DCPlod @iboudreau yes Jeyne is remarried to some minor nobleman after Tywin sees proof she ain't preggers.", 
+                                                              "uid": 152224898, 
+                                                              "user": 1, 
+                                                              "user_score": 0.0, 
+                                                              "users": {
+                                                                "1": 1
+                                                              }
+                                                            }
+                                                          ], 
+                                                          "entropy_score": 0.0, 
+                                                          "favourites": 0, 
+                                                          "follower": true, 
+                                                          "id": 458373204013109249, 
+                                                          "reply": true, 
+                                                          "timestamp": "Mon Apr 21 22:34:22 +0000 2014", 
+                                                          "tree_size": 2, 
+                                                          "tweet": "@anibundel @DCPlod @iboudreau ohhhhhhh.", 
+                                                          "uid": 46822887, 
+                                                          "user": 4, 
+                                                          "user_score": 0.6931471805599453, 
+                                                          "users": {
+                                                            "1": 1, 
+                                                            "4": 1
+                                                          }
+                                                        }, 
+                                                        {
+                                                          "entropy_score": 0.0, 
+                                                          "favourites": 0, 
+                                                          "follower": true, 
+                                                          "id": 458373486512054273, 
+                                                          "reply": true, 
+                                                          "timestamp": "Mon Apr 21 22:35:30 +0000 2014", 
+                                                          "tree_size": 1, 
+                                                          "tweet": "@anibundel @DCPlod @iboudreau maybe her issue was creating Talisa &amp; brutalizing her then. I can't keep it straight, but she was upset.", 
+                                                          "uid": 46822887, 
+                                                          "user": 4, 
+                                                          "user_score": 0.0, 
+                                                          "users": {
+                                                            "4": 1
+                                                          }
+                                                        }
+                                                      ], 
+                                                      "entropy_score": 0.7001655851242942, 
+                                                      "favourites": 0, 
+                                                      "follower": false, 
+                                                      "id": 458373098283466754, 
+                                                      "reply": true, 
+                                                      "timestamp": "Mon Apr 21 22:33:57 +0000 2014", 
+                                                      "tree_size": 4, 
+                                                      "tweet": "@AngryBlackLady @DCPlod @iboudreau Jayne was the original wife in the books. Talisa was made for whole cloth.", 
+                                                      "uid": 152224898, 
+                                                      "user": 1, 
+                                                      "user_score": 0.6931471805599453, 
+                                                      "users": {
+                                                        "1": 2, 
+                                                        "4": 2
+                                                      }
+                                                    }, 
+                                                    {
+                                                      "entropy_score": 0.0, 
+                                                      "favourites": 0, 
+                                                      "follower": false, 
+                                                      "id": 458373102553268225, 
+                                                      "reply": true, 
+                                                      "timestamp": "Mon Apr 21 22:33:58 +0000 2014", 
+                                                      "tree_size": 1, 
+                                                      "tweet": "@AngryBlackLady @anibundel @iboudreau Yes, yay for more gratuitous violence against women given *Jeyne* (I'm told) doesn't die.", 
+                                                      "uid": 28654635, 
+                                                      "user": 0, 
+                                                      "user_score": 0.0, 
+                                                      "users": {
+                                                        "0": 1
+                                                      }
+                                                    }, 
+                                                    {
+                                                      "children": [
+                                                        {
+                                                          "children": [
+                                                            {
+                                                              "children": [
+                                                                {
+                                                                  "entropy_score": 0.0, 
+                                                                  "favourites": 0, 
+                                                                  "follower": true, 
+                                                                  "id": 458374787065081856, 
+                                                                  "reply": true, 
+                                                                  "timestamp": "Mon Apr 21 22:40:40 +0000 2014", 
+                                                                  "tree_size": 1, 
+                                                                  "tweet": "@anibundel @DCPlod @iboudreau oy.", 
+                                                                  "uid": 46822887, 
+                                                                  "user": 4, 
+                                                                  "user_score": 0.0, 
+                                                                  "users": {
+                                                                    "4": 1
+                                                                  }
+                                                                }
+                                                              ], 
+                                                              "entropy_score": 0.0, 
+                                                              "favourites": 0, 
+                                                              "follower": false, 
+                                                              "id": 458374293802741760, 
+                                                              "reply": true, 
+                                                              "timestamp": "Mon Apr 21 22:38:42 +0000 2014", 
+                                                              "tree_size": 2, 
+                                                              "tweet": "@AngryBlackLady @DCPlod @iboudreau the only POCs in the whole series are Summer Islanders. They wear feathers because of course they do.", 
+                                                              "uid": 152224898, 
+                                                              "user": 1, 
+                                                              "user_score": 0.6931471805599453, 
+                                                              "users": {
+                                                                "1": 1, 
+                                                                "4": 1
+                                                              }
+                                                            }, 
+                                                            {
+                                                              "entropy_score": 0.0, 
+                                                              "favourites": 0, 
+                                                              "follower": false, 
+                                                              "id": 458374369103052800, 
+                                                              "reply": true, 
+                                                              "timestamp": "Mon Apr 21 22:39:00 +0000 2014", 
+                                                              "tree_size": 1, 
+                                                              "tweet": "@AngryBlackLady @DCPlod @iboudreau we're lucky GRRM didn't put bones in their noses as well.", 
+                                                              "uid": 152224898, 
+                                                              "user": 1, 
+                                                              "user_score": 0.0, 
+                                                              "users": {
+                                                                "1": 1
+                                                              }
+                                                            }
+                                                          ], 
+                                                          "entropy_score": 0.7001655851242942, 
+                                                          "favourites": 0, 
+                                                          "follower": true, 
+                                                          "id": 458373525594599424, 
+                                                          "reply": true, 
+                                                          "timestamp": "Mon Apr 21 22:35:39 +0000 2014", 
+                                                          "tree_size": 4, 
+                                                          "tweet": "@anibundel @DCPlod @iboudreau gotcha!", 
+                                                          "uid": 46822887, 
+                                                          "user": 4, 
+                                                          "user_score": 0.6931471805599453, 
+                                                          "users": {
+                                                            "1": 2, 
+                                                            "4": 2
+                                                          }
+                                                        }
+                                                      ], 
+                                                      "entropy_score": 0.7001655851242942, 
+                                                      "favourites": 0, 
+                                                      "follower": false, 
+                                                      "id": 458373382485340160, 
+                                                      "reply": true, 
+                                                      "timestamp": "Mon Apr 21 22:35:05 +0000 2014", 
+                                                      "tree_size": 5, 
+                                                      "tweet": "@AngryBlackLady @DCPlod @iboudreau in the books there are no POCs in Westeros. (This is what we mean by \"issues with source material.\")", 
+                                                      "uid": 152224898, 
+                                                      "user": 1, 
+                                                      "user_score": 0.6730116670092565, 
+                                                      "users": {
+                                                        "1": 3, 
+                                                        "4": 2
+                                                      }
+                                                    }
+                                                  ], 
+                                                  "entropy_score": 2.4380144018105314, 
+                                                  "favourites": 0, 
+                                                  "follower": true, 
+                                                  "id": 458372804274958337, 
+                                                  "important_entropy": true, 
+                                                  "reply": true, 
+                                                  "timestamp": "Mon Apr 21 22:32:47 +0000 2014", 
+                                                  "tree_size": 11, 
+                                                  "tweet": "@anibundel @DCPlod @iboudreau not Jayne, Talisa.", 
+                                                  "uid": 46822887, 
+                                                  "user": 4, 
+                                                  "user_score": 0.9347698978582792, 
+                                                  "users": {
+                                                    "0": 1, 
+                                                    "1": 5, 
+                                                    "4": 5
+                                                  }
+                                                }
+                                              ], 
+                                              "entropy_score": 2.4380144018105314, 
+                                              "favourites": 0, 
+                                              "follower": false, 
+                                              "id": 458372562293391360, 
+                                              "reply": true, 
+                                              "timestamp": "Mon Apr 21 22:31:49 +0000 2014", 
+                                              "tree_size": 12, 
+                                              "tweet": "@AngryBlackLady @DCPlod @iboudreau huh? Jayne Westerling wasn't a WOC.", 
+                                              "uid": 152224898, 
+                                              "user": 1, 
+                                              "user_score": 0.9184277849930975, 
+                                              "users": {
+                                                "0": 1, 
+                                                "1": 6, 
+                                                "4": 5
+                                              }
+                                            }
+                                          ], 
+                                          "entropy_score": 2.4380144018105314, 
+                                          "favourites": 0, 
+                                          "follower": true, 
+                                          "id": 458372029029158912, 
+                                          "reply": true, 
+                                          "timestamp": "Mon Apr 21 22:29:42 +0000 2014", 
+                                          "tree_size": 13, 
+                                          "tweet": "@DCPlod @anibundel @iboudreau a friend who read the books was pissed abt Robb's wife, esp. bc she is 1 of few WOC who was a main character.", 
+                                          "uid": 46822887, 
+                                          "user": 4, 
+                                          "user_score": 0.9110175397125628, 
+                                          "users": {
+                                            "0": 1, 
+                                            "1": 6, 
+                                            "4": 6
+                                          }
+                                        }
+                                      ], 
+                                      "entropy_score": 4.107601556569589, 
+                                      "favourites": 1, 
+                                      "follower": true, 
+                                      "id": 458366537590915072, 
+                                      "reply": true, 
+                                      "timestamp": "Mon Apr 21 22:07:53 +0000 2014", 
+                                      "tree_size": 20, 
+                                      "tweet": "@anibundel @iboudreau Wow. There's been one clusterfuck of a communication breakdown here. http://t.co/Zf0e0g9gxR http://t.co/ofxZk2e9D0", 
+                                      "uid": 28654635, 
+                                      "user": 0, 
+                                      "user_score": 1.2056282324887189, 
+                                      "users": {
+                                        "0": 4, 
+                                        "1": 7, 
+                                        "3": 1, 
+                                        "4": 8
+                                      }
+                                    }, 
+                                    {
+                                      "children": [
+                                        {
+                                          "children": [
+                                            {
+                                              "children": [
+                                                {
+                                                  "entropy_score": 0.0, 
+                                                  "favourites": 0, 
+                                                  "follower": true, 
+                                                  "id": 458369600539750400, 
+                                                  "reply": true, 
+                                                  "timestamp": "Mon Apr 21 22:20:03 +0000 2014", 
+                                                  "tree_size": 1, 
+                                                  "tweet": "@DCPlod @anibundel @iboudreau WELP.", 
+                                                  "uid": 46822887, 
+                                                  "user": 4, 
+                                                  "user_score": 0.0, 
+                                                  "users": {
+                                                    "4": 1
+                                                  }
+                                                }
+                                              ], 
+                                              "entropy_score": 0.0, 
+                                              "favourites": 1, 
+                                              "follower": true, 
+                                              "id": 458369408008978433, 
+                                              "reply": true, 
+                                              "timestamp": "Mon Apr 21 22:19:17 +0000 2014", 
+                                              "tree_size": 2, 
+                                              "tweet": "@anibundel @AngryBlackLady @iboudreau Yep, yep it was.", 
+                                              "uid": 28654635, 
+                                              "user": 0, 
+                                              "user_score": 0.6931471805599453, 
+                                              "users": {
+                                                "0": 1, 
+                                                "4": 1
+                                              }
+                                            }, 
+                                            {
+                                              "children": [
+                                                {
+                                                  "children": [
+                                                    {
+                                                      "entropy_score": 0.0, 
+                                                      "favourites": 0, 
+                                                      "follower": true, 
+                                                      "id": 458370186152644608, 
+                                                      "reply": false, 
+                                                      "timestamp": "Mon Apr 21 22:22:23 +0000 2014", 
+                                                      "tree_size": 1, 
+                                                      "tweet": "RT @DCPlod: @AngryBlackLady @anibundel @iboudreau Here is cast-iron, solid gold, concrete proof B&amp;W's interpretation is fucked up http://t.\u2026", 
+                                                      "uid": 46822887, 
+                                                      "user": 4, 
+                                                      "user_score": 0.0, 
+                                                      "users": {
+                                                        "4": 1
+                                                      }
+                                                    }, 
+                                                    {
+                                                      "entropy_score": 0.0, 
+                                                      "favourites": 1, 
+                                                      "follower": true, 
+                                                      "id": 458370195380514816, 
+                                                      "reply": true, 
+                                                      "timestamp": "Mon Apr 21 22:22:25 +0000 2014", 
+                                                      "tree_size": 1, 
+                                                      "tweet": "@DCPlod @AngryBlackLady @iboudreau I saw ppl on twitter today (@LuthorCEO for instance) who insist the org scene was rape. Made me think", 
+                                                      "uid": 152224898, 
+                                                      "user": 1, 
+                                                      "user_score": 0.0, 
+                                                      "users": {
+                                                        "1": 1
+                                                      }
+                                                    }, 
+                                                    {
+                                                      "children": [
+                                                        {
+                                                          "children": [
+                                                            {
+                                                              "entropy_score": 0.0, 
+                                                              "favourites": 0, 
+                                                              "follower": false, 
+                                                              "id": 458370419628580864, 
+                                                              "reply": true, 
+                                                              "timestamp": "Mon Apr 21 22:23:18 +0000 2014", 
+                                                              "tree_size": 1, 
+                                                              "tweet": "@AngryBlackLady @DCPlod @anibundel I honestly can't pick which is worse tbh", 
+                                                              "uid": 40146181, 
+                                                              "user": 3, 
+                                                              "user_score": 0.0, 
+                                                              "users": {
+                                                                "3": 1
+                                                              }
+                                                            }
+                                                          ], 
+                                                          "entropy_score": 0.0, 
+                                                          "favourites": 0, 
+                                                          "follower": true, 
+                                                          "id": 458370304897605632, 
+                                                          "reply": true, 
+                                                          "timestamp": "Mon Apr 21 22:22:51 +0000 2014", 
+                                                          "tree_size": 2, 
+                                                          "tweet": "@DCPlod @anibundel @iboudreau UNsalted, I say.", 
+                                                          "uid": 46822887, 
+                                                          "user": 4, 
+                                                          "user_score": 0.6931471805599453, 
+                                                          "users": {
+                                                            "3": 1, 
+                                                            "4": 1
+                                                          }
+                                                        }
+                                                      ], 
+                                                      "entropy_score": 0.0, 
+                                                      "favourites": 2, 
+                                                      "follower": false, 
+                                                      "id": 458370217325109248, 
+                                                      "reply": true, 
+                                                      "timestamp": "Mon Apr 21 22:22:30 +0000 2014", 
+                                                      "tree_size": 3, 
+                                                      "tweet": "@AngryBlackLady @anibundel @iboudreau \"she is as hungry for him as he is for her\" Benioff and Weiss can eat a bag of salted dicks.", 
+                                                      "uid": 28654635, 
+                                                      "user": 0, 
+                                                      "user_score": 1.0986122886681096, 
+                                                      "users": {
+                                                        "0": 1, 
+                                                        "3": 1, 
+                                                        "4": 1
+                                                      }
+                                                    }, 
+                                                    {
+                                                      "children": [
+                                                        {
+                                                          "children": [
+                                                            {
+                                                              "children": [
+                                                                {
+                                                                  "entropy_score": 0.0, 
+                                                                  "favourites": 0, 
+                                                                  "follower": true, 
+                                                                  "id": 458371355784663041, 
+                                                                  "reply": true, 
+                                                                  "timestamp": "Mon Apr 21 22:27:02 +0000 2014", 
+                                                                  "tree_size": 1, 
+                                                                  "tweet": "@anibundel @DCPlod @iboudreau @myownpetard for sure. I'm not that far in the book yet so idk. Only another eleventy million pages to go.", 
+                                                                  "uid": 46822887, 
+                                                                  "user": 4, 
+                                                                  "user_score": 0.0, 
+                                                                  "users": {
+                                                                    "4": 1
+                                                                  }
+                                                                }, 
+                                                                {
+                                                                  "children": [
+                                                                    {
+                                                                      "entropy_score": 0.0, 
+                                                                      "favourites": 0, 
+                                                                      "follower": true, 
+                                                                      "id": 458374608211943424, 
+                                                                      "reply": true, 
+                                                                      "timestamp": "Mon Apr 21 22:39:57 +0000 2014", 
+                                                                      "tree_size": 1, 
+                                                                      "tweet": "@myownpetard @DCPlod @AngryBlackLady @iboudreau I know you read it that way. I wanted your voice in here b/c I had not seen it like that...", 
+                                                                      "uid": 152224898, 
+                                                                      "user": 1, 
+                                                                      "user_score": 0.0, 
+                                                                      "users": {
+                                                                        "1": 1
+                                                                      }
+                                                                    }, 
+                                                                    {
+                                                                      "entropy_score": 0.0, 
+                                                                      "favourites": 0, 
+                                                                      "follower": true, 
+                                                                      "id": 458374642332631040, 
+                                                                      "reply": true, 
+                                                                      "timestamp": "Mon Apr 21 22:40:05 +0000 2014", 
+                                                                      "tree_size": 1, 
+                                                                      "tweet": "@myownpetard @DCPlod @AngryBlackLady @iboudreau ...until you pointed it out.", 
+                                                                      "uid": 152224898, 
+                                                                      "user": 1, 
+                                                                      "user_score": 0.0, 
+                                                                      "users": {
+                                                                        "1": 1
+                                                                      }
+                                                                    }
+                                                                  ], 
+                                                                  "entropy_score": 0.7624618986159398, 
+                                                                  "favourites": 0, 
+                                                                  "follower": true, 
+                                                                  "id": 458374254476947456, 
+                                                                  "reply": true, 
+                                                                  "timestamp": "Mon Apr 21 22:38:33 +0000 2014", 
+                                                                  "tree_size": 3, 
+                                                                  "tweet": "@anibundel @DCPlod @AngryBlackLady @iboudreau the scene in the book was so rape culturey (no no no *beats chest* ok fine quick)", 
+                                                                  "uid": 55901777, 
+                                                                  "user": 5, 
+                                                                  "user_score": 0.6365141682948128, 
+                                                                  "users": {
+                                                                    "1": 2, 
+                                                                    "5": 1
+                                                                  }
+                                                                }, 
+                                                                {
+                                                                  "entropy_score": 0.0, 
+                                                                  "favourites": 0, 
+                                                                  "follower": true, 
+                                                                  "id": 458374504616833025, 
+                                                                  "reply": true, 
+                                                                  "timestamp": "Mon Apr 21 22:39:32 +0000 2014", 
+                                                                  "tree_size": 1, 
+                                                                  "tweet": "@anibundel @DCPlod @AngryBlackLady @iboudreau grrm doesn't get that no no no can't mean yes according how we've previously defined rape...", 
+                                                                  "uid": 55901777, 
+                                                                  "user": 5, 
+                                                                  "user_score": 0.0, 
+                                                                  "users": {
+                                                                    "5": 1
+                                                                  }
+                                                                }
+                                                              ], 
+                                                              "entropy_score": 1.807759491772498, 
+                                                              "favourites": 0, 
+                                                              "follower": true, 
+                                                              "id": 458370740996554753, 
+                                                              "reply": true, 
+                                                              "timestamp": "Mon Apr 21 22:24:35 +0000 2014", 
+                                                              "tree_size": 6, 
+                                                              "tweet": "@DCPlod @AngryBlackLady @iboudreau whether that coercion can be taken as rape when not seen from Jaime's POV? Maybe. @myownpetard", 
+                                                              "uid": 152224898, 
+                                                              "user": 1, 
+                                                              "user_score": 1.0114042647073518, 
+                                                              "users": {
+                                                                "1": 3, 
+                                                                "4": 1, 
+                                                                "5": 2
+                                                              }
+                                                            }
+                                                          ], 
+                                                          "entropy_score": 1.807759491772498, 
+                                                          "favourites": 0, 
+                                                          "follower": true, 
+                                                          "id": 458370512180477953, 
+                                                          "reply": true, 
+                                                          "timestamp": "Mon Apr 21 22:23:40 +0000 2014", 
+                                                          "tree_size": 7, 
+                                                          "tweet": "@anibundel @AngryBlackLady @iboudreau Oh, I'd agree there's coercion on Jaime's part at the beginning.", 
+                                                          "uid": 28654635, 
+                                                          "user": 0, 
+                                                          "user_score": 1.277034259466139, 
+                                                          "users": {
+                                                            "0": 1, 
+                                                            "1": 3, 
+                                                            "4": 1, 
+                                                            "5": 2
+                                                          }
+                                                        }
+                                                      ], 
+                                                      "entropy_score": 1.807759491772498, 
+                                                      "favourites": 0, 
+                                                      "follower": true, 
+                                                      "id": 458370348137054208, 
+                                                      "reply": true, 
+                                                      "timestamp": "Mon Apr 21 22:23:01 +0000 2014", 
+                                                      "tree_size": 8, 
+                                                      "tweet": "@DCPlod @AngryBlackLady @iboudreau twice that maybe it could be read that way. I can accept there's a muddiness.", 
+                                                      "uid": 152224898, 
+                                                      "user": 1, 
+                                                      "user_score": 1.2130075659799042, 
+                                                      "users": {
+                                                        "0": 1, 
+                                                        "1": 4, 
+                                                        "4": 1, 
+                                                        "5": 2
+                                                      }
+                                                    }, 
+                                                    {
+                                                      "entropy_score": 0.0, 
+                                                      "favourites": 0, 
+                                                      "follower": false, 
+                                                      "id": 458392093556498432, 
+                                                      "reply": false, 
+                                                      "timestamp": "Mon Apr 21 23:49:26 +0000 2014", 
+                                                      "tree_size": 1, 
+                                                      "tweet": "RT @DCPlod: @AngryBlackLady @anibundel @iboudreau Here is cast-iron, solid gold, concrete proof B&amp;W's interpretation is fucked up http://t.\u2026", 
+                                                      "uid": 11148162, 
+                                                      "user": 2, 
+                                                      "user_score": 0.0, 
+                                                      "users": {
+                                                        "2": 1
+                                                      }
+                                                    }
+                                                  ], 
+                                                  "entropy_score": 3.1446864029644743, 
+                                                  "favourites": 1, 
+                                                  "follower": false, 
+                                                  "id": 458369893898153984, 
+                                                  "reply": true, 
+                                                  "timestamp": "Mon Apr 21 22:21:13 +0000 2014", 
+                                                  "tree_size": 15, 
+                                                  "tweet": "@AngryBlackLady @anibundel @iboudreau Here is cast-iron, solid gold, concrete proof B&amp;W's interpretation is fucked up http://t.co/mOsUr11faR", 
+                                                  "uid": 28654635, 
+                                                  "user": 0, 
+                                                  "user_score": 1.6397063574156068, 
+                                                  "users": {
+                                                    "0": 3, 
+                                                    "1": 5, 
+                                                    "2": 1, 
+                                                    "3": 1, 
+                                                    "4": 3, 
+                                                    "5": 2
+                                                  }
+                                                }
+                                              ], 
+                                              "entropy_score": 3.1446864029644743, 
+                                              "favourites": 0, 
+                                              "follower": true, 
+                                              "id": 458369470608572416, 
+                                              "reply": true, 
+                                              "timestamp": "Mon Apr 21 22:19:32 +0000 2014", 
+                                              "tree_size": 16, 
+                                              "tweet": "@anibundel @DCPlod @iboudreau I really can't read these damn books fast enough. But that scene last night was just awful.", 
+                                              "uid": 46822887, 
+                                              "user": 4, 
+                                              "user_score": 1.6304325826288886, 
+                                              "users": {
+                                                "0": 3, 
+                                                "1": 5, 
+                                                "2": 1, 
+                                                "3": 1, 
+                                                "4": 4, 
+                                                "5": 2
+                                              }
+                                            }
+                                          ], 
+                                          "entropy_score": 3.5284017083918093, 
+                                          "favourites": 0, 
+                                          "follower": false, 
+                                          "id": 458369168119967744, 
+                                          "reply": true, 
+                                          "timestamp": "Mon Apr 21 22:18:20 +0000 2014", 
+                                          "tree_size": 19, 
+                                          "tweet": "@AngryBlackLady @DCPlod @iboudreau ...I forget. (Goes to check.)", 
+                                          "uid": 152224898, 
+                                          "user": 1, 
+                                          "user_score": 1.590269601106531, 
+                                          "users": {
+                                            "0": 4, 
+                                            "1": 6, 
+                                            "2": 1, 
+                                            "3": 1, 
+                                            "4": 5, 
+                                            "5": 2
+                                          }
+                                        }, 
+                                        {
+                                          "children": [
+                                            {
+                                              "children": [
+                                                {
+                                                  "entropy_score": 0.0, 
+                                                  "favourites": 0, 
+                                                  "follower": false, 
+                                                  "id": 458370137393881088, 
+                                                  "reply": true, 
+                                                  "timestamp": "Mon Apr 21 22:22:11 +0000 2014", 
+                                                  "tree_size": 1, 
+                                                  "tweet": "@AngryBlackLady @anibundel @DCPlod As if you need to ADD that to brutal medieval high fantasy. Jesus.", 
+                                                  "uid": 40146181, 
+                                                  "user": 3, 
+                                                  "user_score": 0.0, 
+                                                  "users": {
+                                                    "3": 1
+                                                  }
+                                                }
+                                              ], 
+                                              "entropy_score": 0.0, 
+                                              "favourites": 0, 
+                                              "follower": true, 
+                                              "id": 458369914374352896, 
+                                              "reply": true, 
+                                              "timestamp": "Mon Apr 21 22:21:18 +0000 2014", 
+                                              "tree_size": 2, 
+                                              "tweet": "@anibundel @DCPlod @iboudreau rape culture: it's a motherfucker.", 
+                                              "uid": 46822887, 
+                                              "user": 4, 
+                                              "user_score": 0.6931471805599453, 
+                                              "users": {
+                                                "3": 1, 
+                                                "4": 1
+                                              }
+                                            }
+                                          ], 
+                                          "entropy_score": 0.0, 
+                                          "favourites": 0, 
+                                          "follower": false, 
+                                          "id": 458369647818326016, 
+                                          "reply": true, 
+                                          "timestamp": "Mon Apr 21 22:20:14 +0000 2014", 
+                                          "tree_size": 3, 
+                                          "tweet": "@AngryBlackLady @DCPlod @iboudreau yes they did. They wrote eight of the first ten eps, including pilot.", 
+                                          "uid": 152224898, 
+                                          "user": 1, 
+                                          "user_score": 1.0986122886681096, 
+                                          "users": {
+                                            "1": 1, 
+                                            "3": 1, 
+                                            "4": 1
+                                          }
+                                        }, 
+                                        {
+                                          "children": [
+                                            {
+                                              "children": [
+                                                {
+                                                  "children": [
+                                                    {
+                                                      "children": [
+                                                        {
+                                                          "entropy_score": 0.0, 
+                                                          "favourites": 0, 
+                                                          "follower": true, 
+                                                          "id": 458374760142209024, 
+                                                          "reply": false, 
+                                                          "timestamp": "Mon Apr 21 22:40:33 +0000 2014", 
+                                                          "tree_size": 1, 
+                                                          "tweet": "RT @myownpetard: @DCPlod @AngryBlackLady @anibundel @iboudreau TEAM ARYA", 
+                                                          "uid": 28654635, 
+                                                          "user": 0, 
+                                                          "user_score": 0.0, 
+                                                          "users": {
+                                                            "0": 1
+                                                          }
+                                                        }, 
+                                                        {
+                                                          "children": [
+                                                            {
+                                                              "children": [
+                                                                {
+                                                                  "entropy_score": 0.0, 
+                                                                  "favourites": 0, 
+                                                                  "follower": true, 
+                                                                  "id": 458375206265188352, 
+                                                                  "reply": false, 
+                                                                  "timestamp": "Mon Apr 21 22:42:20 +0000 2014", 
+                                                                  "tree_size": 1, 
+                                                                  "tweet": "RT @anibundel: @AngryBlackLady @myownpetard @DCPlod @iboudreau something we can all agree on. #teamarya", 
+                                                                  "uid": 28654635, 
+                                                                  "user": 0, 
+                                                                  "user_score": 0.0, 
+                                                                  "users": {
+                                                                    "0": 1
+                                                                  }
+                                                                }, 
+                                                                {
+                                                                  "entropy_score": 0.0, 
+                                                                  "favourites": 0, 
+                                                                  "follower": true, 
+                                                                  "id": 458375450683641857, 
+                                                                  "reply": false, 
+                                                                  "timestamp": "Mon Apr 21 22:43:18 +0000 2014", 
+                                                                  "tree_size": 1, 
+                                                                  "tweet": "RT @anibundel: @AngryBlackLady @myownpetard @DCPlod @iboudreau something we can all agree on. #teamarya", 
+                                                                  "uid": 46822887, 
+                                                                  "user": 4, 
+                                                                  "user_score": 0.0, 
+                                                                  "users": {
+                                                                    "4": 1
+                                                                  }
+                                                                }
+                                                              ], 
+                                                              "entropy_score": 0.7624618986159398, 
+                                                              "favourites": 2, 
+                                                              "follower": false, 
+                                                              "id": 458375024291106816, 
+                                                              "reply": true, 
+                                                              "timestamp": "Mon Apr 21 22:41:36 +0000 2014", 
+                                                              "tree_size": 3, 
+                                                              "tweet": "@AngryBlackLady @myownpetard @DCPlod @iboudreau something we can all agree on. #teamarya", 
+                                                              "uid": 152224898, 
+                                                              "user": 1, 
+                                                              "user_score": 1.0986122886681096, 
+                                                              "users": {
+                                                                "0": 1, 
+                                                                "1": 1, 
+                                                                "4": 1
+                                                              }
+                                                            }, 
+                                                            {
+                                                              "entropy_score": 0.0, 
+                                                              "favourites": 0, 
+                                                              "follower": false, 
+                                                              "id": 458375194982481921, 
+                                                              "reply": false, 
+                                                              "timestamp": "Mon Apr 21 22:42:17 +0000 2014", 
+                                                              "tree_size": 1, 
+                                                              "tweet": "RT @AngryBlackLady: @myownpetard @DCPlod @anibundel @iboudreau Definitely Team Arya.", 
+                                                              "uid": 28654635, 
+                                                              "user": 0, 
+                                                              "user_score": 0.0, 
+                                                              "users": {
+                                                                "0": 1
+                                                              }
+                                                            }
+                                                          ], 
+                                                          "entropy_score": 1.381030557696629, 
+                                                          "favourites": 0, 
+                                                          "follower": true, 
+                                                          "id": 458374885509570560, 
+                                                          "reply": true, 
+                                                          "timestamp": "Mon Apr 21 22:41:03 +0000 2014", 
+                                                          "tree_size": 5, 
+                                                          "tweet": "@myownpetard @DCPlod @anibundel @iboudreau Definitely Team Arya.", 
+                                                          "uid": 46822887, 
+                                                          "user": 4, 
+                                                          "user_score": 1.0549201679861442, 
+                                                          "users": {
+                                                            "0": 2, 
+                                                            "1": 1, 
+                                                            "4": 2
+                                                          }
+                                                        }, 
+                                                        {
+                                                          "children": [
+                                                            {
+                                                              "entropy_score": 0.0, 
+                                                              "favourites": 0, 
+                                                              "follower": false, 
+                                                              "id": 458375165278453761, 
+                                                              "reply": true, 
+                                                              "timestamp": "Mon Apr 21 22:42:10 +0000 2014", 
+                                                              "tree_size": 1, 
+                                                              "tweet": "@myownpetard @AngryBlackLady @anibundel @iboudreau ...but ain't happening. sigh.", 
+                                                              "uid": 28654635, 
+                                                              "user": 0, 
+                                                              "user_score": 0.0, 
+                                                              "users": {
+                                                                "0": 1
+                                                              }
+                                                            }, 
+                                                            {
+                                                              "entropy_score": 0.0, 
+                                                              "favourites": 0, 
+                                                              "follower": true, 
+                                                              "id": 458375200040837121, 
+                                                              "reply": true, 
+                                                              "timestamp": "Mon Apr 21 22:42:18 +0000 2014", 
+                                                              "tree_size": 1, 
+                                                              "tweet": "@DCPlod @myownpetard @AngryBlackLady @iboudreau NOAP. sorry.", 
+                                                              "uid": 152224898, 
+                                                              "user": 1, 
+                                                              "user_score": 0.0, 
+                                                              "users": {
+                                                                "1": 1
+                                                              }
+                                                            }, 
+                                                            {
+                                                              "children": [
+                                                                {
+                                                                  "children": [
+                                                                    {
+                                                                      "entropy_score": 0.0, 
+                                                                      "favourites": 0, 
+                                                                      "follower": true, 
+                                                                      "id": 458376562472415232, 
+                                                                      "reply": true, 
+                                                                      "timestamp": "Mon Apr 21 22:47:43 +0000 2014", 
+                                                                      "tree_size": 1, 
+                                                                      "tweet": "@anibundel @DCPlod @AngryBlackLady @iboudreau i saw it fly by but i haven't read it.", 
+                                                                      "uid": 55901777, 
+                                                                      "user": 5, 
+                                                                      "user_score": 0.0, 
+                                                                      "users": {
+                                                                        "5": 1
+                                                                      }
+                                                                    }, 
+                                                                    {
+                                                                      "children": [
+                                                                        {
+                                                                          "children": [
+                                                                            {
+                                                                              "entropy_score": 0.0, 
+                                                                              "favourites": 0, 
+                                                                              "follower": true, 
+                                                                              "id": 458377318172741632, 
+                                                                              "reply": true, 
+                                                                              "timestamp": "Mon Apr 21 22:50:43 +0000 2014", 
+                                                                              "tree_size": 1, 
+                                                                              "tweet": "@anibundel @iboudreau @AngryBlackLady @DCPlod thanks! :D", 
+                                                                              "uid": 55901777, 
+                                                                              "user": 5, 
+                                                                              "user_score": 0.0, 
+                                                                              "users": {
+                                                                                "5": 1
+                                                                              }
+                                                                            }, 
+                                                                            {
+                                                                              "children": [
+                                                                                {
+                                                                                  "children": [
+                                                                                    {
+                                                                                      "entropy_score": 0.0, 
+                                                                                      "favourites": 0, 
+                                                                                      "follower": true, 
+                                                                                      "id": 458378034652147712, 
+                                                                                      "reply": true, 
+                                                                                      "timestamp": "Mon Apr 21 22:53:34 +0000 2014", 
+                                                                                      "tree_size": 1, 
+                                                                                      "tweet": "@anibundel @iboudreau @AngryBlackLady @DCPlod oh ok. but OMG EPISODE 10 YOU GUYS DON'T EVEN OH MY GOD YOU DON'T EVEN!!", 
+                                                                                      "uid": 55901777, 
+                                                                                      "user": 5, 
+                                                                                      "user_score": 0.0, 
+                                                                                      "users": {
+                                                                                        "5": 1
+                                                                                      }
+                                                                                    }
+                                                                                  ], 
+                                                                                  "entropy_score": 0.0, 
+                                                                                  "favourites": 0, 
+                                                                                  "follower": true, 
+                                                                                  "id": 458377804540018688, 
+                                                                                  "reply": true, 
+                                                                                  "timestamp": "Mon Apr 21 22:52:39 +0000 2014", 
+                                                                                  "tree_size": 2, 
+                                                                                  "tweet": "@myownpetard @DCPlod @AngryBlackLady @iboudreau this was episode three. Seven to go.", 
+                                                                                  "uid": 152224898, 
+                                                                                  "user": 1, 
+                                                                                  "user_score": 0.6931471805599453, 
+                                                                                  "users": {
+                                                                                    "1": 1, 
+                                                                                    "5": 1
+                                                                                  }
+                                                                                }
+                                                                              ], 
+                                                                              "entropy_score": 0.0, 
+                                                                              "favourites": 0, 
+                                                                              "follower": true, 
+                                                                              "id": 458377702060597248, 
+                                                                              "reply": true, 
+                                                                              "timestamp": "Mon Apr 21 22:52:15 +0000 2014", 
+                                                                              "tree_size": 3, 
+                                                                              "tweet": "@anibundel @DCPlod @AngryBlackLady @iboudreau what episode was this week?", 
+                                                                              "uid": 55901777, 
+                                                                              "user": 5, 
+                                                                              "user_score": 0.6365141682948128, 
+                                                                              "users": {
+                                                                                "1": 1, 
+                                                                                "5": 2
+                                                                              }
+                                                                            }
+                                                                          ], 
+                                                                          "entropy_score": 0.6185686590806891, 
+                                                                          "favourites": 0, 
+                                                                          "follower": true, 
+                                                                          "id": 458377227869368320, 
+                                                                          "reply": true, 
+                                                                          "timestamp": "Mon Apr 21 22:50:22 +0000 2014", 
+                                                                          "tree_size": 5, 
+                                                                          "tweet": "@myownpetard @DCPlod @AngryBlackLady @iboudreau here have a link. http://t.co/3CF7gAMqJH", 
+                                                                          "uid": 152224898, 
+                                                                          "user": 1, 
+                                                                          "user_score": 0.6730116670092565, 
+                                                                          "users": {
+                                                                            "1": 2, 
+                                                                            "5": 3
+                                                                          }
+                                                                        }
+                                                                      ], 
+                                                                      "entropy_score": 0.6185686590806891, 
+                                                                      "favourites": 0, 
+                                                                      "follower": true, 
+                                                                      "id": 458376614586621952, 
+                                                                      "reply": true, 
+                                                                      "timestamp": "Mon Apr 21 22:47:55 +0000 2014", 
+                                                                      "tree_size": 6, 
+                                                                      "tweet": "@anibundel @DCPlod @AngryBlackLady @iboudreau (i been busy today)", 
+                                                                      "uid": 55901777, 
+                                                                      "user": 5, 
+                                                                      "user_score": 0.6365141682948128, 
+                                                                      "users": {
+                                                                        "1": 2, 
+                                                                        "5": 4
+                                                                      }
+                                                                    }, 
+                                                                    {
+                                                                      "entropy_score": 0.0, 
+                                                                      "favourites": 0, 
+                                                                      "follower": true, 
+                                                                      "id": 458377987184787456, 
+                                                                      "reply": true, 
+                                                                      "timestamp": "Mon Apr 21 22:53:23 +0000 2014", 
+                                                                      "tree_size": 1, 
+                                                                      "tweet": "@anibundel @myownpetard @DCPlod @iboudreau i accidentally spoiled myself while poking around the GOT wiki, so i know what happens. :-)", 
+                                                                      "uid": 46822887, 
+                                                                      "user": 4, 
+                                                                      "user_score": 0.0, 
+                                                                      "users": {
+                                                                        "4": 1
+                                                                      }
+                                                                    }, 
+                                                                    {
+                                                                      "children": [
+                                                                        {
+                                                                          "children": [
+                                                                            {
+                                                                              "entropy_score": 0.0, 
+                                                                              "favourites": 0, 
+                                                                              "follower": true, 
+                                                                              "id": 458382150371254272, 
+                                                                              "reply": true, 
+                                                                              "timestamp": "Mon Apr 21 23:09:55 +0000 2014", 
+                                                                              "tree_size": 1, 
+                                                                              "tweet": "@anibundel @myownpetard @DCPlod @iboudreau hahahaha! nice.", 
+                                                                              "uid": 46822887, 
+                                                                              "user": 4, 
+                                                                              "user_score": 0.0, 
+                                                                              "users": {
+                                                                                "4": 1
+                                                                              }
+                                                                            }
+                                                                          ], 
+                                                                          "entropy_score": 0.0, 
+                                                                          "favourites": 0, 
+                                                                          "follower": false, 
+                                                                          "id": 458378274050420736, 
+                                                                          "reply": true, 
+                                                                          "timestamp": "Mon Apr 21 22:54:31 +0000 2014", 
+                                                                          "tree_size": 2, 
+                                                                          "tweet": "@AngryBlackLady @myownpetard @DCPlod @iboudreau that's what Shae said.", 
+                                                                          "uid": 152224898, 
+                                                                          "user": 1, 
+                                                                          "user_score": 0.6931471805599453, 
+                                                                          "users": {
+                                                                            "1": 1, 
+                                                                            "4": 1
+                                                                          }
+                                                                        }, 
+                                                                        {
+                                                                          "entropy_score": 0.0, 
+                                                                          "favourites": 0, 
+                                                                          "follower": false, 
+                                                                          "id": 458378460193648640, 
+                                                                          "reply": true, 
+                                                                          "timestamp": "Mon Apr 21 22:55:15 +0000 2014", 
+                                                                          "tree_size": 1, 
+                                                                          "tweet": "@AngryBlackLady @myownpetard @DCPlod @iboudreau (I'll see myself out for that one.)", 
+                                                                          "uid": 152224898, 
+                                                                          "user": 1, 
+                                                                          "user_score": 0.0, 
+                                                                          "users": {
+                                                                            "1": 1
+                                                                          }
+                                                                        }
+                                                                      ], 
+                                                                      "entropy_score": 0.7001655851242942, 
+                                                                      "favourites": 0, 
+                                                                      "follower": true, 
+                                                                      "id": 458378035574497280, 
+                                                                      "reply": true, 
+                                                                      "timestamp": "Mon Apr 21 22:53:34 +0000 2014", 
+                                                                      "tree_size": 4, 
+                                                                      "tweet": "@anibundel @myownpetard @DCPlod @iboudreau \"accidentally spoiled myself\" - PHRASING.", 
+                                                                      "uid": 46822887, 
+                                                                      "user": 4, 
+                                                                      "user_score": 0.6931471805599453, 
+                                                                      "users": {
+                                                                        "1": 2, 
+                                                                        "4": 2
+                                                                      }
+                                                                    }
+                                                                  ], 
+                                                                  "entropy_score": 2.558355918485727, 
+                                                                  "favourites": 0, 
+                                                                  "follower": true, 
+                                                                  "id": 458376377868505088, 
+                                                                  "important_entropy": true, 
+                                                                  "reply": true, 
+                                                                  "timestamp": "Mon Apr 21 22:46:59 +0000 2014", 
+                                                                  "tree_size": 13, 
+                                                                  "tweet": "@myownpetard @DCPlod @AngryBlackLady @iboudreau did you see the spoiler post? (Don't worry, ABL&amp;DCP, I wrote it spoiler-free)", 
+                                                                  "uid": 152224898, 
+                                                                  "user": 1, 
+                                                                  "user_score": 1.0733942812811266, 
+                                                                  "users": {
+                                                                    "1": 5, 
+                                                                    "4": 3, 
+                                                                    "5": 5
+                                                                  }
+                                                                }
+                                                              ], 
+                                                              "entropy_score": 2.558355918485727, 
+                                                              "favourites": 2, 
+                                                              "follower": true, 
+                                                              "id": 458375482976010240, 
+                                                              "reply": true, 
+                                                              "timestamp": "Mon Apr 21 22:43:26 +0000 2014", 
+                                                              "tree_size": 14, 
+                                                              "tweet": "@DCPlod @AngryBlackLady @anibundel @iboudreau HEEEEHEEEEEEEHEEEEETYWIN *shuts mouth*", 
+                                                              "uid": 55901777, 
+                                                              "user": 5, 
+                                                              "user_score": 1.060944240790747, 
+                                                              "users": {
+                                                                "1": 5, 
+                                                                "4": 3, 
+                                                                "5": 6
+                                                              }
+                                                            }
+                                                          ], 
+                                                          "entropy_score": 3.0681108331948, 
+                                                          "favourites": 0, 
+                                                          "follower": true, 
+                                                          "id": 458375068578762752, 
+                                                          "reply": true, 
+                                                          "timestamp": "Mon Apr 21 22:41:47 +0000 2014", 
+                                                          "tree_size": 17, 
+                                                          "tweet": "@myownpetard @AngryBlackLady @anibundel @iboudreau I really really wish something would happen to make Tywin have an epiphany re Arya", 
+                                                          "uid": 28654635, 
+                                                          "user": 0, 
+                                                          "user_score": 1.2930224700643995, 
+                                                          "users": {
+                                                            "0": 2, 
+                                                            "1": 6, 
+                                                            "4": 3, 
+                                                            "5": 6
+                                                          }
+                                                        }
+                                                      ], 
+                                                      "entropy_score": 5.209793808750938, 
+                                                      "favourites": 2, 
+                                                      "follower": true, 
+                                                      "id": 458374639971221505, 
+                                                      "important_entropy": true, 
+                                                      "reply": true, 
+                                                      "timestamp": "Mon Apr 21 22:40:05 +0000 2014", 
+                                                      "tree_size": 24, 
+                                                      "tweet": "@DCPlod @AngryBlackLady @anibundel @iboudreau TEAM ARYA", 
+                                                      "uid": 55901777, 
+                                                      "user": 5, 
+                                                      "user_score": 1.3723404465514712, 
+                                                      "users": {
+                                                        "0": 5, 
+                                                        "1": 7, 
+                                                        "4": 5, 
+                                                        "5": 7
+                                                      }
+                                                    }
+                                                  ], 
+                                                  "entropy_score": 5.209793808750938, 
+                                                  "favourites": 0, 
+                                                  "follower": false, 
+                                                  "id": 458374376401166337, 
+                                                  "reply": true, 
+                                                  "timestamp": "Mon Apr 21 22:39:02 +0000 2014", 
+                                                  "tree_size": 25, 
+                                                  "tweet": "@AngryBlackLady @myownpetard @anibundel @iboudreau I'm just going to go rewatch my fierce baby Arya on loop.", 
+                                                  "uid": 28654635, 
+                                                  "user": 0, 
+                                                  "user_score": 1.377256286295672, 
+                                                  "users": {
+                                                    "0": 6, 
+                                                    "1": 7, 
+                                                    "4": 5, 
+                                                    "5": 7
+                                                  }
+                                                }
+                                              ], 
+                                              "entropy_score": 5.209793808750938, 
+                                              "favourites": 0, 
+                                              "follower": true, 
+                                              "id": 458373800552169472, 
+                                              "reply": true, 
+                                              "timestamp": "Mon Apr 21 22:36:44 +0000 2014", 
+                                              "tree_size": 26, 
+                                              "tweet": "@myownpetard @anibundel @DCPlod @iboudreau yep. I just read that bit last week and then rewatched the pilot and was like, wtf.", 
+                                              "uid": 46822887, 
+                                              "user": 4, 
+                                              "user_score": 1.3833328565787495, 
+                                              "users": {
+                                                "0": 6, 
+                                                "1": 7, 
+                                                "4": 6, 
+                                                "5": 7
+                                              }
+                                            }
+                                          ], 
+                                          "entropy_score": 5.209793808750938, 
+                                          "favourites": 1, 
+                                          "follower": false, 
+                                          "id": 458373161449689089, 
+                                          "reply": true, 
+                                          "timestamp": "Mon Apr 21 22:34:12 +0000 2014", 
+                                          "tree_size": 27, 
+                                          "tweet": "@AngryBlackLady @anibundel @DCPlod @iboudreau their wedding night was sweet and gentle in the book (dani and drogo).", 
+                                          "uid": 55901777, 
+                                          "user": 5, 
+                                          "user_score": 1.3788732731316424, 
+                                          "users": {
+                                            "0": 6, 
+                                            "1": 7, 
+                                            "4": 6, 
+                                            "5": 8
+                                          }
+                                        }
+                                      ], 
+                                      "entropy_score": 9.691635597360111, 
+                                      "favourites": 1, 
+                                      "follower": true, 
+                                      "id": 458368719165460480, 
+                                      "important_entropy": true, 
+                                      "reply": true, 
+                                      "timestamp": "Mon Apr 21 22:16:33 +0000 2014", 
+                                      "tree_size": 50, 
+                                      "tweet": "@anibundel @DCPlod @iboudreau Did Benioff and Weiss also write the pilot? i.e., turning Dany and Khal Drogo's consummation into rape?", 
+                                      "uid": 46822887, 
+                                      "user": 4, 
+                                      "user_score": 1.5574401957758581, 
+                                      "users": {
+                                        "0": 10, 
+                                        "1": 14, 
+                                        "2": 1, 
+                                        "3": 2, 
+                                        "4": 13, 
+                                        "5": 10
+                                      }
+                                    }
+                                  ], 
+                                  "entropy_score": 17.48970453940497, 
+                                  "favourites": 0, 
+                                  "follower": true, 
+                                  "id": 458361051969781760, 
+                                  "important_entropy": true, 
+                                  "reply": true, 
+                                  "timestamp": "Mon Apr 21 21:46:05 +0000 2014", 
+                                  "tree_size": 83, 
+                                  "tweet": "@DCPlod @iboudreau I would really like Benioff and Weiss to address this, especially because they wrote the episode.", 
+                                  "uid": 152224898, 
+                                  "user": 1, 
+                                  "user_score": 1.6811680133126654, 
+                                  "users": {
+                                    "0": 16, 
+                                    "1": 25, 
+                                    "2": 3, 
+                                    "3": 6, 
+                                    "4": 21, 
+                                    "5": 10, 
+                                    "6": 2
+                                  }
+                                }
+                              ], 
+                              "entropy_score": 17.48970453940497, 
+                              "favourites": 0, 
+                              "follower": true, 
+                              "id": 458360603409924096, 
+                              "reply": true, 
+                              "timestamp": "Mon Apr 21 21:44:18 +0000 2014", 
+                              "tree_size": 84, 
+                              "tweet": "@anibundel @iboudreau ...before Jaime puts himself inside her. Absolutely not the case on the show.", 
+                              "uid": 28654635, 
+                              "user": 0, 
+                              "user_score": 1.6804592674708663, 
+                              "users": {
+                                "0": 17, 
+                                "1": 25, 
+                                "2": 3, 
+                                "3": 6, 
+                                "4": 21, 
+                                "5": 10, 
+                                "6": 2
+                              }
+                            }
+                          ], 
+                          "entropy_score": 17.560062424919348, 
+                          "favourites": 0, 
+                          "follower": true, 
+                          "id": 458359912557723649, 
+                          "reply": true, 
+                          "timestamp": "Mon Apr 21 21:41:33 +0000 2014", 
+                          "tree_size": 86, 
+                          "tweet": "@DCPlod @iboudreau there was nothing consensual about that scene. Every recapper I read today called it rape.", 
+                          "uid": 152224898, 
+                          "user": 1, 
+                          "user_score": 1.6737576242149688, 
+                          "users": {
+                            "0": 18, 
+                            "1": 26, 
+                            "2": 3, 
+                            "3": 6, 
+                            "4": 21, 
+                            "5": 10, 
+                            "6": 2
+                          }
+                        }
+                      ], 
+                      "entropy_score": 17.560062424919348, 
+                      "favourites": 0, 
+                      "follower": false, 
+                      "id": 458359558768197632, 
+                      "reply": true, 
+                      "timestamp": "Mon Apr 21 21:40:09 +0000 2014", 
+                      "tree_size": 87, 
+                      "tweet": "@iboudreau @anibundel ...because I sure as hell saw nothing consensual there.", 
+                      "uid": 28654635, 
+                      "user": 0, 
+                      "user_score": 1.6722487996046322, 
+                      "users": {
+                        "0": 19, 
+                        "1": 26, 
+                        "2": 3, 
+                        "3": 6, 
+                        "4": 21, 
+                        "5": 10, 
+                        "6": 2
+                      }
+                    }, 
+                    {
+                      "entropy_score": 0.0, 
+                      "favourites": 0, 
+                      "follower": false, 
+                      "id": 458392384221753344, 
+                      "reply": false, 
+                      "timestamp": "Mon Apr 21 23:50:35 +0000 2014", 
+                      "tree_size": 1, 
+                      "tweet": "RT @DCPlod: @iboudreau @anibundel The director said, and I quote: \"It turns consensual by the end.\" Must have ended up on cutting room floo\u2026", 
+                      "uid": 11148162, 
+                      "user": 2, 
+                      "user_score": 0.0, 
+                      "users": {
+                        "2": 1
+                      }
+                    }
+                  ], 
+                  "entropy_score": 17.628457841808515, 
+                  "favourites": 1, 
+                  "follower": true, 
+                  "id": 458359475557380096, 
+                  "important_users": true, 
+                  "reply": true, 
+                  "timestamp": "Mon Apr 21 21:39:49 +0000 2014", 
+                  "tree_size": 89, 
+                  "tweet": "@iboudreau @anibundel The director said, and I quote: \"It turns consensual by the end.\" Must have ended up on cutting room floor...", 
+                  "uid": 28654635, 
+                  "user": 0, 
+                  "user_score": 1.6878722550946288, 
+                  "users": {
+                    "0": 20, 
+                    "1": 26, 
+                    "2": 4, 
+                    "3": 6, 
+                    "4": 21, 
+                    "5": 10, 
+                    "6": 2
+                  }
+                }
+              ], 
+              "entropy_score": 17.628457841808515, 
+              "favourites": 0, 
+              "follower": false, 
+              "id": 458359178193403904, 
+              "important_users": true, 
+              "reply": true, 
+              "timestamp": "Mon Apr 21 21:38:38 +0000 2014", 
+              "tree_size": 90, 
+              "tweet": "@anibundel @DCPlod So having not read the books, that's exactly what I took it to be.", 
+              "uid": 40146181, 
+              "user": 3, 
+              "user_score": 1.6982672210996277, 
+              "users": {
+                "0": 20, 
+                "1": 26, 
+                "2": 4, 
+                "3": 7, 
+                "4": 21, 
+                "5": 10, 
+                "6": 2
+              }
+            }
+          ], 
+          "entropy_score": 18.672746658918726, 
+          "favourites": 0, 
+          "follower": true, 
+          "id": 458359083146309632, 
+          "important_users": true, 
+          "reply": true, 
+          "timestamp": "Mon Apr 21 21:38:15 +0000 2014", 
+          "tree_size": 96, 
+          "tweet": "@anibundel @DCPlod Just watched it now and it read exactly the same way as Maid Marian's rape in Robin Hood: Prince of Thieves.", 
+          "uid": 40146181, 
+          "user": 3, 
+          "user_score": 1.697120427034947, 
+          "users": {
+            "0": 21, 
+            "1": 29, 
+            "2": 4, 
+            "3": 9, 
+            "4": 21, 
+            "5": 10, 
+            "6": 2
+          }
+        }
+      ], 
+      "entropy_score": 18.797892834242035, 
+      "favourites": 0, 
+      "follower": true, 
+      "id": 458358753583460352, 
+      "important_users": true, 
+      "reply": true, 
+      "timestamp": "Mon Apr 21 21:36:57 +0000 2014", 
+      "tree_size": 99, 
+      "tweet": "@DCPlod the point is that a) as staged it was rape in the show. And b) the director DIDNT KNOW IT.", 
+      "uid": 152224898, 
+      "user": 1, 
+      "user_score": 1.704128106041698, 
+      "users": {
+        "0": 22, 
+        "1": 30, 
+        "2": 5, 
+        "3": 9, 
+        "4": 21, 
+        "5": 10, 
+        "6": 2
+      }
+    }
+  ], 
+  "entropy_score": 18.853894368596883, 
+  "favourites": 0, 
+  "id": 458358405460398080, 
+  "important_users": true, 
+  "reply": false, 
+  "timestamp": "Mon Apr 21 21:35:34 +0000 2014", 
+  "total_tweets": 101, 
+  "total_users": 7, 
+  "tree_size": 101, 
+  "tweet": "@anibundel I'm fuming about that scene. I actually had to check the book b/c I couldn't believe GRRM would fuck up JL's arc like that", 
+  "uid": 28654635, 
+  "user": 0, 
+  "user_score": 1.6969096500406784, 
+  "users": {
+    "0": 23, 
+    "1": 31, 
+    "2": 5, 
+    "3": 9, 
+    "4": 21, 
+    "5": 10, 
+    "6": 2
+  }
+}

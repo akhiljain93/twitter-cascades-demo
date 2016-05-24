@@ -1,0 +1,1971 @@
+{
+  "children": [
+    {
+      "entropy_score": 0.0, 
+      "favourites": 0, 
+      "follower": false, 
+      "id": 460181810727505920, 
+      "reply": false, 
+      "timestamp": "Sat Apr 26 22:21:08 +0000 2014", 
+      "tree_size": 1, 
+      "tweet": "RT @WendyDavisTexas: We're offering a $5 discount for a limited time on #TeamWendy vintage logo white t-shirts! Get yours while they last: \u2026", 
+      "uid": 19173370, 
+      "user": 24, 
+      "user_score": 0.0, 
+      "users": {
+        "24": 1
+      }
+    }, 
+    {
+      "entropy_score": 0.0, 
+      "favourites": 1, 
+      "follower": false, 
+      "id": 460182125841764352, 
+      "reply": true, 
+      "timestamp": "Sat Apr 26 22:22:23 +0000 2014", 
+      "tree_size": 1, 
+      "tweet": ".@WendyDavisTexas I love the \"vintage\" label. Let's take this to the next level - \"I Like #TeamWendy\" gear instead of \"I Like Ike.\" #TX2014", 
+      "uid": 563343220, 
+      "user": 23, 
+      "user_score": 0.0, 
+      "users": {
+        "23": 1
+      }
+    }, 
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "entropy_score": 0.0, 
+              "favourites": 0, 
+              "follower": false, 
+              "id": 460182429123092480, 
+              "reply": false, 
+              "timestamp": "Sat Apr 26 22:23:35 +0000 2014", 
+              "tree_size": 1, 
+              "tweet": "RT @VictorB123: @tedscott4 I think she is just raising money to donate to other campaigns. Knows she isn't going to win. @WendyDavisTexas", 
+              "uid": 20592715, 
+              "user": 21, 
+              "user_score": 0.0, 
+              "users": {
+                "21": 1
+              }
+            }, 
+            {
+              "entropy_score": 0.0, 
+              "favourites": 0, 
+              "follower": true, 
+              "id": 460182707365244928, 
+              "reply": true, 
+              "timestamp": "Sat Apr 26 22:24:41 +0000 2014", 
+              "tree_size": 1, 
+              "tweet": ".@VictorB123 @WendyDavisTexas She wants to be the Far Left Sarah Palin \\nbut, not going to happen", 
+              "uid": 515597525, 
+              "user": 20, 
+              "user_score": 0.0, 
+              "users": {
+                "20": 1
+              }
+            }
+          ], 
+          "entropy_score": 0.7624618986159398, 
+          "favourites": 0, 
+          "follower": false, 
+          "id": 460182371107491840, 
+          "reply": true, 
+          "timestamp": "Sat Apr 26 22:23:21 +0000 2014", 
+          "tree_size": 3, 
+          "tweet": "@tedscott4 I think she is just raising money to donate to other campaigns. Knows she isn't going to win. @WendyDavisTexas", 
+          "uid": 21345227, 
+          "user": 22, 
+          "user_score": 1.0986122886681096, 
+          "users": {
+            "20": 1, 
+            "21": 1, 
+            "22": 1
+          }
+        }, 
+        {
+          "entropy_score": 0.0, 
+          "favourites": 0, 
+          "follower": false, 
+          "id": 460182529207566336, 
+          "reply": false, 
+          "timestamp": "Sat Apr 26 22:23:59 +0000 2014", 
+          "tree_size": 1, 
+          "tweet": "RT @tedscott4: .@WendyDavisTexas Since you are going to be stuck as a State Senator\\nTrying to make a few bucks off the Texas Rubes?", 
+          "uid": 20592715, 
+          "user": 21, 
+          "user_score": 0.0, 
+          "users": {
+            "21": 1
+          }
+        }
+      ], 
+      "entropy_score": 1.381030557696629, 
+      "favourites": 0, 
+      "follower": false, 
+      "id": 460182139473248257, 
+      "reply": true, 
+      "timestamp": "Sat Apr 26 22:22:26 +0000 2014", 
+      "tree_size": 5, 
+      "tweet": ".@WendyDavisTexas Since you are going to be stuck as a State Senator\\nTrying to make a few bucks off the Texas Rubes?", 
+      "uid": 515597525, 
+      "user": 20, 
+      "user_score": 1.0549201679861442, 
+      "users": {
+        "20": 2, 
+        "21": 2, 
+        "22": 1
+      }
+    }, 
+    {
+      "entropy_score": 0.0, 
+      "favourites": 0, 
+      "follower": false, 
+      "id": 460182583171907584, 
+      "reply": false, 
+      "timestamp": "Sat Apr 26 22:24:12 +0000 2014", 
+      "tree_size": 1, 
+      "tweet": "RT @WendyDavisTexas: We're offering a $5 discount for a limited time on #TeamWendy vintage logo white t-shirts! Get yours while they last: \u2026", 
+      "uid": 71263, 
+      "user": 19, 
+      "user_score": 0.0, 
+      "users": {
+        "19": 1
+      }
+    }, 
+    {
+      "entropy_score": 0.0, 
+      "favourites": 0, 
+      "follower": false, 
+      "id": 460184571888152577, 
+      "reply": false, 
+      "timestamp": "Sat Apr 26 22:32:06 +0000 2014", 
+      "tree_size": 1, 
+      "tweet": "RT @WendyDavisTexas: We're offering a $5 discount for a limited time on #TeamWendy vintage logo white t-shirts! Get yours while they last: \u2026", 
+      "uid": 18373340, 
+      "user": 18, 
+      "user_score": 0.0, 
+      "users": {
+        "18": 1
+      }
+    }, 
+    {
+      "entropy_score": 0.0, 
+      "favourites": 0, 
+      "follower": false, 
+      "id": 460186149546242049, 
+      "reply": false, 
+      "timestamp": "Sat Apr 26 22:38:22 +0000 2014", 
+      "tree_size": 1, 
+      "tweet": "RT @WendyDavisTexas: We're offering a $5 discount for a limited time on #TeamWendy vintage logo white t-shirts! Get yours while they last: \u2026", 
+      "uid": 341285407, 
+      "user": 14, 
+      "user_score": 0.0, 
+      "users": {
+        "14": 1
+      }
+    }, 
+    {
+      "entropy_score": 0.0, 
+      "favourites": 0, 
+      "follower": false, 
+      "id": 460187548137320449, 
+      "reply": false, 
+      "timestamp": "Sat Apr 26 22:43:56 +0000 2014", 
+      "tree_size": 1, 
+      "tweet": "RT @WendyDavisTexas: We're offering a $5 discount for a limited time on #TeamWendy vintage logo white t-shirts! Get yours while they last: \u2026", 
+      "uid": 462351266, 
+      "user": 13, 
+      "user_score": 0.0, 
+      "users": {
+        "13": 1
+      }
+    }, 
+    {
+      "entropy_score": 0.0, 
+      "favourites": 0, 
+      "follower": false, 
+      "id": 460187982490632193, 
+      "reply": false, 
+      "timestamp": "Sat Apr 26 22:45:39 +0000 2014", 
+      "tree_size": 1, 
+      "tweet": "RT @WendyDavisTexas: We're offering a $5 discount for a limited time on #TeamWendy vintage logo white t-shirts! Get yours while they last: \u2026", 
+      "uid": 21660781, 
+      "user": 12, 
+      "user_score": 0.0, 
+      "users": {
+        "12": 1
+      }
+    }, 
+    {
+      "entropy_score": 0.0, 
+      "favourites": 0, 
+      "follower": false, 
+      "id": 460189160955863040, 
+      "reply": false, 
+      "timestamp": "Sat Apr 26 22:50:20 +0000 2014", 
+      "tree_size": 1, 
+      "tweet": "RT @WendyDavisTexas: We're offering a $5 discount for a limited time on #TeamWendy vintage logo white t-shirts! Get yours while they last: \u2026", 
+      "uid": 176534793, 
+      "user": 11, 
+      "user_score": 0.0, 
+      "users": {
+        "11": 1
+      }
+    }, 
+    {
+      "entropy_score": 0.0, 
+      "favourites": 0, 
+      "follower": false, 
+      "id": 460192493405863936, 
+      "reply": true, 
+      "timestamp": "Sat Apr 26 23:03:35 +0000 2014", 
+      "tree_size": 1, 
+      "tweet": "@WendyDavisTexas makes perfect sense. Too much inventory not moving, means selling at a cheaper price. Clears out unwanted merchandise", 
+      "uid": 236086809, 
+      "user": 10, 
+      "user_score": 0.0, 
+      "users": {
+        "10": 1
+      }
+    }, 
+    {
+      "children": [
+        {
+          "entropy_score": 0.0, 
+          "favourites": 0, 
+          "follower": false, 
+          "id": 460242117701287937, 
+          "reply": false, 
+          "timestamp": "Sun Apr 27 02:20:46 +0000 2014", 
+          "tree_size": 1, 
+          "tweet": "RT @MSMisPropaganda: .@WendyDavisTexas Does it come with a complimentary urinary catheter and aborted fetus posters?", 
+          "uid": 19877089, 
+          "user": 3, 
+          "user_score": 0.0, 
+          "users": {
+            "3": 1
+          }
+        }, 
+        {
+          "entropy_score": 0.0, 
+          "favourites": 0, 
+          "follower": true, 
+          "id": 460432977294409730, 
+          "reply": false, 
+          "timestamp": "Sun Apr 27 14:59:10 +0000 2014", 
+          "tree_size": 1, 
+          "tweet": "RT @MSMisPropaganda: .@WendyDavisTexas Does it come with a complimentary urinary catheter and aborted fetus posters?", 
+          "uid": 437993237, 
+          "user": 9, 
+          "user_score": 0.0, 
+          "users": {
+            "9": 1
+          }
+        }
+      ], 
+      "entropy_score": 0.7624618986159398, 
+      "favourites": 0, 
+      "follower": false, 
+      "id": 460194761458987008, 
+      "reply": true, 
+      "timestamp": "Sat Apr 26 23:12:35 +0000 2014", 
+      "tree_size": 3, 
+      "tweet": ".@WendyDavisTexas Does it come with a complimentary urinary catheter and aborted fetus posters?", 
+      "uid": 916888770, 
+      "user": 8, 
+      "user_score": 1.0986122886681096, 
+      "users": {
+        "3": 1, 
+        "8": 1, 
+        "9": 1
+      }
+    }, 
+    {
+      "entropy_score": 0.0, 
+      "favourites": 0, 
+      "follower": false, 
+      "id": 460201548027813888, 
+      "reply": false, 
+      "timestamp": "Sat Apr 26 23:39:33 +0000 2014", 
+      "tree_size": 1, 
+      "tweet": "RT @WendyDavisTexas: We're offering a $5 discount for a limited time on #TeamWendy vintage logo white t-shirts! Get yours while they last: \u2026", 
+      "uid": 53503202, 
+      "user": 7, 
+      "user_score": 0.0, 
+      "users": {
+        "7": 1
+      }
+    }, 
+    {
+      "entropy_score": 0.0, 
+      "favourites": 0, 
+      "follower": false, 
+      "id": 460201843210350592, 
+      "reply": false, 
+      "timestamp": "Sat Apr 26 23:40:44 +0000 2014", 
+      "tree_size": 1, 
+      "tweet": "RT @WendyDavisTexas: We're offering a $5 discount for a limited time on #TeamWendy vintage logo white t-shirts! Get yours while they last: \u2026", 
+      "uid": 18735647, 
+      "user": 6, 
+      "user_score": 0.0, 
+      "users": {
+        "6": 1
+      }
+    }, 
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "children": [
+                                    {
+                                      "children": [
+                                        {
+                                          "entropy_score": 0.0, 
+                                          "favourites": 0, 
+                                          "follower": false, 
+                                          "id": 460245571790307328, 
+                                          "reply": true, 
+                                          "timestamp": "Sun Apr 27 02:34:29 +0000 2014", 
+                                          "tree_size": 1, 
+                                          "tweet": "@suemclean @WendyDavisTexas VS GOP KOCH Ideology 2 mentally slave voters by imposing insulting moral policy lucifer ideology will destroy us", 
+                                          "uid": 1928484085, 
+                                          "user": 2, 
+                                          "user_score": 0.0, 
+                                          "users": {
+                                            "2": 1
+                                          }
+                                        }
+                                      ], 
+                                      "entropy_score": 0.0, 
+                                      "favourites": 0, 
+                                      "follower": false, 
+                                      "id": 460244634464038913, 
+                                      "reply": true, 
+                                      "timestamp": "Sun Apr 27 02:30:46 +0000 2014", 
+                                      "tree_size": 2, 
+                                      "tweet": "@suemclean @WendyDavisTexas no .. FATHER IN HEAVENS CONTROLS LIFE AND DEATH .. life occurs at heart beat .. no democrat fav late term abor", 
+                                      "uid": 1928484085, 
+                                      "user": 2, 
+                                      "user_score": 0.0, 
+                                      "users": {
+                                        "2": 2
+                                      }
+                                    }, 
+                                    {
+                                      "entropy_score": 0.0, 
+                                      "favourites": 0, 
+                                      "follower": false, 
+                                      "id": 460246011739246593, 
+                                      "reply": true, 
+                                      "timestamp": "Sun Apr 27 02:36:14 +0000 2014", 
+                                      "tree_size": 1, 
+                                      "tweet": "@suemclean @WendyDavisTexas question, GOP koch hypocrisy is hilarious.. life not entered our world or left the womb is central point?", 
+                                      "uid": 1928484085, 
+                                      "user": 2, 
+                                      "user_score": 0.0, 
+                                      "users": {
+                                        "2": 1
+                                      }
+                                    }, 
+                                    {
+                                      "entropy_score": 0.0, 
+                                      "favourites": 0, 
+                                      "follower": false, 
+                                      "id": 460246250164482048, 
+                                      "reply": true, 
+                                      "timestamp": "Sun Apr 27 02:37:11 +0000 2014", 
+                                      "tree_size": 1, 
+                                      "tweet": "@suemclean @WendyDavisTexas but same life when its actually in existence after leaving mothers womb, will be denied HEALTH, FOOD STAMPS", 
+                                      "uid": 1928484085, 
+                                      "user": 2, 
+                                      "user_score": 0.0, 
+                                      "users": {
+                                        "2": 1
+                                      }
+                                    }, 
+                                    {
+                                      "entropy_score": 0.0, 
+                                      "favourites": 0, 
+                                      "follower": false, 
+                                      "id": 460246597188612096, 
+                                      "reply": true, 
+                                      "timestamp": "Sun Apr 27 02:38:34 +0000 2014", 
+                                      "tree_size": 1, 
+                                      "tweet": "@suemclean @WendyDavisTexas and same life when in existence running giggling learning growing; left unguarded to NRA GUN VULTURES greed?", 
+                                      "uid": 1928484085, 
+                                      "user": 2, 
+                                      "user_score": 0.0, 
+                                      "users": {
+                                        "2": 1
+                                      }
+                                    }, 
+                                    {
+                                      "entropy_score": 0.0, 
+                                      "favourites": 0, 
+                                      "follower": false, 
+                                      "id": 460247658670469121, 
+                                      "reply": true, 
+                                      "timestamp": "Sun Apr 27 02:42:47 +0000 2014", 
+                                      "tree_size": 1, 
+                                      "tweet": "@suemclean @WendyDavisTexas Answer GOP ZOMBIE &amp; mentally slaved;  is this what CHRIST do? allow greedy koch NRA gun vultures to slave us?", 
+                                      "uid": 1928484085, 
+                                      "user": 2, 
+                                      "user_score": 0.0, 
+                                      "users": {
+                                        "2": 1
+                                      }
+                                    }, 
+                                    {
+                                      "children": [
+                                        {
+                                          "children": [
+                                            {
+                                              "children": [
+                                                {
+                                                  "entropy_score": 0.0, 
+                                                  "favourites": 0, 
+                                                  "follower": false, 
+                                                  "id": 460250990894010368, 
+                                                  "reply": true, 
+                                                  "timestamp": "Sun Apr 27 02:56:01 +0000 2014", 
+                                                  "tree_size": 1, 
+                                                  "tweet": "@suemclean @WendyDavisTexas  &amp; before u fake charred of compassion for in preparation life in womb,SHOW SOME RESPECT FOR THOSE ALREADY HERE", 
+                                                  "uid": 1928484085, 
+                                                  "user": 2, 
+                                                  "user_score": 0.0, 
+                                                  "users": {
+                                                    "2": 1
+                                                  }
+                                                }, 
+                                                {
+                                                  "children": [
+                                                    {
+                                                      "entropy_score": 0.0, 
+                                                      "favourites": 0, 
+                                                      "follower": false, 
+                                                      "id": 460259983221731328, 
+                                                      "reply": false, 
+                                                      "timestamp": "Sun Apr 27 03:31:45 +0000 2014", 
+                                                      "tree_size": 1, 
+                                                      "tweet": "RT @F2Ford: @AnalyzeVSjudge @suemclean @WendyDavisTexas wow, you gave Wendy a promotion...from Golddigger to Maddam!!!\\nShe'll never be \"Gov\u2026", 
+                                                      "uid": 19877089, 
+                                                      "user": 3, 
+                                                      "user_score": 0.0, 
+                                                      "users": {
+                                                        "3": 1
+                                                      }
+                                                    }, 
+                                                    {
+                                                      "entropy_score": 0.0, 
+                                                      "favourites": 0, 
+                                                      "follower": false, 
+                                                      "id": 460265437616291841, 
+                                                      "reply": false, 
+                                                      "timestamp": "Sun Apr 27 03:53:26 +0000 2014", 
+                                                      "tree_size": 1, 
+                                                      "tweet": "RT @F2Ford: @AnalyzeVSjudge @suemclean @WendyDavisTexas wow, you gave Wendy a promotion...from Golddigger to Maddam!!!\\nShe'll never be \"Gov\u2026", 
+                                                      "uid": 52190807, 
+                                                      "user": 4, 
+                                                      "user_score": 0.0, 
+                                                      "users": {
+                                                        "4": 1
+                                                      }
+                                                    }, 
+                                                    {
+                                                      "children": [
+                                                        {
+                                                          "entropy_score": 0.0, 
+                                                          "favourites": 0, 
+                                                          "follower": false, 
+                                                          "id": 460269481881636866, 
+                                                          "reply": false, 
+                                                          "timestamp": "Sun Apr 27 04:09:30 +0000 2014", 
+                                                          "tree_size": 1, 
+                                                          "tweet": "RT @suemclean: @F2Ford @AnalyzeVSjudge @WendyDavisTexas @pmbasse Praise God for that!", 
+                                                          "uid": 48561717, 
+                                                          "user": 5, 
+                                                          "user_score": 0.0, 
+                                                          "users": {
+                                                            "5": 1
+                                                          }
+                                                        }, 
+                                                        {
+                                                          "children": [
+                                                            {
+                                                              "entropy_score": 0.0, 
+                                                              "favourites": 0, 
+                                                              "follower": false, 
+                                                              "id": 460274246862659584, 
+                                                              "reply": true, 
+                                                              "timestamp": "Sun Apr 27 04:28:26 +0000 2014", 
+                                                              "tree_size": 1, 
+                                                              "tweet": "@AnalyzeVSjudge @suemclean @WendyDavisTexas @pmbasse God bless the Koch brothers who care about the integrity ... http://t.co/1SELP3Ndg5", 
+                                                              "uid": 48561717, 
+                                                              "user": 5, 
+                                                              "user_score": 0.0, 
+                                                              "users": {
+                                                                "5": 1
+                                                              }
+                                                            }, 
+                                                            {
+                                                              "children": [
+                                                                {
+                                                                  "children": [
+                                                                    {
+                                                                      "children": [
+                                                                        {
+                                                                          "entropy_score": 0.0, 
+                                                                          "favourites": 0, 
+                                                                          "follower": false, 
+                                                                          "id": 460278058306379776, 
+                                                                          "reply": true, 
+                                                                          "timestamp": "Sun Apr 27 04:43:35 +0000 2014", 
+                                                                          "tree_size": 1, 
+                                                                          "tweet": "@F2Ford @AnalyzeVSjudge @suemclean @WendyDavisTexas @pmbasse Not seeing the name \"Koch\" on this list of big donor political, mostly unions.", 
+                                                                          "uid": 48561717, 
+                                                                          "user": 5, 
+                                                                          "user_score": 0.0, 
+                                                                          "users": {
+                                                                            "5": 1
+                                                                          }
+                                                                        }
+                                                                      ], 
+                                                                      "entropy_score": 0.0, 
+                                                                      "favourites": 0, 
+                                                                      "follower": false, 
+                                                                      "id": 460276054502817793, 
+                                                                      "reply": true, 
+                                                                      "timestamp": "Sun Apr 27 04:35:37 +0000 2014", 
+                                                                      "tree_size": 2, 
+                                                                      "tweet": "@AnalyzeVSjudge @suemclean @WendyDavisTexas @pmbasse Before accepting anything, how are the Koch brothers something considered bad?", 
+                                                                      "uid": 48561717, 
+                                                                      "user": 5, 
+                                                                      "user_score": 0.0, 
+                                                                      "users": {
+                                                                        "5": 2
+                                                                      }
+                                                                    }, 
+                                                                    {
+                                                                      "children": [
+                                                                        {
+                                                                          "children": [
+                                                                            {
+                                                                              "children": [
+                                                                                {
+                                                                                  "entropy_score": 0.0, 
+                                                                                  "favourites": 0, 
+                                                                                  "follower": false, 
+                                                                                  "id": 460284754470768640, 
+                                                                                  "reply": true, 
+                                                                                  "timestamp": "Sun Apr 27 05:10:11 +0000 2014", 
+                                                                                  "tree_size": 1, 
+                                                                                  "tweet": "@F2Ford @AnalyzeVSjudge @pmbasse @suemclean @WendyDavisTexas what is your next deflect Alex...you can go all night and never make a point", 
+                                                                                  "uid": 48561717, 
+                                                                                  "user": 5, 
+                                                                                  "user_score": 0.0, 
+                                                                                  "users": {
+                                                                                    "5": 1
+                                                                                  }
+                                                                                }, 
+                                                                                {
+                                                                                  "entropy_score": 0.0, 
+                                                                                  "favourites": 0, 
+                                                                                  "follower": false, 
+                                                                                  "id": 460285270319828994, 
+                                                                                  "reply": false, 
+                                                                                  "timestamp": "Sun Apr 27 05:12:14 +0000 2014", 
+                                                                                  "tree_size": 1, 
+                                                                                  "tweet": "RT @F2Ford: @AnalyzeVSjudge @pmbasse @suemclean @WendyDavisTexas Self employed and prefer to pay for my healthcare without the \"gotchas\" of\u2026", 
+                                                                                  "uid": 52190807, 
+                                                                                  "user": 4, 
+                                                                                  "user_score": 0.0, 
+                                                                                  "users": {
+                                                                                    "4": 1
+                                                                                  }
+                                                                                }
+                                                                              ], 
+                                                                              "entropy_score": 0.7624618986159398, 
+                                                                              "favourites": 0, 
+                                                                              "follower": false, 
+                                                                              "id": 460284257764519939, 
+                                                                              "reply": true, 
+                                                                              "timestamp": "Sun Apr 27 05:08:13 +0000 2014", 
+                                                                              "tree_size": 3, 
+                                                                              "tweet": "@AnalyzeVSjudge @pmbasse @suemclean @WendyDavisTexas Self employed and prefer to pay for my healthcare without the \"gotchas\" of your ACA", 
+                                                                              "uid": 48561717, 
+                                                                              "user": 5, 
+                                                                              "user_score": 0.6365141682948128, 
+                                                                              "users": {
+                                                                                "4": 1, 
+                                                                                "5": 2
+                                                                              }
+                                                                            }, 
+                                                                            {
+                                                                              "children": [
+                                                                                {
+                                                                                  "entropy_score": 0.0, 
+                                                                                  "favourites": 0, 
+                                                                                  "follower": false, 
+                                                                                  "id": 460285612864442368, 
+                                                                                  "reply": false, 
+                                                                                  "timestamp": "Sun Apr 27 05:13:36 +0000 2014", 
+                                                                                  "tree_size": 1, 
+                                                                                  "tweet": "RT @pmbasse: @AnalyzeVSjudge @suemclean @F2Ford @WendyDavisTexas We have our OWN health care. Not having NOTHING TO DO w  FAILED obamacare", 
+                                                                                  "uid": 48561717, 
+                                                                                  "user": 5, 
+                                                                                  "user_score": 0.0, 
+                                                                                  "users": {
+                                                                                    "5": 1
+                                                                                  }
+                                                                                }, 
+                                                                                {
+                                                                                  "children": [
+                                                                                    {
+                                                                                      "children": [
+                                                                                        {
+                                                                                          "entropy_score": 0.0, 
+                                                                                          "favourites": 0, 
+                                                                                          "follower": false, 
+                                                                                          "id": 460287591078572034, 
+                                                                                          "reply": true, 
+                                                                                          "timestamp": "Sun Apr 27 05:21:28 +0000 2014", 
+                                                                                          "tree_size": 1, 
+                                                                                          "tweet": "@AnalyzeVSjudge @pmbasse @suemclean @WendyDavisTexas if I pay IRS to not have maternity care and my ins co plan explain how that is ACA?", 
+                                                                                          "uid": 48561717, 
+                                                                                          "user": 5, 
+                                                                                          "user_score": 0.0, 
+                                                                                          "users": {
+                                                                                            "5": 1
+                                                                                          }
+                                                                                        }, 
+                                                                                        {
+                                                                                          "children": [
+                                                                                            {
+                                                                                              "children": [
+                                                                                                {
+                                                                                                  "children": [
+                                                                                                    {
+                                                                                                      "entropy_score": 0.0, 
+                                                                                                      "favourites": 0, 
+                                                                                                      "follower": false, 
+                                                                                                      "id": 460289573327605760, 
+                                                                                                      "reply": true, 
+                                                                                                      "timestamp": "Sun Apr 27 05:29:20 +0000 2014", 
+                                                                                                      "tree_size": 1, 
+                                                                                                      "tweet": "@F2Ford Thanks...good nite:)", 
+                                                                                                      "uid": 52190807, 
+                                                                                                      "user": 4, 
+                                                                                                      "user_score": 0.0, 
+                                                                                                      "users": {
+                                                                                                        "4": 1
+                                                                                                      }
+                                                                                                    }
+                                                                                                  ], 
+                                                                                                  "entropy_score": 0.0, 
+                                                                                                  "favourites": 0, 
+                                                                                                  "follower": false, 
+                                                                                                  "id": 460289071412031488, 
+                                                                                                  "reply": true, 
+                                                                                                  "timestamp": "Sun Apr 27 05:27:21 +0000 2014", 
+                                                                                                  "tree_size": 2, 
+                                                                                                  "tweet": "@pmbasse pretty pathetic...yep, will do", 
+                                                                                                  "uid": 48561717, 
+                                                                                                  "user": 5, 
+                                                                                                  "user_score": 0.6931471805599453, 
+                                                                                                  "users": {
+                                                                                                    "4": 1, 
+                                                                                                    "5": 1
+                                                                                                  }
+                                                                                                }, 
+                                                                                                {
+                                                                                                  "children": [
+                                                                                                    {
+                                                                                                      "entropy_score": 0.0, 
+                                                                                                      "favourites": 0, 
+                                                                                                      "follower": false, 
+                                                                                                      "id": 460289788365377536, 
+                                                                                                      "reply": true, 
+                                                                                                      "timestamp": "Sun Apr 27 05:30:11 +0000 2014", 
+                                                                                                      "tree_size": 1, 
+                                                                                                      "tweet": "@AnalyzeVSjudge you want to find me and say your issues in person...just ask.", 
+                                                                                                      "uid": 48561717, 
+                                                                                                      "user": 5, 
+                                                                                                      "user_score": 0.0, 
+                                                                                                      "users": {
+                                                                                                        "5": 1
+                                                                                                      }
+                                                                                                    }
+                                                                                                  ], 
+                                                                                                  "entropy_score": 0.0, 
+                                                                                                  "favourites": 0, 
+                                                                                                  "follower": false, 
+                                                                                                  "id": 460289321182842880, 
+                                                                                                  "reply": true, 
+                                                                                                  "timestamp": "Sun Apr 27 05:28:20 +0000 2014", 
+                                                                                                  "tree_size": 2, 
+                                                                                                  "tweet": "@pmbasse @F2Ford @suemclean @WendyDavisTexas well than remember \" dont start nothing there wont be nothing\" .easy to bully jab? but to face?", 
+                                                                                                  "uid": 1928484085, 
+                                                                                                  "user": 2, 
+                                                                                                  "user_score": 0.6931471805599453, 
+                                                                                                  "users": {
+                                                                                                    "2": 1, 
+                                                                                                    "5": 1
+                                                                                                  }
+                                                                                                }, 
+                                                                                                {
+                                                                                                  "children": [
+                                                                                                    {
+                                                                                                      "children": [
+                                                                                                        {
+                                                                                                          "children": [
+                                                                                                            {
+                                                                                                              "entropy_score": 0.0, 
+                                                                                                              "favourites": 0, 
+                                                                                                              "follower": false, 
+                                                                                                              "id": 460291159089102848, 
+                                                                                                              "reply": true, 
+                                                                                                              "timestamp": "Sun Apr 27 05:35:38 +0000 2014", 
+                                                                                                              "tree_size": 1, 
+                                                                                                              "tweet": "@AnalyzeVSjudge you do realize that in the end Wendy Davis will loose in November and all your (perverse) points will be meaningless", 
+                                                                                                              "uid": 48561717, 
+                                                                                                              "user": 5, 
+                                                                                                              "user_score": 0.0, 
+                                                                                                              "users": {
+                                                                                                                "5": 1
+                                                                                                              }
+                                                                                                            }, 
+                                                                                                            {
+                                                                                                              "children": [
+                                                                                                                {
+                                                                                                                  "entropy_score": 0.0, 
+                                                                                                                  "favourites": 0, 
+                                                                                                                  "follower": false, 
+                                                                                                                  "id": 460296700049883136, 
+                                                                                                                  "reply": true, 
+                                                                                                                  "timestamp": "Sun Apr 27 05:57:39 +0000 2014", 
+                                                                                                                  "tree_size": 1, 
+                                                                                                                  "tweet": "@AnalyzeVSjudge you must be afraid to go mono y mono on a topic.", 
+                                                                                                                  "uid": 48561717, 
+                                                                                                                  "user": 5, 
+                                                                                                                  "user_score": 0.0, 
+                                                                                                                  "users": {
+                                                                                                                    "5": 1
+                                                                                                                  }
+                                                                                                                }
+                                                                                                              ], 
+                                                                                                              "entropy_score": 0.0, 
+                                                                                                              "favourites": 0, 
+                                                                                                              "follower": false, 
+                                                                                                              "id": 460292639254802432, 
+                                                                                                              "reply": true, 
+                                                                                                              "timestamp": "Sun Apr 27 05:41:31 +0000 2014", 
+                                                                                                              "tree_size": 2, 
+                                                                                                              "tweet": "@AnalyzeVSjudge so pussy's like you try to bully others to accept your beliefs instead of making a logical point?", 
+                                                                                                              "uid": 48561717, 
+                                                                                                              "user": 5, 
+                                                                                                              "user_score": 0.0, 
+                                                                                                              "users": {
+                                                                                                                "5": 2
+                                                                                                              }
+                                                                                                            }
+                                                                                                          ], 
+                                                                                                          "entropy_score": 0.7001655851242942, 
+                                                                                                          "favourites": 0, 
+                                                                                                          "follower": false, 
+                                                                                                          "id": 460290044234715136, 
+                                                                                                          "reply": true, 
+                                                                                                          "timestamp": "Sun Apr 27 05:31:12 +0000 2014", 
+                                                                                                          "tree_size": 4, 
+                                                                                                          "tweet": "@pmbasse @F2Ford @suemclean @WendyDavisTexas as cowards will and can block or embarrass idiot .. but u cant remove what i wrote lol enjoy", 
+                                                                                                          "uid": 1928484085, 
+                                                                                                          "user": 2, 
+                                                                                                          "user_score": 0.5623351446188083, 
+                                                                                                          "users": {
+                                                                                                            "2": 1, 
+                                                                                                            "5": 3
+                                                                                                          }
+                                                                                                        }, 
+                                                                                                        {
+                                                                                                          "entropy_score": 0.0, 
+                                                                                                          "favourites": 0, 
+                                                                                                          "follower": false, 
+                                                                                                          "id": 460290402336002048, 
+                                                                                                          "reply": true, 
+                                                                                                          "timestamp": "Sun Apr 27 05:32:38 +0000 2014", 
+                                                                                                          "tree_size": 1, 
+                                                                                                          "tweet": "@pmbasse sorry...she/he is such an easy target. Will never learn though", 
+                                                                                                          "uid": 48561717, 
+                                                                                                          "user": 5, 
+                                                                                                          "user_score": 0.0, 
+                                                                                                          "users": {
+                                                                                                            "5": 1
+                                                                                                          }
+                                                                                                        }, 
+                                                                                                        {
+                                                                                                          "children": [
+                                                                                                            {
+                                                                                                              "entropy_score": 0.0, 
+                                                                                                              "favourites": 0, 
+                                                                                                              "follower": false, 
+                                                                                                              "id": 460299421641478144, 
+                                                                                                              "reply": true, 
+                                                                                                              "timestamp": "Sun Apr 27 06:08:28 +0000 2014", 
+                                                                                                              "tree_size": 1, 
+                                                                                                              "tweet": "@AnalyzeVSjudge I'm still here Bitch...defend yourself!!!", 
+                                                                                                              "uid": 48561717, 
+                                                                                                              "user": 5, 
+                                                                                                              "user_score": 0.0, 
+                                                                                                              "users": {
+                                                                                                                "5": 1
+                                                                                                              }
+                                                                                                            }, 
+                                                                                                            {
+                                                                                                              "entropy_score": 0.0, 
+                                                                                                              "favourites": 0, 
+                                                                                                              "follower": false, 
+                                                                                                              "id": 460303308242968577, 
+                                                                                                              "reply": true, 
+                                                                                                              "timestamp": "Sun Apr 27 06:23:55 +0000 2014", 
+                                                                                                              "tree_size": 1, 
+                                                                                                              "tweet": "@AnalyzeVSjudge you never answered, since Koch are lucifer...what are the 57 who spent more???", 
+                                                                                                              "uid": 48561717, 
+                                                                                                              "user": 5, 
+                                                                                                              "user_score": 0.0, 
+                                                                                                              "users": {
+                                                                                                                "5": 1
+                                                                                                              }
+                                                                                                            }
+                                                                                                          ], 
+                                                                                                          "entropy_score": 0.7624618986159398, 
+                                                                                                          "favourites": 0, 
+                                                                                                          "follower": false, 
+                                                                                                          "id": 460298622983106561, 
+                                                                                                          "reply": true, 
+                                                                                                          "timestamp": "Sun Apr 27 06:05:18 +0000 2014", 
+                                                                                                          "tree_size": 3, 
+                                                                                                          "tweet": "@pmbasse @F2Ford @suemclean @WendyDavisTexas DID U BLOCK ME LAZY GOP ZOMBIE? lol", 
+                                                                                                          "uid": 1928484085, 
+                                                                                                          "user": 2, 
+                                                                                                          "user_score": 0.6365141682948128, 
+                                                                                                          "users": {
+                                                                                                            "2": 1, 
+                                                                                                            "5": 2
+                                                                                                          }
+                                                                                                        }, 
+                                                                                                        {
+                                                                                                          "children": [
+                                                                                                            {
+                                                                                                              "entropy_score": 0.0, 
+                                                                                                              "favourites": 0, 
+                                                                                                              "follower": false, 
+                                                                                                              "id": 460351165662629889, 
+                                                                                                              "reply": true, 
+                                                                                                              "timestamp": "Sun Apr 27 09:34:05 +0000 2014", 
+                                                                                                              "tree_size": 1, 
+                                                                                                              "tweet": "@pmbasse @F2Ford @suemclean @WendyDavisTexas http://t.co/1ufTO9tKko", 
+                                                                                                              "uid": 1928484085, 
+                                                                                                              "user": 2, 
+                                                                                                              "user_score": 0.0, 
+                                                                                                              "users": {
+                                                                                                                "2": 1
+                                                                                                              }
+                                                                                                            }
+                                                                                                          ], 
+                                                                                                          "entropy_score": 0.0, 
+                                                                                                          "favourites": 0, 
+                                                                                                          "follower": false, 
+                                                                                                          "id": 460315427495636992, 
+                                                                                                          "reply": true, 
+                                                                                                          "timestamp": "Sun Apr 27 07:12:04 +0000 2014", 
+                                                                                                          "tree_size": 2, 
+                                                                                                          "tweet": "@pmbasse @F2Ford @suemclean @WendyDavisTexas like reagon koch lap puppy president lied false promises, still waiting on u block promise lol", 
+                                                                                                          "uid": 1928484085, 
+                                                                                                          "user": 2, 
+                                                                                                          "user_score": 0.0, 
+                                                                                                          "users": {
+                                                                                                            "2": 2
+                                                                                                          }
+                                                                                                        }, 
+                                                                                                        {
+                                                                                                          "children": [
+                                                                                                            {
+                                                                                                              "entropy_score": 0.0, 
+                                                                                                              "favourites": 0, 
+                                                                                                              "follower": false, 
+                                                                                                              "id": 460552765903630336, 
+                                                                                                              "reply": true, 
+                                                                                                              "timestamp": "Sun Apr 27 22:55:10 +0000 2014", 
+                                                                                                              "tree_size": 1, 
+                                                                                                              "tweet": "@suemclean @pmbasse @F2Ford @WendyDavisTexas SO WHY I AM ABLE TO SEND RECEIVE MESSAGES ? lol", 
+                                                                                                              "uid": 1928484085, 
+                                                                                                              "user": 2, 
+                                                                                                              "user_score": 0.0, 
+                                                                                                              "users": {
+                                                                                                                "2": 1
+                                                                                                              }
+                                                                                                            }, 
+                                                                                                            {
+                                                                                                              "children": [
+                                                                                                                {
+                                                                                                                  "entropy_score": 0.0, 
+                                                                                                                  "favourites": 0, 
+                                                                                                                  "follower": false, 
+                                                                                                                  "id": 460556739134255104, 
+                                                                                                                  "reply": true, 
+                                                                                                                  "timestamp": "Sun Apr 27 23:10:58 +0000 2014", 
+                                                                                                                  "tree_size": 1, 
+                                                                                                                  "tweet": "@AnalyzeVSjudge @suemclean  @WendyDavisTexas excuse is, we're not fooling own base with a nearly 2 mo old poll with abnormal results", 
+                                                                                                                  "uid": 48561717, 
+                                                                                                                  "user": 5, 
+                                                                                                                  "user_score": 0.0, 
+                                                                                                                  "users": {
+                                                                                                                    "5": 1
+                                                                                                                  }
+                                                                                                                }, 
+                                                                                                                {
+                                                                                                                  "entropy_score": 0.0, 
+                                                                                                                  "favourites": 0, 
+                                                                                                                  "follower": false, 
+                                                                                                                  "id": 460565463886356481, 
+                                                                                                                  "reply": true, 
+                                                                                                                  "timestamp": "Sun Apr 27 23:45:38 +0000 2014", 
+                                                                                                                  "tree_size": 1, 
+                                                                                                                  "tweet": "@AnalyzeVSjudge @suemclean @WendyDavisTexas yet to answer...if Koch Brothers are \"lucifer\", so are the 57 in front? &gt;\\nhttp://t.co/GStqiuUMbY", 
+                                                                                                                  "uid": 48561717, 
+                                                                                                                  "user": 5, 
+                                                                                                                  "user_score": 0.0, 
+                                                                                                                  "users": {
+                                                                                                                    "5": 1
+                                                                                                                  }
+                                                                                                                }
+                                                                                                              ], 
+                                                                                                              "entropy_score": 0.7624618986159398, 
+                                                                                                              "favourites": 0, 
+                                                                                                              "follower": false, 
+                                                                                                              "id": 460552853187067904, 
+                                                                                                              "reply": true, 
+                                                                                                              "timestamp": "Sun Apr 27 22:55:31 +0000 2014", 
+                                                                                                              "tree_size": 3, 
+                                                                                                              "tweet": "@suemclean @pmbasse @F2Ford @WendyDavisTexas u guys lie with profound stupidness lol", 
+                                                                                                              "uid": 1928484085, 
+                                                                                                              "user": 2, 
+                                                                                                              "user_score": 0.6365141682948128, 
+                                                                                                              "users": {
+                                                                                                                "2": 1, 
+                                                                                                                "5": 2
+                                                                                                              }
+                                                                                                            }, 
+                                                                                                            {
+                                                                                                              "entropy_score": 0.0, 
+                                                                                                              "favourites": 0, 
+                                                                                                              "follower": false, 
+                                                                                                              "id": 460563544501534720, 
+                                                                                                              "reply": true, 
+                                                                                                              "timestamp": "Sun Apr 27 23:38:00 +0000 2014", 
+                                                                                                              "tree_size": 1, 
+                                                                                                              "tweet": "@suemclean @pmbasse @F2Ford @WendyDavisTexas   why butter fingers aren't able to block yet lol", 
+                                                                                                              "uid": 1928484085, 
+                                                                                                              "user": 2, 
+                                                                                                              "user_score": 0.0, 
+                                                                                                              "users": {
+                                                                                                                "2": 1
+                                                                                                              }
+                                                                                                            }
+                                                                                                          ], 
+                                                                                                          "entropy_score": 1.807759491772498, 
+                                                                                                          "favourites": 0, 
+                                                                                                          "follower": false, 
+                                                                                                          "id": 460397414126338048, 
+                                                                                                          "reply": true, 
+                                                                                                          "timestamp": "Sun Apr 27 12:37:51 +0000 2014", 
+                                                                                                          "tree_size": 6, 
+                                                                                                          "tweet": "@pmbasse @AnalyzeVSjudge @F2Ford @WendyDavisTexas Yeah, I blocked him long ago. Hubby thinks he was stoned.", 
+                                                                                                          "uid": 19877089, 
+                                                                                                          "user": 3, 
+                                                                                                          "user_score": 1.0114042647073518, 
+                                                                                                          "users": {
+                                                                                                            "2": 3, 
+                                                                                                            "3": 1, 
+                                                                                                            "5": 2
+                                                                                                          }
+                                                                                                        }
+                                                                                                      ], 
+                                                                                                      "entropy_score": 4.878006317747158, 
+                                                                                                      "favourites": 0, 
+                                                                                                      "follower": false, 
+                                                                                                      "id": 460289810356137986, 
+                                                                                                      "important_entropy": true, 
+                                                                                                      "reply": true, 
+                                                                                                      "timestamp": "Sun Apr 27 05:30:17 +0000 2014", 
+                                                                                                      "tree_size": 17, 
+                                                                                                      "tweet": "@AnalyzeVSjudge @F2Ford @suemclean @WendyDavisTexas BLOCKED", 
+                                                                                                      "uid": 52190807, 
+                                                                                                      "user": 4, 
+                                                                                                      "user_score": 1.053395498360576, 
+                                                                                                      "users": {
+                                                                                                        "2": 7, 
+                                                                                                        "3": 1, 
+                                                                                                        "4": 1, 
+                                                                                                        "5": 8
+                                                                                                      }
+                                                                                                    }
+                                                                                                  ], 
+                                                                                                  "entropy_score": 4.878006317747158, 
+                                                                                                  "favourites": 0, 
+                                                                                                  "follower": false, 
+                                                                                                  "id": 460289561428389888, 
+                                                                                                  "reply": true, 
+                                                                                                  "timestamp": "Sun Apr 27 05:29:17 +0000 2014", 
+                                                                                                  "tree_size": 18, 
+                                                                                                  "tweet": "@pmbasse @F2Ford @suemclean @WendyDavisTexas and its not ALEX INSANITY but GOP KOCH LUCIFER sticky plot to destroy AMERICA .. &amp; truth hurts", 
+                                                                                                  "uid": 1928484085, 
+                                                                                                  "user": 2, 
+                                                                                                  "user_score": 1.0419792764029772, 
+                                                                                                  "users": {
+                                                                                                    "2": 8, 
+                                                                                                    "3": 1, 
+                                                                                                    "4": 1, 
+                                                                                                    "5": 8
+                                                                                                  }
+                                                                                                }, 
+                                                                                                {
+                                                                                                  "entropy_score": 0.0, 
+                                                                                                  "favourites": 0, 
+                                                                                                  "follower": false, 
+                                                                                                  "id": 460289784628252672, 
+                                                                                                  "reply": true, 
+                                                                                                  "timestamp": "Sun Apr 27 05:30:11 +0000 2014", 
+                                                                                                  "tree_size": 1, 
+                                                                                                  "tweet": "@pmbasse @F2Ford @suemclean @WendyDavisTexas now remove u self like a coward by blocking me or stay mum .. not a peep .. !!!", 
+                                                                                                  "uid": 1928484085, 
+                                                                                                  "user": 2, 
+                                                                                                  "user_score": 0.0, 
+                                                                                                  "users": {
+                                                                                                    "2": 1
+                                                                                                  }
+                                                                                                }
+                                                                                              ], 
+                                                                                              "entropy_score": 5.7062148074080135, 
+                                                                                              "favourites": 0, 
+                                                                                              "follower": false, 
+                                                                                              "id": 460288857452212224, 
+                                                                                              "reply": true, 
+                                                                                              "timestamp": "Sun Apr 27 05:26:30 +0000 2014", 
+                                                                                              "tree_size": 24, 
+                                                                                              "tweet": "@F2Ford @AnalyzeVSjudge @suemclean @WendyDavisTexas Remove me from this convo. not interested in Alex insanity :)", 
+                                                                                              "uid": 52190807, 
+                                                                                              "user": 4, 
+                                                                                              "user_score": 1.1219063834360603, 
+                                                                                              "users": {
+                                                                                                "2": 10, 
+                                                                                                "3": 1, 
+                                                                                                "4": 3, 
+                                                                                                "5": 10
+                                                                                              }
+                                                                                            }
+                                                                                          ], 
+                                                                                          "entropy_score": 5.7062148074080135, 
+                                                                                          "favourites": 0, 
+                                                                                          "follower": false, 
+                                                                                          "id": 460287904699265025, 
+                                                                                          "reply": true, 
+                                                                                          "timestamp": "Sun Apr 27 05:22:42 +0000 2014", 
+                                                                                          "tree_size": 25, 
+                                                                                          "tweet": "@AnalyzeVSjudge @pmbasse @suemclean @WendyDavisTexas back to reality...is \"UniteBlue\" much more evil than Koch?", 
+                                                                                          "uid": 48561717, 
+                                                                                          "user": 5, 
+                                                                                          "user_score": 1.1109343929991262, 
+                                                                                          "users": {
+                                                                                            "2": 10, 
+                                                                                            "3": 1, 
+                                                                                            "4": 3, 
+                                                                                            "5": 11
+                                                                                          }
+                                                                                        }
+                                                                                      ], 
+                                                                                      "entropy_score": 5.885540799851816, 
+                                                                                      "favourites": 0, 
+                                                                                      "follower": false, 
+                                                                                      "id": 460286861470998529, 
+                                                                                      "reply": true, 
+                                                                                      "timestamp": "Sun Apr 27 05:18:34 +0000 2014", 
+                                                                                      "tree_size": 27, 
+                                                                                      "tweet": "@pmbasse @suemclean @F2Ford @WendyDavisTexas but here is reality check :-) \" the thing u call is your own? is actually OBAMA CARE\" enjoy lol", 
+                                                                                      "uid": 1928484085, 
+                                                                                      "user": 2, 
+                                                                                      "user_score": 1.092445582143499, 
+                                                                                      "users": {
+                                                                                        "2": 11, 
+                                                                                        "3": 1, 
+                                                                                        "4": 3, 
+                                                                                        "5": 12
+                                                                                      }
+                                                                                    }
+                                                                                  ], 
+                                                                                  "entropy_score": 5.885540799851816, 
+                                                                                  "favourites": 0, 
+                                                                                  "follower": false, 
+                                                                                  "id": 460286564732383232, 
+                                                                                  "reply": true, 
+                                                                                  "timestamp": "Sun Apr 27 05:17:23 +0000 2014", 
+                                                                                  "tree_size": 28, 
+                                                                                  "tweet": "@pmbasse @suemclean @F2Ford @WendyDavisTexas 8 million + and adding more, u call it failed? i feel desire to  BURP bark KOCH loyalty slogans", 
+                                                                                  "uid": 1928484085, 
+                                                                                  "user": 2, 
+                                                                                  "user_score": 1.0845760651424776, 
+                                                                                  "users": {
+                                                                                    "2": 12, 
+                                                                                    "3": 1, 
+                                                                                    "4": 3, 
+                                                                                    "5": 12
+                                                                                  }
+                                                                                }, 
+                                                                                {
+                                                                                  "entropy_score": 0.0, 
+                                                                                  "favourites": 0, 
+                                                                                  "follower": false, 
+                                                                                  "id": 460287112823074816, 
+                                                                                  "reply": true, 
+                                                                                  "timestamp": "Sun Apr 27 05:19:34 +0000 2014", 
+                                                                                  "tree_size": 1, 
+                                                                                  "tweet": "@pmbasse @suemclean @F2Ford @WendyDavisTexas and i am happy due to OBAMA CARE ACCESS TO WORTHLESS ZOMBIE, living off KOCH GOP trickle penies", 
+                                                                                  "uid": 1928484085, 
+                                                                                  "user": 2, 
+                                                                                  "user_score": 0.0, 
+                                                                                  "users": {
+                                                                                    "2": 1
+                                                                                  }
+                                                                                }, 
+                                                                                {
+                                                                                  "children": [
+                                                                                    {
+                                                                                      "entropy_score": 0.0, 
+                                                                                      "favourites": 0, 
+                                                                                      "follower": false, 
+                                                                                      "id": 460288897285492736, 
+                                                                                      "reply": true, 
+                                                                                      "timestamp": "Sun Apr 27 05:26:39 +0000 2014", 
+                                                                                      "tree_size": 1, 
+                                                                                      "tweet": "@AnalyzeVSjudge @pmbasse @suemclean @WendyDavisTexas gotta say you need ACA since pretty obvious you have attention disorder &amp; stray often", 
+                                                                                      "uid": 48561717, 
+                                                                                      "user": 5, 
+                                                                                      "user_score": 0.0, 
+                                                                                      "users": {
+                                                                                        "5": 1
+                                                                                      }
+                                                                                    }
+                                                                                  ], 
+                                                                                  "entropy_score": 0.0, 
+                                                                                  "favourites": 0, 
+                                                                                  "follower": false, 
+                                                                                  "id": 460287797652254720, 
+                                                                                  "reply": true, 
+                                                                                  "timestamp": "Sun Apr 27 05:22:17 +0000 2014", 
+                                                                                  "tree_size": 2, 
+                                                                                  "tweet": "@pmbasse @suemclean @F2Ford @WendyDavisTexas u received immediate care since U KOCH LUCIFER FEET stuck in ***; now u can burp bark again :-)", 
+                                                                                  "uid": 1928484085, 
+                                                                                  "user": 2, 
+                                                                                  "user_score": 0.6931471805599453, 
+                                                                                  "users": {
+                                                                                    "2": 1, 
+                                                                                    "5": 1
+                                                                                  }
+                                                                                }
+                                                                              ], 
+                                                                              "entropy_score": 6.442949583224386, 
+                                                                              "favourites": 0, 
+                                                                              "follower": false, 
+                                                                              "id": 460285248232628227, 
+                                                                              "reply": true, 
+                                                                              "timestamp": "Sun Apr 27 05:12:09 +0000 2014", 
+                                                                              "tree_size": 33, 
+                                                                              "tweet": "@AnalyzeVSjudge @suemclean @F2Ford @WendyDavisTexas We have our OWN health care. Not having NOTHING TO DO w  FAILED obamacare", 
+                                                                              "uid": 52190807, 
+                                                                              "user": 4, 
+                                                                              "user_score": 1.0892717228693043, 
+                                                                              "users": {
+                                                                                "2": 14, 
+                                                                                "3": 1, 
+                                                                                "4": 4, 
+                                                                                "5": 14
+                                                                              }
+                                                                            }
+                                                                          ], 
+                                                                          "entropy_score": 7.520931063202102, 
+                                                                          "favourites": 0, 
+                                                                          "follower": false, 
+                                                                          "id": 460283328638095360, 
+                                                                          "important_entropy": true, 
+                                                                          "reply": true, 
+                                                                          "timestamp": "Sun Apr 27 05:04:31 +0000 2014", 
+                                                                          "tree_size": 37, 
+                                                                          "tweet": "@pmbasse @suemclean @F2Ford @WendyDavisTexas i guess u ran to EMERGENCY ROOM SINCE U got covered under new health law; to remove foot.. :-)", 
+                                                                          "uid": 1928484085, 
+                                                                          "user": 2, 
+                                                                          "user_score": 1.096610827926923, 
+                                                                          "users": {
+                                                                            "2": 15, 
+                                                                            "3": 1, 
+                                                                            "4": 5, 
+                                                                            "5": 16
+                                                                          }
+                                                                        }, 
+                                                                        {
+                                                                          "children": [
+                                                                            {
+                                                                              "children": [
+                                                                                {
+                                                                                  "children": [
+                                                                                    {
+                                                                                      "children": [
+                                                                                        {
+                                                                                          "entropy_score": 0.0, 
+                                                                                          "favourites": 0, 
+                                                                                          "follower": false, 
+                                                                                          "id": 460396686519463936, 
+                                                                                          "reply": false, 
+                                                                                          "timestamp": "Sun Apr 27 12:34:58 +0000 2014", 
+                                                                                          "tree_size": 1, 
+                                                                                          "tweet": "RT @F2Ford: @AnalyzeVSjudge @pmbasse @suemclean @WendyDavisTexas So Alex, if Koch is \"lucifer\" as you put it...all 58 in front must be epit\u2026", 
+                                                                                          "uid": 19877089, 
+                                                                                          "user": 3, 
+                                                                                          "user_score": 0.0, 
+                                                                                          "users": {
+                                                                                            "3": 1
+                                                                                          }
+                                                                                        }
+                                                                                      ], 
+                                                                                      "entropy_score": 0.0, 
+                                                                                      "favourites": 1, 
+                                                                                      "follower": false, 
+                                                                                      "id": 460281767337816064, 
+                                                                                      "reply": true, 
+                                                                                      "timestamp": "Sun Apr 27 04:58:19 +0000 2014", 
+                                                                                      "tree_size": 2, 
+                                                                                      "tweet": "@AnalyzeVSjudge @pmbasse @suemclean @WendyDavisTexas So Alex, if Koch is \"lucifer\" as you put it...all 58 in front must be epitome of hell?", 
+                                                                                      "uid": 48561717, 
+                                                                                      "user": 5, 
+                                                                                      "user_score": 0.6931471805599453, 
+                                                                                      "users": {
+                                                                                        "3": 1, 
+                                                                                        "5": 1
+                                                                                      }
+                                                                                    }, 
+                                                                                    {
+                                                                                      "entropy_score": 0.0, 
+                                                                                      "favourites": 0, 
+                                                                                      "follower": false, 
+                                                                                      "id": 460282730471641088, 
+                                                                                      "reply": true, 
+                                                                                      "timestamp": "Sun Apr 27 05:02:09 +0000 2014", 
+                                                                                      "tree_size": 1, 
+                                                                                      "tweet": "@AnalyzeVSjudge @pmbasse @suemclean @WendyDavisTexas we know your still out there...are those ahead of Koch worse?", 
+                                                                                      "uid": 48561717, 
+                                                                                      "user": 5, 
+                                                                                      "user_score": 0.0, 
+                                                                                      "users": {
+                                                                                        "5": 1
+                                                                                      }
+                                                                                    }
+                                                                                  ], 
+                                                                                  "entropy_score": 0.7001655851242942, 
+                                                                                  "favourites": 0, 
+                                                                                  "follower": false, 
+                                                                                  "id": 460279340458983424, 
+                                                                                  "reply": true, 
+                                                                                  "timestamp": "Sun Apr 27 04:48:41 +0000 2014", 
+                                                                                  "tree_size": 4, 
+                                                                                  "tweet": "@pmbasse @suemclean @F2Ford @WendyDavisTexas so now u idiotically put u GOP KOCH LUCIFER STINKY feet in u BEHIND .. lol   wana to continue?", 
+                                                                                  "uid": 1928484085, 
+                                                                                  "user": 2, 
+                                                                                  "user_score": 1.0397207708399179, 
+                                                                                  "users": {
+                                                                                    "2": 1, 
+                                                                                    "3": 1, 
+                                                                                    "5": 2
+                                                                                  }
+                                                                                }
+                                                                              ], 
+                                                                              "entropy_score": 0.7001655851242942, 
+                                                                              "favourites": 0, 
+                                                                              "follower": false, 
+                                                                              "id": 460279035428208641, 
+                                                                              "reply": true, 
+                                                                              "timestamp": "Sun Apr 27 04:47:28 +0000 2014", 
+                                                                              "tree_size": 5, 
+                                                                              "tweet": "@pmbasse @suemclean @F2Ford @WendyDavisTexas i bless content in CHRIST BLESSINGS; however your GREED to feast like vulture satisfied, YET?", 
+                                                                              "uid": 1928484085, 
+                                                                              "user": 2, 
+                                                                              "user_score": 1.0549201679861442, 
+                                                                              "users": {
+                                                                                "2": 2, 
+                                                                                "3": 1, 
+                                                                                "5": 2
+                                                                              }
+                                                                            }, 
+                                                                            {
+                                                                              "children": [
+                                                                                {
+                                                                                  "entropy_score": 0.0, 
+                                                                                  "favourites": 0, 
+                                                                                  "follower": false, 
+                                                                                  "id": 460280612939513856, 
+                                                                                  "reply": false, 
+                                                                                  "timestamp": "Sun Apr 27 04:53:44 +0000 2014", 
+                                                                                  "tree_size": 1, 
+                                                                                  "tweet": "RT @F2Ford: @AnalyzeVSjudge @pmbasse @suemclean @WendyDavisTexas My bad...they're way down the list at 59 after most liberals:\\nhttp://t.co/\u2026", 
+                                                                                  "uid": 52190807, 
+                                                                                  "user": 4, 
+                                                                                  "user_score": 0.0, 
+                                                                                  "users": {
+                                                                                    "4": 1
+                                                                                  }
+                                                                                }
+                                                                              ], 
+                                                                              "entropy_score": 0.0, 
+                                                                              "favourites": 0, 
+                                                                              "follower": false, 
+                                                                              "id": 460279286880935936, 
+                                                                              "reply": true, 
+                                                                              "timestamp": "Sun Apr 27 04:48:28 +0000 2014", 
+                                                                              "tree_size": 2, 
+                                                                              "tweet": "@AnalyzeVSjudge @pmbasse @suemclean @WendyDavisTexas My bad...they're way down the list at 59 after most liberals:\\nhttp://t.co/GStqiuUMbY", 
+                                                                              "uid": 48561717, 
+                                                                              "user": 5, 
+                                                                              "user_score": 0.6931471805599453, 
+                                                                              "users": {
+                                                                                "4": 1, 
+                                                                                "5": 1
+                                                                              }
+                                                                            }
+                                                                          ], 
+                                                                          "entropy_score": 1.3582621325680773, 
+                                                                          "favourites": 0, 
+                                                                          "follower": false, 
+                                                                          "id": 460278361747501059, 
+                                                                          "important_users": true, 
+                                                                          "reply": true, 
+                                                                          "timestamp": "Sun Apr 27 04:44:47 +0000 2014", 
+                                                                          "tree_size": 8, 
+                                                                          "tweet": "@pmbasse @suemclean @F2Ford @WendyDavisTexas I WAS WAITING WHEN GOP KOCH thrown bones may boil a coward comrade and say something lol", 
+                                                                          "uid": 1928484085, 
+                                                                          "user": 2, 
+                                                                          "user_score": 1.2554823251787535, 
+                                                                          "users": {
+                                                                            "2": 3, 
+                                                                            "3": 1, 
+                                                                            "4": 1, 
+                                                                            "5": 3
+                                                                          }
+                                                                        }
+                                                                      ], 
+                                                                      "entropy_score": 9.394000943153031, 
+                                                                      "favourites": 0, 
+                                                                      "follower": false, 
+                                                                      "id": 460277866320506880, 
+                                                                      "important_entropy": true, 
+                                                                      "reply": true, 
+                                                                      "timestamp": "Sun Apr 27 04:42:49 +0000 2014", 
+                                                                      "tree_size": 46, 
+                                                                      "tweet": "@AnalyzeVSjudge @suemclean @F2Ford @WendyDavisTexas Perhaps you would like some KOCH BROS goodies Alex LOL http://t.co/5dbxS8IDX8", 
+                                                                      "uid": 52190807, 
+                                                                      "user": 4, 
+                                                                      "user_score": 1.155191447558651, 
+                                                                      "users": {
+                                                                        "2": 18, 
+                                                                        "3": 2, 
+                                                                        "4": 7, 
+                                                                        "5": 19
+                                                                      }
+                                                                    }
+                                                                  ], 
+                                                                  "entropy_score": 9.584526670577127, 
+                                                                  "favourites": 0, 
+                                                                  "follower": false, 
+                                                                  "id": 460275002260996098, 
+                                                                  "reply": true, 
+                                                                  "timestamp": "Sun Apr 27 04:31:26 +0000 2014", 
+                                                                  "tree_size": 49, 
+                                                                  "tweet": "@suemclean @F2Ford @WendyDavisTexas @pmbasse by praising GOP KOCH lucifer judas god of greed and evil... u confirmed GOP KOCH loss in 2014", 
+                                                                  "uid": 1928484085, 
+                                                                  "user": 2, 
+                                                                  "user_score": 1.1390248450318239, 
+                                                                  "users": {
+                                                                    "2": 19, 
+                                                                    "3": 2, 
+                                                                    "4": 7, 
+                                                                    "5": 21
+                                                                  }
+                                                                }
+                                                              ], 
+                                                              "entropy_score": 9.584526670577127, 
+                                                              "favourites": 0, 
+                                                              "follower": false, 
+                                                              "id": 460274412235677696, 
+                                                              "reply": true, 
+                                                              "timestamp": "Sun Apr 27 04:29:06 +0000 2014", 
+                                                              "tree_size": 50, 
+                                                              "tweet": "@suemclean @F2Ford @WendyDavisTexas @pmbasse finally zombie GOP broke ranks &amp; accepted true GOP KOCH intentions for slaving free will voters", 
+                                                              "uid": 1928484085, 
+                                                              "user": 2, 
+                                                              "user_score": 1.1348773640725702, 
+                                                              "users": {
+                                                                "2": 20, 
+                                                                "3": 2, 
+                                                                "4": 7, 
+                                                                "5": 21
+                                                              }
+                                                            }
+                                                          ], 
+                                                          "entropy_score": 9.690686527386669, 
+                                                          "favourites": 0, 
+                                                          "follower": false, 
+                                                          "id": 460273470169825280, 
+                                                          "reply": true, 
+                                                          "timestamp": "Sun Apr 27 04:25:21 +0000 2014", 
+                                                          "tree_size": 52, 
+                                                          "tweet": "@suemclean @F2Ford @WendyDavisTexas @pmbasse god meaning GOP KOCH LUCIFER god; RIGHT? for GOP KOCH desire 2 mentally slave free will voter?", 
+                                                          "uid": 1928484085, 
+                                                          "user": 2, 
+                                                          "user_score": 1.125367361454852, 
+                                                          "users": {
+                                                            "2": 21, 
+                                                            "3": 2, 
+                                                            "4": 7, 
+                                                            "5": 22
+                                                          }
+                                                        }
+                                                      ], 
+                                                      "entropy_score": 9.793646486957066, 
+                                                      "favourites": 0, 
+                                                      "follower": false, 
+                                                      "id": 460269204893995009, 
+                                                      "reply": true, 
+                                                      "timestamp": "Sun Apr 27 04:08:24 +0000 2014", 
+                                                      "tree_size": 54, 
+                                                      "tweet": "@F2Ford @AnalyzeVSjudge @WendyDavisTexas @pmbasse Praise God for that!", 
+                                                      "uid": 19877089, 
+                                                      "user": 3, 
+                                                      "user_score": 1.156233193454018, 
+                                                      "users": {
+                                                        "2": 21, 
+                                                        "3": 3, 
+                                                        "4": 7, 
+                                                        "5": 23
+                                                      }
+                                                    }
+                                                  ], 
+                                                  "entropy_score": 9.990360983088625, 
+                                                  "favourites": 1, 
+                                                  "follower": false, 
+                                                  "id": 460259894046650368, 
+                                                  "reply": true, 
+                                                  "timestamp": "Sun Apr 27 03:31:24 +0000 2014", 
+                                                  "tree_size": 57, 
+                                                  "tweet": "@AnalyzeVSjudge @suemclean @WendyDavisTexas wow, you gave Wendy a promotion...from Golddigger to Maddam!!!\\nShe'll never be \"Governor\" though", 
+                                                  "uid": 48561717, 
+                                                  "user": 5, 
+                                                  "user_score": 1.1941219187387462, 
+                                                  "users": {
+                                                    "2": 21, 
+                                                    "3": 4, 
+                                                    "4": 8, 
+                                                    "5": 24
+                                                  }
+                                                }
+                                              ], 
+                                              "entropy_score": 10.086170458599577, 
+                                              "favourites": 0, 
+                                              "follower": false, 
+                                              "id": 460250578535190529, 
+                                              "reply": true, 
+                                              "timestamp": "Sun Apr 27 02:54:23 +0000 2014", 
+                                              "tree_size": 59, 
+                                              "tweet": "@suemclean @WendyDavisTexas SUPPORT OUR NEXT TEXAS GOVERNOR MADAM WENDY DAVIS..to win &amp; expose GOP KOCH ideology to slave voters free will", 
+                                              "uid": 1928484085, 
+                                              "user": 2, 
+                                              "user_score": 1.1865142460643738, 
+                                              "users": {
+                                                "2": 23, 
+                                                "3": 4, 
+                                                "4": 8, 
+                                                "5": 24
+                                              }
+                                            }
+                                          ], 
+                                          "entropy_score": 10.086170458599577, 
+                                          "favourites": 0, 
+                                          "follower": false, 
+                                          "id": 460248704364974080, 
+                                          "reply": true, 
+                                          "timestamp": "Sun Apr 27 02:46:56 +0000 2014", 
+                                          "tree_size": 60, 
+                                          "tweet": "@suemclean @WendyDavisTexas NO ONE WILL CAN EVER slave US \" the free will brave loyal wise blessed mason's free will\" decimate u intentions", 
+                                          "uid": 1928484085, 
+                                          "user": 2, 
+                                          "user_score": 1.1822230016451067, 
+                                          "users": {
+                                            "2": 24, 
+                                            "3": 4, 
+                                            "4": 8, 
+                                            "5": 24
+                                          }
+                                        }
+                                      ], 
+                                      "entropy_score": 10.086170458599577, 
+                                      "favourites": 0, 
+                                      "follower": false, 
+                                      "id": 460248073856233472, 
+                                      "reply": true, 
+                                      "timestamp": "Sun Apr 27 02:44:26 +0000 2014", 
+                                      "tree_size": 61, 
+                                      "tweet": "@suemclean @WendyDavisTexas as usual coward empty scared GOP KOCH idiots wont answer as GOP KOCH LUCIFER rats scared of been exposed ..", 
+                                      "uid": 1928484085, 
+                                      "user": 2, 
+                                      "user_score": 1.1776624325671805, 
+                                      "users": {
+                                        "2": 25, 
+                                        "3": 4, 
+                                        "4": 8, 
+                                        "5": 24
+                                      }
+                                    }, 
+                                    {
+                                      "entropy_score": 0.0, 
+                                      "favourites": 0, 
+                                      "follower": true, 
+                                      "id": 460249230943076352, 
+                                      "reply": false, 
+                                      "timestamp": "Sun Apr 27 02:49:02 +0000 2014", 
+                                      "tree_size": 1, 
+                                      "tweet": "RT @suemclean: @AnalyzeVSjudge @WendyDavisTexas She stood to kill innocent babies in the womb who have no voice. Doesn't get much more evil\u2026", 
+                                      "uid": 52190807, 
+                                      "user": 4, 
+                                      "user_score": 0.0, 
+                                      "users": {
+                                        "4": 1
+                                      }
+                                    }
+                                  ], 
+                                  "entropy_score": 10.648738344833571, 
+                                  "favourites": 1, 
+                                  "follower": false, 
+                                  "id": 460243508826103808, 
+                                  "reply": true, 
+                                  "timestamp": "Sun Apr 27 02:26:18 +0000 2014", 
+                                  "tree_size": 69, 
+                                  "tweet": "@AnalyzeVSjudge @WendyDavisTexas She stood to kill innocent babies in the womb who have no voice. Doesn't get much more evil than that.", 
+                                  "uid": 19877089, 
+                                  "user": 3, 
+                                  "user_score": 1.1826701853858579, 
+                                  "users": {
+                                    "2": 31, 
+                                    "3": 5, 
+                                    "4": 9, 
+                                    "5": 24
+                                  }
+                                }
+                              ], 
+                              "entropy_score": 10.648738344833571, 
+                              "favourites": 0, 
+                              "follower": false, 
+                              "id": 460243025004728321, 
+                              "reply": true, 
+                              "timestamp": "Sun Apr 27 02:24:22 +0000 2014", 
+                              "tree_size": 70, 
+                              "tweet": "@suemclean @WendyDavisTexas she stood against GOP koch ideology to mentally slave USA FREE WILL VOTERS vs perry allow payday loan corruption", 
+                              "uid": 1928484085, 
+                              "user": 2, 
+                              "user_score": 1.1770802195330958, 
+                              "users": {
+                                "2": 32, 
+                                "3": 5, 
+                                "4": 9, 
+                                "5": 24
+                              }
+                            }, 
+                            {
+                              "entropy_score": 0.0, 
+                              "favourites": 0, 
+                              "follower": false, 
+                              "id": 460243448033845251, 
+                              "reply": true, 
+                              "timestamp": "Sun Apr 27 02:26:03 +0000 2014", 
+                              "tree_size": 1, 
+                              "tweet": "@suemclean @WendyDavisTexas do u need more as i love to.. each time  zombie conservative like u ask or bud in; i enjoy sharing", 
+                              "uid": 1928484085, 
+                              "user": 2, 
+                              "user_score": 0.0, 
+                              "users": {
+                                "2": 1
+                              }
+                            }, 
+                            {
+                              "entropy_score": 0.0, 
+                              "favourites": 0, 
+                              "follower": false, 
+                              "id": 460244314719649793, 
+                              "reply": true, 
+                              "timestamp": "Sun Apr 27 02:29:30 +0000 2014", 
+                              "tree_size": 1, 
+                              "tweet": "@suemclean @WendyDavisTexas thus GOP karl rove proxy coward tweet account, i sharpen my approach with clarity to expose GOP KOCH idiots lol", 
+                              "uid": 1928484085, 
+                              "user": 2, 
+                              "user_score": 0.0, 
+                              "users": {
+                                "2": 1
+                              }
+                            }
+                          ], 
+                          "entropy_score": 10.80954144189289, 
+                          "favourites": 0, 
+                          "follower": false, 
+                          "id": 460242395670384640, 
+                          "reply": true, 
+                          "timestamp": "Sun Apr 27 02:21:52 +0000 2014", 
+                          "tree_size": 73, 
+                          "tweet": "@AnalyzeVSjudge @WendyDavisTexas Anger issues much?", 
+                          "uid": 19877089, 
+                          "user": 3, 
+                          "user_score": 1.1850467318786035, 
+                          "users": {
+                            "2": 34, 
+                            "3": 6, 
+                            "4": 9, 
+                            "5": 24
+                          }
+                        }
+                      ], 
+                      "entropy_score": 10.80954144189289, 
+                      "favourites": 0, 
+                      "follower": false, 
+                      "id": 460229017191186432, 
+                      "reply": true, 
+                      "timestamp": "Sun Apr 27 01:28:43 +0000 2014", 
+                      "tree_size": 74, 
+                      "tweet": "@suemclean @WendyDavisTexas your sorry ass of  ego: lucifer gutter mentality: &amp; saudi osama wahabi tactics of intimidation  will LOSE. AMEEN", 
+                      "uid": 1928484085, 
+                      "user": 2, 
+                      "user_score": 1.1792535784491092, 
+                      "users": {
+                        "2": 35, 
+                        "3": 6, 
+                        "4": 9, 
+                        "5": 24
+                      }
+                    }
+                  ], 
+                  "entropy_score": 10.80954144189289, 
+                  "favourites": 0, 
+                  "follower": false, 
+                  "id": 460228233309323264, 
+                  "reply": true, 
+                  "timestamp": "Sun Apr 27 01:25:36 +0000 2014", 
+                  "tree_size": 75, 
+                  "tweet": "@suemclean @WendyDavisTexas BUT SORRY LAZY lucifer cursed tunnel vision carrying profound GOP koch rats idiots will never realize or accept", 
+                  "uid": 1928484085, 
+                  "user": 2, 
+                  "user_score": 1.1734140905474444, 
+                  "users": {
+                    "2": 36, 
+                    "3": 6, 
+                    "4": 9, 
+                    "5": 24
+                  }
+                }
+              ], 
+              "entropy_score": 10.80954144189289, 
+              "favourites": 0, 
+              "follower": false, 
+              "id": 460227178332819456, 
+              "reply": true, 
+              "timestamp": "Sun Apr 27 01:21:24 +0000 2014", 
+              "tree_size": 76, 
+              "tweet": "@suemclean @WendyDavisTexas http://t.co/HMrESGvLKu", 
+              "uid": 1928484085, 
+              "user": 2, 
+              "user_score": 1.1675381730813141, 
+              "users": {
+                "2": 37, 
+                "3": 6, 
+                "4": 9, 
+                "5": 24
+              }
+            }
+          ], 
+          "entropy_score": 10.80954144189289, 
+          "favourites": 0, 
+          "follower": false, 
+          "id": 460226903018700800, 
+          "reply": true, 
+          "timestamp": "Sun Apr 27 01:20:18 +0000 2014", 
+          "tree_size": 77, 
+          "tweet": "@suemclean @WendyDavisTexas NO .. BUT SYMBOLIC; &amp; galvanize FREE BRAVE LOYAL TEXANS to kick GOP KOCH lucifer asses by voting in NOV;  AMEEN", 
+          "uid": 1928484085, 
+          "user": 2, 
+          "user_score": 1.1616347204335844, 
+          "users": {
+            "2": 38, 
+            "3": 6, 
+            "4": 9, 
+            "5": 24
+          }
+        }
+      ], 
+      "entropy_score": 10.80954144189289, 
+      "favourites": 1, 
+      "follower": false, 
+      "id": 460221949856079872, 
+      "reply": true, 
+      "timestamp": "Sun Apr 27 01:00:38 +0000 2014", 
+      "tree_size": 78, 
+      "tweet": "@WendyDavisTexas Are those the ones with the failed #sinkingship logo? http://t.co/TjnC9SDveX", 
+      "uid": 19877089, 
+      "user": 3, 
+      "user_score": 1.1785298749284825, 
+      "users": {
+        "2": 38, 
+        "3": 7, 
+        "4": 9, 
+        "5": 24
+      }
+    }, 
+    {
+      "entropy_score": 0.0, 
+      "favourites": 0, 
+      "follower": false, 
+      "id": 460229323056635904, 
+      "reply": false, 
+      "timestamp": "Sun Apr 27 01:29:55 +0000 2014", 
+      "tree_size": 1, 
+      "tweet": "RT @WendyDavisTexas: We're offering a $5 discount for a limited time on #TeamWendy vintage logo white t-shirts! Get yours while they last: \u2026", 
+      "uid": 1928484085, 
+      "user": 2, 
+      "user_score": 0.0, 
+      "users": {
+        "2": 1
+      }
+    }, 
+    {
+      "entropy_score": 0.0, 
+      "favourites": 0, 
+      "follower": false, 
+      "id": 460229752234582018, 
+      "reply": true, 
+      "timestamp": "Sun Apr 27 01:31:38 +0000 2014", 
+      "tree_size": 1, 
+      "tweet": "@WendyDavisTexas MAY YOU BE BLESS WITH PROFOUND DIGNIFIED HONORABLE HUMBLE MUCH NEED ELECTION VICTORY TO BE NEXT TEXAS STATE GOVERNOR. AMEEN", 
+      "uid": 1928484085, 
+      "user": 2, 
+      "user_score": 0.0, 
+      "users": {
+        "2": 1
+      }
+    }, 
+    {
+      "entropy_score": 0.0, 
+      "favourites": 0, 
+      "follower": false, 
+      "id": 461666662517731329, 
+      "reply": false, 
+      "timestamp": "Thu May 01 00:41:24 +0000 2014", 
+      "tree_size": 1, 
+      "tweet": "RT @WendyDavisTexas: We're offering a $5 discount for a limited time on #TeamWendy vintage logo white t-shirts! Get yours while they last: \u2026", 
+      "uid": 1934770050, 
+      "user": 1, 
+      "user_score": 0.0, 
+      "users": {
+        "1": 1
+      }
+    }, 
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "entropy_score": 0.0, 
+              "favourites": 0, 
+              "follower": true, 
+              "id": 460191983277846529, 
+              "reply": false, 
+              "timestamp": "Sat Apr 26 23:01:33 +0000 2014", 
+              "tree_size": 1, 
+              "tweet": "RT @Fenway_Nation: @SkidWillie Why do I get the feeling the @WendyDavisTexas t-shirts will be even more steeply discounted in mid-November?", 
+              "uid": 258102381, 
+              "user": 15, 
+              "user_score": 0.0, 
+              "users": {
+                "15": 1
+              }
+            }, 
+            {
+              "children": [
+                {
+                  "entropy_score": 0.0, 
+                  "favourites": 0, 
+                  "follower": false, 
+                  "id": 460197337747308545, 
+                  "reply": false, 
+                  "timestamp": "Sat Apr 26 23:22:50 +0000 2014", 
+                  "tree_size": 1, 
+                  "tweet": "RT @pmbasse: @Fenway_Nation @SkidWillie @WendyDavisTexas In the DUMPER along with all left over signs etc.. http://t.co/p8FRyIzjAl", 
+                  "uid": 258102381, 
+                  "user": 15, 
+                  "user_score": 0.0, 
+                  "users": {
+                    "15": 1
+                  }
+                }, 
+                {
+                  "entropy_score": 0.0, 
+                  "favourites": 0, 
+                  "follower": false, 
+                  "id": 460222874708504576, 
+                  "reply": false, 
+                  "timestamp": "Sun Apr 27 01:04:18 +0000 2014", 
+                  "tree_size": 1, 
+                  "tweet": "RT @pmbasse: @Fenway_Nation @SkidWillie @WendyDavisTexas In the DUMPER along with all left over signs etc.. http://t.co/p8FRyIzjAl", 
+                  "uid": 19877089, 
+                  "user": 3, 
+                  "user_score": 0.0, 
+                  "users": {
+                    "3": 1
+                  }
+                }, 
+                {
+                  "entropy_score": 0.0, 
+                  "favourites": 0, 
+                  "follower": false, 
+                  "id": 460441456637800449, 
+                  "reply": false, 
+                  "timestamp": "Sun Apr 27 15:32:52 +0000 2014", 
+                  "tree_size": 1, 
+                  "tweet": "RT @pmbasse: @Fenway_Nation @SkidWillie @WendyDavisTexas In the DUMPER along with all left over signs etc.. http://t.co/p8FRyIzjAl", 
+                  "uid": 886955454, 
+                  "user": 17, 
+                  "user_score": 0.0, 
+                  "users": {
+                    "17": 1
+                  }
+                }
+              ], 
+              "entropy_score": 1.2084735175349208, 
+              "favourites": 2, 
+              "follower": true, 
+              "id": 460194530843570176, 
+              "important_entropy": true, 
+              "important_users": true, 
+              "reply": true, 
+              "timestamp": "Sat Apr 26 23:11:40 +0000 2014", 
+              "tree_size": 4, 
+              "tweet": "@Fenway_Nation @SkidWillie @WendyDavisTexas In the DUMPER along with all left over signs etc.. http://t.co/p8FRyIzjAl", 
+              "uid": 52190807, 
+              "user": 4, 
+              "user_score": 1.3862943611198906, 
+              "users": {
+                "15": 1, 
+                "17": 1, 
+                "3": 1, 
+                "4": 1
+              }
+            }
+          ], 
+          "entropy_score": 1.7589161834269276, 
+          "favourites": 0, 
+          "follower": false, 
+          "id": 460186335353905152, 
+          "important_users": true, 
+          "reply": true, 
+          "timestamp": "Sat Apr 26 22:39:06 +0000 2014", 
+          "tree_size": 6, 
+          "tweet": "@SkidWillie Why do I get the feeling the @WendyDavisTexas t-shirts will be even more steeply discounted in mid-November?", 
+          "uid": 258916333, 
+          "user": 16, 
+          "user_score": 1.5607104090414063, 
+          "users": {
+            "15": 2, 
+            "16": 1, 
+            "17": 1, 
+            "3": 1, 
+            "4": 1
+          }
+        }
+      ], 
+      "entropy_score": 1.7589161834269276, 
+      "favourites": 0, 
+      "follower": false, 
+      "id": 460186000270979072, 
+      "important_users": true, 
+      "reply": true, 
+      "timestamp": "Sat Apr 26 22:37:46 +0000 2014", 
+      "tree_size": 7, 
+      "tweet": "LOL! RT@WendyDavisTexas We're offering a $5 discount for a limited time on #TeamWendy vintage logo white t-shirts! Get yours while they last", 
+      "uid": 258102381, 
+      "user": 15, 
+      "user_score": 1.4750763110546947, 
+      "users": {
+        "15": 3, 
+        "16": 1, 
+        "17": 1, 
+        "3": 1, 
+        "4": 1
+      }
+    }
+  ], 
+  "entropy_score": 15.975548206249899, 
+  "favourites": 22, 
+  "id": 460181618884640768, 
+  "important_entropy": true, 
+  "important_users": true, 
+  "reply": false, 
+  "timestamp": "Sat Apr 26 22:20:22 +0000 2014", 
+  "total_tweets": 108, 
+  "total_users": 25, 
+  "tree_size": 108, 
+  "tweet": "We're offering a $5 discount for a limited time on #TeamWendy vintage logo white t-shirts! Get yours while they last: http://t.co/i1qGVvzoh3", 
+  "uid": 355906128, 
+  "user": 0, 
+  "user_score": 2.157151895576824, 
+  "users": {
+    "0": 1, 
+    "1": 1, 
+    "10": 1, 
+    "11": 1, 
+    "12": 1, 
+    "13": 1, 
+    "14": 1, 
+    "15": 3, 
+    "16": 1, 
+    "17": 1, 
+    "18": 1, 
+    "19": 1, 
+    "2": 40, 
+    "20": 2, 
+    "21": 2, 
+    "22": 1, 
+    "23": 1, 
+    "24": 1, 
+    "3": 9, 
+    "4": 10, 
+    "5": 24, 
+    "6": 1, 
+    "7": 1, 
+    "8": 1, 
+    "9": 1
+  }
+}

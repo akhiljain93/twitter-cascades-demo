@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <style>
+            table {
+                border-collapse: collapse;
+                border: 2px black solid;
+                font: 12px sans-serif;
+            }
+
+            td {
+                border: 1px black solid;
+                padding: 5px;
+            }
+        </style>
+    </head>
+    <body>
+        <script src="../d3/d3.v3.min.js"></script>
+        <script type="text/javascript"charset="utf-8">
+            function GetURLParameter(sParam) {
+                var sPageURL = window.location.search.substring(1);
+                var sURLVariables = sPageURL.split('&');
+                for (var i = 0; i < sURLVariables.length; i++) {
+                    var sParameterName = sURLVariables[i].split('=');
+                    if (sParameterName[0] == sParam) {
+                        return sParameterName[1];
+                    }
+                }
+            }
+
+            var tweetid_tweet_map = {}, count = 0, root;
+
+            function createDict(node) {
+                if (node.children) {
+                    for (var i = 0; i < node.children.length; i++) {
+                        createDict(node.children[i]);
+                    }
+                }
+
+                tweetid_tweet_map[node.id] = node.tweet;
+            }
+
+            d3.json("../data/tree_info" + GetURLParameter('cascade') + ".json", function(error, json) {
+              if (error) throw error;
+
+              createDict(root = json);
+                d3.text("reps/rep_" + GetURLParameter('cascade') + ".csv", function(data) {
+                        var rows = d3.csv.parseRows(data);
+                        var tbl = d3.select("body")
+                            .append("table");
+
+                        // headers
+                        tbl.append("thead")
+                        .append("tr")
+                        .selectAll("th")
+                        .data(rows[0])
+                        .enter().append("th")
+                        .text(function(d) {
+                            return d;
+                            });
+
+                        // data
+                        tbl.append("tbody")
+                        .selectAll("tr").data(rows.slice(1))
+                        .enter().append("tr")
+                        .selectAll("td")
+                        .data(function(d){return d;})
+                        .enter().append("td")
+                        .html(function(d, i){
+                                    if (i == 0) {
+                                        return d;
+                                    } else {
+                                        return '<a href="http://www.cse.iitd.ac.in/~cs5110274/entity_score/?cascade=' + GetURLParameter('cascade') + '&tweet=' + d + '" target="_parent">' + tweetid_tweet_map[+d] + '</a>';
+                                    }
+                                })
+                });
+            });
+
+            
+        </script>
+    </body>
+</html>

@@ -1,0 +1,2053 @@
+{
+  "children": [
+    {
+      "children": [
+        {
+          "entropy_score": 0.0, 
+          "favourites": 2, 
+          "follower": true, 
+          "id": 458357581837119488, 
+          "reply": true, 
+          "timestamp": "Mon Apr 21 21:32:18 +0000 2014", 
+          "tree_size": 1, 
+          "tweet": "@PattiKimble @HillaryGuess @WINDSONG58 @EdwardOReilly1 @jabouri_mary Nooo! Haha!", 
+          "uid": 776233423, 
+          "user": 0, 
+          "user_score": 0.0, 
+          "users": {
+            "0": 1
+          }
+        }
+      ], 
+      "entropy_score": 0.0, 
+      "favourites": 2, 
+      "follower": true, 
+      "id": 458354198329839616, 
+      "reply": true, 
+      "timestamp": "Mon Apr 21 21:18:51 +0000 2014", 
+      "tree_size": 2, 
+      "tweet": "@marylmcaffry Boot straps to pull boots on!  @HillaryGuess @WINDSONG58 @EdwardOReilly1 @jabouri_mary", 
+      "uid": 735103080, 
+      "user": 4, 
+      "user_score": 0.6931471805599453, 
+      "users": {
+        "0": 1, 
+        "4": 1
+      }
+    }, 
+    {
+      "children": [
+        {
+          "entropy_score": 0.0, 
+          "favourites": 1, 
+          "follower": true, 
+          "id": 458388379671879680, 
+          "reply": true, 
+          "timestamp": "Mon Apr 21 23:34:40 +0000 2014", 
+          "tree_size": 1, 
+          "tweet": "@WINDSONG58 No. @HillaryGuess @EdwardOReilly1 @jabouri_mary @PattiKimble", 
+          "uid": 776233423, 
+          "user": 0, 
+          "user_score": 0.0, 
+          "users": {
+            "0": 1
+          }
+        }
+      ], 
+      "entropy_score": 0.0, 
+      "favourites": 2, 
+      "follower": true, 
+      "id": 458386983124234240, 
+      "reply": true, 
+      "timestamp": "Mon Apr 21 23:29:07 +0000 2014", 
+      "tree_size": 2, 
+      "tweet": "@marylmcaffry @HillaryGuess @EdwardOReilly1 @jabouri_mary @PattiKimble Is it for carrying sacks of food/grain ?", 
+      "uid": 65700868, 
+      "user": 2, 
+      "user_score": 0.6931471805599453, 
+      "users": {
+        "0": 1, 
+        "2": 1
+      }
+    }, 
+    {
+      "children": [
+        {
+          "entropy_score": 0.0, 
+          "favourites": 2, 
+          "follower": true, 
+          "id": 458400433850294272, 
+          "reply": true, 
+          "timestamp": "Tue Apr 22 00:22:34 +0000 2014", 
+          "tree_size": 1, 
+          "tweet": "@HillaryGuess @marylmcaffry @EdwardOReilly1 @jabouri_mary @PattiKimble Birthing chains,looped around calfs feet-pulled out of birth canal", 
+          "uid": 65700868, 
+          "user": 2, 
+          "user_score": 0.0, 
+          "users": {
+            "2": 1
+          }
+        }
+      ], 
+      "entropy_score": 0.0, 
+      "favourites": 2, 
+      "follower": true, 
+      "id": 458399560398667776, 
+      "reply": true, 
+      "timestamp": "Tue Apr 22 00:19:06 +0000 2014", 
+      "tree_size": 2, 
+      "tweet": "@marylmcaffry Choke chains? @WINDSONG58 @EdwardOReilly1 @jabouri_mary @PattiKimble", 
+      "uid": 1119760256, 
+      "user": 1, 
+      "user_score": 0.6931471805599453, 
+      "users": {
+        "1": 1, 
+        "2": 1
+      }
+    }, 
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "entropy_score": 0.0, 
+              "favourites": 2, 
+              "follower": true, 
+              "id": 458385936816947200, 
+              "reply": true, 
+              "timestamp": "Mon Apr 21 23:24:58 +0000 2014", 
+              "tree_size": 1, 
+              "tweet": "@HillaryGuess Nope. Not even close yet. Carole: suspenders; Patti: boot straps. @WINDSONG58 @EdwardOReilly1 @jabouri_mary @PattiKimble", 
+              "uid": 776233423, 
+              "user": 0, 
+              "user_score": 0.0, 
+              "users": {
+                "0": 1
+              }
+            }
+          ], 
+          "entropy_score": 0.0, 
+          "favourites": 3, 
+          "follower": true, 
+          "id": 458384127318687744, 
+          "reply": true, 
+          "timestamp": "Mon Apr 21 23:17:46 +0000 2014", 
+          "tree_size": 2, 
+          "tweet": "@WINDSONG58 Tie downs 4  a trailer @marylmcaffry @EdwardOReilly1 @jabouri_mary @PattiKimble", 
+          "uid": 1119760256, 
+          "user": 1, 
+          "user_score": 0.6931471805599453, 
+          "users": {
+            "0": 1, 
+            "1": 1
+          }
+        }, 
+        {
+          "children": [
+            {
+              "entropy_score": 0.0, 
+              "favourites": 1, 
+              "follower": true, 
+              "id": 458387094579449856, 
+              "reply": true, 
+              "timestamp": "Mon Apr 21 23:29:34 +0000 2014", 
+              "tree_size": 1, 
+              "tweet": "@marylmcaffry @HillaryGuess @EdwardOReilly1 @jabouri_mary @PattiKimble LOL;-D", 
+              "uid": 65700868, 
+              "user": 2, 
+              "user_score": 0.0, 
+              "users": {
+                "2": 1
+              }
+            }, 
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "entropy_score": 0.0, 
+                      "favourites": 2, 
+                      "follower": true, 
+                      "id": 458388511008518144, 
+                      "reply": true, 
+                      "timestamp": "Mon Apr 21 23:35:12 +0000 2014", 
+                      "tree_size": 1, 
+                      "tweet": "@PattiKimble @HillaryGuess @marylmcaffry @EdwardOReilly1 @jabouri_mary I,ve heard of \"politically correct\",but never\"Earwear correct\" !, lol", 
+                      "uid": 65700868, 
+                      "user": 2, 
+                      "user_score": 0.0, 
+                      "users": {
+                        "2": 1
+                      }
+                    }
+                  ], 
+                  "entropy_score": 0.0, 
+                  "favourites": 2, 
+                  "follower": true, 
+                  "id": 458387389463801857, 
+                  "reply": true, 
+                  "timestamp": "Mon Apr 21 23:30:44 +0000 2014", 
+                  "tree_size": 2, 
+                  "tweet": "@HillaryGuess LMAO. Hey you may be disparaging someone's fashion sense. Not good @marylmcaffry @WINDSONG58 @EdwardOReilly1 @jabouri_mary", 
+                  "uid": 735103080, 
+                  "user": 4, 
+                  "user_score": 0.6931471805599453, 
+                  "users": {
+                    "2": 1, 
+                    "4": 1
+                  }
+                }, 
+                {
+                  "entropy_score": 0.0, 
+                  "favourites": 1, 
+                  "follower": true, 
+                  "id": 458387740061872128, 
+                  "reply": true, 
+                  "timestamp": "Mon Apr 21 23:32:08 +0000 2014", 
+                  "tree_size": 1, 
+                  "tweet": "@HillaryGuess @marylmcaffry @EdwardOReilly1 @jabouri_mary @PattiKimble LOLOL,;-)", 
+                  "uid": 65700868, 
+                  "user": 2, 
+                  "user_score": 0.0, 
+                  "users": {
+                    "2": 1
+                  }
+                }, 
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "children": [
+                                    {
+                                      "entropy_score": 0.0, 
+                                      "favourites": 1, 
+                                      "follower": true, 
+                                      "id": 458396192658169857, 
+                                      "reply": true, 
+                                      "timestamp": "Tue Apr 22 00:05:43 +0000 2014", 
+                                      "tree_size": 1, 
+                                      "tweet": "@marylmcaffry @HillaryGuess @EdwardOReilly1 @jabouri_mary @PattiKimble Awww,\\nBless !!!, ;-)", 
+                                      "uid": 65700868, 
+                                      "user": 2, 
+                                      "user_score": 0.0, 
+                                      "users": {
+                                        "2": 1
+                                      }
+                                    }
+                                  ], 
+                                  "entropy_score": 0.0, 
+                                  "favourites": 2, 
+                                  "follower": true, 
+                                  "id": 458395648723677184, 
+                                  "reply": true, 
+                                  "timestamp": "Tue Apr 22 00:03:33 +0000 2014", 
+                                  "tree_size": 2, 
+                                  "tweet": "@WINDSONG58 @HillaryGuess @EdwardOReilly1 @jabouri_mary @PattiKimble Haha!! Heifers are l'il bulletts. Is a heifer till has first calf.", 
+                                  "uid": 776233423, 
+                                  "user": 0, 
+                                  "user_score": 0.6931471805599453, 
+                                  "users": {
+                                    "0": 1, 
+                                    "2": 1
+                                  }
+                                }
+                              ], 
+                              "entropy_score": 0.0, 
+                              "favourites": 3, 
+                              "follower": true, 
+                              "id": 458393137996898304, 
+                              "reply": true, 
+                              "timestamp": "Mon Apr 21 23:53:35 +0000 2014", 
+                              "tree_size": 3, 
+                              "tweet": "@marylmcaffry @HillaryGuess @EdwardOReilly1 @jabouri_mary @PattiKimble I was close, it was for leading lil, bulls and bullette,s ! lol ;-)", 
+                              "uid": 65700868, 
+                              "user": 2, 
+                              "user_score": 0.6365141682948128, 
+                              "users": {
+                                "0": 1, 
+                                "2": 2
+                              }
+                            }
+                          ], 
+                          "entropy_score": 0.0, 
+                          "favourites": 1, 
+                          "follower": true, 
+                          "id": 458391699308285952, 
+                          "reply": true, 
+                          "timestamp": "Mon Apr 21 23:47:52 +0000 2014", 
+                          "tree_size": 4, 
+                          "tweet": "@WINDSONG58 @HillaryGuess @EdwardOReilly1 @jabouri_mary @PattiKimble No! Haha!", 
+                          "uid": 776233423, 
+                          "user": 0, 
+                          "user_score": 0.6931471805599453, 
+                          "users": {
+                            "0": 2, 
+                            "2": 2
+                          }
+                        }
+                      ], 
+                      "entropy_score": 0.0, 
+                      "favourites": 3, 
+                      "follower": true, 
+                      "id": 458389783740686336, 
+                      "reply": true, 
+                      "timestamp": "Mon Apr 21 23:40:15 +0000 2014", 
+                      "tree_size": 5, 
+                      "tweet": "@marylmcaffry @HillaryGuess @EdwardOReilly1 @jabouri_mary @PattiKimble Leading bulls ? :-}", 
+                      "uid": 65700868, 
+                      "user": 2, 
+                      "user_score": 0.6730116670092565, 
+                      "users": {
+                        "0": 2, 
+                        "2": 3
+                      }
+                    }
+                  ], 
+                  "entropy_score": 0.0, 
+                  "favourites": 2, 
+                  "follower": true, 
+                  "id": 458388150700609536, 
+                  "reply": true, 
+                  "timestamp": "Mon Apr 21 23:33:46 +0000 2014", 
+                  "tree_size": 6, 
+                  "tweet": "@HillaryGuess @WINDSONG58 @EdwardOReilly1 @jabouri_mary @PattiKimble You want a hint? Livestock.", 
+                  "uid": 776233423, 
+                  "user": 0, 
+                  "user_score": 0.6931471805599453, 
+                  "users": {
+                    "0": 3, 
+                    "2": 3
+                  }
+                }, 
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "entropy_score": 0.0, 
+                              "favourites": 2, 
+                              "follower": true, 
+                              "id": 458390461246627840, 
+                              "reply": true, 
+                              "timestamp": "Mon Apr 21 23:42:57 +0000 2014", 
+                              "tree_size": 1, 
+                              "tweet": "@marylmcaffry @thepoliticalcat @HillaryGuess @EdwardOReilly1 @jabouri_mary @PattiKimble Are the triangle shaped hook held in the hand or do", 
+                              "uid": 65700868, 
+                              "user": 2, 
+                              "user_score": 0.0, 
+                              "users": {
+                                "2": 1
+                              }
+                            }, 
+                            {
+                              "children": [
+                                {
+                                  "children": [
+                                    {
+                                      "entropy_score": 0.0, 
+                                      "favourites": 2, 
+                                      "follower": true, 
+                                      "id": 458393551458816000, 
+                                      "reply": true, 
+                                      "timestamp": "Mon Apr 21 23:55:13 +0000 2014", 
+                                      "tree_size": 1, 
+                                      "tweet": "@marylmcaffry @thepoliticalcat @HillaryGuess @EdwardOReilly1 @jabouri_mary @PattiKimble True, I,ve often thought that the poor cow must", 
+                                      "uid": 65700868, 
+                                      "user": 2, 
+                                      "user_score": 0.0, 
+                                      "users": {
+                                        "2": 1
+                                      }
+                                    }, 
+                                    {
+                                      "children": [
+                                        {
+                                          "children": [
+                                            {
+                                              "children": [
+                                                {
+                                                  "children": [
+                                                    {
+                                                      "entropy_score": 0.0, 
+                                                      "favourites": 2, 
+                                                      "follower": true, 
+                                                      "id": 458575272787197952, 
+                                                      "reply": true, 
+                                                      "timestamp": "Tue Apr 22 11:57:19 +0000 2014", 
+                                                      "tree_size": 1, 
+                                                      "tweet": "@marylmcaffry U sh b a vet or vet tech @WINDSONG58 @EdwardOReilly1 @jabouri_mary @PattiKimble", 
+                                                      "uid": 1119760256, 
+                                                      "user": 1, 
+                                                      "user_score": 0.0, 
+                                                      "users": {
+                                                        "1": 1
+                                                      }
+                                                    }, 
+                                                    {
+                                                      "children": [
+                                                        {
+                                                          "entropy_score": 0.0, 
+                                                          "favourites": 2, 
+                                                          "follower": true, 
+                                                          "id": 458588121873907712, 
+                                                          "reply": true, 
+                                                          "timestamp": "Tue Apr 22 12:48:23 +0000 2014", 
+                                                          "tree_size": 1, 
+                                                          "tweet": "@jabouri_mary Dot like that yet she was a vet tech @marylmcaffry @EdwardOReilly1 @PattiKimble", 
+                                                          "uid": 1119760256, 
+                                                          "user": 1, 
+                                                          "user_score": 0.0, 
+                                                          "users": {
+                                                            "1": 1
+                                                          }
+                                                        }, 
+                                                        {
+                                                          "children": [
+                                                            {
+                                                              "children": [
+                                                                {
+                                                                  "entropy_score": 0.0, 
+                                                                  "favourites": 1, 
+                                                                  "follower": true, 
+                                                                  "id": 458598368525430784, 
+                                                                  "reply": true, 
+                                                                  "timestamp": "Tue Apr 22 13:29:06 +0000 2014", 
+                                                                  "tree_size": 1, 
+                                                                  "tweet": "@HillaryGuess know what you mean. I don't like to give shots. @jabouri_mary @EdwardOReilly1 @PattiKimble", 
+                                                                  "uid": 776233423, 
+                                                                  "user": 0, 
+                                                                  "user_score": 0.0, 
+                                                                  "users": {
+                                                                    "0": 1
+                                                                  }
+                                                                }
+                                                              ], 
+                                                              "entropy_score": 0.0, 
+                                                              "favourites": 2, 
+                                                              "follower": true, 
+                                                              "id": 458596582477139968, 
+                                                              "reply": true, 
+                                                              "timestamp": "Tue Apr 22 13:22:00 +0000 2014", 
+                                                              "tree_size": 2, 
+                                                              "tweet": "@marylmcaffry Give myself allergy shots but unit has 2 give rabies shots 2 critters-can't do it @jabouri_mary @EdwardOReilly1 @PattiKimble", 
+                                                              "uid": 1119760256, 
+                                                              "user": 1, 
+                                                              "user_score": 0.6931471805599453, 
+                                                              "users": {
+                                                                "0": 1, 
+                                                                "1": 1
+                                                              }
+                                                            }
+                                                          ], 
+                                                          "entropy_score": 0.0, 
+                                                          "favourites": 1, 
+                                                          "follower": true, 
+                                                          "id": 458596226817331201, 
+                                                          "reply": true, 
+                                                          "timestamp": "Tue Apr 22 13:20:35 +0000 2014", 
+                                                          "tree_size": 3, 
+                                                          "tweet": "@jabouri_mary My bro faints when they put in IV. Always fainted when immunized 4 polio/smallpox. @HillaryGuess @EdwardOReilly1 @PattiKimble", 
+                                                          "uid": 776233423, 
+                                                          "user": 0, 
+                                                          "user_score": 0.6365141682948128, 
+                                                          "users": {
+                                                            "0": 2, 
+                                                            "1": 1
+                                                          }
+                                                        }
+                                                      ], 
+                                                      "entropy_score": 0.6185686590806891, 
+                                                      "favourites": 1, 
+                                                      "follower": true, 
+                                                      "id": 458584979983699968, 
+                                                      "reply": true, 
+                                                      "timestamp": "Tue Apr 22 12:35:53 +0000 2014", 
+                                                      "tree_size": 5, 
+                                                      "tweet": "@marylmcaffry @HillaryGuess @EdwardOReilly1 @PattiKimble Nephew like that. Cut his finger, luckily I was standin behind him and caught .", 
+                                                      "uid": 101062236, 
+                                                      "user": 5, 
+                                                      "user_score": 1.0549201679861442, 
+                                                      "users": {
+                                                        "0": 2, 
+                                                        "1": 2, 
+                                                        "5": 1
+                                                      }
+                                                    }
+                                                  ], 
+                                                  "entropy_score": 1.1141859888336243, 
+                                                  "favourites": 2, 
+                                                  "follower": true, 
+                                                  "id": 458573207973277697, 
+                                                  "reply": true, 
+                                                  "timestamp": "Tue Apr 22 11:49:07 +0000 2014", 
+                                                  "tree_size": 7, 
+                                                  "tweet": "@WINDSONG58 Hard to believe I faint at sight of my own blood yet can watch surgery.@HillaryGuess @EdwardOReilly1 @jabouri_mary @PattiKimble", 
+                                                  "uid": 776233423, 
+                                                  "user": 0, 
+                                                  "user_score": 1.0042424730540764, 
+                                                  "users": {
+                                                    "0": 3, 
+                                                    "1": 3, 
+                                                    "5": 1
+                                                  }
+                                                }
+                                              ], 
+                                              "entropy_score": 1.1141859888336243, 
+                                              "favourites": 2, 
+                                              "follower": true, 
+                                              "id": 458398132498624513, 
+                                              "reply": true, 
+                                              "timestamp": "Tue Apr 22 00:13:26 +0000 2014", 
+                                              "tree_size": 8, 
+                                              "tweet": "@marylmcaffry @HillaryGuess @EdwardOReilly1 @jabouri_mary @PattiKimble Cripes, I,d hope so ! lol ;-}", 
+                                              "uid": 65700868, 
+                                              "user": 2, 
+                                              "user_score": 1.2554823251787537, 
+                                              "users": {
+                                                "0": 3, 
+                                                "1": 3, 
+                                                "2": 1, 
+                                                "5": 1
+                                              }
+                                            }
+                                          ], 
+                                          "entropy_score": 1.1141859888336243, 
+                                          "favourites": 2, 
+                                          "follower": true, 
+                                          "id": 458396244453236736, 
+                                          "reply": true, 
+                                          "timestamp": "Tue Apr 22 00:05:55 +0000 2014", 
+                                          "tree_size": 9, 
+                                          "tweet": "@WINDSONG58 I did watch a c-section once but cow was anesthetized. @HillaryGuess @EdwardOReilly1 @jabouri_mary @PattiKimble", 
+                                          "uid": 776233423, 
+                                          "user": 0, 
+                                          "user_score": 1.2148896539491205, 
+                                          "users": {
+                                            "0": 4, 
+                                            "1": 3, 
+                                            "2": 1, 
+                                            "5": 1
+                                          }
+                                        }
+                                      ], 
+                                      "entropy_score": 1.1141859888336243, 
+                                      "favourites": 3, 
+                                      "follower": true, 
+                                      "id": 458393579917160448, 
+                                      "reply": true, 
+                                      "timestamp": "Mon Apr 21 23:55:20 +0000 2014", 
+                                      "tree_size": 10, 
+                                      "tweet": "@marylmcaffry @thepoliticalcat @HillaryGuess @EdwardOReilly1 @jabouri_mary @PattiKimble think her innards are on the way out !!.... :-(", 
+                                      "uid": 65700868, 
+                                      "user": 2, 
+                                      "user_score": 1.2798542258336674, 
+                                      "users": {
+                                        "0": 4, 
+                                        "1": 3, 
+                                        "2": 2, 
+                                        "5": 1
+                                      }
+                                    }
+                                  ], 
+                                  "entropy_score": 1.4492856959177864, 
+                                  "favourites": 1, 
+                                  "follower": true, 
+                                  "id": 458392473002201089, 
+                                  "reply": true, 
+                                  "timestamp": "Mon Apr 21 23:50:56 +0000 2014", 
+                                  "tree_size": 12, 
+                                  "tweet": "@WINDSONG58 @thepoliticalcat @HillaryGuess @EdwardOReilly1 @jabouri_mary @PattiKimble We held with our hands but one could use a crank too.", 
+                                  "uid": 776233423, 
+                                  "user": 0, 
+                                  "user_score": 1.2650013752730702, 
+                                  "users": {
+                                    "0": 5, 
+                                    "1": 3, 
+                                    "2": 3, 
+                                    "5": 1
+                                  }
+                                }
+                              ], 
+                              "entropy_score": 1.4492856959177864, 
+                              "favourites": 2, 
+                              "follower": true, 
+                              "id": 458390486479560704, 
+                              "reply": true, 
+                              "timestamp": "Mon Apr 21 23:43:03 +0000 2014", 
+                              "tree_size": 13, 
+                              "tweet": "@marylmcaffry @thepoliticalcat @HillaryGuess @EdwardOReilly1 @jabouri_mary @PattiKimble they have leather/strapping attached ?", 
+                              "uid": 65700868, 
+                              "user": 2, 
+                              "user_score": 1.2658567518727373, 
+                              "users": {
+                                "0": 5, 
+                                "1": 3, 
+                                "2": 4, 
+                                "5": 1
+                              }
+                            }, 
+                            {
+                              "children": [
+                                {
+                                  "children": [
+                                    {
+                                      "children": [
+                                        {
+                                          "children": [
+                                            {
+                                              "children": [
+                                                {
+                                                  "children": [
+                                                    {
+                                                      "children": [
+                                                        {
+                                                          "children": [
+                                                            {
+                                                              "children": [
+                                                                {
+                                                                  "children": [
+                                                                    {
+                                                                      "children": [
+                                                                        {
+                                                                          "children": [
+                                                                            {
+                                                                              "children": [
+                                                                                {
+                                                                                  "children": [
+                                                                                    {
+                                                                                      "children": [
+                                                                                        {
+                                                                                          "children": [
+                                                                                            {
+                                                                                              "entropy_score": 0.0, 
+                                                                                              "favourites": 1, 
+                                                                                              "follower": true, 
+                                                                                              "id": 458768461708001281, 
+                                                                                              "reply": true, 
+                                                                                              "timestamp": "Wed Apr 23 00:44:59 +0000 2014", 
+                                                                                              "tree_size": 1, 
+                                                                                              "tweet": "@marylmcaffry Thanks, sweetie. :D", 
+                                                                                              "uid": 17686959, 
+                                                                                              "user": 3, 
+                                                                                              "user_score": 0.0, 
+                                                                                              "users": {
+                                                                                                "3": 1
+                                                                                              }
+                                                                                            }
+                                                                                          ], 
+                                                                                          "entropy_score": 0.0, 
+                                                                                          "favourites": 1, 
+                                                                                          "follower": true, 
+                                                                                          "id": 458762847250440192, 
+                                                                                          "reply": true, 
+                                                                                          "timestamp": "Wed Apr 23 00:22:40 +0000 2014", 
+                                                                                          "tree_size": 2, 
+                                                                                          "tweet": "@thepoliticalcat I like weird looking old farts...character is a good thing! :D kisses sweet one.", 
+                                                                                          "uid": 776233423, 
+                                                                                          "user": 0, 
+                                                                                          "user_score": 0.6931471805599453, 
+                                                                                          "users": {
+                                                                                            "0": 1, 
+                                                                                            "3": 1
+                                                                                          }
+                                                                                        }
+                                                                                      ], 
+                                                                                      "entropy_score": 0.0, 
+                                                                                      "favourites": 1, 
+                                                                                      "follower": true, 
+                                                                                      "id": 458761112230453248, 
+                                                                                      "reply": true, 
+                                                                                      "timestamp": "Wed Apr 23 00:15:47 +0000 2014", 
+                                                                                      "tree_size": 3, 
+                                                                                      "tweet": "@marylmcaffry Could've been MUCH worse. Right pupil dilated, left pinpoint. Weird looking old fart. :D Hey, I'm impressed too. :D", 
+                                                                                      "uid": 17686959, 
+                                                                                      "user": 3, 
+                                                                                      "user_score": 0.6365141682948128, 
+                                                                                      "users": {
+                                                                                        "0": 1, 
+                                                                                        "3": 2
+                                                                                      }
+                                                                                    }
+                                                                                  ], 
+                                                                                  "entropy_score": 0.0, 
+                                                                                  "favourites": 0, 
+                                                                                  "follower": true, 
+                                                                                  "id": 458760257594867712, 
+                                                                                  "reply": true, 
+                                                                                  "timestamp": "Wed Apr 23 00:12:23 +0000 2014", 
+                                                                                  "tree_size": 4, 
+                                                                                  "tweet": "@thepoliticalcat Less time on computer isn't a bad thing. So sorry Cat. BTW 10K followers! I'm impressed! :)) BCOT", 
+                                                                                  "uid": 776233423, 
+                                                                                  "user": 0, 
+                                                                                  "user_score": 0.6931471805599453, 
+                                                                                  "users": {
+                                                                                    "0": 2, 
+                                                                                    "3": 2
+                                                                                  }
+                                                                                }, 
+                                                                                {
+                                                                                  "children": [
+                                                                                    {
+                                                                                      "children": [
+                                                                                        {
+                                                                                          "children": [
+                                                                                            {
+                                                                                              "children": [
+                                                                                                {
+                                                                                                  "children": [
+                                                                                                    {
+                                                                                                      "children": [
+                                                                                                        {
+                                                                                                          "entropy_score": 0.0, 
+                                                                                                          "favourites": 0, 
+                                                                                                          "follower": true, 
+                                                                                                          "id": 459144560371712001, 
+                                                                                                          "reply": true, 
+                                                                                                          "timestamp": "Thu Apr 24 01:39:28 +0000 2014", 
+                                                                                                          "tree_size": 1, 
+                                                                                                          "tweet": "@thepoliticalcat Saw where you said you felt like you had flu. Maybe go watch a movie? Hugs &amp; kiss-kiss &amp; feel better. :) @HillaryGuess", 
+                                                                                                          "uid": 776233423, 
+                                                                                                          "user": 0, 
+                                                                                                          "user_score": 0.0, 
+                                                                                                          "users": {
+                                                                                                            "0": 1
+                                                                                                          }
+                                                                                                        }, 
+                                                                                                        {
+                                                                                                          "children": [
+                                                                                                            {
+                                                                                                              "entropy_score": 0.0, 
+                                                                                                              "favourites": 1, 
+                                                                                                              "follower": true, 
+                                                                                                              "id": 459148963065520128, 
+                                                                                                              "reply": true, 
+                                                                                                              "timestamp": "Thu Apr 24 01:56:58 +0000 2014", 
+                                                                                                              "tree_size": 1, 
+                                                                                                              "tweet": "Thanks, darls, but I seem to be doing FINE on the ass-kicking front, sickness or no. :D :D @BrettaApplebaum", 
+                                                                                                              "uid": 17686959, 
+                                                                                                              "user": 3, 
+                                                                                                              "user_score": 0.0, 
+                                                                                                              "users": {
+                                                                                                                "3": 1
+                                                                                                              }
+                                                                                                            }
+                                                                                                          ], 
+                                                                                                          "entropy_score": 0.0, 
+                                                                                                          "favourites": 0, 
+                                                                                                          "follower": true, 
+                                                                                                          "id": 459146150629494784, 
+                                                                                                          "reply": true, 
+                                                                                                          "timestamp": "Thu Apr 24 01:45:47 +0000 2014", 
+                                                                                                          "tree_size": 2, 
+                                                                                                          "tweet": "@thepoliticalcat get well soon, then kickass", 
+                                                                                                          "uid": 45673524, 
+                                                                                                          "user": 7, 
+                                                                                                          "user_score": 0.6931471805599453, 
+                                                                                                          "users": {
+                                                                                                            "3": 1, 
+                                                                                                            "7": 1
+                                                                                                          }
+                                                                                                        }
+                                                                                                      ], 
+                                                                                                      "entropy_score": 0.7001655851242942, 
+                                                                                                      "favourites": 0, 
+                                                                                                      "follower": true, 
+                                                                                                      "id": 459136650279260160, 
+                                                                                                      "important_entropy": true, 
+                                                                                                      "reply": true, 
+                                                                                                      "timestamp": "Thu Apr 24 01:08:02 +0000 2014", 
+                                                                                                      "tree_size": 4, 
+                                                                                                      "tweet": "@marylmcaffry @HillaryGuess Bit sick today. Bleh.", 
+                                                                                                      "uid": 17686959, 
+                                                                                                      "user": 3, 
+                                                                                                      "user_score": 1.0397207708399179, 
+                                                                                                      "users": {
+                                                                                                        "0": 1, 
+                                                                                                        "3": 2, 
+                                                                                                        "7": 1
+                                                                                                      }
+                                                                                                    }
+                                                                                                  ], 
+                                                                                                  "entropy_score": 0.7001655851242942, 
+                                                                                                  "favourites": 0, 
+                                                                                                  "follower": true, 
+                                                                                                  "id": 459135489421746176, 
+                                                                                                  "reply": true, 
+                                                                                                  "timestamp": "Thu Apr 24 01:03:25 +0000 2014", 
+                                                                                                  "tree_size": 5, 
+                                                                                                  "tweet": "@thepoliticalcat @HillaryGuess Haha! I know that!! Can't get tweets to load or send. Shitty phone.", 
+                                                                                                  "uid": 776233423, 
+                                                                                                  "user": 0, 
+                                                                                                  "user_score": 1.0549201679861442, 
+                                                                                                  "users": {
+                                                                                                    "0": 2, 
+                                                                                                    "3": 2, 
+                                                                                                    "7": 1
+                                                                                                  }
+                                                                                                }
+                                                                                              ], 
+                                                                                              "entropy_score": 0.7001655851242942, 
+                                                                                              "favourites": 1, 
+                                                                                              "follower": true, 
+                                                                                              "id": 459130624532439041, 
+                                                                                              "reply": true, 
+                                                                                              "timestamp": "Thu Apr 24 00:44:05 +0000 2014", 
+                                                                                              "tree_size": 6, 
+                                                                                              "tweet": "@marylmcaffry @HillaryGuess Yeesh! Man, I ain't that fugly! :D", 
+                                                                                              "uid": 17686959, 
+                                                                                              "user": 3, 
+                                                                                              "user_score": 1.0114042647073516, 
+                                                                                              "users": {
+                                                                                                "0": 2, 
+                                                                                                "3": 3, 
+                                                                                                "7": 1
+                                                                                              }
+                                                                                            }
+                                                                                          ], 
+                                                                                          "entropy_score": 0.7001655851242942, 
+                                                                                          "favourites": 0, 
+                                                                                          "follower": true, 
+                                                                                          "id": 459129086795710465, 
+                                                                                          "reply": true, 
+                                                                                          "timestamp": "Thu Apr 24 00:37:59 +0000 2014", 
+                                                                                          "tree_size": 7, 
+                                                                                          "tweet": "@thepoliticalcat Bless you. Thought of this guy last night after your description. :D @HillaryGuess http://t.co/oriUiqYBRw", 
+                                                                                          "uid": 776233423, 
+                                                                                          "user": 0, 
+                                                                                          "user_score": 1.0042424730540764, 
+                                                                                          "users": {
+                                                                                            "0": 3, 
+                                                                                            "3": 3, 
+                                                                                            "7": 1
+                                                                                          }
+                                                                                        }
+                                                                                      ], 
+                                                                                      "entropy_score": 0.7001655851242942, 
+                                                                                      "favourites": 1, 
+                                                                                      "follower": true, 
+                                                                                      "id": 459112431428464640, 
+                                                                                      "reply": true, 
+                                                                                      "timestamp": "Wed Apr 23 23:31:48 +0000 2014", 
+                                                                                      "tree_size": 8, 
+                                                                                      "tweet": "@HillaryGuess @marylmcaffry Unknown. Further testing required. :P", 
+                                                                                      "uid": 17686959, 
+                                                                                      "user": 3, 
+                                                                                      "user_score": 0.9743147528693494, 
+                                                                                      "users": {
+                                                                                        "0": 3, 
+                                                                                        "3": 4, 
+                                                                                        "7": 1
+                                                                                      }
+                                                                                    }
+                                                                                  ], 
+                                                                                  "entropy_score": 0.7001655851242942, 
+                                                                                  "favourites": 0, 
+                                                                                  "follower": true, 
+                                                                                  "id": 459111923980587009, 
+                                                                                  "reply": true, 
+                                                                                  "timestamp": "Wed Apr 23 23:29:47 +0000 2014", 
+                                                                                  "tree_size": 9, 
+                                                                                  "tweet": "@thepoliticalcat Vision loss permanent? @marylmcaffry", 
+                                                                                  "uid": 1119760256, 
+                                                                                  "user": 1, 
+                                                                                  "user_score": 1.2148896539491203, 
+                                                                                  "users": {
+                                                                                    "0": 3, 
+                                                                                    "1": 1, 
+                                                                                    "3": 4, 
+                                                                                    "7": 1
+                                                                                  }
+                                                                                }
+                                                                              ], 
+                                                                              "entropy_score": 1.37913153182767, 
+                                                                              "favourites": 0, 
+                                                                              "follower": true, 
+                                                                              "id": 458759372156309504, 
+                                                                              "reply": true, 
+                                                                              "timestamp": "Wed Apr 23 00:08:52 +0000 2014", 
+                                                                              "tree_size": 14, 
+                                                                              "tweet": "@marylmcaffry The vision is brain/neurological issue. Still hike, but I've lost some of my vision. Less time on computer prescribed.", 
+                                                                              "uid": 17686959, 
+                                                                              "user": 3, 
+                                                                              "user_score": 1.0913030006468518, 
+                                                                              "users": {
+                                                                                "0": 5, 
+                                                                                "1": 1, 
+                                                                                "3": 7, 
+                                                                                "7": 1
+                                                                              }
+                                                                            }
+                                                                          ], 
+                                                                          "entropy_score": 1.37913153182767, 
+                                                                          "favourites": 0, 
+                                                                          "follower": true, 
+                                                                          "id": 458758071032897536, 
+                                                                          "reply": true, 
+                                                                          "timestamp": "Wed Apr 23 00:03:42 +0000 2014", 
+                                                                          "tree_size": 15, 
+                                                                          "tweet": "@thepoliticalcat How's your vision? You still able to exercise a bit, go on your hikes?", 
+                                                                          "uid": 776233423, 
+                                                                          "user": 0, 
+                                                                          "user_score": 1.0832550105185086, 
+                                                                          "users": {
+                                                                            "0": 6, 
+                                                                            "1": 1, 
+                                                                            "3": 7, 
+                                                                            "7": 1
+                                                                          }
+                                                                        }
+                                                                      ], 
+                                                                      "entropy_score": 1.37913153182767, 
+                                                                      "favourites": 0, 
+                                                                      "follower": false, 
+                                                                      "id": 458755648516136960, 
+                                                                      "reply": true, 
+                                                                      "timestamp": "Tue Apr 22 23:54:04 +0000 2014", 
+                                                                      "tree_size": 16, 
+                                                                      "tweet": "@marylmcaffry @HillaryGuess @PattiKimble @WINDSONG58 @EdwardOReilly1 @jabouri_mary MRI/Xrays needed. :) PITA", 
+                                                                      "uid": 17686959, 
+                                                                      "user": 3, 
+                                                                      "user_score": 1.0609581504393426, 
+                                                                      "users": {
+                                                                        "0": 6, 
+                                                                        "1": 1, 
+                                                                        "3": 8, 
+                                                                        "7": 1
+                                                                      }
+                                                                    }, 
+                                                                    {
+                                                                      "children": [
+                                                                        {
+                                                                          "entropy_score": 0.0, 
+                                                                          "favourites": 0, 
+                                                                          "follower": false, 
+                                                                          "id": 458760823054159872, 
+                                                                          "reply": false, 
+                                                                          "timestamp": "Wed Apr 23 00:14:38 +0000 2014", 
+                                                                          "tree_size": 1, 
+                                                                          "tweet": "RT @marylmcaffry: @thepoliticalcat @HillaryGuess @PattiKimble @WINDSONG58 @EdwardOReilly1 @jabouri_mary Thank goodness! #Obamacare", 
+                                                                          "uid": 421616276, 
+                                                                          "user": 6, 
+                                                                          "user_score": 0.0, 
+                                                                          "users": {
+                                                                            "6": 1
+                                                                          }
+                                                                        }
+                                                                      ], 
+                                                                      "entropy_score": 0.0, 
+                                                                      "favourites": 3, 
+                                                                      "follower": true, 
+                                                                      "id": 458757352728965120, 
+                                                                      "reply": true, 
+                                                                      "timestamp": "Wed Apr 23 00:00:50 +0000 2014", 
+                                                                      "tree_size": 2, 
+                                                                      "tweet": "@thepoliticalcat @HillaryGuess @PattiKimble @WINDSONG58 @EdwardOReilly1 @jabouri_mary Thank goodness! #Obamacare", 
+                                                                      "uid": 776233423, 
+                                                                      "user": 0, 
+                                                                      "user_score": 0.6931471805599453, 
+                                                                      "users": {
+                                                                        "0": 1, 
+                                                                        "6": 1
+                                                                      }
+                                                                    }, 
+                                                                    {
+                                                                      "children": [
+                                                                        {
+                                                                          "children": [
+                                                                            {
+                                                                              "children": [
+                                                                                {
+                                                                                  "entropy_score": 0.0, 
+                                                                                  "favourites": 1, 
+                                                                                  "follower": true, 
+                                                                                  "id": 459115157008830464, 
+                                                                                  "reply": true, 
+                                                                                  "timestamp": "Wed Apr 23 23:42:38 +0000 2014", 
+                                                                                  "tree_size": 1, 
+                                                                                  "tweet": "@HillaryGuess @marylmcaffry @PattiKimble @WINDSONG58 @EdwardOReilly1 @jabouri_mary :) Thanks, Hill. :)", 
+                                                                                  "uid": 17686959, 
+                                                                                  "user": 3, 
+                                                                                  "user_score": 0.0, 
+                                                                                  "users": {
+                                                                                    "3": 1
+                                                                                  }
+                                                                                }
+                                                                              ], 
+                                                                              "entropy_score": 0.0, 
+                                                                              "favourites": 0, 
+                                                                              "follower": true, 
+                                                                              "id": 459113754764926977, 
+                                                                              "reply": true, 
+                                                                              "timestamp": "Wed Apr 23 23:37:03 +0000 2014", 
+                                                                              "tree_size": 2, 
+                                                                              "tweet": "@thepoliticalcat Many (((hugs))) @marylmcaffry @PattiKimble @WINDSONG58 @EdwardOReilly1 @jabouri_mary", 
+                                                                              "uid": 1119760256, 
+                                                                              "user": 1, 
+                                                                              "user_score": 0.6931471805599453, 
+                                                                              "users": {
+                                                                                "1": 1, 
+                                                                                "3": 1
+                                                                              }
+                                                                            }
+                                                                          ], 
+                                                                          "entropy_score": 0.0, 
+                                                                          "favourites": 3, 
+                                                                          "follower": true, 
+                                                                          "id": 459112557911871488, 
+                                                                          "reply": true, 
+                                                                          "timestamp": "Wed Apr 23 23:32:18 +0000 2014", 
+                                                                          "tree_size": 3, 
+                                                                          "tweet": "@HillaryGuess @marylmcaffry @PattiKimble @WINDSONG58 @EdwardOReilly1 @jabouri_mary Thanks, I appreciate it. :)", 
+                                                                          "uid": 17686959, 
+                                                                          "user": 3, 
+                                                                          "user_score": 0.6365141682948128, 
+                                                                          "users": {
+                                                                            "1": 1, 
+                                                                            "3": 2
+                                                                          }
+                                                                        }
+                                                                      ], 
+                                                                      "entropy_score": 0.0, 
+                                                                      "favourites": 3, 
+                                                                      "follower": true, 
+                                                                      "id": 459111783735627776, 
+                                                                      "reply": true, 
+                                                                      "timestamp": "Wed Apr 23 23:29:13 +0000 2014", 
+                                                                      "tree_size": 4, 
+                                                                      "tweet": "@thepoliticalcat Will be thinking about u. @marylmcaffry @PattiKimble @WINDSONG58 @EdwardOReilly1 @jabouri_mary", 
+                                                                      "uid": 1119760256, 
+                                                                      "user": 1, 
+                                                                      "user_score": 0.6931471805599453, 
+                                                                      "users": {
+                                                                        "1": 2, 
+                                                                        "3": 2
+                                                                      }
+                                                                    }
+                                                                  ], 
+                                                                  "entropy_score": 2.21463366245002, 
+                                                                  "favourites": 4, 
+                                                                  "follower": true, 
+                                                                  "id": 458755554022653952, 
+                                                                  "important_entropy": true, 
+                                                                  "reply": true, 
+                                                                  "timestamp": "Tue Apr 22 23:53:42 +0000 2014", 
+                                                                  "tree_size": 23, 
+                                                                  "tweet": "@marylmcaffry @HillaryGuess @PattiKimble @WINDSONG58 @EdwardOReilly1 @jabouri_mary Not great, but dr next month, thanks #Obamacare!", 
+                                                                  "uid": 17686959, 
+                                                                  "user": 3, 
+                                                                  "user_score": 1.2531439589650801, 
+                                                                  "users": {
+                                                                    "0": 7, 
+                                                                    "1": 3, 
+                                                                    "3": 11, 
+                                                                    "6": 1, 
+                                                                    "7": 1
+                                                                  }
+                                                                }
+                                                              ], 
+                                                              "entropy_score": 2.21463366245002, 
+                                                              "favourites": 1, 
+                                                              "follower": true, 
+                                                              "id": 458754864592343040, 
+                                                              "reply": true, 
+                                                              "timestamp": "Tue Apr 22 23:50:57 +0000 2014", 
+                                                              "tree_size": 24, 
+                                                              "tweet": "@thepoliticalcat @HillaryGuess @PattiKimble @WINDSONG58 @EdwardOReilly1 @jabouri_mary Joy to the world! Yum. How are you feeling?", 
+                                                              "uid": 776233423, 
+                                                              "user": 0, 
+                                                              "user_score": 1.2485447803385665, 
+                                                              "users": {
+                                                                "0": 8, 
+                                                                "1": 3, 
+                                                                "3": 11, 
+                                                                "6": 1, 
+                                                                "7": 1
+                                                              }
+                                                            }
+                                                          ], 
+                                                          "entropy_score": 2.21463366245002, 
+                                                          "favourites": 1, 
+                                                          "follower": true, 
+                                                          "id": 458753775310606336, 
+                                                          "reply": true, 
+                                                          "timestamp": "Tue Apr 22 23:46:37 +0000 2014", 
+                                                          "tree_size": 25, 
+                                                          "tweet": "@marylmcaffry @HillaryGuess @PattiKimble @WINDSONG58 @EdwardOReilly1 @jabouri_mary :D Thanks, you're a jewel. Tomatoes going in soon!", 
+                                                          "uid": 17686959, 
+                                                          "user": 3, 
+                                                          "user_score": 1.22886586499224, 
+                                                          "users": {
+                                                            "0": 8, 
+                                                            "1": 3, 
+                                                            "3": 12, 
+                                                            "6": 1, 
+                                                            "7": 1
+                                                          }
+                                                        }
+                                                      ], 
+                                                      "entropy_score": 2.21463366245002, 
+                                                      "favourites": 0, 
+                                                      "follower": true, 
+                                                      "id": 458753149881167872, 
+                                                      "reply": true, 
+                                                      "timestamp": "Tue Apr 22 23:44:08 +0000 2014", 
+                                                      "tree_size": 26, 
+                                                      "tweet": "@thepoliticalcat @HillaryGuess @PattiKimble @WINDSONG58 @EdwardOReilly1 @jabouri_mary I know. No secretions please! I took you off. :))", 
+                                                      "uid": 776233423, 
+                                                      "user": 0, 
+                                                      "user_score": 1.2238758511181624, 
+                                                      "users": {
+                                                        "0": 9, 
+                                                        "1": 3, 
+                                                        "3": 12, 
+                                                        "6": 1, 
+                                                        "7": 1
+                                                      }
+                                                    }
+                                                  ], 
+                                                  "entropy_score": 2.21463366245002, 
+                                                  "favourites": 2, 
+                                                  "follower": true, 
+                                                  "id": 458742914667917312, 
+                                                  "reply": true, 
+                                                  "timestamp": "Tue Apr 22 23:03:28 +0000 2014", 
+                                                  "tree_size": 27, 
+                                                  "tweet": "@marylmcaffry @HillaryGuess @PattiKimble @WINDSONG58 @EdwardOReilly1 @jabouri_mary Hi, Ms. Maryl! Yeah, that stuff squicks me out. :D", 
+                                                  "uid": 17686959, 
+                                                  "user": 3, 
+                                                  "user_score": 1.2063850249291335, 
+                                                  "users": {
+                                                    "0": 9, 
+                                                    "1": 3, 
+                                                    "3": 13, 
+                                                    "6": 1, 
+                                                    "7": 1
+                                                  }
+                                                }, 
+                                                {
+                                                  "children": [
+                                                    {
+                                                      "children": [
+                                                        {
+                                                          "children": [
+                                                            {
+                                                              "children": [
+                                                                {
+                                                                  "children": [
+                                                                    {
+                                                                      "children": [
+                                                                        {
+                                                                          "children": [
+                                                                            {
+                                                                              "children": [
+                                                                                {
+                                                                                  "children": [
+                                                                                    {
+                                                                                      "children": [
+                                                                                        {
+                                                                                          "children": [
+                                                                                            {
+                                                                                              "children": [
+                                                                                                {
+                                                                                                  "entropy_score": 0.0, 
+                                                                                                  "favourites": 1, 
+                                                                                                  "follower": true, 
+                                                                                                  "id": 458787276151996419, 
+                                                                                                  "reply": true, 
+                                                                                                  "timestamp": "Wed Apr 23 01:59:45 +0000 2014", 
+                                                                                                  "tree_size": 1, 
+                                                                                                  "tweet": "@marylmcaffry Thank TPTB for ppl like you, Ms. Maryl. You, Spiggy, and all the other loving souls make up for the assholes on the planet.", 
+                                                                                                  "uid": 17686959, 
+                                                                                                  "user": 3, 
+                                                                                                  "user_score": 0.0, 
+                                                                                                  "users": {
+                                                                                                    "3": 1
+                                                                                                  }
+                                                                                                }
+                                                                                              ], 
+                                                                                              "entropy_score": 0.0, 
+                                                                                              "favourites": 0, 
+                                                                                              "follower": true, 
+                                                                                              "id": 458785894141411328, 
+                                                                                              "reply": true, 
+                                                                                              "timestamp": "Wed Apr 23 01:54:15 +0000 2014", 
+                                                                                              "tree_size": 2, 
+                                                                                              "tweet": "@thepoliticalcat Perhaps. He came into my life as a wild beat up Tom. He lives in a bedroom in La with female named Tornado. :)", 
+                                                                                              "uid": 776233423, 
+                                                                                              "user": 0, 
+                                                                                              "user_score": 0.6931471805599453, 
+                                                                                              "users": {
+                                                                                                "0": 1, 
+                                                                                                "3": 1
+                                                                                              }
+                                                                                            }
+                                                                                          ], 
+                                                                                          "entropy_score": 0.0, 
+                                                                                          "favourites": 1, 
+                                                                                          "follower": true, 
+                                                                                          "id": 458784101403594752, 
+                                                                                          "reply": true, 
+                                                                                          "timestamp": "Wed Apr 23 01:47:08 +0000 2014", 
+                                                                                          "tree_size": 3, 
+                                                                                          "tweet": "@marylmcaffry He might have been traumatised by being punished during litterbox training. :(", 
+                                                                                          "uid": 17686959, 
+                                                                                          "user": 3, 
+                                                                                          "user_score": 0.6365141682948128, 
+                                                                                          "users": {
+                                                                                            "0": 1, 
+                                                                                            "3": 2
+                                                                                          }
+                                                                                        }
+                                                                                      ], 
+                                                                                      "entropy_score": 0.0, 
+                                                                                      "favourites": 0, 
+                                                                                      "follower": true, 
+                                                                                      "id": 458783249787916288, 
+                                                                                      "reply": true, 
+                                                                                      "timestamp": "Wed Apr 23 01:43:45 +0000 2014", 
+                                                                                      "tree_size": 4, 
+                                                                                      "tweet": "@thepoliticalcat If grumpy wasn't waiting for me in the morning I'd wonder WTF happened? :D he could be deaf.so what?#whyshitonfloorasshole?", 
+                                                                                      "uid": 776233423, 
+                                                                                      "user": 0, 
+                                                                                      "user_score": 0.6931471805599453, 
+                                                                                      "users": {
+                                                                                        "0": 2, 
+                                                                                        "3": 2
+                                                                                      }
+                                                                                    }
+                                                                                  ], 
+                                                                                  "entropy_score": 0.0, 
+                                                                                  "favourites": 1, 
+                                                                                  "follower": true, 
+                                                                                  "id": 458767826078023680, 
+                                                                                  "reply": true, 
+                                                                                  "timestamp": "Wed Apr 23 00:42:27 +0000 2014", 
+                                                                                  "tree_size": 5, 
+                                                                                  "tweet": "@marylmcaffry I guess you're right. Poor white kitteh, is it deaf? Our two last guys are getting old, just like us. :) Cranky &amp; grumpy.", 
+                                                                                  "uid": 17686959, 
+                                                                                  "user": 3, 
+                                                                                  "user_score": 0.6730116670092565, 
+                                                                                  "users": {
+                                                                                    "0": 2, 
+                                                                                    "3": 3
+                                                                                  }
+                                                                                }
+                                                                              ], 
+                                                                              "entropy_score": 0.0, 
+                                                                              "favourites": 0, 
+                                                                              "follower": true, 
+                                                                              "id": 458763658634334208, 
+                                                                              "reply": true, 
+                                                                              "timestamp": "Wed Apr 23 00:25:54 +0000 2014", 
+                                                                              "tree_size": 6, 
+                                                                              "tweet": "@thepoliticalcat Oh, Darls. Didn't y'all both love him? Have several cats who are nuts. White cat shits on floor EVERY DAY. I cuss.", 
+                                                                              "uid": 776233423, 
+                                                                              "user": 0, 
+                                                                              "user_score": 0.6931471805599453, 
+                                                                              "users": {
+                                                                                "0": 3, 
+                                                                                "3": 3
+                                                                              }
+                                                                            }, 
+                                                                            {
+                                                                              "children": [
+                                                                                {
+                                                                                  "children": [
+                                                                                    {
+                                                                                      "children": [
+                                                                                        {
+                                                                                          "children": [
+                                                                                            {
+                                                                                              "entropy_score": 0.0, 
+                                                                                              "favourites": 0, 
+                                                                                              "follower": true, 
+                                                                                              "id": 459126945901330432, 
+                                                                                              "reply": false, 
+                                                                                              "timestamp": "Thu Apr 24 00:29:28 +0000 2014", 
+                                                                                              "tree_size": 1, 
+                                                                                              "tweet": "RT @thepoliticalcat: @HillaryGuess @marylmcaffry Glad I had em. Dad always said ur not doing them a kindness. They're giving you a chance t\u2026", 
+                                                                                              "uid": 776233423, 
+                                                                                              "user": 0, 
+                                                                                              "user_score": 0.0, 
+                                                                                              "users": {
+                                                                                                "0": 1
+                                                                                              }
+                                                                                            }
+                                                                                          ], 
+                                                                                          "entropy_score": 0.0, 
+                                                                                          "favourites": 1, 
+                                                                                          "follower": true, 
+                                                                                          "id": 459120967885660160, 
+                                                                                          "reply": true, 
+                                                                                          "timestamp": "Thu Apr 24 00:05:43 +0000 2014", 
+                                                                                          "tree_size": 2, 
+                                                                                          "tweet": "@HillaryGuess @marylmcaffry Glad I had em. Dad always said ur not doing them a kindness. They're giving you a chance to show your quality", 
+                                                                                          "uid": 17686959, 
+                                                                                          "user": 3, 
+                                                                                          "user_score": 0.6931471805599453, 
+                                                                                          "users": {
+                                                                                            "0": 1, 
+                                                                                            "3": 1
+                                                                                          }
+                                                                                        }
+                                                                                      ], 
+                                                                                      "entropy_score": 0.0, 
+                                                                                      "favourites": 1, 
+                                                                                      "follower": true, 
+                                                                                      "id": 459116084889530369, 
+                                                                                      "reply": true, 
+                                                                                      "timestamp": "Wed Apr 23 23:46:19 +0000 2014", 
+                                                                                      "tree_size": 3, 
+                                                                                      "tweet": "@thepoliticalcat Glad they had u - God bless @marylmcaffry", 
+                                                                                      "uid": 1119760256, 
+                                                                                      "user": 1, 
+                                                                                      "user_score": 1.0986122886681096, 
+                                                                                      "users": {
+                                                                                        "0": 1, 
+                                                                                        "1": 1, 
+                                                                                        "3": 1
+                                                                                      }
+                                                                                    }, 
+                                                                                    {
+                                                                                      "children": [
+                                                                                        {
+                                                                                          "children": [
+                                                                                            {
+                                                                                              "children": [
+                                                                                                {
+                                                                                                  "children": [
+                                                                                                    {
+                                                                                                      "children": [
+                                                                                                        {
+                                                                                                          "children": [
+                                                                                                            {
+                                                                                                              "entropy_score": 0.0, 
+                                                                                                              "favourites": 0, 
+                                                                                                              "follower": true, 
+                                                                                                              "id": 459299346102497281, 
+                                                                                                              "reply": true, 
+                                                                                                              "timestamp": "Thu Apr 24 11:54:32 +0000 2014", 
+                                                                                                              "tree_size": 1, 
+                                                                                                              "tweet": "@thepoliticalcat @HillaryGuess Good! I'm counting on it. :)", 
+                                                                                                              "uid": 776233423, 
+                                                                                                              "user": 0, 
+                                                                                                              "user_score": 0.0, 
+                                                                                                              "users": {
+                                                                                                                "0": 1
+                                                                                                              }
+                                                                                                            }
+                                                                                                          ], 
+                                                                                                          "entropy_score": 0.0, 
+                                                                                                          "favourites": 2, 
+                                                                                                          "follower": true, 
+                                                                                                          "id": 459147365190860800, 
+                                                                                                          "reply": true, 
+                                                                                                          "timestamp": "Thu Apr 24 01:50:37 +0000 2014", 
+                                                                                                          "tree_size": 2, 
+                                                                                                          "tweet": "@marylmcaffry @HillaryGuess Yes, I will. I showed my partner the new photos and she loved them. Very painterly, she said. :)", 
+                                                                                                          "uid": 17686959, 
+                                                                                                          "user": 3, 
+                                                                                                          "user_score": 0.6931471805599453, 
+                                                                                                          "users": {
+                                                                                                            "0": 1, 
+                                                                                                            "3": 1
+                                                                                                          }
+                                                                                                        }
+                                                                                                      ], 
+                                                                                                      "entropy_score": 0.0, 
+                                                                                                      "favourites": 0, 
+                                                                                                      "follower": true, 
+                                                                                                      "id": 459144936164585472, 
+                                                                                                      "reply": true, 
+                                                                                                      "timestamp": "Thu Apr 24 01:40:57 +0000 2014", 
+                                                                                                      "tree_size": 3, 
+                                                                                                      "tweet": "@thepoliticalcat You'll never post them though! @HillaryGuess", 
+                                                                                                      "uid": 776233423, 
+                                                                                                      "user": 0, 
+                                                                                                      "user_score": 0.6365141682948128, 
+                                                                                                      "users": {
+                                                                                                        "0": 2, 
+                                                                                                        "3": 1
+                                                                                                      }
+                                                                                                    }
+                                                                                                  ], 
+                                                                                                  "entropy_score": 0.0, 
+                                                                                                  "favourites": 2, 
+                                                                                                  "follower": true, 
+                                                                                                  "id": 459137929097392128, 
+                                                                                                  "reply": true, 
+                                                                                                  "timestamp": "Thu Apr 24 01:13:07 +0000 2014", 
+                                                                                                  "tree_size": 4, 
+                                                                                                  "tweet": "@marylmcaffry @HillaryGuess Looking at old photos, not v good. Have plans for new photos, plus a cool new macro lens w/great bokeh", 
+                                                                                                  "uid": 17686959, 
+                                                                                                  "user": 3, 
+                                                                                                  "user_score": 0.6931471805599453, 
+                                                                                                  "users": {
+                                                                                                    "0": 2, 
+                                                                                                    "3": 2
+                                                                                                  }
+                                                                                                }
+                                                                                              ], 
+                                                                                              "entropy_score": 0.0, 
+                                                                                              "favourites": 0, 
+                                                                                              "follower": true, 
+                                                                                              "id": 459136061373837312, 
+                                                                                              "reply": true, 
+                                                                                              "timestamp": "Thu Apr 24 01:05:42 +0000 2014", 
+                                                                                              "tree_size": 5, 
+                                                                                              "tweet": "@thepoliticalcat I'm just waiting for veggie porn. Umm..can't wait! No one does it better. @HillaryGuess", 
+                                                                                              "uid": 776233423, 
+                                                                                              "user": 0, 
+                                                                                              "user_score": 0.6730116670092565, 
+                                                                                              "users": {
+                                                                                                "0": 3, 
+                                                                                                "3": 2
+                                                                                              }
+                                                                                            }
+                                                                                          ], 
+                                                                                          "entropy_score": 0.0, 
+                                                                                          "favourites": 1, 
+                                                                                          "follower": true, 
+                                                                                          "id": 459129318568755201, 
+                                                                                          "reply": true, 
+                                                                                          "timestamp": "Thu Apr 24 00:38:54 +0000 2014", 
+                                                                                          "tree_size": 6, 
+                                                                                          "tweet": "@marylmcaffry @HillaryGuess I wish, dear. Just another flawed sod stumbling through the world. :)", 
+                                                                                          "uid": 17686959, 
+                                                                                          "user": 3, 
+                                                                                          "user_score": 0.6931471805599453, 
+                                                                                          "users": {
+                                                                                            "0": 3, 
+                                                                                            "3": 3
+                                                                                          }
+                                                                                        }
+                                                                                      ], 
+                                                                                      "entropy_score": 0.0, 
+                                                                                      "favourites": 0, 
+                                                                                      "follower": true, 
+                                                                                      "id": 459127883881918464, 
+                                                                                      "reply": true, 
+                                                                                      "timestamp": "Thu Apr 24 00:33:12 +0000 2014", 
+                                                                                      "tree_size": 7, 
+                                                                                      "tweet": "@thepoliticalcat @HillaryGuess ;( You're a fine person Cat.", 
+                                                                                      "uid": 776233423, 
+                                                                                      "user": 0, 
+                                                                                      "user_score": 0.6829081047004717, 
+                                                                                      "users": {
+                                                                                        "0": 4, 
+                                                                                        "3": 3
+                                                                                      }
+                                                                                    }
+                                                                                  ], 
+                                                                                  "entropy_score": 0.6719507322603828, 
+                                                                                  "favourites": 1, 
+                                                                                  "follower": true, 
+                                                                                  "id": 459114613573832704, 
+                                                                                  "reply": true, 
+                                                                                  "timestamp": "Wed Apr 23 23:40:28 +0000 2014", 
+                                                                                  "tree_size": 11, 
+                                                                                  "tweet": "@HillaryGuess @marylmcaffry No, Gustav was a badly-abused kitty. Corky was the badly-abused dog. We lost him a while ago.", 
+                                                                                  "uid": 17686959, 
+                                                                                  "user": 3, 
+                                                                                  "user_score": 0.9347698978582792, 
+                                                                                  "users": {
+                                                                                    "0": 5, 
+                                                                                    "1": 1, 
+                                                                                    "3": 5
+                                                                                  }
+                                                                                }
+                                                                              ], 
+                                                                              "entropy_score": 0.6719507322603828, 
+                                                                              "favourites": 0, 
+                                                                              "follower": true, 
+                                                                              "id": 459112505399201793, 
+                                                                              "reply": true, 
+                                                                              "timestamp": "Wed Apr 23 23:32:05 +0000 2014", 
+                                                                              "tree_size": 12, 
+                                                                              "tweet": "@thepoliticalcat I'm so sorry-Gustav was a dog? @marylmcaffry", 
+                                                                              "uid": 1119760256, 
+                                                                              "user": 1, 
+                                                                              "user_score": 1.0281838593329258, 
+                                                                              "users": {
+                                                                                "0": 5, 
+                                                                                "1": 2, 
+                                                                                "3": 5
+                                                                              }
+                                                                            }
+                                                                          ], 
+                                                                          "entropy_score": 1.3721163173846769, 
+                                                                          "favourites": 2, 
+                                                                          "follower": true, 
+                                                                          "id": 458761367818739712, 
+                                                                          "reply": true, 
+                                                                          "timestamp": "Wed Apr 23 00:16:48 +0000 2014", 
+                                                                          "tree_size": 19, 
+                                                                          "tweet": "@marylmcaffry That's all he had, all his life. 2 ppl who loved him t the very end, 1 of whom he never met. Poor li'l guy. Still makes me sad", 
+                                                                          "uid": 17686959, 
+                                                                          "user": 3, 
+                                                                          "user_score": 0.9551311954514641, 
+                                                                          "users": {
+                                                                            "0": 8, 
+                                                                            "1": 2, 
+                                                                            "3": 9
+                                                                          }
+                                                                        }
+                                                                      ], 
+                                                                      "entropy_score": 1.3721163173846769, 
+                                                                      "favourites": 1, 
+                                                                      "follower": true, 
+                                                                      "id": 458760668603092992, 
+                                                                      "reply": true, 
+                                                                      "timestamp": "Wed Apr 23 00:14:01 +0000 2014", 
+                                                                      "tree_size": 20, 
+                                                                      "tweet": "@thepoliticalcat I loved him. Still do. ;(  So do you.", 
+                                                                      "uid": 776233423, 
+                                                                      "user": 0, 
+                                                                      "user_score": 0.9489154358953991, 
+                                                                      "users": {
+                                                                        "0": 9, 
+                                                                        "1": 2, 
+                                                                        "3": 9
+                                                                      }
+                                                                    }
+                                                                  ], 
+                                                                  "entropy_score": 1.3721163173846769, 
+                                                                  "favourites": 2, 
+                                                                  "follower": true, 
+                                                                  "id": 458759744069455872, 
+                                                                  "reply": true, 
+                                                                  "timestamp": "Wed Apr 23 00:10:20 +0000 2014", 
+                                                                  "tree_size": 21, 
+                                                                  "tweet": "@marylmcaffry :D Yeah, it was hard with Gustav. Found some old pix of the poor li'l guy. Still hurting for him. Nobody loved him, really.", 
+                                                                  "uid": 17686959, 
+                                                                  "user": 3, 
+                                                                  "user_score": 0.9403716526240743, 
+                                                                  "users": {
+                                                                    "0": 9, 
+                                                                    "1": 2, 
+                                                                    "3": 10
+                                                                  }
+                                                                }
+                                                              ], 
+                                                              "entropy_score": 1.3721163173846769, 
+                                                              "favourites": 0, 
+                                                              "follower": true, 
+                                                              "id": 458756837488082944, 
+                                                              "reply": true, 
+                                                              "timestamp": "Tue Apr 22 23:58:48 +0000 2014", 
+                                                              "tree_size": 22, 
+                                                              "tweet": "@thepoliticalcat Prissy, you're back! Haha! You are a good owner &amp; were there for Gustav during that horror. You my precious Buddy! :)", 
+                                                              "uid": 776233423, 
+                                                              "user": 0, 
+                                                              "user_score": 0.9347698978582792, 
+                                                              "users": {
+                                                                "0": 10, 
+                                                                "1": 2, 
+                                                                "3": 10
+                                                              }
+                                                            }
+                                                          ], 
+                                                          "entropy_score": 1.3721163173846769, 
+                                                          "favourites": 2, 
+                                                          "follower": true, 
+                                                          "id": 458754646668873728, 
+                                                          "reply": true, 
+                                                          "timestamp": "Tue Apr 22 23:50:05 +0000 2014", 
+                                                          "tree_size": 23, 
+                                                          "tweet": "@marylmcaffry  So does my sister. Not me. I just pass out till later. :D Especially birthing. Don't know nuthin' about no birthin'. :D", 
+                                                          "uid": 17686959, 
+                                                          "user": 3, 
+                                                          "user_score": 0.9272771162838269, 
+                                                          "users": {
+                                                            "0": 10, 
+                                                            "1": 2, 
+                                                            "3": 11
+                                                          }
+                                                        }
+                                                      ], 
+                                                      "entropy_score": 1.3721163173846769, 
+                                                      "favourites": 2, 
+                                                      "follower": true, 
+                                                      "id": 458753930730553344, 
+                                                      "reply": true, 
+                                                      "timestamp": "Tue Apr 22 23:47:14 +0000 2014", 
+                                                      "tree_size": 24, 
+                                                      "tweet": "@thepoliticalcat @HillaryGuess @PattiKimble @WINDSONG58 @EdwardOReilly1 @jabouri_mary You had sweet dad. I do fairly well in pet emergencies", 
+                                                      "uid": 776233423, 
+                                                      "user": 0, 
+                                                      "user_score": 0.9222208985694438, 
+                                                      "users": {
+                                                        "0": 11, 
+                                                        "1": 2, 
+                                                        "3": 11
+                                                      }
+                                                    }
+                                                  ], 
+                                                  "entropy_score": 1.3721163173846769, 
+                                                  "favourites": 1, 
+                                                  "follower": true, 
+                                                  "id": 458743117374439424, 
+                                                  "reply": true, 
+                                                  "timestamp": "Tue Apr 22 23:04:16 +0000 2014", 
+                                                  "tree_size": 25, 
+                                                  "tweet": "@marylmcaffry @HillaryGuess @PattiKimble @WINDSONG58 @EdwardOReilly1 @jabouri_mary Dad always sed 'You won't care when it's your kid.' WRONG", 
+                                                  "uid": 17686959, 
+                                                  "user": 3, 
+                                                  "user_score": 0.915594938493882, 
+                                                  "users": {
+                                                    "0": 11, 
+                                                    "1": 2, 
+                                                    "3": 12
+                                                  }
+                                                }
+                                              ], 
+                                              "entropy_score": 4.348398068270342, 
+                                              "favourites": 0, 
+                                              "follower": true, 
+                                              "id": 458597703635582977, 
+                                              "important_entropy": true, 
+                                              "reply": true, 
+                                              "timestamp": "Tue Apr 22 13:26:27 +0000 2014", 
+                                              "tree_size": 53, 
+                                              "tweet": "@HillaryGuess @PattiKimble Cat doesn't like to hear fluids stuff!!&gt;&gt; hi Cat. @thepoliticalcat @WINDSONG58 @EdwardOReilly1 @jabouri_mary", 
+                                              "uid": 776233423, 
+                                              "user": 0, 
+                                              "user_score": 1.0938002838150012, 
+                                              "users": {
+                                                "0": 21, 
+                                                "1": 5, 
+                                                "3": 25, 
+                                                "6": 1, 
+                                                "7": 1
+                                              }
+                                            }
+                                          ], 
+                                          "entropy_score": 4.348398068270342, 
+                                          "favourites": 2, 
+                                          "follower": true, 
+                                          "id": 458581401093160960, 
+                                          "reply": true, 
+                                          "timestamp": "Tue Apr 22 12:21:40 +0000 2014", 
+                                          "tree_size": 54, 
+                                          "tweet": "@PattiKimble Ppl get pulled out-twin dot pulled-foot touched knee @marylmcaffry @thepoliticalcat @WINDSONG58 @EdwardOReilly1 @jabouri_mary", 
+                                          "uid": 1119760256, 
+                                          "user": 1, 
+                                          "user_score": 1.1156984238001033, 
+                                          "users": {
+                                            "0": 21, 
+                                            "1": 6, 
+                                            "3": 25, 
+                                            "6": 1, 
+                                            "7": 1
+                                          }
+                                        }, 
+                                        {
+                                          "children": [
+                                            {
+                                              "children": [
+                                                {
+                                                  "children": [
+                                                    {
+                                                      "children": [
+                                                        {
+                                                          "children": [
+                                                            {
+                                                              "children": [
+                                                                {
+                                                                  "children": [
+                                                                    {
+                                                                      "entropy_score": 0.0, 
+                                                                      "favourites": 1, 
+                                                                      "follower": true, 
+                                                                      "id": 458619571855822848, 
+                                                                      "reply": true, 
+                                                                      "timestamp": "Tue Apr 22 14:53:21 +0000 2014", 
+                                                                      "tree_size": 1, 
+                                                                      "tweet": "@HillaryGuess Awww shucks. @marylmcaffry @WINDSONG58 @EdwardOReilly1 @jabouri_mary", 
+                                                                      "uid": 735103080, 
+                                                                      "user": 4, 
+                                                                      "user_score": 0.0, 
+                                                                      "users": {
+                                                                        "4": 1
+                                                                      }
+                                                                    }
+                                                                  ], 
+                                                                  "entropy_score": 0.0, 
+                                                                  "favourites": 1, 
+                                                                  "follower": true, 
+                                                                  "id": 458619035626663936, 
+                                                                  "reply": true, 
+                                                                  "timestamp": "Tue Apr 22 14:51:13 +0000 2014", 
+                                                                  "tree_size": 2, 
+                                                                  "tweet": "@PattiKimble Inside of u is a heroine-I know it! @marylmcaffry @WINDSONG58 @EdwardOReilly1 @jabouri_mary", 
+                                                                  "uid": 1119760256, 
+                                                                  "user": 1, 
+                                                                  "user_score": 0.6931471805599453, 
+                                                                  "users": {
+                                                                    "1": 1, 
+                                                                    "4": 1
+                                                                  }
+                                                                }
+                                                              ], 
+                                                              "entropy_score": 0.0, 
+                                                              "favourites": 1, 
+                                                              "follower": true, 
+                                                              "id": 458614734187548672, 
+                                                              "reply": true, 
+                                                              "timestamp": "Tue Apr 22 14:34:07 +0000 2014", 
+                                                              "tree_size": 3, 
+                                                              "tweet": "@HillaryGuess We can only hope. @marylmcaffry @WINDSONG58 @EdwardOReilly1 @jabouri_mary", 
+                                                              "uid": 735103080, 
+                                                              "user": 4, 
+                                                              "user_score": 0.6365141682948128, 
+                                                              "users": {
+                                                                "1": 1, 
+                                                                "4": 2
+                                                              }
+                                                            }
+                                                          ], 
+                                                          "entropy_score": 0.0, 
+                                                          "favourites": 1, 
+                                                          "follower": true, 
+                                                          "id": 458613692716687360, 
+                                                          "reply": true, 
+                                                          "timestamp": "Tue Apr 22 14:29:59 +0000 2014", 
+                                                          "tree_size": 4, 
+                                                          "tweet": "@PattiKimble But if life threatening know u wd do something @marylmcaffry @WINDSONG58 @EdwardOReilly1 @jabouri_mary", 
+                                                          "uid": 1119760256, 
+                                                          "user": 1, 
+                                                          "user_score": 0.6931471805599453, 
+                                                          "users": {
+                                                            "1": 2, 
+                                                            "4": 2
+                                                          }
+                                                        }
+                                                      ], 
+                                                      "entropy_score": 0.0, 
+                                                      "favourites": 0, 
+                                                      "follower": true, 
+                                                      "id": 458611618075926529, 
+                                                      "reply": true, 
+                                                      "timestamp": "Tue Apr 22 14:21:45 +0000 2014", 
+                                                      "tree_size": 5, 
+                                                      "tweet": "@HillaryGuess K once cut finger bad.  I was a basket case. @marylmcaffry @WINDSONG58 @EdwardOReilly1 @jabouri_mary", 
+                                                      "uid": 735103080, 
+                                                      "user": 4, 
+                                                      "user_score": 0.6730116670092565, 
+                                                      "users": {
+                                                        "1": 2, 
+                                                        "4": 3
+                                                      }
+                                                    }
+                                                  ], 
+                                                  "entropy_score": 0.0, 
+                                                  "favourites": 0, 
+                                                  "follower": true, 
+                                                  "id": 458609307932561408, 
+                                                  "reply": true, 
+                                                  "timestamp": "Tue Apr 22 14:12:34 +0000 2014", 
+                                                  "tree_size": 6, 
+                                                  "tweet": "@PattiKimble If ur pet hurt bet u wd do what's needed. @marylmcaffry @WINDSONG58 @EdwardOReilly1 @jabouri_mary", 
+                                                  "uid": 1119760256, 
+                                                  "user": 1, 
+                                                  "user_score": 0.6931471805599453, 
+                                                  "users": {
+                                                    "1": 3, 
+                                                    "4": 3
+                                                  }
+                                                }, 
+                                                {
+                                                  "entropy_score": 0.0, 
+                                                  "favourites": 0, 
+                                                  "follower": true, 
+                                                  "id": 458623613487161344, 
+                                                  "reply": true, 
+                                                  "timestamp": "Tue Apr 22 15:09:24 +0000 2014", 
+                                                  "tree_size": 1, 
+                                                  "tweet": "@PattiKimble @marylmcaffry @HillaryGuess @WINDSONG58 @EdwardOReilly1 I could do that , just not to my unit!", 
+                                                  "uid": 101062236, 
+                                                  "user": 5, 
+                                                  "user_score": 0.0, 
+                                                  "users": {
+                                                    "5": 1
+                                                  }
+                                                }
+                                              ], 
+                                              "entropy_score": 0.45112795011724993, 
+                                              "favourites": 1, 
+                                              "follower": true, 
+                                              "id": 458608984618852352, 
+                                              "reply": true, 
+                                              "timestamp": "Tue Apr 22 14:11:17 +0000 2014", 
+                                              "tree_size": 8, 
+                                              "tweet": "@marylmcaffry I could't do. Honor you! @HillaryGuess @WINDSONG58 @EdwardOReilly1 @jabouri_mary", 
+                                              "uid": 735103080, 
+                                              "user": 4, 
+                                              "user_score": 0.9743147528693494, 
+                                              "users": {
+                                                "1": 3, 
+                                                "4": 4, 
+                                                "5": 1
+                                              }
+                                            }
+                                          ], 
+                                          "entropy_score": 0.45112795011724993, 
+                                          "favourites": 1, 
+                                          "follower": true, 
+                                          "id": 458597175593693185, 
+                                          "reply": true, 
+                                          "timestamp": "Tue Apr 22 13:24:21 +0000 2014", 
+                                          "tree_size": 9, 
+                                          "tweet": "@PattiKimble It's humane for cow &amp; calf.must clean calf's nose &amp; mouth,1st breath.@HillaryGuess @WINDSONG58 @EdwardOReilly1 @jabouri_mary", 
+                                          "uid": 776233423, 
+                                          "user": 0, 
+                                          "user_score": 1.2148896539491203, 
+                                          "users": {
+                                            "0": 1, 
+                                            "1": 3, 
+                                            "4": 4, 
+                                            "5": 1
+                                          }
+                                        }
+                                      ], 
+                                      "entropy_score": 5.2506539685048415, 
+                                      "favourites": 1, 
+                                      "follower": true, 
+                                      "id": 458394409675919360, 
+                                      "important_entropy": true, 
+                                      "reply": true, 
+                                      "timestamp": "Mon Apr 21 23:58:38 +0000 2014", 
+                                      "tree_size": 64, 
+                                      "tweet": "@marylmcaffry OMG! Poor calves. @thepoliticalcat @HillaryGuess @WINDSONG58 @EdwardOReilly1 @jabouri_mary", 
+                                      "uid": 735103080, 
+                                      "user": 4, 
+                                      "user_score": 1.4042418278317899, 
+                                      "users": {
+                                        "0": 22, 
+                                        "1": 9, 
+                                        "3": 25, 
+                                        "4": 5, 
+                                        "5": 1, 
+                                        "6": 1, 
+                                        "7": 1
+                                      }
+                                    }
+                                  ], 
+                                  "entropy_score": 5.2506539685048415, 
+                                  "favourites": 2, 
+                                  "follower": true, 
+                                  "id": 458392946400710657, 
+                                  "reply": true, 
+                                  "timestamp": "Mon Apr 21 23:52:49 +0000 2014", 
+                                  "tree_size": 65, 
+                                  "tweet": "@thepoliticalcat @HillaryGuess @WINDSONG58 @EdwardOReilly1 @jabouri_mary @PattiKimble Used to pull a calf from a cow's birth canal. :D", 
+                                  "uid": 776233423, 
+                                  "user": 0, 
+                                  "user_score": 1.398841526106838, 
+                                  "users": {
+                                    "0": 23, 
+                                    "1": 9, 
+                                    "3": 25, 
+                                    "4": 5, 
+                                    "5": 1, 
+                                    "6": 1, 
+                                    "7": 1
+                                  }
+                                }
+                              ], 
+                              "entropy_score": 5.2506539685048415, 
+                              "favourites": 3, 
+                              "follower": true, 
+                              "id": 458390924595183616, 
+                              "reply": true, 
+                              "timestamp": "Mon Apr 21 23:44:47 +0000 2014", 
+                              "tree_size": 66, 
+                              "tweet": "@marylmcaffry @HillaryGuess @WINDSONG58 @EdwardOReilly1 @jabouri_mary @PattiKimble They do? Dang. I'm dying to know.", 
+                              "uid": 17686959, 
+                              "user": 3, 
+                              "user_score": 1.3919412918275549, 
+                              "users": {
+                                "0": 23, 
+                                "1": 9, 
+                                "3": 26, 
+                                "4": 5, 
+                                "5": 1, 
+                                "6": 1, 
+                                "7": 1
+                              }
+                            }
+                          ], 
+                          "entropy_score": 7.259572586528667, 
+                          "favourites": 3, 
+                          "follower": true, 
+                          "id": 458389733538689025, 
+                          "important_entropy": true, 
+                          "important_users": true, 
+                          "reply": true, 
+                          "timestamp": "Mon Apr 21 23:40:03 +0000 2014", 
+                          "tree_size": 81, 
+                          "tweet": "@thepoliticalcat @HillaryGuess @WINDSONG58 @EdwardOReilly1 @jabouri_mary @PattiKimble Haha! They want to keep guessing!", 
+                          "uid": 776233423, 
+                          "user": 0, 
+                          "user_score": 1.5591202368812884, 
+                          "users": {
+                            "0": 29, 
+                            "1": 12, 
+                            "2": 5, 
+                            "3": 26, 
+                            "4": 5, 
+                            "5": 2, 
+                            "6": 1, 
+                            "7": 1
+                          }
+                        }
+                      ], 
+                      "entropy_score": 7.259572586528667, 
+                      "favourites": 3, 
+                      "follower": true, 
+                      "id": 458388795650371584, 
+                      "reply": true, 
+                      "timestamp": "Mon Apr 21 23:36:19 +0000 2014", 
+                      "tree_size": 82, 
+                      "tweet": "@marylmcaffry @HillaryGuess @WINDSONG58 @EdwardOReilly1 @jabouri_mary @PattiKimble Well? Wut, then?", 
+                      "uid": 17686959, 
+                      "user": 3, 
+                      "user_score": 1.5538079334271613, 
+                      "users": {
+                        "0": 29, 
+                        "1": 12, 
+                        "2": 5, 
+                        "3": 27, 
+                        "4": 5, 
+                        "5": 2, 
+                        "6": 1, 
+                        "7": 1
+                      }
+                    }
+                  ], 
+                  "entropy_score": 7.259572586528667, 
+                  "favourites": 1, 
+                  "follower": true, 
+                  "id": 458388279188914176, 
+                  "reply": true, 
+                  "timestamp": "Mon Apr 21 23:34:16 +0000 2014", 
+                  "tree_size": 83, 
+                  "tweet": "@HillaryGuess No. :)@WINDSONG58 @EdwardOReilly1 @jabouri_mary @PattiKimble", 
+                  "uid": 776233423, 
+                  "user": 0, 
+                  "user_score": 1.5474783172556525, 
+                  "users": {
+                    "0": 30, 
+                    "1": 12, 
+                    "2": 5, 
+                    "3": 27, 
+                    "4": 5, 
+                    "5": 2, 
+                    "6": 1, 
+                    "7": 1
+                  }
+                }
+              ], 
+              "entropy_score": 7.703206501869932, 
+              "favourites": 3, 
+              "follower": true, 
+              "id": 458386452254978048, 
+              "important_users": true, 
+              "reply": true, 
+              "timestamp": "Mon Apr 21 23:27:01 +0000 2014", 
+              "tree_size": 93, 
+              "tweet": "@marylmcaffry Ugly earrings @WINDSONG58 @EdwardOReilly1 @jabouri_mary @PattiKimble", 
+              "uid": 1119760256, 
+              "user": 1, 
+              "user_score": 1.598412518272187, 
+              "users": {
+                "0": 33, 
+                "1": 13, 
+                "2": 10, 
+                "3": 27, 
+                "4": 6, 
+                "5": 2, 
+                "6": 1, 
+                "7": 1
+              }
+            }
+          ], 
+          "entropy_score": 7.768012377796957, 
+          "favourites": 2, 
+          "follower": true, 
+          "id": 458385497014812672, 
+          "important_users": true, 
+          "reply": true, 
+          "timestamp": "Mon Apr 21 23:23:13 +0000 2014", 
+          "tree_size": 95, 
+          "tweet": "@WINDSONG58 :D :D Nope. Maybe for Pennywise. @HillaryGuess @EdwardOReilly1 @jabouri_mary @PattiKimble", 
+          "uid": 776233423, 
+          "user": 0, 
+          "user_score": 1.598699059565418, 
+          "users": {
+            "0": 34, 
+            "1": 13, 
+            "2": 11, 
+            "3": 27, 
+            "4": 6, 
+            "5": 2, 
+            "6": 1, 
+            "7": 1
+          }
+        }
+      ], 
+      "entropy_score": 7.878492815289973, 
+      "favourites": 3, 
+      "follower": true, 
+      "id": 458382898815856640, 
+      "important_users": true, 
+      "reply": true, 
+      "timestamp": "Mon Apr 21 23:12:54 +0000 2014", 
+      "tree_size": 98, 
+      "tweet": "@marylmcaffry @HillaryGuess @EdwardOReilly1 @jabouri_mary @PattiKimble VERYkinky suspenders ?\\n\\n;-D", 
+      "uid": 65700868, 
+      "user": 2, 
+      "user_score": 1.6020357325195085, 
+      "users": {
+        "0": 35, 
+        "1": 14, 
+        "2": 12, 
+        "3": 27, 
+        "4": 6, 
+        "5": 2, 
+        "6": 1, 
+        "7": 1
+      }
+    }
+  ], 
+  "entropy_score": 8.162444329882538, 
+  "favourites": 2, 
+  "id": 458353694501654529, 
+  "important_users": true, 
+  "reply": false, 
+  "timestamp": "Mon Apr 21 21:16:51 +0000 2014", 
+  "total_tweets": 105, 
+  "total_users": 8, 
+  "tree_size": 105, 
+  "tweet": "@HillaryGuess @WINDSONG58 @EdwardOReilly1 @jabouri_mary @PattiKimble IDENTIFY THIS &amp; its use. :D http://t.co/bZZfFjcxNe", 
+  "uid": 776233423, 
+  "user": 0, 
+  "user_score": 1.6083309169444435, 
+  "users": {
+    "0": 38, 
+    "1": 15, 
+    "2": 14, 
+    "3": 27, 
+    "4": 7, 
+    "5": 2, 
+    "6": 1, 
+    "7": 1
+  }
+}

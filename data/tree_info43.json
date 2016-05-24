@@ -1,0 +1,2846 @@
+{
+  "children": [
+    {
+      "entropy_score": 0.0, 
+      "favourites": 0, 
+      "follower": true, 
+      "id": 457815805984792576, 
+      "reply": false, 
+      "timestamp": "Sun Apr 20 09:39:28 +0000 2014", 
+      "tree_size": 1, 
+      "tweet": "RT @Art_Li: Does this mean anyone who is prepared to lie can get a food bank voucher? Hmmm.\\n\\nhttp://t.co/BrdINLTPnj", 
+      "uid": 87136959, 
+      "user": 27, 
+      "user_score": 0.0, 
+      "users": {
+        "27": 1
+      }
+    }, 
+    {
+      "entropy_score": 0.0, 
+      "favourites": 0, 
+      "follower": true, 
+      "id": 457816540336099328, 
+      "reply": true, 
+      "timestamp": "Sun Apr 20 09:42:23 +0000 2014", 
+      "tree_size": 1, 
+      "tweet": "@Art_Li Yes: there were questioned asked, only the Mail on Sunday reporter lied.", 
+      "uid": 114549141, 
+      "user": 8, 
+      "user_score": 0.0, 
+      "users": {
+        "8": 1
+      }
+    }, 
+    {
+      "entropy_score": 0.0, 
+      "favourites": 0, 
+      "follower": true, 
+      "id": 457816688990638081, 
+      "reply": true, 
+      "timestamp": "Sun Apr 20 09:42:59 +0000 2014", 
+      "tree_size": 1, 
+      "tweet": "@Art_Li ...highly arguable that it was in the public interest to do so, as well.", 
+      "uid": 114549141, 
+      "user": 8, 
+      "user_score": 0.0, 
+      "users": {
+        "8": 1
+      }
+    }, 
+    {
+      "entropy_score": 0.0, 
+      "favourites": 0, 
+      "follower": true, 
+      "id": 457817430476484608, 
+      "reply": false, 
+      "timestamp": "Sun Apr 20 09:45:55 +0000 2014", 
+      "tree_size": 1, 
+      "tweet": "RT @Art_Li: Does this mean anyone who is prepared to lie can get a food bank voucher? Hmmm.\\n\\nhttp://t.co/BrdINLTPnj", 
+      "uid": 111948884, 
+      "user": 7, 
+      "user_score": 0.0, 
+      "users": {
+        "7": 1
+      }
+    }, 
+    {
+      "entropy_score": 0.0, 
+      "favourites": 0, 
+      "follower": false, 
+      "id": 457818208335323136, 
+      "reply": false, 
+      "timestamp": "Sun Apr 20 09:49:01 +0000 2014", 
+      "tree_size": 1, 
+      "tweet": "RT @Art_Li: Does this mean anyone who is prepared to lie can get a food bank voucher? Hmmm.\\n\\nhttp://t.co/BrdINLTPnj", 
+      "uid": 56650052, 
+      "user": 6, 
+      "user_score": 0.0, 
+      "users": {
+        "6": 1
+      }
+    }, 
+    {
+      "entropy_score": 0.0, 
+      "favourites": 0, 
+      "follower": true, 
+      "id": 457820730533871616, 
+      "reply": false, 
+      "timestamp": "Sun Apr 20 09:59:02 +0000 2014", 
+      "tree_size": 1, 
+      "tweet": "RT @Art_Li: Does this mean anyone who is prepared to lie can get a food bank voucher? Hmmm.\\n\\nhttp://t.co/BrdINLTPnj", 
+      "uid": 389768787, 
+      "user": 5, 
+      "user_score": 0.0, 
+      "users": {
+        "5": 1
+      }
+    }, 
+    {
+      "children": [
+        {
+          "entropy_score": 0.0, 
+          "favourites": 0, 
+          "follower": false, 
+          "id": 457823946101235712, 
+          "reply": true, 
+          "timestamp": "Sun Apr 20 10:11:49 +0000 2014", 
+          "tree_size": 1, 
+          "tweet": "\u201c@anteggs49: @Art_Li you lied as usual #mail\u201d &lt;&lt; Eh?", 
+          "uid": 128384950, 
+          "user": 0, 
+          "user_score": 0.0, 
+          "users": {
+            "0": 1
+          }
+        }
+      ], 
+      "entropy_score": 0.0, 
+      "favourites": 0, 
+      "follower": false, 
+      "id": 457821566362210304, 
+      "reply": true, 
+      "timestamp": "Sun Apr 20 10:02:21 +0000 2014", 
+      "tree_size": 2, 
+      "tweet": "@Art_Li you lied as usual #mail", 
+      "uid": 138517135, 
+      "user": 4, 
+      "user_score": 0.6931471805599453, 
+      "users": {
+        "0": 1, 
+        "4": 1
+      }
+    }, 
+    {
+      "entropy_score": 0.0, 
+      "favourites": 0, 
+      "follower": false, 
+      "id": 457823714147840000, 
+      "reply": true, 
+      "timestamp": "Sun Apr 20 10:10:54 +0000 2014", 
+      "tree_size": 1, 
+      "tweet": "@Art_Li Isn't what this man did unlawful? Obtaining goods by deception? He should be reported too the police frankly.", 
+      "uid": 43316603, 
+      "user": 3, 
+      "user_score": 0.0, 
+      "users": {
+        "3": 1
+      }
+    }, 
+    {
+      "children": [
+        {
+          "entropy_score": 0.0, 
+          "favourites": 0, 
+          "follower": true, 
+          "id": 457831346891923456, 
+          "reply": false, 
+          "timestamp": "Sun Apr 20 10:41:13 +0000 2014", 
+          "tree_size": 1, 
+          "tweet": "RT @Fat_Jacques: @Art_Li a free rider problem. Insoluble without hurting people. See benefits sanctions problem.", 
+          "uid": 128384950, 
+          "user": 0, 
+          "user_score": 0.0, 
+          "users": {
+            "0": 1
+          }
+        }
+      ], 
+      "entropy_score": 0.0, 
+      "favourites": 0, 
+      "follower": true, 
+      "id": 457830969991790592, 
+      "reply": true, 
+      "timestamp": "Sun Apr 20 10:39:43 +0000 2014", 
+      "tree_size": 2, 
+      "tweet": "@Art_Li a free rider problem. Insoluble without hurting people. See benefits sanctions problem.", 
+      "uid": 184160423, 
+      "user": 2, 
+      "user_score": 0.6931471805599453, 
+      "users": {
+        "0": 1, 
+        "2": 1
+      }
+    }, 
+    {
+      "children": [
+        {
+          "entropy_score": 0.0, 
+          "favourites": 0, 
+          "follower": false, 
+          "id": 457836230030655488, 
+          "reply": true, 
+          "timestamp": "Sun Apr 20 11:00:38 +0000 2014", 
+          "tree_size": 1, 
+          "tweet": "@ashleypmeredith Yes you are right.", 
+          "uid": 128384950, 
+          "user": 0, 
+          "user_score": 0.0, 
+          "users": {
+            "0": 1
+          }
+        }
+      ], 
+      "entropy_score": 0.0, 
+      "favourites": 0, 
+      "follower": true, 
+      "id": 457834415239229441, 
+      "reply": true, 
+      "timestamp": "Sun Apr 20 10:53:25 +0000 2014", 
+      "tree_size": 2, 
+      "tweet": "@Art_Li It's not the fucking keys to Buckingham palace, it's a bag of groceries. Stop worrying on behalf of more generous people than you.", 
+      "uid": 50092621, 
+      "user": 1, 
+      "user_score": 0.6931471805599453, 
+      "users": {
+        "0": 1, 
+        "1": 1
+      }
+    }, 
+    {
+      "children": [
+        {
+          "entropy_score": 0.0, 
+          "favourites": 0, 
+          "follower": true, 
+          "id": 457818446240444417, 
+          "reply": false, 
+          "timestamp": "Sun Apr 20 09:49:58 +0000 2014", 
+          "tree_size": 1, 
+          "tweet": "RT @KrustyAllslopp: .@Art_Li Really. The Mail should be ashamed of itself. Now the starving &amp; sanctioned are being made out to be liars. Di\u2026", 
+          "uid": 295283950, 
+          "user": 14, 
+          "user_score": 0.0, 
+          "users": {
+            "14": 1
+          }
+        }, 
+        {
+          "entropy_score": 0.0, 
+          "favourites": 0, 
+          "follower": true, 
+          "id": 457820960490807296, 
+          "reply": false, 
+          "timestamp": "Sun Apr 20 09:59:57 +0000 2014", 
+          "tree_size": 1, 
+          "tweet": "RT @KrustyAllslopp: .@Art_Li Really. The Mail should be ashamed of itself. Now the starving &amp; sanctioned are being made out to be liars. Di\u2026", 
+          "uid": 406564080, 
+          "user": 13, 
+          "user_score": 0.0, 
+          "users": {
+            "13": 1
+          }
+        }, 
+        {
+          "entropy_score": 0.0, 
+          "favourites": 0, 
+          "follower": true, 
+          "id": 457821128778870784, 
+          "reply": false, 
+          "timestamp": "Sun Apr 20 10:00:37 +0000 2014", 
+          "tree_size": 1, 
+          "tweet": "RT @KrustyAllslopp: .@Art_Li Really. The Mail should be ashamed of itself. Now the starving &amp; sanctioned are being made out to be liars. Di\u2026", 
+          "uid": 296410955, 
+          "user": 12, 
+          "user_score": 0.0, 
+          "users": {
+            "12": 1
+          }
+        }, 
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "entropy_score": 0.0, 
+                      "favourites": 0, 
+                      "follower": false, 
+                      "id": 457828939042656256, 
+                      "reply": true, 
+                      "timestamp": "Sun Apr 20 10:31:39 +0000 2014", 
+                      "tree_size": 1, 
+                      "tweet": "@volewriter and the fact they had to employ a reporter to conduct the exercise in deceit is highly suspect. @havantacluOTMP @Art_Li", 
+                      "uid": 213038249, 
+                      "user": 9, 
+                      "user_score": 0.0, 
+                      "users": {
+                        "9": 1
+                      }
+                    }
+                  ], 
+                  "entropy_score": 0.0, 
+                  "favourites": 0, 
+                  "follower": false, 
+                  "id": 457828290049638400, 
+                  "reply": true, 
+                  "timestamp": "Sun Apr 20 10:29:05 +0000 2014", 
+                  "tree_size": 2, 
+                  "tweet": "@KrustyAllslopp @havantacluOTMP @Art_Li Any system can be exploited, but that only proves the immoral conduct of the individual fraudster.", 
+                  "uid": 155483848, 
+                  "user": 11, 
+                  "user_score": 0.6931471805599453, 
+                  "users": {
+                    "11": 1, 
+                    "9": 1
+                  }
+                }
+              ], 
+              "entropy_score": 0.0, 
+              "favourites": 0, 
+              "follower": false, 
+              "id": 457825777363738624, 
+              "reply": true, 
+              "timestamp": "Sun Apr 20 10:19:05 +0000 2014", 
+              "tree_size": 3, 
+              "tweet": "@volewriter @havantacluOTMP @Art_Li It's pretty low by any standard.", 
+              "uid": 213038249, 
+              "user": 9, 
+              "user_score": 0.6365141682948128, 
+              "users": {
+                "11": 1, 
+                "9": 2
+              }
+            }
+          ], 
+          "entropy_score": 0.0, 
+          "favourites": 0, 
+          "follower": false, 
+          "id": 457822722647945216, 
+          "reply": true, 
+          "timestamp": "Sun Apr 20 10:06:57 +0000 2014", 
+          "tree_size": 4, 
+          "tweet": "@KrustyAllslopp @havantacluOTMP @Art_Li Gee, I hope the Mail are proud of themselves for this.", 
+          "uid": 155483848, 
+          "user": 11, 
+          "user_score": 0.6931471805599453, 
+          "users": {
+            "11": 2, 
+            "9": 2
+          }
+        }, 
+        {
+          "children": [
+            {
+              "entropy_score": 0.0, 
+              "favourites": 0, 
+              "follower": true, 
+              "id": 457829861261053953, 
+              "reply": true, 
+              "timestamp": "Sun Apr 20 10:35:19 +0000 2014", 
+              "tree_size": 1, 
+              "tweet": "@flumpmistress Appalling isn't it?", 
+              "uid": 213038249, 
+              "user": 9, 
+              "user_score": 0.0, 
+              "users": {
+                "9": 1
+              }
+            }, 
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "entropy_score": 0.0, 
+                          "favourites": 0, 
+                          "follower": true, 
+                          "id": 457833111905402881, 
+                          "reply": true, 
+                          "timestamp": "Sun Apr 20 10:48:14 +0000 2014", 
+                          "tree_size": 1, 
+                          "tweet": "@KrustyAllslopp Horrible.", 
+                          "uid": 168531612, 
+                          "user": 10, 
+                          "user_score": 0.0, 
+                          "users": {
+                            "10": 1
+                          }
+                        }
+                      ], 
+                      "entropy_score": 0.0, 
+                      "favourites": 0, 
+                      "follower": true, 
+                      "id": 457832237128753153, 
+                      "reply": true, 
+                      "timestamp": "Sun Apr 20 10:44:46 +0000 2014", 
+                      "tree_size": 2, 
+                      "tweet": "@flumpmistress Funny isn't it? how people turn out to be so objectionable when lucre is involved.", 
+                      "uid": 213038249, 
+                      "user": 9, 
+                      "user_score": 0.6931471805599453, 
+                      "users": {
+                        "10": 1, 
+                        "9": 1
+                      }
+                    }
+                  ], 
+                  "entropy_score": 0.0, 
+                  "favourites": 0, 
+                  "follower": true, 
+                  "id": 457830928535281664, 
+                  "reply": true, 
+                  "timestamp": "Sun Apr 20 10:39:34 +0000 2014", 
+                  "tree_size": 3, 
+                  "tweet": "@KrustyAllslopp You can never really tell how people will turn out. Not a massive surprise, though.", 
+                  "uid": 168531612, 
+                  "user": 10, 
+                  "user_score": 0.6365141682948128, 
+                  "users": {
+                    "10": 2, 
+                    "9": 1
+                  }
+                }
+              ], 
+              "entropy_score": 0.0, 
+              "favourites": 0, 
+              "follower": true, 
+              "id": 457829962037600256, 
+              "reply": true, 
+              "timestamp": "Sun Apr 20 10:35:43 +0000 2014", 
+              "tree_size": 4, 
+              "tweet": "@flumpmistress Obviously had no moral compass then.", 
+              "uid": 213038249, 
+              "user": 9, 
+              "user_score": 0.6931471805599453, 
+              "users": {
+                "10": 2, 
+                "9": 2
+              }
+            }
+          ], 
+          "entropy_score": 0.5504426658920067, 
+          "favourites": 0, 
+          "follower": true, 
+          "id": 457829599070920704, 
+          "reply": true, 
+          "timestamp": "Sun Apr 20 10:34:17 +0000 2014", 
+          "tree_size": 6, 
+          "tweet": "@KrustyAllslopp Oh Christ. I was in college with that guy. How embarrassing.", 
+          "uid": 168531612, 
+          "user": 10, 
+          "user_score": 0.6931471805599453, 
+          "users": {
+            "10": 3, 
+            "9": 3
+          }
+        }, 
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "entropy_score": 0.0, 
+                  "favourites": 0, 
+                  "follower": true, 
+                  "id": 457819434959507456, 
+                  "reply": false, 
+                  "timestamp": "Sun Apr 20 09:53:53 +0000 2014", 
+                  "tree_size": 1, 
+                  "tweet": "RT @KrustyAllslopp: .@Art_Li @TimothyJMoore I suggest the reporter was a bloody good liar. Not a very edifying basis &amp; 1 person out of a mi\u2026", 
+                  "uid": 216750349, 
+                  "user": 25, 
+                  "user_score": 0.0, 
+                  "users": {
+                    "25": 1
+                  }
+                }, 
+                {
+                  "children": [
+                    {
+                      "entropy_score": 0.0, 
+                      "favourites": 0, 
+                      "follower": true, 
+                      "id": 457819026748493824, 
+                      "reply": true, 
+                      "timestamp": "Sun Apr 20 09:52:16 +0000 2014", 
+                      "tree_size": 1, 
+                      "tweet": "@Art_Li @KrustyAllslopp I don't see how many more checks agencies (charities) could do without over-bureaucratising.", 
+                      "uid": 114549141, 
+                      "user": 8, 
+                      "user_score": 0.0, 
+                      "users": {
+                        "8": 1
+                      }
+                    }, 
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "entropy_score": 0.0, 
+                                  "favourites": 0, 
+                                  "follower": true, 
+                                  "id": 457822953032658944, 
+                                  "reply": false, 
+                                  "timestamp": "Sun Apr 20 10:07:52 +0000 2014", 
+                                  "tree_size": 1, 
+                                  "tweet": "RT @KrustyAllslopp: .@Art_Li @TimothyJMoore IN the last two years I've been a service-user. Chronic cuts and underfunding &amp; mass increase i\u2026", 
+                                  "uid": 406564080, 
+                                  "user": 13, 
+                                  "user_score": 0.0, 
+                                  "users": {
+                                    "13": 1
+                                  }
+                                }
+                              ], 
+                              "entropy_score": 0.0, 
+                              "favourites": 0, 
+                              "follower": true, 
+                              "id": 457819737263968256, 
+                              "reply": true, 
+                              "timestamp": "Sun Apr 20 09:55:05 +0000 2014", 
+                              "tree_size": 2, 
+                              "tweet": ".@Art_Li @TimothyJMoore IN the last two years I've been a service-user. Chronic cuts and underfunding &amp; mass increase in need for their", 
+                              "uid": 213038249, 
+                              "user": 9, 
+                              "user_score": 0.6931471805599453, 
+                              "users": {
+                                "13": 1, 
+                                "9": 1
+                              }
+                            }, 
+                            {
+                              "children": [
+                                {
+                                  "entropy_score": 0.0, 
+                                  "favourites": 0, 
+                                  "follower": true, 
+                                  "id": 457823046968283136, 
+                                  "reply": false, 
+                                  "timestamp": "Sun Apr 20 10:08:15 +0000 2014", 
+                                  "tree_size": 1, 
+                                  "tweet": "RT @KrustyAllslopp: .@Art_Li @TimothyJMoore services. There is a great deal of desperation out there.", 
+                                  "uid": 406564080, 
+                                  "user": 13, 
+                                  "user_score": 0.0, 
+                                  "users": {
+                                    "13": 1
+                                  }
+                                }
+                              ], 
+                              "entropy_score": 0.0, 
+                              "favourites": 0, 
+                              "follower": true, 
+                              "id": 457819851005112320, 
+                              "reply": true, 
+                              "timestamp": "Sun Apr 20 09:55:33 +0000 2014", 
+                              "tree_size": 2, 
+                              "tweet": ".@Art_Li @TimothyJMoore services. There is a great deal of desperation out there.", 
+                              "uid": 213038249, 
+                              "user": 9, 
+                              "user_score": 0.6931471805599453, 
+                              "users": {
+                                "13": 1, 
+                                "9": 1
+                              }
+                            }, 
+                            {
+                              "entropy_score": 0.0, 
+                              "favourites": 0, 
+                              "follower": true, 
+                              "id": 457820090042699776, 
+                              "reply": true, 
+                              "timestamp": "Sun Apr 20 09:56:30 +0000 2014", 
+                              "tree_size": 1, 
+                              "tweet": "@Art_Li @KrustyAllslopp CAB isn't the only referring agency. If checks are mainly a matter chiefly for CAB, not food banks themselves.", 
+                              "uid": 114549141, 
+                              "user": 8, 
+                              "user_score": 0.0, 
+                              "users": {
+                                "8": 1
+                              }
+                            }
+                          ], 
+                          "entropy_score": 1.1604121847847586, 
+                          "favourites": 0, 
+                          "follower": true, 
+                          "id": 457819445671780352, 
+                          "reply": true, 
+                          "timestamp": "Sun Apr 20 09:53:56 +0000 2014", 
+                          "tree_size": 6, 
+                          "tweet": "@krustyallslopp I do realise the pressure. Have you per chance worked or volunteered for the CAB? @timothyjmoore", 
+                          "uid": 128384950, 
+                          "user": 0, 
+                          "user_score": 1.3296613488547582, 
+                          "users": {
+                            "0": 1, 
+                            "13": 2, 
+                            "8": 1, 
+                            "9": 2
+                          }
+                        }, 
+                        {
+                          "entropy_score": 0.0, 
+                          "favourites": 0, 
+                          "follower": true, 
+                          "id": 457822916970024960, 
+                          "reply": false, 
+                          "timestamp": "Sun Apr 20 10:07:44 +0000 2014", 
+                          "tree_size": 1, 
+                          "tweet": "RT @KrustyAllslopp: .@Art_Li @TimothyJMoore Do you realise what kind of pressure agencies such as the CAB are under?", 
+                          "uid": 406564080, 
+                          "user": 13, 
+                          "user_score": 0.0, 
+                          "users": {
+                            "13": 1
+                          }
+                        }
+                      ], 
+                      "entropy_score": 1.6115401349020084, 
+                      "favourites": 1, 
+                      "follower": true, 
+                      "id": 457819179652235264, 
+                      "reply": true, 
+                      "timestamp": "Sun Apr 20 09:52:52 +0000 2014", 
+                      "tree_size": 8, 
+                      "tweet": ".@Art_Li @TimothyJMoore Do you realise what kind of pressure agencies such as the CAB are under?", 
+                      "uid": 213038249, 
+                      "user": 9, 
+                      "user_score": 1.2554823251787535, 
+                      "users": {
+                        "0": 1, 
+                        "13": 3, 
+                        "8": 1, 
+                        "9": 3
+                      }
+                    }, 
+                    {
+                      "children": [
+                        {
+                          "entropy_score": 0.0, 
+                          "favourites": 0, 
+                          "follower": true, 
+                          "id": 457830964237197312, 
+                          "reply": false, 
+                          "timestamp": "Sun Apr 20 10:39:42 +0000 2014", 
+                          "tree_size": 1, 
+                          "tweet": "RT @chuzzlit: @Art_Li @krustyallslopp @timothyjmoore You can beg money quite easily. Foodbanks are not official welfare and depend on trust\u2026", 
+                          "uid": 128384950, 
+                          "user": 0, 
+                          "user_score": 0.0, 
+                          "users": {
+                            "0": 1
+                          }
+                        }
+                      ], 
+                      "entropy_score": 0.0, 
+                      "favourites": 0, 
+                      "follower": true, 
+                      "id": 457819249038610432, 
+                      "reply": true, 
+                      "timestamp": "Sun Apr 20 09:53:09 +0000 2014", 
+                      "tree_size": 2, 
+                      "tweet": "@Art_Li @krustyallslopp @timothyjmoore You can beg money quite easily. Foodbanks are not official welfare and depend on trust to operate.", 
+                      "uid": 15229944, 
+                      "user": 26, 
+                      "user_score": 0.6931471805599453, 
+                      "users": {
+                        "0": 1, 
+                        "26": 1
+                      }
+                    }, 
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "entropy_score": 0.0, 
+                              "favourites": 0, 
+                              "follower": true, 
+                              "id": 457823700457635840, 
+                              "reply": false, 
+                              "timestamp": "Sun Apr 20 10:10:50 +0000 2014", 
+                              "tree_size": 1, 
+                              "tweet": "RT @KrustyAllslopp: .@chuzzlit @Art_Li @TimothyJMoore or maybe go down there to see just how many are in chronic need instead of doing the \u2026", 
+                              "uid": 406564080, 
+                              "user": 13, 
+                              "user_score": 0.0, 
+                              "users": {
+                                "13": 1
+                              }
+                            }
+                          ], 
+                          "entropy_score": 0.0, 
+                          "favourites": 0, 
+                          "follower": true, 
+                          "id": 457820380607307776, 
+                          "reply": true, 
+                          "timestamp": "Sun Apr 20 09:57:39 +0000 2014", 
+                          "tree_size": 2, 
+                          "tweet": ".@chuzzlit @Art_Li @TimothyJMoore or maybe go down there to see just how many are in chronic need instead of doing the DWP's dirtywork", 
+                          "uid": 213038249, 
+                          "user": 9, 
+                          "user_score": 0.6931471805599453, 
+                          "users": {
+                            "13": 1, 
+                            "9": 1
+                          }
+                        }, 
+                        {
+                          "entropy_score": 0.0, 
+                          "favourites": 0, 
+                          "follower": true, 
+                          "id": 457830660590546944, 
+                          "reply": false, 
+                          "timestamp": "Sun Apr 20 10:38:30 +0000 2014", 
+                          "tree_size": 1, 
+                          "tweet": "RT @chuzzlit: @Art_Li @krustyallslopp @timothyjmoore Shame the reporter didn't talk to other clients in foodbank and see how many were DM j\u2026", 
+                          "uid": 128384950, 
+                          "user": 0, 
+                          "user_score": 0.0, 
+                          "users": {
+                            "0": 1
+                          }
+                        }, 
+                        {
+                          "entropy_score": 0.0, 
+                          "favourites": 0, 
+                          "follower": true, 
+                          "id": 457830735853129728, 
+                          "reply": true, 
+                          "timestamp": "Sun Apr 20 10:38:48 +0000 2014", 
+                          "tree_size": 1, 
+                          "tweet": "@chuzzlit LOL! @KrustyAllslopp @TimothyJMoore", 
+                          "uid": 128384950, 
+                          "user": 0, 
+                          "user_score": 0.0, 
+                          "users": {
+                            "0": 1
+                          }
+                        }
+                      ], 
+                      "entropy_score": 1.1436928479239097, 
+                      "favourites": 1, 
+                      "follower": true, 
+                      "id": 457819943002984448, 
+                      "reply": true, 
+                      "timestamp": "Sun Apr 20 09:55:54 +0000 2014", 
+                      "tree_size": 5, 
+                      "tweet": "@Art_Li @krustyallslopp @timothyjmoore Shame the reporter didn't talk to other clients in foodbank and see how many were DM journos.", 
+                      "uid": 15229944, 
+                      "user": 26, 
+                      "user_score": 1.3321790402101223, 
+                      "users": {
+                        "0": 2, 
+                        "13": 1, 
+                        "26": 1, 
+                        "9": 1
+                      }
+                    }, 
+                    {
+                      "entropy_score": 0.0, 
+                      "favourites": 0, 
+                      "follower": true, 
+                      "id": 457834895487033345, 
+                      "reply": true, 
+                      "timestamp": "Sun Apr 20 10:55:19 +0000 2014", 
+                      "tree_size": 1, 
+                      "tweet": "@Art_Li @KrustyAllslopp @TimothyJMoore \"System of checks\" If you want IDS inspired food bank, start your own and turn down whoever you like.", 
+                      "uid": 50092621, 
+                      "user": 1, 
+                      "user_score": 0.0, 
+                      "users": {
+                        "1": 1
+                      }
+                    }
+                  ], 
+                  "entropy_score": 4.184948962322933, 
+                  "favourites": 0, 
+                  "follower": true, 
+                  "id": 457818450153730048, 
+                  "important_entropy": true, 
+                  "reply": true, 
+                  "timestamp": "Sun Apr 20 09:49:59 +0000 2014", 
+                  "tree_size": 18, 
+                  "tweet": "@krustyallslopp I was referring to the system of checks, as opposed to the ethics or otherwise of the reporter. @timothyjmoore", 
+                  "uid": 128384950, 
+                  "user": 0, 
+                  "user_score": 1.6731421371534199, 
+                  "users": {
+                    "0": 5, 
+                    "1": 1, 
+                    "13": 4, 
+                    "26": 2, 
+                    "8": 2, 
+                    "9": 4
+                  }
+                }
+              ], 
+              "entropy_score": 4.411760218019488, 
+              "favourites": 0, 
+              "follower": true, 
+              "id": 457818055188701184, 
+              "reply": true, 
+              "timestamp": "Sun Apr 20 09:48:24 +0000 2014", 
+              "tree_size": 20, 
+              "tweet": ".@Art_Li @TimothyJMoore I suggest the reporter was a bloody good liar. Not a very edifying basis &amp; 1 person out of a million in need Art?", 
+              "uid": 213038249, 
+              "user": 9, 
+              "user_score": 1.7751250090009736, 
+              "users": {
+                "0": 5, 
+                "1": 1, 
+                "13": 4, 
+                "25": 1, 
+                "26": 2, 
+                "8": 2, 
+                "9": 5
+              }
+            }, 
+            {
+              "entropy_score": 0.0, 
+              "favourites": 0, 
+              "follower": true, 
+              "id": 457818412191064064, 
+              "reply": true, 
+              "timestamp": "Sun Apr 20 09:49:49 +0000 2014", 
+              "tree_size": 1, 
+              "tweet": ".@Art_Li @TimothyJMoore It's distasteful in the extreme.", 
+              "uid": 213038249, 
+              "user": 9, 
+              "user_score": 0.0, 
+              "users": {
+                "9": 1
+              }
+            }, 
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "entropy_score": 0.0, 
+                      "favourites": 2, 
+                      "follower": true, 
+                      "id": 457820591429779456, 
+                      "reply": true, 
+                      "timestamp": "Sun Apr 20 09:58:29 +0000 2014", 
+                      "tree_size": 1, 
+                      "tweet": "@KrustyAllslopp @TimothyJMoore @Art_Li  Quite very Shameful  CAB  does  great service  likes to trust people! Despicable tdebate over Easter", 
+                      "uid": 289853500, 
+                      "user": 15, 
+                      "user_score": 0.0, 
+                      "users": {
+                        "15": 1
+                      }
+                    }
+                  ], 
+                  "entropy_score": 0.0, 
+                  "favourites": 1, 
+                  "follower": false, 
+                  "id": 457819046172717057, 
+                  "reply": true, 
+                  "timestamp": "Sun Apr 20 09:52:21 +0000 2014", 
+                  "tree_size": 2, 
+                  "tweet": ".@TimothyJMoore @Art_Li Well that's a good point. The reporter deceitfully obtained food meant for those in genuine need. Shameful stuff", 
+                  "uid": 213038249, 
+                  "user": 9, 
+                  "user_score": 0.6931471805599453, 
+                  "users": {
+                    "15": 1, 
+                    "9": 1
+                  }
+                }
+              ], 
+              "entropy_score": 0.0, 
+              "favourites": 0, 
+              "follower": true, 
+              "id": 457818476502323201, 
+              "reply": true, 
+              "timestamp": "Sun Apr 20 09:50:05 +0000 2014", 
+              "tree_size": 3, 
+              "tweet": "@Art_Li @KrustyAllslopp That depends on how easy it is to lie. I wonder if the MoS returned the food or gave back an equivalent donation?", 
+              "uid": 114549141, 
+              "user": 8, 
+              "user_score": 1.0986122886681096, 
+              "users": {
+                "15": 1, 
+                "8": 1, 
+                "9": 1
+              }
+            }, 
+            {
+              "children": [
+                {
+                  "entropy_score": 0.0, 
+                  "favourites": 0, 
+                  "follower": true, 
+                  "id": 457820421996691456, 
+                  "reply": false, 
+                  "timestamp": "Sun Apr 20 09:57:49 +0000 2014", 
+                  "tree_size": 1, 
+                  "tweet": "RT @KrustyAllslopp: .@Art_Li @TimothyJMoore People have starved to death under this Govt &amp; the Mail is sending reporters to 'prove' the lie\u2026", 
+                  "uid": 406564080, 
+                  "user": 13, 
+                  "user_score": 0.0, 
+                  "users": {
+                    "13": 1
+                  }
+                }, 
+                {
+                  "entropy_score": 0.0, 
+                  "favourites": 0, 
+                  "follower": true, 
+                  "id": 457823272491827200, 
+                  "reply": false, 
+                  "timestamp": "Sun Apr 20 10:09:08 +0000 2014", 
+                  "tree_size": 1, 
+                  "tweet": "RT @KrustyAllslopp: .@Art_Li @TimothyJMoore People have starved to death under this Govt &amp; the Mail is sending reporters to 'prove' the lie\u2026", 
+                  "uid": 375316672, 
+                  "user": 16, 
+                  "user_score": 0.0, 
+                  "users": {
+                    "16": 1
+                  }
+                }, 
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "children": [
+                                    {
+                                      "children": [
+                                        {
+                                          "children": [
+                                            {
+                                              "children": [
+                                                {
+                                                  "children": [
+                                                    {
+                                                      "entropy_score": 0.0, 
+                                                      "favourites": 0, 
+                                                      "follower": true, 
+                                                      "id": 457828667545362432, 
+                                                      "reply": false, 
+                                                      "timestamp": "Sun Apr 20 10:30:35 +0000 2014", 
+                                                      "tree_size": 1, 
+                                                      "tweet": "RT @KrustyAllslopp: .@Art_Li I can tell you from personal experience that the DWP now functions on a basis of the active denial of support \u2026", 
+                                                      "uid": 362161896, 
+                                                      "user": 21, 
+                                                      "user_score": 0.0, 
+                                                      "users": {
+                                                        "21": 1
+                                                      }
+                                                    }
+                                                  ], 
+                                                  "entropy_score": 0.0, 
+                                                  "favourites": 0, 
+                                                  "follower": true, 
+                                                  "id": 457827342745088003, 
+                                                  "reply": true, 
+                                                  "timestamp": "Sun Apr 20 10:25:19 +0000 2014", 
+                                                  "tree_size": 2, 
+                                                  "tweet": ".@Art_Li I can tell you from personal experience that the DWP now functions on a basis of the active denial of support &amp; that @TimothyJMoore", 
+                                                  "uid": 213038249, 
+                                                  "user": 9, 
+                                                  "user_score": 0.6931471805599453, 
+                                                  "users": {
+                                                    "21": 1, 
+                                                    "9": 1
+                                                  }
+                                                }, 
+                                                {
+                                                  "children": [
+                                                    {
+                                                      "entropy_score": 0.0, 
+                                                      "favourites": 0, 
+                                                      "follower": true, 
+                                                      "id": 457828685715111937, 
+                                                      "reply": false, 
+                                                      "timestamp": "Sun Apr 20 10:30:39 +0000 2014", 
+                                                      "tree_size": 1, 
+                                                      "tweet": "RT @KrustyAllslopp: .@Art_Li all claimants are 'liars' and 'cheats' out to 'fleece the system'. It's barbaric Art. @TimothyJMoore", 
+                                                      "uid": 362161896, 
+                                                      "user": 21, 
+                                                      "user_score": 0.0, 
+                                                      "users": {
+                                                        "21": 1
+                                                      }
+                                                    }
+                                                  ], 
+                                                  "entropy_score": 0.0, 
+                                                  "favourites": 1, 
+                                                  "follower": true, 
+                                                  "id": 457827563579396098, 
+                                                  "reply": true, 
+                                                  "timestamp": "Sun Apr 20 10:26:11 +0000 2014", 
+                                                  "tree_size": 2, 
+                                                  "tweet": ".@Art_Li all claimants are 'liars' and 'cheats' out to 'fleece the system'. It's barbaric Art. @TimothyJMoore", 
+                                                  "uid": 213038249, 
+                                                  "user": 9, 
+                                                  "user_score": 0.6931471805599453, 
+                                                  "users": {
+                                                    "21": 1, 
+                                                    "9": 1
+                                                  }
+                                                }
+                                              ], 
+                                              "entropy_score": 0.7624618986159398, 
+                                              "favourites": 0, 
+                                              "follower": true, 
+                                              "id": 457826659149037568, 
+                                              "reply": true, 
+                                              "timestamp": "Sun Apr 20 10:22:36 +0000 2014", 
+                                              "tree_size": 5, 
+                                              "tweet": "@krustyallslopp I have a dislike of many government departments - HMRC, Home Office, BIS, to name a few.  @timothyjmoore", 
+                                              "uid": 128384950, 
+                                              "user": 0, 
+                                              "user_score": 1.0549201679861442, 
+                                              "users": {
+                                                "0": 1, 
+                                                "21": 2, 
+                                                "9": 2
+                                              }
+                                            }
+                                          ], 
+                                          "entropy_score": 0.7624618986159398, 
+                                          "favourites": 0, 
+                                          "follower": true, 
+                                          "id": 457826208076795904, 
+                                          "reply": true, 
+                                          "timestamp": "Sun Apr 20 10:20:48 +0000 2014", 
+                                          "tree_size": 6, 
+                                          "tweet": "@Art_Li It was pretty grim Art. Happened about 4 years ago &amp; was a direct result of DWP/HB services kafkaesque nightmare. @TimothyJMoore", 
+                                          "uid": 213038249, 
+                                          "user": 9, 
+                                          "user_score": 1.0114042647073518, 
+                                          "users": {
+                                            "0": 1, 
+                                            "21": 2, 
+                                            "9": 3
+                                          }
+                                        }, 
+                                        {
+                                          "children": [
+                                            {
+                                              "entropy_score": 0.0, 
+                                              "favourites": 0, 
+                                              "follower": true, 
+                                              "id": 457827649281597440, 
+                                              "reply": true, 
+                                              "timestamp": "Sun Apr 20 10:26:32 +0000 2014", 
+                                              "tree_size": 1, 
+                                              "tweet": "@KrustyAllslopp @Art_Li @TimothyJMoore Also, the fact that an MoS reported is prepared to lie to rip off a charity doesn't tell us anything", 
+                                              "uid": 43424430, 
+                                              "user": 20, 
+                                              "user_score": 0.0, 
+                                              "users": {
+                                                "20": 1
+                                              }
+                                            }, 
+                                            {
+                                              "children": [
+                                                {
+                                                  "children": [
+                                                    {
+                                                      "children": [
+                                                        {
+                                                          "entropy_score": 0.0, 
+                                                          "favourites": 0, 
+                                                          "follower": true, 
+                                                          "id": 457828642429886464, 
+                                                          "reply": false, 
+                                                          "timestamp": "Sun Apr 20 10:30:29 +0000 2014", 
+                                                          "tree_size": 1, 
+                                                          "tweet": "RT @TruenFairview: @Art_Li I'd rather give food to a liar than see 1 child go hungry. Call me derpy derpface. @KrustyAllslopp @TimothyJMoore", 
+                                                          "uid": 128384950, 
+                                                          "user": 0, 
+                                                          "user_score": 0.0, 
+                                                          "users": {
+                                                            "0": 1
+                                                          }
+                                                        }, 
+                                                        {
+                                                          "entropy_score": 0.0, 
+                                                          "favourites": 0, 
+                                                          "follower": true, 
+                                                          "id": 457828767789252608, 
+                                                          "reply": true, 
+                                                          "timestamp": "Sun Apr 20 10:30:58 +0000 2014", 
+                                                          "tree_size": 1, 
+                                                          "tweet": "@truenfairview Bravo! @krustyallslopp @timothyjmoore", 
+                                                          "uid": 128384950, 
+                                                          "user": 0, 
+                                                          "user_score": 0.0, 
+                                                          "users": {
+                                                            "0": 1
+                                                          }
+                                                        }, 
+                                                        {
+                                                          "children": [
+                                                            {
+                                                              "children": [
+                                                                {
+                                                                  "entropy_score": 0.0, 
+                                                                  "favourites": 0, 
+                                                                  "follower": false, 
+                                                                  "id": 457836396196397056, 
+                                                                  "reply": true, 
+                                                                  "timestamp": "Sun Apr 20 11:01:17 +0000 2014", 
+                                                                  "tree_size": 1, 
+                                                                  "tweet": "@KrustyAllslopp @TruenFairview @Art_Li @TimothyJMoore depends greatly on the definition of fraud, and what you believe the system is for.", 
+                                                                  "uid": 184160423, 
+                                                                  "user": 2, 
+                                                                  "user_score": 0.0, 
+                                                                  "users": {
+                                                                    "2": 1
+                                                                  }
+                                                                }, 
+                                                                {
+                                                                  "entropy_score": 0.0, 
+                                                                  "favourites": 0, 
+                                                                  "follower": true, 
+                                                                  "id": 457836874225438720, 
+                                                                  "reply": false, 
+                                                                  "timestamp": "Sun Apr 20 11:03:11 +0000 2014", 
+                                                                  "tree_size": 1, 
+                                                                  "tweet": "RT @KrustyAllslopp: .@Fat_Jacques No ratios needed. The ONS figures prove only 0.7% of claimants are fraudulent. @TruenFairview @Art_Li @Ti\u2026", 
+                                                                  "uid": 406564080, 
+                                                                  "user": 13, 
+                                                                  "user_score": 0.0, 
+                                                                  "users": {
+                                                                    "13": 1
+                                                                  }
+                                                                }
+                                                              ], 
+                                                              "entropy_score": 0.7624618986159398, 
+                                                              "favourites": 1, 
+                                                              "follower": false, 
+                                                              "id": 457835795752431617, 
+                                                              "reply": true, 
+                                                              "timestamp": "Sun Apr 20 10:58:54 +0000 2014", 
+                                                              "tree_size": 3, 
+                                                              "tweet": ".@Fat_Jacques No ratios needed. The ONS figures prove only 0.7% of claimants are fraudulent. @TruenFairview @Art_Li @TimothyJMoore", 
+                                                              "uid": 213038249, 
+                                                              "user": 9, 
+                                                              "user_score": 1.0986122886681096, 
+                                                              "users": {
+                                                                "13": 1, 
+                                                                "2": 1, 
+                                                                "9": 1
+                                                              }
+                                                            }, 
+                                                            {
+                                                              "children": [
+                                                                {
+                                                                  "children": [
+                                                                    {
+                                                                      "children": [
+                                                                        {
+                                                                          "children": [
+                                                                            {
+                                                                              "children": [
+                                                                                {
+                                                                                  "entropy_score": 0.0, 
+                                                                                  "favourites": 0, 
+                                                                                  "follower": false, 
+                                                                                  "id": 457846065400909824, 
+                                                                                  "reply": true, 
+                                                                                  "timestamp": "Sun Apr 20 11:39:43 +0000 2014", 
+                                                                                  "tree_size": 1, 
+                                                                                  "tweet": "@KrustyAllslopp @TruenFairview @Art_Li @TimothyJMoore only through friends and relatives I know who use the benefit system.", 
+                                                                                  "uid": 184160423, 
+                                                                                  "user": 2, 
+                                                                                  "user_score": 0.0, 
+                                                                                  "users": {
+                                                                                    "2": 1
+                                                                                  }
+                                                                                }
+                                                                              ], 
+                                                                              "entropy_score": 0.0, 
+                                                                              "favourites": 0, 
+                                                                              "follower": false, 
+                                                                              "id": 457844910746767360, 
+                                                                              "reply": true, 
+                                                                              "timestamp": "Sun Apr 20 11:35:07 +0000 2014", 
+                                                                              "tree_size": 2, 
+                                                                              "tweet": "@Fat_Jacques Do you have any verifiable source for that? @TruenFairview @Art_Li @TimothyJMoore", 
+                                                                              "uid": 213038249, 
+                                                                              "user": 9, 
+                                                                              "user_score": 0.6931471805599453, 
+                                                                              "users": {
+                                                                                "2": 1, 
+                                                                                "9": 1
+                                                                              }
+                                                                            }
+                                                                          ], 
+                                                                          "entropy_score": 0.0, 
+                                                                          "favourites": 0, 
+                                                                          "follower": false, 
+                                                                          "id": 457844607892848640, 
+                                                                          "reply": true, 
+                                                                          "timestamp": "Sun Apr 20 11:33:55 +0000 2014", 
+                                                                          "tree_size": 3, 
+                                                                          "tweet": "@KrustyAllslopp @TruenFairview @Art_Li @TimothyJMoore \\nlots of fraud going undetected, lots of free riding is not considered fraud.", 
+                                                                          "uid": 184160423, 
+                                                                          "user": 2, 
+                                                                          "user_score": 0.6365141682948128, 
+                                                                          "users": {
+                                                                            "2": 2, 
+                                                                            "9": 1
+                                                                          }
+                                                                        }, 
+                                                                        {
+                                                                          "children": [
+                                                                            {
+                                                                              "children": [
+                                                                                {
+                                                                                  "children": [
+                                                                                    {
+                                                                                      "entropy_score": 0.0, 
+                                                                                      "favourites": 0, 
+                                                                                      "follower": false, 
+                                                                                      "id": 457846642927235072, 
+                                                                                      "reply": true, 
+                                                                                      "timestamp": "Sun Apr 20 11:42:00 +0000 2014", 
+                                                                                      "tree_size": 1, 
+                                                                                      "tweet": ".@Fat_Jacques We need open, honest debate, not mythologising to push a draconian neo-lib agenda. @TruenFairview @Art_Li @TimothyJMoore", 
+                                                                                      "uid": 213038249, 
+                                                                                      "user": 9, 
+                                                                                      "user_score": 0.0, 
+                                                                                      "users": {
+                                                                                        "9": 1
+                                                                                      }
+                                                                                    }, 
+                                                                                    {
+                                                                                      "children": [
+                                                                                        {
+                                                                                          "entropy_score": 0.0, 
+                                                                                          "favourites": 0, 
+                                                                                          "follower": false, 
+                                                                                          "id": 457847598687485952, 
+                                                                                          "reply": true, 
+                                                                                          "timestamp": "Sun Apr 20 11:45:48 +0000 2014", 
+                                                                                          "tree_size": 1, 
+                                                                                          "tweet": "@KrustyAllslopp @TruenFairview @Art_Li @TimothyJMoore yet others can become skilled in living with the system.", 
+                                                                                          "uid": 184160423, 
+                                                                                          "user": 2, 
+                                                                                          "user_score": 0.0, 
+                                                                                          "users": {
+                                                                                            "2": 1
+                                                                                          }
+                                                                                        }
+                                                                                      ], 
+                                                                                      "entropy_score": 0.0, 
+                                                                                      "favourites": 0, 
+                                                                                      "follower": false, 
+                                                                                      "id": 457846925728161793, 
+                                                                                      "reply": true, 
+                                                                                      "timestamp": "Sun Apr 20 11:43:08 +0000 2014", 
+                                                                                      "tree_size": 2, 
+                                                                                      "tweet": "@Fat_Jacques I'm sorry to hear that about your son. It's the reason I limp along on a 0-hours contract @TruenFairview @Art_Li @TimothyJMoore", 
+                                                                                      "uid": 213038249, 
+                                                                                      "user": 9, 
+                                                                                      "user_score": 0.6931471805599453, 
+                                                                                      "users": {
+                                                                                        "2": 1, 
+                                                                                        "9": 1
+                                                                                      }
+                                                                                    }
+                                                                                  ], 
+                                                                                  "entropy_score": 0.7001655851242942, 
+                                                                                  "favourites": 0, 
+                                                                                  "follower": false, 
+                                                                                  "id": 457846275049013249, 
+                                                                                  "reply": true, 
+                                                                                  "timestamp": "Sun Apr 20 11:40:33 +0000 2014", 
+                                                                                  "tree_size": 4, 
+                                                                                  "tweet": "@KrustyAllslopp @TruenFairview @Art_Li @TimothyJMoore yes, that is a bad thing. My son just signed off JSA because he couldn\u2019t stand it.", 
+                                                                                  "uid": 184160423, 
+                                                                                  "user": 2, 
+                                                                                  "user_score": 0.6931471805599453, 
+                                                                                  "users": {
+                                                                                    "2": 2, 
+                                                                                    "9": 2
+                                                                                  }
+                                                                                }
+                                                                              ], 
+                                                                              "entropy_score": 0.7001655851242942, 
+                                                                              "favourites": 0, 
+                                                                              "follower": false, 
+                                                                              "id": 457845367338700800, 
+                                                                              "reply": true, 
+                                                                              "timestamp": "Sun Apr 20 11:36:56 +0000 2014", 
+                                                                              "tree_size": 5, 
+                                                                              "tweet": ".@Fat_Jacques The point is you have a system which operates on the belief that all are guilty. @TruenFairview @Art_Li @TimothyJMoore", 
+                                                                              "uid": 213038249, 
+                                                                              "user": 9, 
+                                                                              "user_score": 0.6730116670092565, 
+                                                                              "users": {
+                                                                                "2": 2, 
+                                                                                "9": 3
+                                                                              }
+                                                                            }, 
+                                                                            {
+                                                                              "children": [
+                                                                                {
+                                                                                  "children": [
+                                                                                    {
+                                                                                      "children": [
+                                                                                        {
+                                                                                          "entropy_score": 0.0, 
+                                                                                          "favourites": 0, 
+                                                                                          "follower": true, 
+                                                                                          "id": 457848551130030080, 
+                                                                                          "reply": false, 
+                                                                                          "timestamp": "Sun Apr 20 11:49:35 +0000 2014", 
+                                                                                          "tree_size": 1, 
+                                                                                          "tweet": "RT @KrustyAllslopp: .@Fat_Jacques Bang on the money. Sanctions are possibly the ultimate cruelty. Designed as a deterrence &amp; crude manipula\u2026", 
+                                                                                          "uid": 406564080, 
+                                                                                          "user": 13, 
+                                                                                          "user_score": 0.0, 
+                                                                                          "users": {
+                                                                                            "13": 1
+                                                                                          }
+                                                                                        }
+                                                                                      ], 
+                                                                                      "entropy_score": 0.0, 
+                                                                                      "favourites": 0, 
+                                                                                      "follower": false, 
+                                                                                      "id": 457847355371716609, 
+                                                                                      "reply": true, 
+                                                                                      "timestamp": "Sun Apr 20 11:44:50 +0000 2014", 
+                                                                                      "tree_size": 2, 
+                                                                                      "tweet": ".@Fat_Jacques Bang on the money. Sanctions are possibly the ultimate cruelty. Designed as a deterrence &amp; crude manipulation @TruenFairview", 
+                                                                                      "uid": 213038249, 
+                                                                                      "user": 9, 
+                                                                                      "user_score": 0.6931471805599453, 
+                                                                                      "users": {
+                                                                                        "13": 1, 
+                                                                                        "9": 1
+                                                                                      }
+                                                                                    }, 
+                                                                                    {
+                                                                                      "children": [
+                                                                                        {
+                                                                                          "children": [
+                                                                                            {
+                                                                                              "children": [
+                                                                                                {
+                                                                                                  "entropy_score": 0.0, 
+                                                                                                  "favourites": 0, 
+                                                                                                  "follower": true, 
+                                                                                                  "id": 457848808173752320, 
+                                                                                                  "reply": false, 
+                                                                                                  "timestamp": "Sun Apr 20 11:50:36 +0000 2014", 
+                                                                                                  "tree_size": 1, 
+                                                                                                  "tweet": "RT @KrustyAllslopp: .@Fat_Jacques let's not forget that in other EU countries, if you lose your job, your dole is 75% of income for 2 years\u2026", 
+                                                                                                  "uid": 266068165, 
+                                                                                                  "user": 24, 
+                                                                                                  "user_score": 0.0, 
+                                                                                                  "users": {
+                                                                                                    "24": 1
+                                                                                                  }
+                                                                                                }, 
+                                                                                                {
+                                                                                                  "entropy_score": 0.0, 
+                                                                                                  "favourites": 0, 
+                                                                                                  "follower": true, 
+                                                                                                  "id": 457848991192190976, 
+                                                                                                  "reply": false, 
+                                                                                                  "timestamp": "Sun Apr 20 11:51:20 +0000 2014", 
+                                                                                                  "tree_size": 1, 
+                                                                                                  "tweet": "RT @KrustyAllslopp: .@Fat_Jacques let's not forget that in other EU countries, if you lose your job, your dole is 75% of income for 2 years\u2026", 
+                                                                                                  "uid": 406564080, 
+                                                                                                  "user": 13, 
+                                                                                                  "user_score": 0.0, 
+                                                                                                  "users": {
+                                                                                                    "13": 1
+                                                                                                  }
+                                                                                                }, 
+                                                                                                {
+                                                                                                  "entropy_score": 0.0, 
+                                                                                                  "favourites": 0, 
+                                                                                                  "follower": false, 
+                                                                                                  "id": 457849515295662081, 
+                                                                                                  "reply": false, 
+                                                                                                  "timestamp": "Sun Apr 20 11:53:25 +0000 2014", 
+                                                                                                  "tree_size": 1, 
+                                                                                                  "tweet": "RT @KrustyAllslopp: .@Fat_Jacques let's not forget that in other EU countries, if you lose your job, your dole is 75% of income for 2 years\u2026", 
+                                                                                                  "uid": 14756888, 
+                                                                                                  "user": 23, 
+                                                                                                  "user_score": 0.0, 
+                                                                                                  "users": {
+                                                                                                    "23": 1
+                                                                                                  }
+                                                                                                }, 
+                                                                                                {
+                                                                                                  "entropy_score": 0.0, 
+                                                                                                  "favourites": 0, 
+                                                                                                  "follower": false, 
+                                                                                                  "id": 457850094864564224, 
+                                                                                                  "reply": false, 
+                                                                                                  "timestamp": "Sun Apr 20 11:55:43 +0000 2014", 
+                                                                                                  "tree_size": 1, 
+                                                                                                  "tweet": "RT @KrustyAllslopp: .@Fat_Jacques let's not forget that in other EU countries, if you lose your job, your dole is 75% of income for 2 years\u2026", 
+                                                                                                  "uid": 483007597, 
+                                                                                                  "user": 22, 
+                                                                                                  "user_score": 0.0, 
+                                                                                                  "users": {
+                                                                                                    "22": 1
+                                                                                                  }
+                                                                                                }, 
+                                                                                                {
+                                                                                                  "children": [
+                                                                                                    {
+                                                                                                      "children": [
+                                                                                                        {
+                                                                                                          "children": [
+                                                                                                            {
+                                                                                                              "children": [
+                                                                                                                {
+                                                                                                                  "children": [
+                                                                                                                    {
+                                                                                                                      "entropy_score": 0.0, 
+                                                                                                                      "favourites": 0, 
+                                                                                                                      "follower": false, 
+                                                                                                                      "id": 457865779372130304, 
+                                                                                                                      "reply": true, 
+                                                                                                                      "timestamp": "Sun Apr 20 12:58:03 +0000 2014", 
+                                                                                                                      "tree_size": 1, 
+                                                                                                                      "tweet": "@Fat_Jacques @TruenFairview I doubt that would be possible Jacques. However, Tories have had a good go at trying to destroy public sector!", 
+                                                                                                                      "uid": 213038249, 
+                                                                                                                      "user": 9, 
+                                                                                                                      "user_score": 0.0, 
+                                                                                                                      "users": {
+                                                                                                                        "9": 1
+                                                                                                                      }
+                                                                                                                    }
+                                                                                                                  ], 
+                                                                                                                  "entropy_score": 0.0, 
+                                                                                                                  "favourites": 0, 
+                                                                                                                  "follower": false, 
+                                                                                                                  "id": 457863850495606784, 
+                                                                                                                  "reply": true, 
+                                                                                                                  "timestamp": "Sun Apr 20 12:50:23 +0000 2014", 
+                                                                                                                  "tree_size": 2, 
+                                                                                                                  "tweet": "@KrustyAllslopp @TruenFairview I have met Trotskyist Union leaders who have declared their aim is to close private industry.", 
+                                                                                                                  "uid": 184160423, 
+                                                                                                                  "user": 2, 
+                                                                                                                  "user_score": 0.6931471805599453, 
+                                                                                                                  "users": {
+                                                                                                                    "2": 1, 
+                                                                                                                    "9": 1
+                                                                                                                  }
+                                                                                                                }, 
+                                                                                                                {
+                                                                                                                  "entropy_score": 0.0, 
+                                                                                                                  "favourites": 0, 
+                                                                                                                  "follower": false, 
+                                                                                                                  "id": 457863916744613888, 
+                                                                                                                  "reply": true, 
+                                                                                                                  "timestamp": "Sun Apr 20 12:50:39 +0000 2014", 
+                                                                                                                  "tree_size": 1, 
+                                                                                                                  "tweet": "@KrustyAllslopp @TruenFairview using union members as useful idiots.", 
+                                                                                                                  "uid": 184160423, 
+                                                                                                                  "user": 2, 
+                                                                                                                  "user_score": 0.0, 
+                                                                                                                  "users": {
+                                                                                                                    "2": 1
+                                                                                                                  }
+                                                                                                                }
+                                                                                                              ], 
+                                                                                                              "entropy_score": 0.7001655851242942, 
+                                                                                                              "favourites": 0, 
+                                                                                                              "follower": false, 
+                                                                                                              "id": 457863566180515840, 
+                                                                                                              "reply": true, 
+                                                                                                              "timestamp": "Sun Apr 20 12:49:15 +0000 2014", 
+                                                                                                              "tree_size": 4, 
+                                                                                                              "tweet": "@Fat_Jacques @TruenFairview don't agree with you there. However, I do think the Union movement in the UK needs refreshing too. Maybe instead", 
+                                                                                                              "uid": 213038249, 
+                                                                                                              "user": 9, 
+                                                                                                              "user_score": 0.6931471805599453, 
+                                                                                                              "users": {
+                                                                                                                "2": 2, 
+                                                                                                                "9": 2
+                                                                                                              }
+                                                                                                            }, 
+                                                                                                            {
+                                                                                                              "entropy_score": 0.0, 
+                                                                                                              "favourites": 0, 
+                                                                                                              "follower": false, 
+                                                                                                              "id": 457863706786164736, 
+                                                                                                              "reply": true, 
+                                                                                                              "timestamp": "Sun Apr 20 12:49:49 +0000 2014", 
+                                                                                                              "tree_size": 1, 
+                                                                                                              "tweet": "@Fat_Jacques @TruenFairview of demonising it, Govt. works with it... might produce a much healthier result for everyone?", 
+                                                                                                              "uid": 213038249, 
+                                                                                                              "user": 9, 
+                                                                                                              "user_score": 0.0, 
+                                                                                                              "users": {
+                                                                                                                "9": 1
+                                                                                                              }
+                                                                                                            }
+                                                                                                          ], 
+                                                                                                          "entropy_score": 1.2506082510163008, 
+                                                                                                          "favourites": 0, 
+                                                                                                          "follower": false, 
+                                                                                                          "id": 457863037459103744, 
+                                                                                                          "reply": true, 
+                                                                                                          "timestamp": "Sun Apr 20 12:47:09 +0000 2014", 
+                                                                                                          "tree_size": 6, 
+                                                                                                          "tweet": "@KrustyAllslopp @TruenFairview they also have unions that are not greedy destroyers.", 
+                                                                                                          "uid": 184160423, 
+                                                                                                          "user": 2, 
+                                                                                                          "user_score": 0.6931471805599453, 
+                                                                                                          "users": {
+                                                                                                            "2": 3, 
+                                                                                                            "9": 3
+                                                                                                          }
+                                                                                                        }
+                                                                                                      ], 
+                                                                                                      "entropy_score": 1.2506082510163008, 
+                                                                                                      "favourites": 0, 
+                                                                                                      "follower": false, 
+                                                                                                      "id": 457862661750140928, 
+                                                                                                      "reply": true, 
+                                                                                                      "timestamp": "Sun Apr 20 12:45:39 +0000 2014", 
+                                                                                                      "tree_size": 7, 
+                                                                                                      "tweet": "@Fat_Jacques @TruenFairview We need a radical change in the way this country is governed. Germany also put Unions at heart of Govt.", 
+                                                                                                      "uid": 213038249, 
+                                                                                                      "user": 9, 
+                                                                                                      "user_score": 0.6829081047004717, 
+                                                                                                      "users": {
+                                                                                                        "2": 3, 
+                                                                                                        "9": 4
+                                                                                                      }
+                                                                                                    }, 
+                                                                                                    {
+                                                                                                      "entropy_score": 0.0, 
+                                                                                                      "favourites": 0, 
+                                                                                                      "follower": false, 
+                                                                                                      "id": 457862907607666688, 
+                                                                                                      "reply": true, 
+                                                                                                      "timestamp": "Sun Apr 20 12:46:38 +0000 2014", 
+                                                                                                      "tree_size": 1, 
+                                                                                                      "tweet": "@Fat_Jacques @TruenFairview The UK is feeling more and more like an isolated, out-moded, backward country. The convoluted narrative required", 
+                                                                                                      "uid": 213038249, 
+                                                                                                      "user": 9, 
+                                                                                                      "user_score": 0.0, 
+                                                                                                      "users": {
+                                                                                                        "9": 1
+                                                                                                      }
+                                                                                                    }, 
+                                                                                                    {
+                                                                                                      "entropy_score": 0.0, 
+                                                                                                      "favourites": 0, 
+                                                                                                      "follower": false, 
+                                                                                                      "id": 457863035152257024, 
+                                                                                                      "reply": true, 
+                                                                                                      "timestamp": "Sun Apr 20 12:47:08 +0000 2014", 
+                                                                                                      "tree_size": 1, 
+                                                                                                      "tweet": "@Fat_Jacques @TruenFairview to keep up the pretence that we're somehow a 'progressive' country is becoming more and more bizarre.", 
+                                                                                                      "uid": 213038249, 
+                                                                                                      "user": 9, 
+                                                                                                      "user_score": 0.0, 
+                                                                                                      "users": {
+                                                                                                        "9": 1
+                                                                                                      }
+                                                                                                    }, 
+                                                                                                    {
+                                                                                                      "entropy_score": 0.0, 
+                                                                                                      "favourites": 0, 
+                                                                                                      "follower": false, 
+                                                                                                      "id": 457863260394766336, 
+                                                                                                      "reply": true, 
+                                                                                                      "timestamp": "Sun Apr 20 12:48:02 +0000 2014", 
+                                                                                                      "tree_size": 1, 
+                                                                                                      "tweet": "@Fat_Jacques @TruenFairview We can't have open, honest debate about anything if we're stuck with an arcane Royal family &amp; an Establishment", 
+                                                                                                      "uid": 213038249, 
+                                                                                                      "user": 9, 
+                                                                                                      "user_score": 0.0, 
+                                                                                                      "users": {
+                                                                                                        "9": 1
+                                                                                                      }
+                                                                                                    }, 
+                                                                                                    {
+                                                                                                      "children": [
+                                                                                                        {
+                                                                                                          "children": [
+                                                                                                            {
+                                                                                                              "entropy_score": 0.0, 
+                                                                                                              "favourites": 0, 
+                                                                                                              "follower": false, 
+                                                                                                              "id": 457863896721010688, 
+                                                                                                              "reply": true, 
+                                                                                                              "timestamp": "Sun Apr 20 12:50:34 +0000 2014", 
+                                                                                                              "tree_size": 1, 
+                                                                                                              "tweet": "@Fat_Jacques @TruenFairview and an elite which is wholly unrepresentative of the mass of people in this country.", 
+                                                                                                              "uid": 213038249, 
+                                                                                                              "user": 9, 
+                                                                                                              "user_score": 0.0, 
+                                                                                                              "users": {
+                                                                                                                "9": 1
+                                                                                                              }
+                                                                                                            }
+                                                                                                          ], 
+                                                                                                          "entropy_score": 0.0, 
+                                                                                                          "favourites": 0, 
+                                                                                                          "follower": false, 
+                                                                                                          "id": 457863657977040896, 
+                                                                                                          "reply": true, 
+                                                                                                          "timestamp": "Sun Apr 20 12:49:37 +0000 2014", 
+                                                                                                          "tree_size": 2, 
+                                                                                                          "tweet": "@KrustyAllslopp @TruenFairview there is certainly an elite. Most politicians are part of it.", 
+                                                                                                          "uid": 184160423, 
+                                                                                                          "user": 2, 
+                                                                                                          "user_score": 0.6931471805599453, 
+                                                                                                          "users": {
+                                                                                                            "2": 1, 
+                                                                                                            "9": 1
+                                                                                                          }
+                                                                                                        }
+                                                                                                      ], 
+                                                                                                      "entropy_score": 0.0, 
+                                                                                                      "favourites": 0, 
+                                                                                                      "follower": false, 
+                                                                                                      "id": 457863387670917120, 
+                                                                                                      "reply": true, 
+                                                                                                      "timestamp": "Sun Apr 20 12:48:32 +0000 2014", 
+                                                                                                      "tree_size": 3, 
+                                                                                                      "tweet": "@Fat_Jacques @TruenFairview totally dominated by the narrow upper-echelons", 
+                                                                                                      "uid": 213038249, 
+                                                                                                      "user": 9, 
+                                                                                                      "user_score": 0.6365141682948128, 
+                                                                                                      "users": {
+                                                                                                        "2": 1, 
+                                                                                                        "9": 2
+                                                                                                      }
+                                                                                                    }
+                                                                                                  ], 
+                                                                                                  "entropy_score": 2.640596490352401, 
+                                                                                                  "favourites": 0, 
+                                                                                                  "follower": false, 
+                                                                                                  "id": 457861956045918208, 
+                                                                                                  "important_entropy": true, 
+                                                                                                  "reply": true, 
+                                                                                                  "timestamp": "Sun Apr 20 12:42:51 +0000 2014", 
+                                                                                                  "tree_size": 14, 
+                                                                                                  "tweet": "@KrustyAllslopp @TruenFairview Germany has been steadily reducing it\u2019s dole since 2005", 
+                                                                                                  "uid": 184160423, 
+                                                                                                  "user": 2, 
+                                                                                                  "user_score": 0.6517565611726531, 
+                                                                                                  "users": {
+                                                                                                    "2": 5, 
+                                                                                                    "9": 9
+                                                                                                  }
+                                                                                                }
+                                                                                              ], 
+                                                                                              "entropy_score": 3.5621452642562383, 
+                                                                                              "favourites": 0, 
+                                                                                              "follower": false, 
+                                                                                              "id": 457848723427835905, 
+                                                                                              "reply": true, 
+                                                                                              "timestamp": "Sun Apr 20 11:50:16 +0000 2014", 
+                                                                                              "tree_size": 19, 
+                                                                                              "tweet": ".@Fat_Jacques let's not forget that in other EU countries, if you lose your job, your dole is 75% of income for 2 years.  @TruenFairview", 
+                                                                                              "uid": 213038249, 
+                                                                                              "user": 9, 
+                                                                                              "user_score": 1.3090157953711272, 
+                                                                                              "users": {
+                                                                                                "13": 1, 
+                                                                                                "2": 5, 
+                                                                                                "22": 1, 
+                                                                                                "23": 1, 
+                                                                                                "24": 1, 
+                                                                                                "9": 10
+                                                                                              }
+                                                                                            }, 
+                                                                                            {
+                                                                                              "entropy_score": 0.0, 
+                                                                                              "favourites": 0, 
+                                                                                              "follower": false, 
+                                                                                              "id": 457848875567837184, 
+                                                                                              "reply": true, 
+                                                                                              "timestamp": "Sun Apr 20 11:50:53 +0000 2014", 
+                                                                                              "tree_size": 1, 
+                                                                                              "tweet": "@Fat_Jacques again, I agree that a basic income would mitigate against pushing ppl into penury. @TruenFairview", 
+                                                                                              "uid": 213038249, 
+                                                                                              "user": 9, 
+                                                                                              "user_score": 0.0, 
+                                                                                              "users": {
+                                                                                                "9": 1
+                                                                                              }
+                                                                                            }
+                                                                                          ], 
+                                                                                          "entropy_score": 3.780512031936698, 
+                                                                                          "favourites": 0, 
+                                                                                          "follower": false, 
+                                                                                          "id": 457847728551518208, 
+                                                                                          "reply": true, 
+                                                                                          "timestamp": "Sun Apr 20 11:46:19 +0000 2014", 
+                                                                                          "tree_size": 21, 
+                                                                                          "tweet": "@KrustyAllslopp @TruenFairview with a basic income that would be less of an issue", 
+                                                                                          "uid": 184160423, 
+                                                                                          "user": 2, 
+                                                                                          "user_score": 1.276550779811499, 
+                                                                                          "users": {
+                                                                                            "13": 1, 
+                                                                                            "2": 6, 
+                                                                                            "22": 1, 
+                                                                                            "23": 1, 
+                                                                                            "24": 1, 
+                                                                                            "9": 11
+                                                                                          }
+                                                                                        }
+                                                                                      ], 
+                                                                                      "entropy_score": 3.780512031936698, 
+                                                                                      "favourites": 0, 
+                                                                                      "follower": false, 
+                                                                                      "id": 457847520706953216, 
+                                                                                      "reply": true, 
+                                                                                      "timestamp": "Sun Apr 20 11:45:29 +0000 2014", 
+                                                                                      "tree_size": 22, 
+                                                                                      "tweet": ".@Fat_Jacques of the true level of unemployment/underemployment @TruenFairview", 
+                                                                                      "uid": 213038249, 
+                                                                                      "user": 9, 
+                                                                                      "user_score": 1.2469771527753917, 
+                                                                                      "users": {
+                                                                                        "13": 1, 
+                                                                                        "2": 6, 
+                                                                                        "22": 1, 
+                                                                                        "23": 1, 
+                                                                                        "24": 1, 
+                                                                                        "9": 12
+                                                                                      }
+                                                                                    }
+                                                                                  ], 
+                                                                                  "entropy_score": 4.096031613298475, 
+                                                                                  "favourites": 0, 
+                                                                                  "follower": false, 
+                                                                                  "id": 457846678377484289, 
+                                                                                  "reply": true, 
+                                                                                  "timestamp": "Sun Apr 20 11:42:09 +0000 2014", 
+                                                                                  "tree_size": 25, 
+                                                                                  "tweet": "@KrustyAllslopp 2 levels of punishment:1 sanctions. \\n2 The whole setup!\\n@TruenFairview @Art_Li @TimothyJMoore", 
+                                                                                  "uid": 184160423, 
+                                                                                  "user": 2, 
+                                                                                  "user_score": 1.2847955428079183, 
+                                                                                  "users": {
+                                                                                    "13": 2, 
+                                                                                    "2": 7, 
+                                                                                    "22": 1, 
+                                                                                    "23": 1, 
+                                                                                    "24": 1, 
+                                                                                    "9": 13
+                                                                                  }
+                                                                                }
+                                                                              ], 
+                                                                              "entropy_score": 4.096031613298475, 
+                                                                              "favourites": 0, 
+                                                                              "follower": false, 
+                                                                              "id": 457845602400088064, 
+                                                                              "reply": true, 
+                                                                              "timestamp": "Sun Apr 20 11:37:52 +0000 2014", 
+                                                                              "tree_size": 26, 
+                                                                              "tweet": ".@Fat_Jacques That is collective punishment. Furthermore, there is no open debate about who most  @TruenFairview @Art_Li @TimothyJMoore", 
+                                                                              "uid": 213038249, 
+                                                                              "user": 9, 
+                                                                              "user_score": 1.259847768055301, 
+                                                                              "users": {
+                                                                                "13": 2, 
+                                                                                "2": 7, 
+                                                                                "22": 1, 
+                                                                                "23": 1, 
+                                                                                "24": 1, 
+                                                                                "9": 14
+                                                                              }
+                                                                            }, 
+                                                                            {
+                                                                              "entropy_score": 0.0, 
+                                                                              "favourites": 0, 
+                                                                              "follower": false, 
+                                                                              "id": 457845882424406016, 
+                                                                              "reply": true, 
+                                                                              "timestamp": "Sun Apr 20 11:38:59 +0000 2014", 
+                                                                              "tree_size": 1, 
+                                                                              "tweet": ".@Fat_Jacques claimants are. Those who have worked/are in work. Social Security is exactly that.  @TruenFairview @Art_Li @TimothyJMoore", 
+                                                                              "uid": 213038249, 
+                                                                              "user": 9, 
+                                                                              "user_score": 0.0, 
+                                                                              "users": {
+                                                                                "9": 1
+                                                                              }
+                                                                            }, 
+                                                                            {
+                                                                              "entropy_score": 0.0, 
+                                                                              "favourites": 0, 
+                                                                              "follower": false, 
+                                                                              "id": 457846010778509312, 
+                                                                              "reply": true, 
+                                                                              "timestamp": "Sun Apr 20 11:39:29 +0000 2014", 
+                                                                              "tree_size": 1, 
+                                                                              "tweet": ".@Fat_Jacques HOwever, the warped view in this country is that they're all 'slackers' leeching @TruenFairview @Art_Li @TimothyJMoore", 
+                                                                              "uid": 213038249, 
+                                                                              "user": 9, 
+                                                                              "user_score": 0.0, 
+                                                                              "users": {
+                                                                                "9": 1
+                                                                              }
+                                                                            }
+                                                                          ], 
+                                                                          "entropy_score": 5.550432197678262, 
+                                                                          "favourites": 1, 
+                                                                          "follower": false, 
+                                                                          "id": 457844793344000000, 
+                                                                          "important_entropy": true, 
+                                                                          "reply": true, 
+                                                                          "timestamp": "Sun Apr 20 11:34:39 +0000 2014", 
+                                                                          "tree_size": 34, 
+                                                                          "tweet": "@KrustyAllslopp @TruenFairview @Art_Li @TimothyJMoore and that despite a system with crazy punishment system.", 
+                                                                          "uid": 184160423, 
+                                                                          "user": 2, 
+                                                                          "user_score": 1.1629344688743166, 
+                                                                          "users": {
+                                                                            "13": 2, 
+                                                                            "2": 10, 
+                                                                            "22": 1, 
+                                                                            "23": 1, 
+                                                                            "24": 1, 
+                                                                            "9": 19
+                                                                          }
+                                                                        }
+                                                                      ], 
+                                                                      "entropy_score": 5.859974221228823, 
+                                                                      "favourites": 0, 
+                                                                      "follower": false, 
+                                                                      "id": 457843462688505856, 
+                                                                      "reply": true, 
+                                                                      "timestamp": "Sun Apr 20 11:29:22 +0000 2014", 
+                                                                      "tree_size": 38, 
+                                                                      "tweet": "@Fat_Jacques @TruenFairview @Art_Li @TimothyJMoore The figures clearly show that 'free riders' re: Social Security' are miniscule.", 
+                                                                      "uid": 213038249, 
+                                                                      "user": 9, 
+                                                                      "user_score": 1.1338981241798654, 
+                                                                      "users": {
+                                                                        "13": 2, 
+                                                                        "2": 12, 
+                                                                        "22": 1, 
+                                                                        "23": 1, 
+                                                                        "24": 1, 
+                                                                        "9": 21
+                                                                      }
+                                                                    }, 
+                                                                    {
+                                                                      "entropy_score": 0.0, 
+                                                                      "favourites": 0, 
+                                                                      "follower": false, 
+                                                                      "id": 457843589276762113, 
+                                                                      "reply": true, 
+                                                                      "timestamp": "Sun Apr 20 11:29:52 +0000 2014", 
+                                                                      "tree_size": 1, 
+                                                                      "tweet": "@Fat_Jacques however, I do think that a basic income is a really good idea. @TruenFairview @Art_Li @TimothyJMoore", 
+                                                                      "uid": 213038249, 
+                                                                      "user": 9, 
+                                                                      "user_score": 0.0, 
+                                                                      "users": {
+                                                                        "9": 1
+                                                                      }
+                                                                    }
+                                                                  ], 
+                                                                  "entropy_score": 5.991145840264693, 
+                                                                  "favourites": 0, 
+                                                                  "follower": false, 
+                                                                  "id": 457836238725455872, 
+                                                                  "reply": true, 
+                                                                  "timestamp": "Sun Apr 20 11:00:40 +0000 2014", 
+                                                                  "tree_size": 40, 
+                                                                  "tweet": "@KrustyAllslopp @TruenFairview @Art_Li @TimothyJMoore I view the free rider problem as un-crack able, hence my support for basic income.", 
+                                                                  "uid": 184160423, 
+                                                                  "user": 2, 
+                                                                  "user_score": 1.120540204563866, 
+                                                                  "users": {
+                                                                    "13": 2, 
+                                                                    "2": 13, 
+                                                                    "22": 1, 
+                                                                    "23": 1, 
+                                                                    "24": 1, 
+                                                                    "9": 22
+                                                                  }
+                                                                }
+                                                              ], 
+                                                              "entropy_score": 5.991145840264693, 
+                                                              "favourites": 0, 
+                                                              "follower": false, 
+                                                              "id": 457835950002176000, 
+                                                              "reply": true, 
+                                                              "timestamp": "Sun Apr 20 10:59:31 +0000 2014", 
+                                                              "tree_size": 41, 
+                                                              "tweet": ".@Fat_Jacques What level of desperation would you wish to see before offering help? @TruenFairview @Art_Li @TimothyJMoore", 
+                                                              "uid": 213038249, 
+                                                              "user": 9, 
+                                                              "user_score": 1.1075476039118612, 
+                                                              "users": {
+                                                                "13": 2, 
+                                                                "2": 13, 
+                                                                "22": 1, 
+                                                                "23": 1, 
+                                                                "24": 1, 
+                                                                "9": 23
+                                                              }
+                                                            }
+                                                          ], 
+                                                          "entropy_score": 7.027409046168696, 
+                                                          "favourites": 0, 
+                                                          "follower": true, 
+                                                          "id": 457832913103777792, 
+                                                          "reply": true, 
+                                                          "timestamp": "Sun Apr 20 10:47:27 +0000 2014", 
+                                                          "tree_size": 45, 
+                                                          "tweet": "@TruenFairview @Art_Li @KrustyAllslopp @TimothyJMoore what is the max liar to needy ratio you would accept?", 
+                                                          "uid": 184160423, 
+                                                          "user": 2, 
+                                                          "user_score": 1.135776227306138, 
+                                                          "users": {
+                                                            "13": 3, 
+                                                            "2": 15, 
+                                                            "22": 1, 
+                                                            "23": 1, 
+                                                            "24": 1, 
+                                                            "9": 24
+                                                          }
+                                                        }
+                                                      ], 
+                                                      "entropy_score": 7.253426870951232, 
+                                                      "favourites": 2, 
+                                                      "follower": true, 
+                                                      "id": 457828514121932800, 
+                                                      "reply": true, 
+                                                      "timestamp": "Sun Apr 20 10:29:58 +0000 2014", 
+                                                      "tree_size": 48, 
+                                                      "tweet": "@Art_Li I'd rather give food to a liar than see 1 child go hungry. Call me derpy derpface. @KrustyAllslopp @TimothyJMoore", 
+                                                      "uid": 43424430, 
+                                                      "user": 20, 
+                                                      "user_score": 1.3383640073243899, 
+                                                      "users": {
+                                                        "0": 2, 
+                                                        "13": 3, 
+                                                        "2": 15, 
+                                                        "20": 1, 
+                                                        "22": 1, 
+                                                        "23": 1, 
+                                                        "24": 1, 
+                                                        "9": 24
+                                                      }
+                                                    }, 
+                                                    {
+                                                      "children": [
+                                                        {
+                                                          "entropy_score": 0.0, 
+                                                          "favourites": 0, 
+                                                          "follower": true, 
+                                                          "id": 457830634317438977, 
+                                                          "reply": false, 
+                                                          "timestamp": "Sun Apr 20 10:38:23 +0000 2014", 
+                                                          "tree_size": 1, 
+                                                          "tweet": "RT @KrustyAllslopp: .@Art_Li @TruenFairview The figures for fraud is 0.7% - less than one in a 100. I think that proves 99.3% are genuine! \u2026", 
+                                                          "uid": 406564080, 
+                                                          "user": 13, 
+                                                          "user_score": 0.0, 
+                                                          "users": {
+                                                            "13": 1
+                                                          }
+                                                        }
+                                                      ], 
+                                                      "entropy_score": 0.0, 
+                                                      "favourites": 1, 
+                                                      "follower": true, 
+                                                      "id": 457828716887146496, 
+                                                      "reply": true, 
+                                                      "timestamp": "Sun Apr 20 10:30:46 +0000 2014", 
+                                                      "tree_size": 2, 
+                                                      "tweet": ".@Art_Li @TruenFairview The figures for fraud is 0.7% - less than one in a 100. I think that proves 99.3% are genuine! @TimothyJMoore", 
+                                                      "uid": 213038249, 
+                                                      "user": 9, 
+                                                      "user_score": 0.6931471805599453, 
+                                                      "users": {
+                                                        "13": 1, 
+                                                        "9": 1
+                                                      }
+                                                    }
+                                                  ], 
+                                                  "entropy_score": 7.438165433458823, 
+                                                  "favourites": 1, 
+                                                  "follower": true, 
+                                                  "id": 457828137515380737, 
+                                                  "reply": true, 
+                                                  "timestamp": "Sun Apr 20 10:28:28 +0000 2014", 
+                                                  "tree_size": 51, 
+                                                  "tweet": "@truenfairview You have a very Christian view of 99.99% of the population :)  @krustyallslopp @timothyjmoore", 
+                                                  "uid": 128384950, 
+                                                  "user": 0, 
+                                                  "user_score": 1.3841067513768346, 
+                                                  "users": {
+                                                    "0": 3, 
+                                                    "13": 4, 
+                                                    "2": 15, 
+                                                    "20": 1, 
+                                                    "22": 1, 
+                                                    "23": 1, 
+                                                    "24": 1, 
+                                                    "9": 25
+                                                  }
+                                                }, 
+                                                {
+                                                  "entropy_score": 0.0, 
+                                                  "favourites": 0, 
+                                                  "follower": false, 
+                                                  "id": 457828149980848129, 
+                                                  "reply": true, 
+                                                  "timestamp": "Sun Apr 20 10:28:31 +0000 2014", 
+                                                  "tree_size": 1, 
+                                                  "tweet": "@TruenFairview It's the MoS doing the DWP/McVey/IDS dirty-work. This will backfire badly. @Art_Li @TimothyJMoore", 
+                                                  "uid": 213038249, 
+                                                  "user": 9, 
+                                                  "user_score": 0.0, 
+                                                  "users": {
+                                                    "9": 1
+                                                  }
+                                                }
+                                              ], 
+                                              "entropy_score": 7.542698562440034, 
+                                              "favourites": 0, 
+                                              "follower": true, 
+                                              "id": 457827761265311744, 
+                                              "reply": true, 
+                                              "timestamp": "Sun Apr 20 10:26:58 +0000 2014", 
+                                              "tree_size": 53, 
+                                              "tweet": "@KrustyAllslopp @Art_Li @TimothyJMoore ...about the behaviour of 99.99% of the population.", 
+                                              "uid": 43424430, 
+                                              "user": 20, 
+                                              "user_score": 1.4125830139918305, 
+                                              "users": {
+                                                "0": 3, 
+                                                "13": 4, 
+                                                "2": 15, 
+                                                "20": 2, 
+                                                "22": 1, 
+                                                "23": 1, 
+                                                "24": 1, 
+                                                "9": 26
+                                              }
+                                            }, 
+                                            {
+                                              "entropy_score": 0.0, 
+                                              "favourites": 0, 
+                                              "follower": true, 
+                                              "id": 457829028393943040, 
+                                              "reply": false, 
+                                              "timestamp": "Sun Apr 20 10:32:01 +0000 2014", 
+                                              "tree_size": 1, 
+                                              "tweet": "RT @KrustyAllslopp: .@Art_Li This is why the Mail story makes me so upset. So many have been harshly sanctioned. There is something genuine\u2026", 
+                                              "uid": 362161896, 
+                                              "user": 21, 
+                                              "user_score": 0.0, 
+                                              "users": {
+                                                "21": 1
+                                              }
+                                            }
+                                          ], 
+                                          "entropy_score": 7.742255637830503, 
+                                          "favourites": 0, 
+                                          "follower": true, 
+                                          "id": 457826677608169472, 
+                                          "reply": true, 
+                                          "timestamp": "Sun Apr 20 10:22:40 +0000 2014", 
+                                          "tree_size": 56, 
+                                          "tweet": ".@Art_Li This is why the Mail story makes me so upset. So many have been harshly sanctioned. There is something genuinely @TimothyJMoore", 
+                                          "uid": 213038249, 
+                                          "user": 9, 
+                                          "user_score": 1.4941874126076802, 
+                                          "users": {
+                                            "0": 3, 
+                                            "13": 4, 
+                                            "2": 15, 
+                                            "20": 3, 
+                                            "21": 1, 
+                                            "22": 1, 
+                                            "23": 1, 
+                                            "24": 1, 
+                                            "9": 27
+                                          }
+                                        }, 
+                                        {
+                                          "children": [
+                                            {
+                                              "entropy_score": 0.0, 
+                                              "favourites": 0, 
+                                              "follower": true, 
+                                              "id": 457827821902372864, 
+                                              "reply": false, 
+                                              "timestamp": "Sun Apr 20 10:27:13 +0000 2014", 
+                                              "tree_size": 1, 
+                                              "tweet": "RT @KrustyAllslopp: .@Art_Li cruel and wicked about a Govt dept that wilfully denies people the means by which to survive. Many sanctioned \u2026", 
+                                              "uid": 406564080, 
+                                              "user": 13, 
+                                              "user_score": 0.0, 
+                                              "users": {
+                                                "13": 1
+                                              }
+                                            }, 
+                                            {
+                                              "entropy_score": 0.0, 
+                                              "favourites": 0, 
+                                              "follower": true, 
+                                              "id": 457828845627125760, 
+                                              "reply": false, 
+                                              "timestamp": "Sun Apr 20 10:31:17 +0000 2014", 
+                                              "tree_size": 1, 
+                                              "tweet": "RT @KrustyAllslopp: .@Art_Li cruel and wicked about a Govt dept that wilfully denies people the means by which to survive. Many sanctioned \u2026", 
+                                              "uid": 362161896, 
+                                              "user": 21, 
+                                              "user_score": 0.0, 
+                                              "users": {
+                                                "21": 1
+                                              }
+                                            }
+                                          ], 
+                                          "entropy_score": 0.7624618986159398, 
+                                          "favourites": 0, 
+                                          "follower": true, 
+                                          "id": 457826940691709952, 
+                                          "reply": true, 
+                                          "timestamp": "Sun Apr 20 10:23:43 +0000 2014", 
+                                          "tree_size": 3, 
+                                          "tweet": ".@Art_Li cruel and wicked about a Govt dept that wilfully denies people the means by which to survive. Many sanctioned are @TimothyJMoore", 
+                                          "uid": 213038249, 
+                                          "user": 9, 
+                                          "user_score": 1.0986122886681096, 
+                                          "users": {
+                                            "13": 1, 
+                                            "21": 1, 
+                                            "9": 1
+                                          }
+                                        }, 
+                                        {
+                                          "children": [
+                                            {
+                                              "children": [
+                                                {
+                                                  "children": [
+                                                    {
+                                                      "children": [
+                                                        {
+                                                          "entropy_score": 0.0, 
+                                                          "favourites": 0, 
+                                                          "follower": true, 
+                                                          "id": 457829100250755073, 
+                                                          "reply": true, 
+                                                          "timestamp": "Sun Apr 20 10:32:18 +0000 2014", 
+                                                          "tree_size": 1, 
+                                                          "tweet": "@Art_Li of course not. But we act on the basis of good faith. Otherwise we are lost! @TruenFairview @TimothyJMoore", 
+                                                          "uid": 213038249, 
+                                                          "user": 9, 
+                                                          "user_score": 0.0, 
+                                                          "users": {
+                                                            "9": 1
+                                                          }
+                                                        }
+                                                      ], 
+                                                      "entropy_score": 0.0, 
+                                                      "favourites": 0, 
+                                                      "follower": true, 
+                                                      "id": 457828425563377664, 
+                                                      "reply": true, 
+                                                      "timestamp": "Sun Apr 20 10:29:37 +0000 2014", 
+                                                      "tree_size": 2, 
+                                                      "tweet": "@truenfairview I'm a professional cynic. No system is fool or liar proof. @krustyallslopp @timothyjmoore", 
+                                                      "uid": 128384950, 
+                                                      "user": 0, 
+                                                      "user_score": 0.6931471805599453, 
+                                                      "users": {
+                                                        "0": 1, 
+                                                        "9": 1
+                                                      }
+                                                    }
+                                                  ], 
+                                                  "entropy_score": 0.0, 
+                                                  "favourites": 0, 
+                                                  "follower": true, 
+                                                  "id": 457828095568150528, 
+                                                  "reply": true, 
+                                                  "timestamp": "Sun Apr 20 10:28:18 +0000 2014", 
+                                                  "tree_size": 3, 
+                                                  "tweet": "@Art_Li @KrustyAllslopp @TimothyJMoore I don't think the story offers any evidence that this is happening, other than in this instance", 
+                                                  "uid": 43424430, 
+                                                  "user": 20, 
+                                                  "user_score": 1.0986122886681096, 
+                                                  "users": {
+                                                    "0": 1, 
+                                                    "20": 1, 
+                                                    "9": 1
+                                                  }
+                                                }, 
+                                                {
+                                                  "children": [
+                                                    {
+                                                      "entropy_score": 0.0, 
+                                                      "favourites": 0, 
+                                                      "follower": true, 
+                                                      "id": 457828705902280704, 
+                                                      "reply": false, 
+                                                      "timestamp": "Sun Apr 20 10:30:44 +0000 2014", 
+                                                      "tree_size": 1, 
+                                                      "tweet": "RT @KrustyAllslopp: .@Art_Li I suspect that the whole truth of this has not been told. I think the reporter should be investigated for this\u2026", 
+                                                      "uid": 406564080, 
+                                                      "user": 13, 
+                                                      "user_score": 0.0, 
+                                                      "users": {
+                                                        "13": 1
+                                                      }
+                                                    }, 
+                                                    {
+                                                      "children": [
+                                                        {
+                                                          "children": [
+                                                            {
+                                                              "entropy_score": 0.0, 
+                                                              "favourites": 0, 
+                                                              "follower": true, 
+                                                              "id": 457831965820207104, 
+                                                              "reply": false, 
+                                                              "timestamp": "Sun Apr 20 10:43:41 +0000 2014", 
+                                                              "tree_size": 1, 
+                                                              "tweet": "RT @KrustyAllslopp: @dwinle @Art_Li @TimothyJMoore I think he not only lacks integrity, he lacks any sense of concern or moral compass.", 
+                                                              "uid": 434899582, 
+                                                              "user": 19, 
+                                                              "user_score": 0.0, 
+                                                              "users": {
+                                                                "19": 1
+                                                              }
+                                                            }
+                                                          ], 
+                                                          "entropy_score": 0.0, 
+                                                          "favourites": 1, 
+                                                          "follower": true, 
+                                                          "id": 457831805216100352, 
+                                                          "reply": true, 
+                                                          "timestamp": "Sun Apr 20 10:43:03 +0000 2014", 
+                                                          "tree_size": 2, 
+                                                          "tweet": "@dwinle @Art_Li @TimothyJMoore I think he not only lacks integrity, he lacks any sense of concern or moral compass.", 
+                                                          "uid": 213038249, 
+                                                          "user": 9, 
+                                                          "user_score": 0.6931471805599453, 
+                                                          "users": {
+                                                            "19": 1, 
+                                                            "9": 1
+                                                          }
+                                                        }
+                                                      ], 
+                                                      "entropy_score": 0.0, 
+                                                      "favourites": 1, 
+                                                      "follower": true, 
+                                                      "id": 457830564339675136, 
+                                                      "reply": true, 
+                                                      "timestamp": "Sun Apr 20 10:38:07 +0000 2014", 
+                                                      "tree_size": 3, 
+                                                      "tweet": "@KrustyAllslopp @Art_Li @TimothyJMoore Totally agree. The Reporter is not one of integrity", 
+                                                      "uid": 434899582, 
+                                                      "user": 19, 
+                                                      "user_score": 0.6365141682948128, 
+                                                      "users": {
+                                                        "19": 2, 
+                                                        "9": 1
+                                                      }
+                                                    }
+                                                  ], 
+                                                  "entropy_score": 0.6185686590806891, 
+                                                  "favourites": 0, 
+                                                  "follower": true, 
+                                                  "id": 457828337352990720, 
+                                                  "reply": true, 
+                                                  "timestamp": "Sun Apr 20 10:29:16 +0000 2014", 
+                                                  "tree_size": 5, 
+                                                  "tweet": ".@Art_Li I suspect that the whole truth of this has not been told. I think the reporter should be investigated for this. @TimothyJMoore", 
+                                                  "uid": 213038249, 
+                                                  "user": 9, 
+                                                  "user_score": 1.0549201679861442, 
+                                                  "users": {
+                                                    "13": 1, 
+                                                    "19": 2, 
+                                                    "9": 2
+                                                  }
+                                                }
+                                              ], 
+                                              "entropy_score": 1.3462882210544693, 
+                                              "favourites": 1, 
+                                              "follower": true, 
+                                              "id": 457827671758868480, 
+                                              "reply": true, 
+                                              "timestamp": "Sun Apr 20 10:26:37 +0000 2014", 
+                                              "tree_size": 9, 
+                                              "tweet": "@krustyallslopp I see your point. But what upsets me abt the story is how liars can get food others might hv to go without. @timothyjmoore", 
+                                              "uid": 128384950, 
+                                              "user": 0, 
+                                              "user_score": 1.5229550675313184, 
+                                              "users": {
+                                                "0": 2, 
+                                                "13": 1, 
+                                                "19": 2, 
+                                                "20": 1, 
+                                                "9": 3
+                                              }
+                                            }
+                                          ], 
+                                          "entropy_score": 1.3462882210544693, 
+                                          "favourites": 0, 
+                                          "follower": true, 
+                                          "id": 457827060069965824, 
+                                          "reply": true, 
+                                          "timestamp": "Sun Apr 20 10:24:11 +0000 2014", 
+                                          "tree_size": 10, 
+                                          "tweet": ".@Art_Li already extremely vulnerable people. @TimothyJMoore", 
+                                          "uid": 213038249, 
+                                          "user": 9, 
+                                          "user_score": 1.4708084763221112, 
+                                          "users": {
+                                            "0": 2, 
+                                            "13": 1, 
+                                            "19": 2, 
+                                            "20": 1, 
+                                            "9": 4
+                                          }
+                                        }
+                                      ], 
+                                      "entropy_score": 11.512822804717066, 
+                                      "favourites": 0, 
+                                      "follower": true, 
+                                      "id": 457825725991907329, 
+                                      "important_entropy": true, 
+                                      "reply": true, 
+                                      "timestamp": "Sun Apr 20 10:18:53 +0000 2014", 
+                                      "tree_size": 76, 
+                                      "tweet": "@krustyallslopp I'm sorry to hear about your experience, I can't begin to imagine how awful it must have been \u2026 :(  @timothyjmoore", 
+                                      "uid": 128384950, 
+                                      "user": 0, 
+                                      "user_score": 1.6740687050561054, 
+                                      "users": {
+                                        "0": 7, 
+                                        "13": 6, 
+                                        "19": 2, 
+                                        "2": 15, 
+                                        "20": 4, 
+                                        "21": 4, 
+                                        "22": 1, 
+                                        "23": 1, 
+                                        "24": 1, 
+                                        "9": 35
+                                      }
+                                    }
+                                  ], 
+                                  "entropy_score": 11.512822804717066, 
+                                  "favourites": 0, 
+                                  "follower": false, 
+                                  "id": 457821862924668928, 
+                                  "reply": true, 
+                                  "timestamp": "Sun Apr 20 10:03:32 +0000 2014", 
+                                  "tree_size": 77, 
+                                  "tweet": "@TimothyJMoore @Art_Li Exactly. We have been in a situation where we have run out of food and it's horrific. Thankfully it was for a limited", 
+                                  "uid": 213038249, 
+                                  "user": 9, 
+                                  "user_score": 1.6622987736746238, 
+                                  "users": {
+                                    "0": 7, 
+                                    "13": 6, 
+                                    "19": 2, 
+                                    "2": 15, 
+                                    "20": 4, 
+                                    "21": 4, 
+                                    "22": 1, 
+                                    "23": 1, 
+                                    "24": 1, 
+                                    "9": 36
+                                  }
+                                }, 
+                                {
+                                  "children": [
+                                    {
+                                      "entropy_score": 0.0, 
+                                      "favourites": 0, 
+                                      "follower": true, 
+                                      "id": 457822414890471424, 
+                                      "reply": false, 
+                                      "timestamp": "Sun Apr 20 10:05:44 +0000 2014", 
+                                      "tree_size": 1, 
+                                      "tweet": "RT @KrustyAllslopp: @TimothyJMoore @Art_Li time, but there is nothing more frightening than realising you cannot afford to eat.", 
+                                      "uid": 938489083, 
+                                      "user": 18, 
+                                      "user_score": 0.0, 
+                                      "users": {
+                                        "18": 1
+                                      }
+                                    }
+                                  ], 
+                                  "entropy_score": 0.0, 
+                                  "favourites": 1, 
+                                  "follower": false, 
+                                  "id": 457822010307928064, 
+                                  "reply": true, 
+                                  "timestamp": "Sun Apr 20 10:04:07 +0000 2014", 
+                                  "tree_size": 2, 
+                                  "tweet": "@TimothyJMoore @Art_Li time, but there is nothing more frightening than realising you cannot afford to eat.", 
+                                  "uid": 213038249, 
+                                  "user": 9, 
+                                  "user_score": 0.6931471805599453, 
+                                  "users": {
+                                    "18": 1, 
+                                    "9": 1
+                                  }
+                                }, 
+                                {
+                                  "entropy_score": 0.0, 
+                                  "favourites": 0, 
+                                  "follower": false, 
+                                  "id": 457833094792241153, 
+                                  "reply": true, 
+                                  "timestamp": "Sun Apr 20 10:48:10 +0000 2014", 
+                                  "tree_size": 1, 
+                                  "tweet": "@TimothyJMoore @KrustyAllslopp @Art_Li Perhaps you could enlighten us as to how you can buy food if you have no job, no home &amp; no money?", 
+                                  "uid": 149770065, 
+                                  "user": 17, 
+                                  "user_score": 0.0, 
+                                  "users": {
+                                    "17": 1
+                                  }
+                                }
+                              ], 
+                              "entropy_score": 11.71498656500535, 
+                              "favourites": 0, 
+                              "follower": false, 
+                              "id": 457821174505156608, 
+                              "reply": true, 
+                              "timestamp": "Sun Apr 20 10:00:48 +0000 2014", 
+                              "tree_size": 81, 
+                              "tweet": "@KrustyAllslopp In any case, showing proof of (un)employment cannot be a determiner of food poverty. // @Art_Li", 
+                              "uid": 114549141, 
+                              "user": 8, 
+                              "user_score": 1.7886060325341182, 
+                              "users": {
+                                "0": 7, 
+                                "13": 6, 
+                                "17": 1, 
+                                "18": 1, 
+                                "19": 2, 
+                                "2": 15, 
+                                "20": 4, 
+                                "21": 4, 
+                                "22": 1, 
+                                "23": 1, 
+                                "24": 1, 
+                                "8": 1, 
+                                "9": 37
+                              }
+                            }, 
+                            {
+                              "children": [
+                                {
+                                  "entropy_score": 0.0, 
+                                  "favourites": 0, 
+                                  "follower": false, 
+                                  "id": 457830245224415232, 
+                                  "reply": true, 
+                                  "timestamp": "Sun Apr 20 10:36:51 +0000 2014", 
+                                  "tree_size": 1, 
+                                  "tweet": "@volewriter I look forward to the backlash and the approbrium being heaped at the MoS's door @TimothyJMoore @Art_Li", 
+                                  "uid": 213038249, 
+                                  "user": 9, 
+                                  "user_score": 0.0, 
+                                  "users": {
+                                    "9": 1
+                                  }
+                                }
+                              ], 
+                              "entropy_score": 0.0, 
+                              "favourites": 1, 
+                              "follower": false, 
+                              "id": 457829487871533056, 
+                              "reply": true, 
+                              "timestamp": "Sun Apr 20 10:33:50 +0000 2014", 
+                              "tree_size": 2, 
+                              "tweet": "@KrustyAllslopp @TimothyJMoore @Art_Li It wouldn't be the first time a story's gone out with crucial info deliberately missing.", 
+                              "uid": 155483848, 
+                              "user": 11, 
+                              "user_score": 0.6931471805599453, 
+                              "users": {
+                                "11": 1, 
+                                "9": 1
+                              }
+                            }
+                          ], 
+                          "entropy_score": 11.839923962755751, 
+                          "favourites": 0, 
+                          "follower": false, 
+                          "id": 457820118232608768, 
+                          "reply": true, 
+                          "timestamp": "Sun Apr 20 09:56:36 +0000 2014", 
+                          "tree_size": 84, 
+                          "tweet": ".@TimothyJMoore @Art_Li If he wasn't genuinely unemployed. How did he get a referral? Agree. I think this is only half the story.", 
+                          "uid": 213038249, 
+                          "user": 9, 
+                          "user_score": 1.807623533076363, 
+                          "users": {
+                            "0": 7, 
+                            "11": 1, 
+                            "13": 6, 
+                            "17": 1, 
+                            "18": 1, 
+                            "19": 2, 
+                            "2": 15, 
+                            "20": 4, 
+                            "21": 4, 
+                            "22": 1, 
+                            "23": 1, 
+                            "24": 1, 
+                            "8": 1, 
+                            "9": 39
+                          }
+                        }, 
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "entropy_score": 0.0, 
+                                  "favourites": 0, 
+                                  "follower": false, 
+                                  "id": 457820863493312512, 
+                                  "reply": true, 
+                                  "timestamp": "Sun Apr 20 09:59:34 +0000 2014", 
+                                  "tree_size": 1, 
+                                  "tweet": "@TimothyJMoore @Art_Li Entirely agree.", 
+                                  "uid": 213038249, 
+                                  "user": 9, 
+                                  "user_score": 0.0, 
+                                  "users": {
+                                    "9": 1
+                                  }
+                                }
+                              ], 
+                              "entropy_score": 0.0, 
+                              "favourites": 0, 
+                              "follower": true, 
+                              "id": 457820642789040128, 
+                              "reply": true, 
+                              "timestamp": "Sun Apr 20 09:58:41 +0000 2014", 
+                              "tree_size": 2, 
+                              "tweet": "@Art_Li @KrustyAllslopp In that case I don't accept CAB's checks were inadequate, when a journalist deceitfully obtained food bank provision", 
+                              "uid": 114549141, 
+                              "user": 8, 
+                              "user_score": 0.6931471805599453, 
+                              "users": {
+                                "8": 1, 
+                                "9": 1
+                              }
+                            }, 
+                            {
+                              "children": [
+                                {
+                                  "children": [
+                                    {
+                                      "entropy_score": 0.0, 
+                                      "favourites": 0, 
+                                      "follower": true, 
+                                      "id": 457821424540217344, 
+                                      "reply": true, 
+                                      "timestamp": "Sun Apr 20 10:01:48 +0000 2014", 
+                                      "tree_size": 1, 
+                                      "tweet": "@Art_Li @TimothyJMoore I understand Art :) x", 
+                                      "uid": 213038249, 
+                                      "user": 9, 
+                                      "user_score": 0.0, 
+                                      "users": {
+                                        "9": 1
+                                      }
+                                    }
+                                  ], 
+                                  "entropy_score": 0.0, 
+                                  "favourites": 1, 
+                                  "follower": true, 
+                                  "id": 457821080007483392, 
+                                  "reply": true, 
+                                  "timestamp": "Sun Apr 20 10:00:26 +0000 2014", 
+                                  "tree_size": 2, 
+                                  "tweet": "@krustyallslopp That is my point! Liars should not be able to deprive those genuinely in need, *NOT* having a go at CAB! @timothyjmoore", 
+                                  "uid": 128384950, 
+                                  "user": 0, 
+                                  "user_score": 0.6931471805599453, 
+                                  "users": {
+                                    "0": 1, 
+                                    "9": 1
+                                  }
+                                }
+                              ], 
+                              "entropy_score": 0.0, 
+                              "favourites": 0, 
+                              "follower": true, 
+                              "id": 457820683582836736, 
+                              "reply": true, 
+                              "timestamp": "Sun Apr 20 09:58:51 +0000 2014", 
+                              "tree_size": 3, 
+                              "tweet": ".@Art_Li @TimothyJMoore I understand Art. However, this is scurrilous and a real affront to those in need in the UK.", 
+                              "uid": 213038249, 
+                              "user": 9, 
+                              "user_score": 0.6365141682948128, 
+                              "users": {
+                                "0": 1, 
+                                "9": 2
+                              }
+                            }
+                          ], 
+                          "entropy_score": 0.7403128337101822, 
+                          "favourites": 0, 
+                          "follower": true, 
+                          "id": 457820135068553216, 
+                          "reply": true, 
+                          "timestamp": "Sun Apr 20 09:56:40 +0000 2014", 
+                          "tree_size": 6, 
+                          "tweet": "@timothyjmoore I was merely asking the question, I wish I had the solution off the top of my head. @krustyallslopp", 
+                          "uid": 128384950, 
+                          "user": 0, 
+                          "user_score": 1.0114042647073518, 
+                          "users": {
+                            "0": 2, 
+                            "8": 1, 
+                            "9": 3
+                          }
+                        }
+                      ], 
+                      "entropy_score": 12.849659825940032, 
+                      "favourites": 0, 
+                      "follower": true, 
+                      "id": 457819459085172736, 
+                      "reply": true, 
+                      "timestamp": "Sun Apr 20 09:53:59 +0000 2014", 
+                      "tree_size": 91, 
+                      "tweet": "@Art_Li @KrustyAllslopp Such as? I don't expect food banks to waste time investigating referrals. I doubt the MoS has told the whole story.", 
+                      "uid": 114549141, 
+                      "user": 8, 
+                      "user_score": 1.8306293844079236, 
+                      "users": {
+                        "0": 9, 
+                        "11": 1, 
+                        "13": 6, 
+                        "17": 1, 
+                        "18": 1, 
+                        "19": 2, 
+                        "2": 15, 
+                        "20": 4, 
+                        "21": 4, 
+                        "22": 1, 
+                        "23": 1, 
+                        "24": 1, 
+                        "8": 3, 
+                        "9": 42
+                      }
+                    }
+                  ], 
+                  "entropy_score": 12.849659825940032, 
+                  "favourites": 0, 
+                  "follower": true, 
+                  "id": 457818774457290753, 
+                  "important_users": true, 
+                  "reply": true, 
+                  "timestamp": "Sun Apr 20 09:51:16 +0000 2014", 
+                  "tree_size": 92, 
+                  "tweet": "@krustyallslopp It seems that the checks should be strengthened so that those genuinely in need don't lose out to liars @timothyjmoore", 
+                  "uid": 128384950, 
+                  "user": 0, 
+                  "user_score": 1.8353562852465755, 
+                  "users": {
+                    "0": 10, 
+                    "11": 1, 
+                    "13": 6, 
+                    "17": 1, 
+                    "18": 1, 
+                    "19": 2, 
+                    "2": 15, 
+                    "20": 4, 
+                    "21": 4, 
+                    "22": 1, 
+                    "23": 1, 
+                    "24": 1, 
+                    "8": 3, 
+                    "9": 42
+                  }
+                }
+              ], 
+              "entropy_score": 12.979145746039558, 
+              "favourites": 0, 
+              "follower": true, 
+              "id": 457818355068858368, 
+              "important_users": true, 
+              "reply": true, 
+              "timestamp": "Sun Apr 20 09:49:36 +0000 2014", 
+              "tree_size": 95, 
+              "tweet": ".@Art_Li @TimothyJMoore People have starved to death under this Govt &amp; the Mail is sending reporters to 'prove' the lies and spin from DWP?", 
+              "uid": 213038249, 
+              "user": 9, 
+              "user_score": 1.8720656696977265, 
+              "users": {
+                "0": 10, 
+                "11": 1, 
+                "13": 7, 
+                "16": 1, 
+                "17": 1, 
+                "18": 1, 
+                "19": 2, 
+                "2": 15, 
+                "20": 4, 
+                "21": 4, 
+                "22": 1, 
+                "23": 1, 
+                "24": 1, 
+                "8": 3, 
+                "9": 43
+              }
+            }
+          ], 
+          "entropy_score": 18.06465049771661, 
+          "favourites": 1, 
+          "follower": true, 
+          "id": 457817664464113664, 
+          "important_entropy": true, 
+          "important_users": true, 
+          "reply": true, 
+          "timestamp": "Sun Apr 20 09:46:51 +0000 2014", 
+          "tree_size": 120, 
+          "tweet": "@krustyallslopp @TimothyJMoore I agree it's wrong to demonise the poor, but the point was someone apparently got the voucher quite easily.", 
+          "uid": 128384950, 
+          "user": 0, 
+          "user_score": 2.02437781552266, 
+          "users": {
+            "0": 16, 
+            "1": 1, 
+            "11": 1, 
+            "13": 11, 
+            "15": 1, 
+            "16": 1, 
+            "17": 1, 
+            "18": 1, 
+            "19": 2, 
+            "2": 15, 
+            "20": 4, 
+            "21": 4, 
+            "22": 1, 
+            "23": 1, 
+            "24": 1, 
+            "25": 1, 
+            "26": 2, 
+            "8": 6, 
+            "9": 50
+          }
+        }
+      ], 
+      "entropy_score": 19.108204890870116, 
+      "favourites": 0, 
+      "follower": true, 
+      "id": 457816547760025600, 
+      "important_users": true, 
+      "reply": true, 
+      "timestamp": "Sun Apr 20 09:42:25 +0000 2014", 
+      "tree_size": 134, 
+      "tweet": ".@Art_Li Really. The Mail should be ashamed of itself. Now the starving &amp; sanctioned are being made out to be liars. Disgusting disinfo.", 
+      "uid": 213038249, 
+      "user": 9, 
+      "user_score": 2.1260045670436725, 
+      "users": {
+        "0": 16, 
+        "1": 1, 
+        "10": 3, 
+        "11": 3, 
+        "12": 1, 
+        "13": 12, 
+        "14": 1, 
+        "15": 1, 
+        "16": 1, 
+        "17": 1, 
+        "18": 1, 
+        "19": 2, 
+        "2": 15, 
+        "20": 4, 
+        "21": 4, 
+        "22": 1, 
+        "23": 1, 
+        "24": 1, 
+        "25": 1, 
+        "26": 2, 
+        "8": 6, 
+        "9": 56
+      }
+    }
+  ], 
+  "entropy_score": 19.605648251276197, 
+  "favourites": 1, 
+  "id": 457815763043483648, 
+  "important_users": true, 
+  "reply": false, 
+  "timestamp": "Sun Apr 20 09:39:18 +0000 2014", 
+  "total_tweets": 148, 
+  "total_users": 28, 
+  "tree_size": 148, 
+  "tweet": "Does this mean anyone who is prepared to lie can get a food bank voucher? Hmmm.\\n\\nhttp://t.co/BrdINLTPnj", 
+  "uid": 128384950, 
+  "user": 0, 
+  "user_score": 2.3080833309039326, 
+  "users": {
+    "0": 20, 
+    "1": 2, 
+    "10": 3, 
+    "11": 3, 
+    "12": 1, 
+    "13": 12, 
+    "14": 1, 
+    "15": 1, 
+    "16": 1, 
+    "17": 1, 
+    "18": 1, 
+    "19": 2, 
+    "2": 16, 
+    "20": 4, 
+    "21": 4, 
+    "22": 1, 
+    "23": 1, 
+    "24": 1, 
+    "25": 1, 
+    "26": 2, 
+    "27": 1, 
+    "3": 1, 
+    "4": 1, 
+    "5": 1, 
+    "6": 1, 
+    "7": 1, 
+    "8": 8, 
+    "9": 56
+  }
+}

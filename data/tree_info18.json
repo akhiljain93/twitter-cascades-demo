@@ -1,0 +1,1856 @@
+{
+  "children": [
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "entropy_score": 0.0, 
+              "favourites": 0, 
+              "follower": true, 
+              "id": 446634647322386432, 
+              "reply": true, 
+              "timestamp": "Thu Mar 20 13:09:32 +0000 2014", 
+              "tree_size": 1, 
+              "tweet": "@jdmcleodjr Fair enough. My students are K, 5, &amp; 6, &amp; I couldn't be happier w/Common Core thus far. I feel like it teaches \"why\" math works.", 
+              "uid": 1674112028, 
+              "user": 1, 
+              "user_score": 0.0, 
+              "users": {
+                "1": 1
+              }
+            }, 
+            {
+              "entropy_score": 0.0, 
+              "favourites": 0, 
+              "follower": true, 
+              "id": 446634882790608896, 
+              "reply": true, 
+              "timestamp": "Thu Mar 20 13:10:28 +0000 2014", 
+              "tree_size": 1, 
+              "tweet": "@jdmcleodjr Something that frustrated me all through school - I knew facts, didn't get the why behind facts. Rote memorization. :(", 
+              "uid": 1674112028, 
+              "user": 1, 
+              "user_score": 0.0, 
+              "users": {
+                "1": 1
+              }
+            }, 
+            {
+              "entropy_score": 0.0, 
+              "favourites": 0, 
+              "follower": true, 
+              "id": 446635207014486016, 
+              "reply": true, 
+              "timestamp": "Thu Mar 20 13:11:46 +0000 2014", 
+              "tree_size": 1, 
+              "tweet": "@jdmcleodjr Only one of my kids who struggled a bit was 6th grader, but she'd adjusted by 2nd quarter.", 
+              "uid": 1674112028, 
+              "user": 1, 
+              "user_score": 0.0, 
+              "users": {
+                "1": 1
+              }
+            }, 
+            {
+              "entropy_score": 0.0, 
+              "favourites": 0, 
+              "follower": true, 
+              "id": 446636791031148545, 
+              "reply": true, 
+              "timestamp": "Thu Mar 20 13:18:03 +0000 2014", 
+              "tree_size": 1, 
+              "tweet": "@jdmcleodjr I have friends w/kids at other schools who hate CommonCore. Being taught differently? By teachers who don't get it, either? IDK", 
+              "uid": 1674112028, 
+              "user": 1, 
+              "user_score": 0.0, 
+              "users": {
+                "1": 1
+              }
+            }, 
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "entropy_score": 0.0, 
+                      "favourites": 0, 
+                      "follower": true, 
+                      "id": 446640775108255745, 
+                      "reply": true, 
+                      "timestamp": "Thu Mar 20 13:33:53 +0000 2014", 
+                      "tree_size": 1, 
+                      "tweet": "@jdmcleodjr Aha! Now I get you. That's why I asked how it's being taught. My kids' teachers use varied methods to teach CC requirements.", 
+                      "uid": 1674112028, 
+                      "user": 1, 
+                      "user_score": 0.0, 
+                      "users": {
+                        "1": 1
+                      }
+                    }, 
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "entropy_score": 0.0, 
+                              "favourites": 0, 
+                              "follower": true, 
+                              "id": 446641801160851457, 
+                              "reply": true, 
+                              "timestamp": "Thu Mar 20 13:37:58 +0000 2014", 
+                              "tree_size": 1, 
+                              "tweet": "@jdmcleodjr Srsly? I know my K has done a lot, but that's typical for K. More worksheets isn't teaching. D:&lt;", 
+                              "uid": 1674112028, 
+                              "user": 1, 
+                              "user_score": 0.0, 
+                              "users": {
+                                "1": 1
+                              }
+                            }, 
+                            {
+                              "children": [
+                                {
+                                  "entropy_score": 0.0, 
+                                  "favourites": 0, 
+                                  "follower": false, 
+                                  "id": 446643002610839552, 
+                                  "reply": true, 
+                                  "timestamp": "Thu Mar 20 13:42:44 +0000 2014", 
+                                  "tree_size": 1, 
+                                  "tweet": "@jdmcleodjr I know you said you don't want to be \"that\" parent, but worksheets are for reinforcement, not teaching. Teacher cop out!", 
+                                  "uid": 1674112028, 
+                                  "user": 1, 
+                                  "user_score": 0.0, 
+                                  "users": {
+                                    "1": 1
+                                  }
+                                }
+                              ], 
+                              "entropy_score": 0.0, 
+                              "favourites": 1, 
+                              "follower": true, 
+                              "id": 446642021995130880, 
+                              "reply": true, 
+                              "timestamp": "Thu Mar 20 13:38:50 +0000 2014", 
+                              "tree_size": 2, 
+                              "tweet": "@jdmcleodjr No wonder he says he hates school.", 
+                              "uid": 1674112028, 
+                              "user": 1, 
+                              "user_score": 0.0, 
+                              "users": {
+                                "1": 2
+                              }
+                            }
+                          ], 
+                          "entropy_score": 0.7001655851242942, 
+                          "favourites": 0, 
+                          "follower": true, 
+                          "id": 446641413082447872, 
+                          "reply": true, 
+                          "timestamp": "Thu Mar 20 13:36:25 +0000 2014", 
+                          "tree_size": 4, 
+                          "tweet": "@Korrinie mine has done, no kidding 500 worksheets this year.", 
+                          "uid": 14521238, 
+                          "user": 0, 
+                          "user_score": 0.5623351446188083, 
+                          "users": {
+                            "0": 1, 
+                            "1": 3
+                          }
+                        }
+                      ], 
+                      "entropy_score": 0.7001655851242942, 
+                      "favourites": 0, 
+                      "follower": true, 
+                      "id": 446641032940494848, 
+                      "reply": true, 
+                      "timestamp": "Thu Mar 20 13:34:55 +0000 2014", 
+                      "tree_size": 5, 
+                      "tweet": "@jdmcleodjr If students don't get it, they will use another method &amp; explain CC through back door, so to speak.", 
+                      "uid": 1674112028, 
+                      "user": 1, 
+                      "user_score": 0.5004024235381879, 
+                      "users": {
+                        "0": 1, 
+                        "1": 4
+                      }
+                    }
+                  ], 
+                  "entropy_score": 1.1957829148772292, 
+                  "favourites": 0, 
+                  "follower": true, 
+                  "id": 446639027282640896, 
+                  "reply": true, 
+                  "timestamp": "Thu Mar 20 13:26:56 +0000 2014", 
+                  "tree_size": 7, 
+                  "tweet": "@Korrinie i guess more than anything I'm not wild about the the underlying idea that everyone falls into the same system.", 
+                  "uid": 14521238, 
+                  "user": 0, 
+                  "user_score": 0.5982695885852573, 
+                  "users": {
+                    "0": 2, 
+                    "1": 5
+                  }
+                }
+              ], 
+              "entropy_score": 1.1957829148772292, 
+              "favourites": 0, 
+              "follower": true, 
+              "id": 446638609966563328, 
+              "reply": true, 
+              "timestamp": "Thu Mar 20 13:25:17 +0000 2014", 
+              "tree_size": 8, 
+              "tweet": "@jdmcleodjr Not invalidating your experience. Common Core seems to be extremely polarizing. Either it immediately clicks or it's a struggle.", 
+              "uid": 1674112028, 
+              "user": 1, 
+              "user_score": 0.5623351446188083, 
+              "users": {
+                "0": 2, 
+                "1": 6
+              }
+            }
+          ], 
+          "entropy_score": 2.40425643241215, 
+          "favourites": 0, 
+          "follower": true, 
+          "id": 446633596158099456, 
+          "reply": true, 
+          "timestamp": "Thu Mar 20 13:05:22 +0000 2014", 
+          "tree_size": 13, 
+          "tweet": "@Korrinie I'm not sure how to distinguish the two.", 
+          "uid": 14521238, 
+          "user": 0, 
+          "user_score": 0.5402041423888608, 
+          "users": {
+            "0": 3, 
+            "1": 10
+          }
+        }
+      ], 
+      "entropy_score": 2.40425643241215, 
+      "favourites": 0, 
+      "follower": true, 
+      "id": 446633496510226432, 
+      "reply": true, 
+      "timestamp": "Thu Mar 20 13:04:58 +0000 2014", 
+      "tree_size": 14, 
+      "tweet": "@jdmcleodjr Are you upset w/Common Core, or the way it's being implemented @ the school?", 
+      "uid": 1674112028, 
+      "user": 1, 
+      "user_score": 0.5195798391305154, 
+      "users": {
+        "0": 3, 
+        "1": 11
+      }
+    }, 
+    {
+      "children": [
+        {
+          "entropy_score": 0.0, 
+          "favourites": 0, 
+          "follower": true, 
+          "id": 446625980829159424, 
+          "reply": true, 
+          "timestamp": "Thu Mar 20 12:35:06 +0000 2014", 
+          "tree_size": 1, 
+          "tweet": "@kirkjeffery give me a minute. I'm still processing my thoughts.", 
+          "uid": 14521238, 
+          "user": 0, 
+          "user_score": 0.0, 
+          "users": {
+            "0": 1
+          }
+        }, 
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "entropy_score": 0.0, 
+                  "favourites": 0, 
+                  "follower": true, 
+                  "id": 446629243032969216, 
+                  "reply": true, 
+                  "timestamp": "Thu Mar 20 12:48:04 +0000 2014", 
+                  "tree_size": 1, 
+                  "tweet": "@kirkjeffery my son is learning about the war of 1812 in 2nd grade. How in the world can he begin to process that?", 
+                  "uid": 14521238, 
+                  "user": 0, 
+                  "user_score": 0.0, 
+                  "users": {
+                    "0": 1
+                  }
+                }
+              ], 
+              "entropy_score": 0.0, 
+              "favourites": 0, 
+              "follower": true, 
+              "id": 446628944091967489, 
+              "reply": true, 
+              "timestamp": "Thu Mar 20 12:46:52 +0000 2014", 
+              "tree_size": 2, 
+              "tweet": "@jdmcleodjr 8th grade social studies has always been about national indoctrination, so no real difference there.", 
+              "uid": 14832046, 
+              "user": 2, 
+              "user_score": 0.6931471805599453, 
+              "users": {
+                "0": 1, 
+                "2": 1
+              }
+            }
+          ], 
+          "entropy_score": 0.0, 
+          "favourites": 0, 
+          "follower": true, 
+          "id": 446627893180108800, 
+          "reply": true, 
+          "timestamp": "Thu Mar 20 12:42:42 +0000 2014", 
+          "tree_size": 3, 
+          "tweet": "@kirkjeffery mostly I'm concerned about the mathematical system they are using and the manner in which they are teaching war.", 
+          "uid": 14521238, 
+          "user": 0, 
+          "user_score": 0.6365141682948128, 
+          "users": {
+            "0": 2, 
+            "2": 1
+          }
+        }, 
+        {
+          "children": [
+            {
+              "entropy_score": 0.0, 
+              "favourites": 0, 
+              "follower": true, 
+              "id": 446628749597872128, 
+              "reply": true, 
+              "timestamp": "Thu Mar 20 12:46:06 +0000 2014", 
+              "tree_size": 1, 
+              "tweet": "@jdmcleodjr Ok.", 
+              "uid": 14832046, 
+              "user": 2, 
+              "user_score": 0.0, 
+              "users": {
+                "2": 1
+              }
+            }, 
+            {
+              "children": [
+                {
+                  "entropy_score": 0.0, 
+                  "favourites": 0, 
+                  "follower": true, 
+                  "id": 446629451296559104, 
+                  "reply": true, 
+                  "timestamp": "Thu Mar 20 12:48:53 +0000 2014", 
+                  "tree_size": 1, 
+                  "tweet": "@kirkjeffery and he has learned to count on his fingers. That's how they are teaching him. He has regressed substantially this year.", 
+                  "uid": 14521238, 
+                  "user": 0, 
+                  "user_score": 0.0, 
+                  "users": {
+                    "0": 1
+                  }
+                }, 
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "entropy_score": 0.0, 
+                          "favourites": 0, 
+                          "follower": true, 
+                          "id": 446630613978988545, 
+                          "reply": true, 
+                          "timestamp": "Thu Mar 20 12:53:31 +0000 2014", 
+                          "tree_size": 1, 
+                          "tweet": "@kirkjeffery and I'm fine with that. But to me. Outcome is more important than methodology and when you have a kid who gets it, why tell", 
+                          "uid": 14521238, 
+                          "user": 0, 
+                          "user_score": 0.0, 
+                          "users": {
+                            "0": 1
+                          }
+                        }, 
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "children": [
+                                    {
+                                      "children": [
+                                        {
+                                          "entropy_score": 0.0, 
+                                          "favourites": 0, 
+                                          "follower": true, 
+                                          "id": 446632408016642048, 
+                                          "reply": true, 
+                                          "timestamp": "Thu Mar 20 13:00:38 +0000 2014", 
+                                          "tree_size": 1, 
+                                          "tweet": "@kirkjeffery yes! I don't want to be that guy. I told L that this morning.", 
+                                          "uid": 14521238, 
+                                          "user": 0, 
+                                          "user_score": 0.0, 
+                                          "users": {
+                                            "0": 1
+                                          }
+                                        }
+                                      ], 
+                                      "entropy_score": 0.0, 
+                                      "favourites": 0, 
+                                      "follower": true, 
+                                      "id": 446632285253541888, 
+                                      "reply": true, 
+                                      "timestamp": "Thu Mar 20 13:00:09 +0000 2014", 
+                                      "tree_size": 2, 
+                                      "tweet": "@jdmcleodjr Yeah. I'm also frustrated, so much so that I won't talk to the teachers because I come off as the asshole parent.", 
+                                      "uid": 14832046, 
+                                      "user": 2, 
+                                      "user_score": 0.6931471805599453, 
+                                      "users": {
+                                        "0": 1, 
+                                        "2": 1
+                                      }
+                                    }, 
+                                    {
+                                      "entropy_score": 0.0, 
+                                      "favourites": 0, 
+                                      "follower": true, 
+                                      "id": 446632534776881152, 
+                                      "reply": true, 
+                                      "timestamp": "Thu Mar 20 13:01:08 +0000 2014", 
+                                      "tree_size": 1, 
+                                      "tweet": "@jdmcleodjr After my daughter completed and won her science project, we found out that she needed to have it approved by an IRB.", 
+                                      "uid": 14832046, 
+                                      "user": 2, 
+                                      "user_score": 0.0, 
+                                      "users": {
+                                        "2": 1
+                                      }
+                                    }, 
+                                    {
+                                      "children": [
+                                        {
+                                          "children": [
+                                            {
+                                              "children": [
+                                                {
+                                                  "children": [
+                                                    {
+                                                      "entropy_score": 0.0, 
+                                                      "favourites": 0, 
+                                                      "follower": true, 
+                                                      "id": 446633878174724096, 
+                                                      "reply": true, 
+                                                      "timestamp": "Thu Mar 20 13:06:29 +0000 2014", 
+                                                      "tree_size": 1, 
+                                                      "tweet": "@jdmcleodjr pretty much. She setup a perceived sweetness experiment between 2 artificial sweeteners and regular cane sugar.", 
+                                                      "uid": 14832046, 
+                                                      "user": 2, 
+                                                      "user_score": 0.0, 
+                                                      "users": {
+                                                        "2": 1
+                                                      }
+                                                    }
+                                                  ], 
+                                                  "entropy_score": 0.0, 
+                                                  "favourites": 0, 
+                                                  "follower": true, 
+                                                  "id": 446633406512640001, 
+                                                  "reply": true, 
+                                                  "timestamp": "Thu Mar 20 13:04:36 +0000 2014", 
+                                                  "tree_size": 2, 
+                                                  "tweet": "@kirkjeffery \"I acknowledge that I am sipping lemonade of my own accord and can stop anytime I want?\"", 
+                                                  "uid": 14521238, 
+                                                  "user": 0, 
+                                                  "user_score": 0.6931471805599453, 
+                                                  "users": {
+                                                    "0": 1, 
+                                                    "2": 1
+                                                  }
+                                                }
+                                              ], 
+                                              "entropy_score": 0.0, 
+                                              "favourites": 0, 
+                                              "follower": true, 
+                                              "id": 446633150223880193, 
+                                              "reply": true, 
+                                              "timestamp": "Thu Mar 20 13:03:35 +0000 2014", 
+                                              "tree_size": 3, 
+                                              "tweet": "@jdmcleodjr Yeah. She couldn't go to state because we didn't have informed consent by the participants.", 
+                                              "uid": 14832046, 
+                                              "user": 2, 
+                                              "user_score": 0.6365141682948128, 
+                                              "users": {
+                                                "0": 1, 
+                                                "2": 2
+                                              }
+                                            }
+                                          ], 
+                                          "entropy_score": 0.0, 
+                                          "favourites": 0, 
+                                          "follower": true, 
+                                          "id": 446632782018519040, 
+                                          "reply": true, 
+                                          "timestamp": "Thu Mar 20 13:02:07 +0000 2014", 
+                                          "tree_size": 4, 
+                                          "tweet": "@kirkjeffery seriously?", 
+                                          "uid": 14521238, 
+                                          "user": 0, 
+                                          "user_score": 0.6931471805599453, 
+                                          "users": {
+                                            "0": 2, 
+                                            "2": 2
+                                          }
+                                        }
+                                      ], 
+                                      "entropy_score": 0.0, 
+                                      "favourites": 0, 
+                                      "follower": true, 
+                                      "id": 446632654566207488, 
+                                      "reply": true, 
+                                      "timestamp": "Thu Mar 20 13:01:37 +0000 2014", 
+                                      "tree_size": 5, 
+                                      "tweet": "@jdmcleodjr I came off the rails. A fucking IRB for sips of lemon aid.", 
+                                      "uid": 14832046, 
+                                      "user": 2, 
+                                      "user_score": 0.6730116670092565, 
+                                      "users": {
+                                        "0": 2, 
+                                        "2": 3
+                                      }
+                                    }, 
+                                    {
+                                      "entropy_score": 0.0, 
+                                      "favourites": 0, 
+                                      "follower": true, 
+                                      "id": 446632846489169920, 
+                                      "reply": true, 
+                                      "timestamp": "Thu Mar 20 13:02:23 +0000 2014", 
+                                      "tree_size": 1, 
+                                      "tweet": "@jdmcleodjr Oh, and of course, the school district didn't have an IRB setup to run it through.", 
+                                      "uid": 14832046, 
+                                      "user": 2, 
+                                      "user_score": 0.0, 
+                                      "users": {
+                                        "2": 1
+                                      }
+                                    }
+                                  ], 
+                                  "entropy_score": 1.2639656666676824, 
+                                  "favourites": 0, 
+                                  "follower": true, 
+                                  "id": 446631761024274432, 
+                                  "reply": true, 
+                                  "timestamp": "Thu Mar 20 12:58:04 +0000 2014", 
+                                  "tree_size": 10, 
+                                  "tweet": "@kirkjeffery no. It is. I just needed to vent on some of the issues that we are running into.", 
+                                  "uid": 14521238, 
+                                  "user": 0, 
+                                  "user_score": 0.6730116670092565, 
+                                  "users": {
+                                    "0": 4, 
+                                    "2": 6
+                                  }
+                                }
+                              ], 
+                              "entropy_score": 1.2639656666676824, 
+                              "favourites": 0, 
+                              "follower": true, 
+                              "id": 446631501271019520, 
+                              "reply": true, 
+                              "timestamp": "Thu Mar 20 12:57:02 +0000 2014", 
+                              "tree_size": 11, 
+                              "tweet": "@jdmcleodjr I know it's no consolation, but my preschooler hates school this year too. I think her teacher is in the wrong grade level.", 
+                              "uid": 14832046, 
+                              "user": 2, 
+                              "user_score": 0.6554817739013927, 
+                              "users": {
+                                "0": 4, 
+                                "2": 7
+                              }
+                            }
+                          ], 
+                          "entropy_score": 1.2639656666676824, 
+                          "favourites": 0, 
+                          "follower": true, 
+                          "id": 446630648019955712, 
+                          "reply": true, 
+                          "timestamp": "Thu Mar 20 12:53:39 +0000 2014", 
+                          "tree_size": 12, 
+                          "tweet": "@kirkjeffery him he is wrong.", 
+                          "uid": 14521238, 
+                          "user": 0, 
+                          "user_score": 0.6791932659915256, 
+                          "users": {
+                            "0": 5, 
+                            "2": 7
+                          }
+                        }
+                      ], 
+                      "entropy_score": 1.562273977013711, 
+                      "favourites": 0, 
+                      "follower": true, 
+                      "id": 446630310407450624, 
+                      "reply": true, 
+                      "timestamp": "Thu Mar 20 12:52:18 +0000 2014", 
+                      "tree_size": 14, 
+                      "tweet": "@jdmcleodjr So what they are teaching is how to do things in a way that is easier for our minds to comprehend.", 
+                      "uid": 14832046, 
+                      "user": 2, 
+                      "user_score": 0.6829081047004717, 
+                      "users": {
+                        "0": 6, 
+                        "2": 8
+                      }
+                    }, 
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "entropy_score": 0.0, 
+                              "favourites": 1, 
+                              "follower": true, 
+                              "id": 446630580759711744, 
+                              "reply": true, 
+                              "timestamp": "Thu Mar 20 12:53:23 +0000 2014", 
+                              "tree_size": 1, 
+                              "tweet": "@jdmcleodjr I also think blaming a curriculum is a bad choice to place blame. Blame a poorly equipped teacher, blame a political system,", 
+                              "uid": 14832046, 
+                              "user": 2, 
+                              "user_score": 0.0, 
+                              "users": {
+                                "2": 1
+                              }
+                            }, 
+                            {
+                              "children": [
+                                {
+                                  "children": [
+                                    {
+                                      "entropy_score": 0.0, 
+                                      "favourites": 0, 
+                                      "follower": true, 
+                                      "id": 446645720653647872, 
+                                      "reply": true, 
+                                      "timestamp": "Thu Mar 20 13:53:32 +0000 2014", 
+                                      "tree_size": 1, 
+                                      "tweet": "@jdmcleodjr @kirkjeffery the way we encouraged curiosity  and their innate abilities made it frustrating for them.", 
+                                      "uid": 36658502, 
+                                      "user": 5, 
+                                      "user_score": 0.0, 
+                                      "users": {
+                                        "5": 1
+                                      }
+                                    }, 
+                                    {
+                                      "children": [
+                                        {
+                                          "entropy_score": 0.0, 
+                                          "favourites": 0, 
+                                          "follower": true, 
+                                          "id": 446646504799748096, 
+                                          "reply": true, 
+                                          "timestamp": "Thu Mar 20 13:56:39 +0000 2014", 
+                                          "tree_size": 1, 
+                                          "tweet": "@jazzpastord @jdmcleodjr The best teachers will teach according to student ability and learning style regardless of the curriculum.", 
+                                          "uid": 14832046, 
+                                          "user": 2, 
+                                          "user_score": 0.0, 
+                                          "users": {
+                                            "2": 1
+                                          }
+                                        }, 
+                                        {
+                                          "entropy_score": 0.0, 
+                                          "favourites": 0, 
+                                          "follower": true, 
+                                          "id": 446646668276928512, 
+                                          "reply": true, 
+                                          "timestamp": "Thu Mar 20 13:57:18 +0000 2014", 
+                                          "tree_size": 1, 
+                                          "tweet": "@jazzpastord @jdmcleodjr There are always more than one way to get to the answer. One math class Jamie took in college, each student...", 
+                                          "uid": 14832046, 
+                                          "user": 2, 
+                                          "user_score": 0.0, 
+                                          "users": {
+                                            "2": 1
+                                          }
+                                        }, 
+                                        {
+                                          "children": [
+                                            {
+                                              "children": [
+                                                {
+                                                  "children": [
+                                                    {
+                                                      "entropy_score": 0.0, 
+                                                      "favourites": 0, 
+                                                      "follower": true, 
+                                                      "id": 446649080354045952, 
+                                                      "reply": true, 
+                                                      "timestamp": "Thu Mar 20 14:06:53 +0000 2014", 
+                                                      "tree_size": 1, 
+                                                      "tweet": "@kirkjeffery @jdmcleodjr :)", 
+                                                      "uid": 36658502, 
+                                                      "user": 5, 
+                                                      "user_score": 0.0, 
+                                                      "users": {
+                                                        "5": 1
+                                                      }
+                                                    }
+                                                  ], 
+                                                  "entropy_score": 0.0, 
+                                                  "favourites": 0, 
+                                                  "follower": true, 
+                                                  "id": 446647902295687168, 
+                                                  "reply": true, 
+                                                  "timestamp": "Thu Mar 20 14:02:12 +0000 2014", 
+                                                  "tree_size": 2, 
+                                                  "tweet": "@jazzpastord @jdmcleodjr Yes. But what do you think that taught a certain future math teacher?", 
+                                                  "uid": 14832046, 
+                                                  "user": 2, 
+                                                  "user_score": 0.6931471805599453, 
+                                                  "users": {
+                                                    "2": 1, 
+                                                    "5": 1
+                                                  }
+                                                }
+                                              ], 
+                                              "entropy_score": 0.0, 
+                                              "favourites": 0, 
+                                              "follower": true, 
+                                              "id": 446647436354670592, 
+                                              "reply": true, 
+                                              "timestamp": "Thu Mar 20 14:00:21 +0000 2014", 
+                                              "tree_size": 3, 
+                                              "tweet": "@kirkjeffery @jdmcleodjr yeah. College.  Not public high school in the rural Midwest.", 
+                                              "uid": 36658502, 
+                                              "user": 5, 
+                                              "user_score": 0.6365141682948128, 
+                                              "users": {
+                                                "2": 1, 
+                                                "5": 2
+                                              }
+                                            }
+                                          ], 
+                                          "entropy_score": 0.0, 
+                                          "favourites": 0, 
+                                          "follower": true, 
+                                          "id": 446647136671629313, 
+                                          "reply": true, 
+                                          "timestamp": "Thu Mar 20 13:59:10 +0000 2014", 
+                                          "tree_size": 4, 
+                                          "tweet": "@jazzpastord @jdmcleodjr had to solve the pythagorean theorem by a different proof.", 
+                                          "uid": 14832046, 
+                                          "user": 2, 
+                                          "user_score": 0.6931471805599453, 
+                                          "users": {
+                                            "2": 2, 
+                                            "5": 2
+                                          }
+                                        }
+                                      ], 
+                                      "entropy_score": 0.9543195513296074, 
+                                      "favourites": 0, 
+                                      "follower": true, 
+                                      "id": 446646032982474752, 
+                                      "reply": true, 
+                                      "timestamp": "Thu Mar 20 13:54:47 +0000 2014", 
+                                      "tree_size": 7, 
+                                      "tweet": "@jdmcleodjr @kirkjeffery similarly when my dad helped me w/ geometry, I'd get the right answer but fail the proof cuz I had different steps", 
+                                      "uid": 36658502, 
+                                      "user": 5, 
+                                      "user_score": 0.6829081047004717, 
+                                      "users": {
+                                        "2": 4, 
+                                        "5": 3
+                                      }
+                                    }
+                                  ], 
+                                  "entropy_score": 1.3687667287116878, 
+                                  "favourites": 0, 
+                                  "follower": true, 
+                                  "id": 446645136458391553, 
+                                  "reply": true, 
+                                  "timestamp": "Thu Mar 20 13:51:13 +0000 2014", 
+                                  "tree_size": 9, 
+                                  "tweet": "@jazzpastord @kirkjeffery and that may just be where we are at as well. I just don't want him to lose his love of learning.", 
+                                  "uid": 14521238, 
+                                  "user": 0, 
+                                  "user_score": 0.9649629230074277, 
+                                  "users": {
+                                    "0": 1, 
+                                    "2": 4, 
+                                    "5": 4
+                                  }
+                                }
+                              ], 
+                              "entropy_score": 1.3687667287116878, 
+                              "favourites": 0, 
+                              "follower": true, 
+                              "id": 446644830739787776, 
+                              "reply": true, 
+                              "timestamp": "Thu Mar 20 13:50:00 +0000 2014", 
+                              "tree_size": 10, 
+                              "tweet": "@jdmcleodjr @kirkjeffery both of mine would say that and neither was in common core. They hated the rigidity, the mundane repetitious work.", 
+                              "uid": 36658502, 
+                              "user": 5, 
+                              "user_score": 0.9433483923290393, 
+                              "users": {
+                                "0": 1, 
+                                "2": 4, 
+                                "5": 5
+                              }
+                            }, 
+                            {
+                              "entropy_score": 0.0, 
+                              "favourites": 0, 
+                              "follower": true, 
+                              "id": 446645205324668928, 
+                              "reply": true, 
+                              "timestamp": "Thu Mar 20 13:51:29 +0000 2014", 
+                              "tree_size": 1, 
+                              "tweet": "@jdmcleodjr @kirkjeffery I also might look deeper.  Is it possible there's bullying? Or being excluded. Or...? #reasonstohateschool", 
+                              "uid": 36658502, 
+                              "user": 5, 
+                              "user_score": 0.0, 
+                              "users": {
+                                "5": 1
+                              }
+                            }, 
+                            {
+                              "children": [
+                                {
+                                  "children": [
+                                    {
+                                      "entropy_score": 0.0, 
+                                      "favourites": 0, 
+                                      "follower": true, 
+                                      "id": 446646661125644288, 
+                                      "reply": true, 
+                                      "timestamp": "Thu Mar 20 13:57:16 +0000 2014", 
+                                      "tree_size": 1, 
+                                      "tweet": "@jdmcleodjr @kirkjeffery those 2 things alone put him on center stage at an age you only want that if it's something extremely cool", 
+                                      "uid": 36658502, 
+                                      "user": 5, 
+                                      "user_score": 0.0, 
+                                      "users": {
+                                        "5": 1
+                                      }
+                                    }, 
+                                    {
+                                      "children": [
+                                        {
+                                          "entropy_score": 0.0, 
+                                          "favourites": 0, 
+                                          "follower": true, 
+                                          "id": 446647512271552512, 
+                                          "reply": true, 
+                                          "timestamp": "Thu Mar 20 14:00:39 +0000 2014", 
+                                          "tree_size": 1, 
+                                          "tweet": "@jazzpastord it really is cool.  It both sucks and we are looking for solutions.", 
+                                          "uid": 14521238, 
+                                          "user": 0, 
+                                          "user_score": 0.0, 
+                                          "users": {
+                                            "0": 1
+                                          }
+                                        }
+                                      ], 
+                                      "entropy_score": 0.0, 
+                                      "favourites": 0, 
+                                      "follower": true, 
+                                      "id": 446647231160913920, 
+                                      "reply": true, 
+                                      "timestamp": "Thu Mar 20 13:59:32 +0000 2014", 
+                                      "tree_size": 2, 
+                                      "tweet": "@jdmcleodjr As your friend, I simply should have said: that sucks! I'm sorry you guys are having a rough go. #bettybuttinski", 
+                                      "uid": 36658502, 
+                                      "user": 5, 
+                                      "user_score": 0.6931471805599453, 
+                                      "users": {
+                                        "0": 1, 
+                                        "5": 1
+                                      }
+                                    }
+                                  ], 
+                                  "entropy_score": 0.7001655851242942, 
+                                  "favourites": 0, 
+                                  "follower": true, 
+                                  "id": 446645955161387008, 
+                                  "reply": true, 
+                                  "timestamp": "Thu Mar 20 13:54:28 +0000 2014", 
+                                  "tree_size": 4, 
+                                  "tweet": "@jazzpastord @kirkjeffery no. It's cool. We talk about those things and right now he is the kid with the wheelchair and walker so...", 
+                                  "uid": 14521238, 
+                                  "user": 0, 
+                                  "user_score": 0.6931471805599453, 
+                                  "users": {
+                                    "0": 2, 
+                                    "5": 2
+                                  }
+                                }
+                              ], 
+                              "entropy_score": 0.7001655851242942, 
+                              "favourites": 0, 
+                              "follower": true, 
+                              "id": 446645302842236929, 
+                              "reply": true, 
+                              "timestamp": "Thu Mar 20 13:51:53 +0000 2014", 
+                              "tree_size": 5, 
+                              "tweet": "@jdmcleodjr @kirkjeffery sorry to butt in.  #bettybuttinski", 
+                              "uid": 36658502, 
+                              "user": 5, 
+                              "user_score": 0.6730116670092565, 
+                              "users": {
+                                "0": 2, 
+                                "5": 3
+                              }
+                            }, 
+                            {
+                              "children": [
+                                {
+                                  "entropy_score": 0.0, 
+                                  "favourites": 0, 
+                                  "follower": true, 
+                                  "id": 446630957026533376, 
+                                  "reply": true, 
+                                  "timestamp": "Thu Mar 20 12:54:52 +0000 2014", 
+                                  "tree_size": 1, 
+                                  "tweet": "@kirkjeffery I can hear that. But at least in part, mandatory curriculum creates disgruntled teachers and that creates dysfunctional systems", 
+                                  "uid": 14521238, 
+                                  "user": 0, 
+                                  "user_score": 0.0, 
+                                  "users": {
+                                    "0": 1
+                                  }
+                                }, 
+                                {
+                                  "entropy_score": 0.0, 
+                                  "favourites": 0, 
+                                  "follower": true, 
+                                  "id": 446631223398383616, 
+                                  "reply": true, 
+                                  "timestamp": "Thu Mar 20 12:55:56 +0000 2014", 
+                                  "tree_size": 1, 
+                                  "tweet": "@kirkjeffery you and Jamie know much more of the systemic stuff. I'm just reflecting on the experience of a parent struggling to keep the", 
+                                  "uid": 14521238, 
+                                  "user": 0, 
+                                  "user_score": 0.0, 
+                                  "users": {
+                                    "0": 1
+                                  }
+                                }, 
+                                {
+                                  "children": [
+                                    {
+                                      "entropy_score": 0.0, 
+                                      "favourites": 0, 
+                                      "follower": true, 
+                                      "id": 446631737087373313, 
+                                      "reply": true, 
+                                      "timestamp": "Thu Mar 20 12:57:58 +0000 2014", 
+                                      "tree_size": 1, 
+                                      "tweet": "@jdmcleodjr Yeah. My 10yr old exceptionally gifted struggles too. School is hard.", 
+                                      "uid": 14832046, 
+                                      "user": 2, 
+                                      "user_score": 0.0, 
+                                      "users": {
+                                        "2": 1
+                                      }
+                                    }, 
+                                    {
+                                      "entropy_score": 0.0, 
+                                      "favourites": 1, 
+                                      "follower": true, 
+                                      "id": 446644604059025408, 
+                                      "reply": true, 
+                                      "timestamp": "Thu Mar 20 13:49:06 +0000 2014", 
+                                      "tree_size": 1, 
+                                      "tweet": "@jdmcleodjr @kirkjeffery that has been incredibly hard for both our kids. I think it's because we are openly and naturally learning at home.", 
+                                      "uid": 36658502, 
+                                      "user": 5, 
+                                      "user_score": 0.0, 
+                                      "users": {
+                                        "5": 1
+                                      }
+                                    }
+                                  ], 
+                                  "entropy_score": 0.7624618986159398, 
+                                  "favourites": 0, 
+                                  "follower": true, 
+                                  "id": 446631274187218944, 
+                                  "reply": true, 
+                                  "timestamp": "Thu Mar 20 12:56:08 +0000 2014", 
+                                  "tree_size": 3, 
+                                  "tweet": "@kirkjeffery light of learning lit in my kid.", 
+                                  "uid": 14521238, 
+                                  "user": 0, 
+                                  "user_score": 1.0986122886681096, 
+                                  "users": {
+                                    "0": 1, 
+                                    "2": 1, 
+                                    "5": 1
+                                  }
+                                }, 
+                                {
+                                  "children": [
+                                    {
+                                      "entropy_score": 0.0, 
+                                      "favourites": 0, 
+                                      "follower": true, 
+                                      "id": 446635497033830400, 
+                                      "reply": true, 
+                                      "timestamp": "Thu Mar 20 13:12:55 +0000 2014", 
+                                      "tree_size": 1, 
+                                      "tweet": "@jdmcleodjr @kirkjeffery Ouch.  O.o", 
+                                      "uid": 1674112028, 
+                                      "user": 1, 
+                                      "user_score": 0.0, 
+                                      "users": {
+                                        "1": 1
+                                      }
+                                    }
+                                  ], 
+                                  "entropy_score": 0.0, 
+                                  "favourites": 1, 
+                                  "follower": true, 
+                                  "id": 446632121675681793, 
+                                  "reply": true, 
+                                  "timestamp": "Thu Mar 20 12:59:30 +0000 2014", 
+                                  "tree_size": 2, 
+                                  "tweet": "@kirkjeffery believe me. I take no pleasure in finding myself on the same side of an issue as Glenn Beck.", 
+                                  "uid": 14521238, 
+                                  "user": 0, 
+                                  "user_score": 0.6931471805599453, 
+                                  "users": {
+                                    "0": 1, 
+                                    "1": 1
+                                  }
+                                }
+                              ], 
+                              "entropy_score": 2.167199584028693, 
+                              "favourites": 0, 
+                              "follower": true, 
+                              "id": 446630708681789441, 
+                              "important_entropy": true, 
+                              "important_users": true, 
+                              "reply": true, 
+                              "timestamp": "Thu Mar 20 12:53:53 +0000 2014", 
+                              "tree_size": 8, 
+                              "tweet": "@jdmcleodjr But to blame a curriculum, well, that seems...", 
+                              "uid": 14832046, 
+                              "user": 2, 
+                              "user_score": 1.2130075659799042, 
+                              "users": {
+                                "0": 4, 
+                                "1": 1, 
+                                "2": 2, 
+                                "5": 1
+                              }
+                            }
+                          ], 
+                          "entropy_score": 5.677718100895512, 
+                          "favourites": 0, 
+                          "follower": true, 
+                          "id": 446630314131996672, 
+                          "important_entropy": true, 
+                          "reply": true, 
+                          "timestamp": "Thu Mar 20 12:52:19 +0000 2014", 
+                          "tree_size": 26, 
+                          "tweet": "@kirkjeffery I do. But I never remember coming home and saying \"I hate school.\" The taller one does this weekly.", 
+                          "uid": 14521238, 
+                          "user": 0, 
+                          "user_score": 1.2087598339150845, 
+                          "users": {
+                            "0": 8, 
+                            "1": 1, 
+                            "2": 7, 
+                            "5": 10
+                          }
+                        }
+                      ], 
+                      "entropy_score": 5.677718100895512, 
+                      "favourites": 0, 
+                      "follower": true, 
+                      "id": 446630041850368001, 
+                      "important_users": true, 
+                      "reply": true, 
+                      "timestamp": "Thu Mar 20 12:51:14 +0000 2014", 
+                      "tree_size": 27, 
+                      "tweet": "@jdmcleodjr Wait for it. Remember your first year of seminary, which tore down all you thought you knew from Sunday School.", 
+                      "uid": 14832046, 
+                      "user": 2, 
+                      "user_score": 1.2107659179740389, 
+                      "users": {
+                        "0": 8, 
+                        "1": 1, 
+                        "2": 8, 
+                        "5": 10
+                      }
+                    }
+                  ], 
+                  "entropy_score": 7.946193600152167, 
+                  "favourites": 0, 
+                  "follower": true, 
+                  "id": 446629639973138432, 
+                  "important_entropy": true, 
+                  "reply": true, 
+                  "timestamp": "Thu Mar 20 12:49:38 +0000 2014", 
+                  "tree_size": 42, 
+                  "tweet": "@kirkjeffery last year at home he was starting to learn times tables. This year he can't tell you what 14-7 is without a 5 step equation.", 
+                  "uid": 14521238, 
+                  "user": 0, 
+                  "user_score": 1.1660500110855085, 
+                  "users": {
+                    "0": 15, 
+                    "1": 1, 
+                    "2": 16, 
+                    "5": 10
+                  }
+                }
+              ], 
+              "entropy_score": 8.067691951492025, 
+              "favourites": 1, 
+              "follower": true, 
+              "id": 446629215694106626, 
+              "reply": true, 
+              "timestamp": "Thu Mar 20 12:47:57 +0000 2014", 
+              "tree_size": 44, 
+              "tweet": "@jdmcleodjr As far as math, well, the method makes a lot more sense in practical, day to day living.", 
+              "uid": 14832046, 
+              "user": 2, 
+              "user_score": 1.158010149037974, 
+              "users": {
+                "0": 16, 
+                "1": 1, 
+                "2": 17, 
+                "5": 10
+              }
+            }, 
+            {
+              "entropy_score": 0.0, 
+              "favourites": 0, 
+              "follower": true, 
+              "id": 446629490882379776, 
+              "reply": true, 
+              "timestamp": "Thu Mar 20 12:49:03 +0000 2014", 
+              "tree_size": 1, 
+              "tweet": "@jdmcleodjr I am always amused (because I can't do it) that Jamie can hand a cashier a hand full of coins, the cashier will look at it,", 
+              "uid": 14832046, 
+              "user": 2, 
+              "user_score": 0.0, 
+              "users": {
+                "2": 1
+              }
+            }, 
+            {
+              "entropy_score": 0.0, 
+              "favourites": 0, 
+              "follower": true, 
+              "id": 446629696881426432, 
+              "reply": true, 
+              "timestamp": "Thu Mar 20 12:49:52 +0000 2014", 
+              "tree_size": 1, 
+              "tweet": "@jdmcleodjr Jamie will look exasperated, and say, \"put it in the machine.\" They will, and she'll get a quarter in change.", 
+              "uid": 14832046, 
+              "user": 2, 
+              "user_score": 0.0, 
+              "users": {
+                "2": 1
+              }
+            }, 
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "entropy_score": 0.0, 
+                                  "favourites": 0, 
+                                  "follower": true, 
+                                  "id": 446654428762763264, 
+                                  "reply": true, 
+                                  "timestamp": "Thu Mar 20 14:28:08 +0000 2014", 
+                                  "tree_size": 1, 
+                                  "tweet": "@theleannem @kirkjeffery @jdmcleodjr as a parent who moved kids a lot, I wish common core had been in place nationally.", 
+                                  "uid": 36658502, 
+                                  "user": 5, 
+                                  "user_score": 0.0, 
+                                  "users": {
+                                    "5": 1
+                                  }
+                                }
+                              ], 
+                              "entropy_score": 0.0, 
+                              "favourites": 0, 
+                              "follower": true, 
+                              "id": 446652127063326721, 
+                              "reply": true, 
+                              "timestamp": "Thu Mar 20 14:19:00 +0000 2014", 
+                              "tree_size": 2, 
+                              "tweet": "@kirkjeffery @jdmcleodjr I believe that common core is another form of it. And, yes, it is based off high stakes testing, and feeds into it,", 
+                              "uid": 396333520, 
+                              "user": 3, 
+                              "user_score": 0.6931471805599453, 
+                              "users": {
+                                "3": 1, 
+                                "5": 1
+                              }
+                            }
+                          ], 
+                          "entropy_score": 0.0, 
+                          "favourites": 0, 
+                          "follower": true, 
+                          "id": 446651402106843138, 
+                          "reply": true, 
+                          "timestamp": "Thu Mar 20 14:16:07 +0000 2014", 
+                          "tree_size": 3, 
+                          "tweet": "@theleannem @jdmcleodjr They aren't already with the standards that have been in place for a generation. That is an invalid argument.", 
+                          "uid": 14832046, 
+                          "user": 2, 
+                          "user_score": 1.0986122886681096, 
+                          "users": {
+                            "2": 1, 
+                            "3": 1, 
+                            "5": 1
+                          }
+                        }
+                      ], 
+                      "entropy_score": 0.0, 
+                      "favourites": 1, 
+                      "follower": true, 
+                      "id": 446651127384514560, 
+                      "reply": true, 
+                      "timestamp": "Thu Mar 20 14:15:01 +0000 2014", 
+                      "tree_size": 4, 
+                      "tweet": "@kirkjeffery @jdmcleodjr yup. common core feeds into the standardized testing, though. Doesn't allow teacher to go off script.", 
+                      "uid": 396333520, 
+                      "user": 3, 
+                      "user_score": 1.0397207708399179, 
+                      "users": {
+                        "2": 1, 
+                        "3": 2, 
+                        "5": 1
+                      }
+                    }
+                  ], 
+                  "entropy_score": 0.0, 
+                  "favourites": 0, 
+                  "follower": true, 
+                  "id": 446650571575939072, 
+                  "reply": true, 
+                  "timestamp": "Thu Mar 20 14:12:49 +0000 2014", 
+                  "tree_size": 5, 
+                  "tweet": "@theleannem @jdmcleodjr Every single teacher I know hates standardized testing. Every. One. They know who gets it and who doesn't.", 
+                  "uid": 14832046, 
+                  "user": 2, 
+                  "user_score": 1.0549201679861442, 
+                  "users": {
+                    "2": 2, 
+                    "3": 2, 
+                    "5": 1
+                  }
+                }, 
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "children": [
+                                    {
+                                      "children": [
+                                        {
+                                          "entropy_score": 0.0, 
+                                          "favourites": 0, 
+                                          "follower": true, 
+                                          "id": 446656170166476800, 
+                                          "reply": true, 
+                                          "timestamp": "Thu Mar 20 14:35:04 +0000 2014", 
+                                          "tree_size": 1, 
+                                          "tweet": "@theleannem @kirkjeffery @jdmcleodjr I think you make a strong point.", 
+                                          "uid": 15100817, 
+                                          "user": 4, 
+                                          "user_score": 0.0, 
+                                          "users": {
+                                            "4": 1
+                                          }
+                                        }
+                                      ], 
+                                      "entropy_score": 0.0, 
+                                      "favourites": 0, 
+                                      "follower": true, 
+                                      "id": 446655998594256898, 
+                                      "reply": true, 
+                                      "timestamp": "Thu Mar 20 14:34:23 +0000 2014", 
+                                      "tree_size": 2, 
+                                      "tweet": "@ggbolt16 @kirkjeffery @jdmcleodjr I would argue that this is often because we dont trust teachers. My son can't have a C! He deserves an A!", 
+                                      "uid": 396333520, 
+                                      "user": 3, 
+                                      "user_score": 0.6931471805599453, 
+                                      "users": {
+                                        "3": 1, 
+                                        "4": 1
+                                      }
+                                    }
+                                  ], 
+                                  "entropy_score": 0.0, 
+                                  "favourites": 0, 
+                                  "follower": true, 
+                                  "id": 446652265579831296, 
+                                  "reply": true, 
+                                  "timestamp": "Thu Mar 20 14:19:33 +0000 2014", 
+                                  "tree_size": 3, 
+                                  "tweet": "@theleannem @kirkjeffery @jdmcleodjr I agree with trusting teachers but I've seen top in valedictorians not prepared for college", 
+                                  "uid": 15100817, 
+                                  "user": 4, 
+                                  "user_score": 0.6365141682948128, 
+                                  "users": {
+                                    "3": 1, 
+                                    "4": 2
+                                  }
+                                }
+                              ], 
+                              "entropy_score": 0.0, 
+                              "favourites": 0, 
+                              "follower": false, 
+                              "id": 446651643698769920, 
+                              "reply": true, 
+                              "timestamp": "Thu Mar 20 14:17:04 +0000 2014", 
+                              "tree_size": 4, 
+                              "tweet": "@ggbolt16 @kirkjeffery @jdmcleodjr they are professionals. Let them act like it. And treat them like it.", 
+                              "uid": 396333520, 
+                              "user": 3, 
+                              "user_score": 0.6931471805599453, 
+                              "users": {
+                                "3": 2, 
+                                "4": 2
+                              }
+                            }
+                          ], 
+                          "entropy_score": 0.0, 
+                          "favourites": 0, 
+                          "follower": true, 
+                          "id": 446651557996556289, 
+                          "reply": true, 
+                          "timestamp": "Thu Mar 20 14:16:44 +0000 2014", 
+                          "tree_size": 5, 
+                          "tweet": "@ggbolt16 @kirkjeffery @jdmcleodjr don't focus on the big scale...trust your local teachers to determine how best to serve the kids,", 
+                          "uid": 396333520, 
+                          "user": 3, 
+                          "user_score": 0.6730116670092565, 
+                          "users": {
+                            "3": 3, 
+                            "4": 2
+                          }
+                        }, 
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "children": [
+                                    {
+                                      "children": [
+                                        {
+                                          "entropy_score": 0.0, 
+                                          "favourites": 0, 
+                                          "follower": false, 
+                                          "id": 446655384208408577, 
+                                          "reply": true, 
+                                          "timestamp": "Thu Mar 20 14:31:56 +0000 2014", 
+                                          "tree_size": 1, 
+                                          "tweet": "@ggbolt16 @theleannem @kirkjeffery @jdmcleodjr that's not to say there aren't legitimate concerns and need for IEPs", 
+                                          "uid": 15100817, 
+                                          "user": 4, 
+                                          "user_score": 0.0, 
+                                          "users": {
+                                            "4": 1
+                                          }
+                                        }
+                                      ], 
+                                      "entropy_score": 0.0, 
+                                      "favourites": 0, 
+                                      "follower": true, 
+                                      "id": 446652534560550914, 
+                                      "reply": true, 
+                                      "timestamp": "Thu Mar 20 14:20:37 +0000 2014", 
+                                      "tree_size": 2, 
+                                      "tweet": "@theleannem @kirkjeffery @jdmcleodjr  Just like we default to common core some default to iep to assuage parents", 
+                                      "uid": 15100817, 
+                                      "user": 4, 
+                                      "user_score": 0.0, 
+                                      "users": {
+                                        "4": 2
+                                      }
+                                    }, 
+                                    {
+                                      "children": [
+                                        {
+                                          "children": [
+                                            {
+                                              "children": [
+                                                {
+                                                  "children": [
+                                                    {
+                                                      "children": [
+                                                        {
+                                                          "children": [
+                                                            {
+                                                              "entropy_score": 0.0, 
+                                                              "favourites": 1, 
+                                                              "follower": true, 
+                                                              "id": 446658910041030656, 
+                                                              "reply": true, 
+                                                              "timestamp": "Thu Mar 20 14:45:57 +0000 2014", 
+                                                              "tree_size": 1, 
+                                                              "tweet": "@theleannem @kirkjeffery @jdmcleodjr is that coupled with more competitive higher cost college and a collapsed economy.", 
+                                                              "uid": 15100817, 
+                                                              "user": 4, 
+                                                              "user_score": 0.0, 
+                                                              "users": {
+                                                                "4": 1
+                                                              }
+                                                            }, 
+                                                            {
+                                                              "children": [
+                                                                {
+                                                                  "children": [
+                                                                    {
+                                                                      "children": [
+                                                                        {
+                                                                          "children": [
+                                                                            {
+                                                                              "children": [
+                                                                                {
+                                                                                  "children": [
+                                                                                    {
+                                                                                      "entropy_score": 0.0, 
+                                                                                      "favourites": 0, 
+                                                                                      "follower": true, 
+                                                                                      "id": 446661938479505408, 
+                                                                                      "reply": true, 
+                                                                                      "timestamp": "Thu Mar 20 14:57:59 +0000 2014", 
+                                                                                      "tree_size": 1, 
+                                                                                      "tweet": "@theleannem @kirkjeffery @jdmcleodjr I believe we have similar biases", 
+                                                                                      "uid": 15100817, 
+                                                                                      "user": 4, 
+                                                                                      "user_score": 0.0, 
+                                                                                      "users": {
+                                                                                        "4": 1
+                                                                                      }
+                                                                                    }
+                                                                                  ], 
+                                                                                  "entropy_score": 0.0, 
+                                                                                  "favourites": 0, 
+                                                                                  "follower": true, 
+                                                                                  "id": 446661712054194176, 
+                                                                                  "reply": true, 
+                                                                                  "timestamp": "Thu Mar 20 14:57:05 +0000 2014", 
+                                                                                  "tree_size": 2, 
+                                                                                  "tweet": "@ggbolt16 @kirkjeffery @jdmcleodjr And also (my bias is showing) a political/social agenda.", 
+                                                                                  "uid": 396333520, 
+                                                                                  "user": 3, 
+                                                                                  "user_score": 0.6931471805599453, 
+                                                                                  "users": {
+                                                                                    "3": 1, 
+                                                                                    "4": 1
+                                                                                  }
+                                                                                }
+                                                                              ], 
+                                                                              "entropy_score": 0.0, 
+                                                                              "favourites": 0, 
+                                                                              "follower": true, 
+                                                                              "id": 446660695833079808, 
+                                                                              "reply": true, 
+                                                                              "timestamp": "Thu Mar 20 14:53:03 +0000 2014", 
+                                                                              "tree_size": 3, 
+                                                                              "tweet": "@theleannem @kirkjeffery @jdmcleodjr I think you're right and those decisions were based on decreased funding to afforded exp teachers", 
+                                                                              "uid": 15100817, 
+                                                                              "user": 4, 
+                                                                              "user_score": 0.6365141682948128, 
+                                                                              "users": {
+                                                                                "3": 1, 
+                                                                                "4": 2
+                                                                              }
+                                                                            }
+                                                                          ], 
+                                                                          "entropy_score": 0.0, 
+                                                                          "favourites": 0, 
+                                                                          "follower": false, 
+                                                                          "id": 446660379922296832, 
+                                                                          "reply": true, 
+                                                                          "timestamp": "Thu Mar 20 14:51:47 +0000 2014", 
+                                                                          "tree_size": 4, 
+                                                                          "tweet": "@ggbolt16 @kirkjeffery @jdmcleodjr ...to push the idea of quantifiable data points of \"success.\"", 
+                                                                          "uid": 396333520, 
+                                                                          "user": 3, 
+                                                                          "user_score": 0.6931471805599453, 
+                                                                          "users": {
+                                                                            "3": 2, 
+                                                                            "4": 2
+                                                                          }
+                                                                        }
+                                                                      ], 
+                                                                      "entropy_score": 0.0, 
+                                                                      "favourites": 0, 
+                                                                      "follower": false, 
+                                                                      "id": 446660170622709760, 
+                                                                      "reply": true, 
+                                                                      "timestamp": "Thu Mar 20 14:50:57 +0000 2014", 
+                                                                      "tree_size": 5, 
+                                                                      "tweet": "@ggbolt16 @kirkjeffery @jdmcleodjr When you have people who only have three weeks of teacher training, it's easy to not trust them and...", 
+                                                                      "uid": 396333520, 
+                                                                      "user": 3, 
+                                                                      "user_score": 0.6730116670092565, 
+                                                                      "users": {
+                                                                        "3": 3, 
+                                                                        "4": 2
+                                                                      }
+                                                                    }
+                                                                  ], 
+                                                                  "entropy_score": 0.0, 
+                                                                  "favourites": 0, 
+                                                                  "follower": true, 
+                                                                  "id": 446659990703439872, 
+                                                                  "reply": true, 
+                                                                  "timestamp": "Thu Mar 20 14:50:14 +0000 2014", 
+                                                                  "tree_size": 6, 
+                                                                  "tweet": "@ggbolt16 @kirkjeffery @jdmcleodjr And the pushing out of experienced, trained teachers in favor of trainees from programs like TfA.", 
+                                                                  "uid": 396333520, 
+                                                                  "user": 3, 
+                                                                  "user_score": 0.6365141682948128, 
+                                                                  "users": {
+                                                                    "3": 4, 
+                                                                    "4": 2
+                                                                  }
+                                                                }
+                                                              ], 
+                                                              "entropy_score": 0.0, 
+                                                              "favourites": 0, 
+                                                              "follower": true, 
+                                                              "id": 446659074344497152, 
+                                                              "reply": true, 
+                                                              "timestamp": "Thu Mar 20 14:46:36 +0000 2014", 
+                                                              "tree_size": 7, 
+                                                              "tweet": "@theleannem @kirkjeffery @jdmcleodjr the margins are smaller. Having to do more (testing) with less (teachers)", 
+                                                              "uid": 15100817, 
+                                                              "user": 4, 
+                                                              "user_score": 0.6829081047004717, 
+                                                              "users": {
+                                                                "3": 4, 
+                                                                "4": 3
+                                                              }
+                                                            }
+                                                          ], 
+                                                          "entropy_score": 0.4144471773820805, 
+                                                          "favourites": 0, 
+                                                          "follower": true, 
+                                                          "id": 446658740214063104, 
+                                                          "reply": true, 
+                                                          "timestamp": "Thu Mar 20 14:45:16 +0000 2014", 
+                                                          "tree_size": 9, 
+                                                          "tweet": "@ggbolt16 @kirkjeffery @jdmcleodjr IMHO, It's gotten worse.", 
+                                                          "uid": 396333520, 
+                                                          "user": 3, 
+                                                          "user_score": 0.6869615765973234, 
+                                                          "users": {
+                                                            "3": 5, 
+                                                            "4": 4
+                                                          }
+                                                        }
+                                                      ], 
+                                                      "entropy_score": 0.4144471773820805, 
+                                                      "favourites": 0, 
+                                                      "follower": true, 
+                                                      "id": 446658605945602048, 
+                                                      "reply": true, 
+                                                      "timestamp": "Thu Mar 20 14:44:44 +0000 2014", 
+                                                      "tree_size": 10, 
+                                                      "tweet": "@kirkjeffery @theleannem @jdmcleodjr yes but what IS the solution. Many were failed before those standardizations", 
+                                                      "uid": 15100817, 
+                                                      "user": 4, 
+                                                      "user_score": 0.6931471805599453, 
+                                                      "users": {
+                                                        "3": 5, 
+                                                        "4": 5
+                                                      }
+                                                    }
+                                                  ], 
+                                                  "entropy_score": 0.4144471773820805, 
+                                                  "favourites": 0, 
+                                                  "follower": true, 
+                                                  "id": 446658431638704129, 
+                                                  "reply": true, 
+                                                  "timestamp": "Thu Mar 20 14:44:03 +0000 2014", 
+                                                  "tree_size": 11, 
+                                                  "tweet": "@ggbolt16 @theleannem @jdmcleodjr Standardized, high stakes test in has not fixed our schools, who, regrettably fail many.", 
+                                                  "uid": 14832046, 
+                                                  "user": 2, 
+                                                  "user_score": 0.9347698978582792, 
+                                                  "users": {
+                                                    "2": 1, 
+                                                    "3": 5, 
+                                                    "4": 5
+                                                  }
+                                                }
+                                              ], 
+                                              "entropy_score": 0.4144471773820805, 
+                                              "favourites": 0, 
+                                              "follower": true, 
+                                              "id": 446657714421108737, 
+                                              "reply": true, 
+                                              "timestamp": "Thu Mar 20 14:41:12 +0000 2014", 
+                                              "tree_size": 12, 
+                                              "tweet": "@theleannem @kirkjeffery @jdmcleodjr it's not an easy fix", 
+                                              "uid": 15100817, 
+                                              "user": 4, 
+                                              "user_score": 0.9184277849930977, 
+                                              "users": {
+                                                "2": 1, 
+                                                "3": 5, 
+                                                "4": 6
+                                              }
+                                            }
+                                          ], 
+                                          "entropy_score": 0.4144471773820805, 
+                                          "favourites": 0, 
+                                          "follower": true, 
+                                          "id": 446657575753621504, 
+                                          "reply": true, 
+                                          "timestamp": "Thu Mar 20 14:40:39 +0000 2014", 
+                                          "tree_size": 13, 
+                                          "tweet": "@ggbolt16 @kirkjeffery @jdmcleodjr precisely. But the \"national standards\" and \"benchmarks\" focus on verifiable data: regurgitated facts.", 
+                                          "uid": 396333520, 
+                                          "user": 3, 
+                                          "user_score": 0.9110175397125628, 
+                                          "users": {
+                                            "2": 1, 
+                                            "3": 6, 
+                                            "4": 6
+                                          }
+                                        }
+                                      ], 
+                                      "entropy_score": 0.4144471773820805, 
+                                      "favourites": 0, 
+                                      "follower": true, 
+                                      "id": 446652889419632640, 
+                                      "reply": true, 
+                                      "timestamp": "Thu Mar 20 14:22:01 +0000 2014", 
+                                      "tree_size": 14, 
+                                      "tweet": "@theleannem @kirkjeffery @jdmcleodjr Ideally I'd like to see more focus on HOW to learn rather than a list of facts. Although facts are good", 
+                                      "uid": 15100817, 
+                                      "user": 4, 
+                                      "user_score": 0.8982053397041498, 
+                                      "users": {
+                                        "2": 1, 
+                                        "3": 6, 
+                                        "4": 7
+                                      }
+                                    }
+                                  ], 
+                                  "entropy_score": 0.828894354764161, 
+                                  "favourites": 0, 
+                                  "follower": true, 
+                                  "id": 446652288162357248, 
+                                  "reply": true, 
+                                  "timestamp": "Thu Mar 20 14:19:38 +0000 2014", 
+                                  "tree_size": 17, 
+                                  "tweet": "@ggbolt16 @kirkjeffery @jdmcleodjr ieps are reserved for those who qualify for special education services.", 
+                                  "uid": 396333520, 
+                                  "user": 3, 
+                                  "user_score": 0.868719682914265, 
+                                  "users": {
+                                    "2": 1, 
+                                    "3": 7, 
+                                    "4": 9
+                                  }
+                                }
+                              ], 
+                              "entropy_score": 0.828894354764161, 
+                              "favourites": 0, 
+                              "follower": true, 
+                              "id": 446651786888101888, 
+                              "reply": true, 
+                              "timestamp": "Thu Mar 20 14:17:39 +0000 2014", 
+                              "tree_size": 18, 
+                              "tweet": "@kirkjeffery @theleannem @jdmcleodjr I'm not a fan of common core but also don't think a million IEPs are the way to go either.", 
+                              "uid": 15100817, 
+                              "user": 4, 
+                              "user_score": 0.8544149816001841, 
+                              "users": {
+                                "2": 1, 
+                                "3": 7, 
+                                "4": 10
+                              }
+                            }
+                          ], 
+                          "entropy_score": 0.828894354764161, 
+                          "favourites": 0, 
+                          "follower": true, 
+                          "id": 446651583502110720, 
+                          "reply": true, 
+                          "timestamp": "Thu Mar 20 14:16:50 +0000 2014", 
+                          "tree_size": 19, 
+                          "tweet": "@ggbolt16 @theleannem @jdmcleodjr You have to trust the teachers.", 
+                          "uid": 14832046, 
+                          "user": 2, 
+                          "user_score": 0.9426749615639384, 
+                          "users": {
+                            "2": 2, 
+                            "3": 7, 
+                            "4": 10
+                          }
+                        }
+                      ], 
+                      "entropy_score": 1.3918084355233113, 
+                      "favourites": 0, 
+                      "follower": true, 
+                      "id": 446651116004970496, 
+                      "reply": true, 
+                      "timestamp": "Thu Mar 20 14:14:59 +0000 2014", 
+                      "tree_size": 25, 
+                      "tweet": "@kirkjeffery @theleannem @jdmcleodjr how do you help individuals achieve needed ed goals on the scale of public schools in USA without it", 
+                      "uid": 15100817, 
+                      "user": 4, 
+                      "user_score": 0.9086163473457878, 
+                      "users": {
+                        "2": 2, 
+                        "3": 10, 
+                        "4": 13
+                      }
+                    }
+                  ], 
+                  "entropy_score": 1.3918084355233113, 
+                  "favourites": 0, 
+                  "follower": true, 
+                  "id": 446650718645022720, 
+                  "reply": true, 
+                  "timestamp": "Thu Mar 20 14:13:24 +0000 2014", 
+                  "tree_size": 26, 
+                  "tweet": "@theleannem @jdmcleodjr they know which students they are effective with and which ones they aren't. They know which kids connect and don't.", 
+                  "uid": 14832046, 
+                  "user": 2, 
+                  "user_score": 0.9632492517543758, 
+                  "users": {
+                    "2": 3, 
+                    "3": 10, 
+                    "4": 13
+                  }
+                }, 
+                {
+                  "entropy_score": 0.0, 
+                  "favourites": 0, 
+                  "follower": true, 
+                  "id": 446650899595677696, 
+                  "reply": true, 
+                  "timestamp": "Thu Mar 20 14:14:07 +0000 2014", 
+                  "tree_size": 1, 
+                  "tweet": "@theleannem @jdmcleodjr They all know which kids have problems at home which impacts their learning. Standardized, high stakes testing is BS", 
+                  "uid": 14832046, 
+                  "user": 2, 
+                  "user_score": 0.0, 
+                  "users": {
+                    "2": 1
+                  }
+                }
+              ], 
+              "entropy_score": 2.0155720065466998, 
+              "favourites": 0, 
+              "follower": true, 
+              "id": 446650257888534528, 
+              "reply": true, 
+              "timestamp": "Thu Mar 20 14:11:34 +0000 2014", 
+              "tree_size": 33, 
+              "tweet": "@jdmcleodjr @kirkjeffery I dislike the idea that children are like products on a line...that they can be product tested by a single standard", 
+              "uid": 396333520, 
+              "user": 3, 
+              "user_score": 1.1498639217886535, 
+              "users": {
+                "2": 6, 
+                "3": 13, 
+                "4": 13, 
+                "5": 1
+              }
+            }
+          ], 
+          "entropy_score": 11.02751822164403, 
+          "favourites": 0, 
+          "follower": true, 
+          "id": 446627996703940608, 
+          "important_entropy": true, 
+          "important_users": true, 
+          "reply": true, 
+          "timestamp": "Thu Mar 20 12:43:07 +0000 2014", 
+          "tree_size": 81, 
+          "tweet": "@kirkjeffery also the cog in the wheel mentality that undergirds it.", 
+          "uid": 14521238, 
+          "user": 0, 
+          "user_score": 1.6050581900761889, 
+          "users": {
+            "0": 17, 
+            "1": 1, 
+            "2": 26, 
+            "3": 13, 
+            "4": 13, 
+            "5": 11
+          }
+        }
+      ], 
+      "entropy_score": 11.265365895149037, 
+      "favourites": 0, 
+      "follower": true, 
+      "id": 446625668189536257, 
+      "important_users": true, 
+      "reply": true, 
+      "timestamp": "Thu Mar 20 12:33:51 +0000 2014", 
+      "tree_size": 86, 
+      "tweet": "@jdmcleodjr Care to expand?", 
+      "uid": 14832046, 
+      "user": 2, 
+      "user_score": 1.5906042375236522, 
+      "users": {
+        "0": 20, 
+        "1": 1, 
+        "2": 28, 
+        "3": 13, 
+        "4": 13, 
+        "5": 11
+      }
+    }
+  ], 
+  "entropy_score": 14.074585812625124, 
+  "favourites": 0, 
+  "id": 446623906149855232, 
+  "important_entropy": true, 
+  "important_users": true, 
+  "reply": false, 
+  "timestamp": "Thu Mar 20 12:26:51 +0000 2014", 
+  "total_tweets": 101, 
+  "total_users": 6, 
+  "tree_size": 101, 
+  "tweet": "#CommonCore is ruining our educational system.", 
+  "uid": 14521238, 
+  "user": 0, 
+  "user_score": 1.719482602925473, 
+  "users": {
+    "0": 24, 
+    "1": 12, 
+    "2": 28, 
+    "3": 13, 
+    "4": 13, 
+    "5": 11
+  }
+}
