@@ -1,0 +1,2090 @@
+{
+  "children": [
+    {
+      "entropy_score": 0.0, 
+      "favourites": 0, 
+      "follower": true, 
+      "id": 451149665296482304, 
+      "reply": false, 
+      "timestamp": "Wed Apr 02 00:10:36 +0000 2014", 
+      "tree_size": 1, 
+      "tweet": "RT @GordonBrianR: I think Lewis is completely backwards on this issue; the market would be *rigged* if price discovery was thwarted, not wh\u2026\n", 
+      "uid": 25443588, 
+      "user": 2, 
+      "user_score": 0.0, 
+      "users": {
+        "2": 1
+      }
+    }, 
+    {
+      "children": [
+        {
+          "entropy_score": 0.0, 
+          "favourites": 0, 
+          "follower": false, 
+          "id": 451151037622013953, 
+          "reply": true, 
+          "timestamp": "Wed Apr 02 00:16:04 +0000 2014", 
+          "tree_size": 1, 
+          "tweet": "@GordonBrianR ...but still is rigged if some class of traders can systematically extract rents from others, purely based on transaction info\n", 
+          "uid": 80693776, 
+          "user": 1, 
+          "user_score": 0.0, 
+          "users": {
+            "1": 1
+          }
+        }
+      ], 
+      "entropy_score": 0.0, 
+      "favourites": 0, 
+      "follower": true, 
+      "id": 451150734856175616, 
+      "reply": true, 
+      "timestamp": "Wed Apr 02 00:14:51 +0000 2014", 
+      "tree_size": 2, 
+      "tweet": "@GordonBrianR Thanks for your thoughts, but I strongly disagree. Possible to have market that appears efficient in price discovery...1/2\n", 
+      "uid": 80693776, 
+      "user": 1, 
+      "user_score": 0.0, 
+      "users": {
+        "1": 2
+      }
+    }, 
+    {
+      "children": [
+        {
+          "entropy_score": 0.0, 
+          "favourites": 0, 
+          "follower": false, 
+          "id": 451152050445754368, 
+          "reply": true, 
+          "timestamp": "Wed Apr 02 00:20:05 +0000 2014", 
+          "tree_size": 1, 
+          "tweet": "@GordonBrianR Studies of markets show that \"price discovery\" v info is only meaningful *on average* over a long timeframe--days, weeks, mos\n", 
+          "uid": 80693776, 
+          "user": 1, 
+          "user_score": 0.0, 
+          "users": {
+            "1": 1
+          }
+        }, 
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "entropy_score": 0.0, 
+                  "favourites": 1, 
+                  "follower": false, 
+                  "id": 451154524762161153, 
+                  "reply": true, 
+                  "timestamp": "Wed Apr 02 00:29:55 +0000 2014", 
+                  "tree_size": 1, 
+                  "tweet": "@GordonBrianR If you haven't seen it already, look at research by @nanexllc. Much detailed evidence on #HFT http://t.co/E1wiFAjhMQ", 
+                  "uid": 80693776, 
+                  "user": 1, 
+                  "user_score": 0.0, 
+                  "users": {
+                    "1": 1
+                  }
+                }, 
+                {
+                  "entropy_score": 0.0, 
+                  "favourites": 0, 
+                  "follower": true, 
+                  "id": 451188659702607872, 
+                  "reply": true, 
+                  "timestamp": "Wed Apr 02 02:45:33 +0000 2014", 
+                  "tree_size": 1, 
+                  "tweet": "@MrMeritology first, thanks for the feedback. There are lot of issues to untangle here I think. Basically, my thinking was inspired by +\n", 
+                  "uid": 343566768, 
+                  "user": 0, 
+                  "user_score": 0.0, 
+                  "users": {
+                    "0": 1
+                  }
+                }, 
+                {
+                  "entropy_score": 0.0, 
+                  "favourites": 0, 
+                  "follower": true, 
+                  "id": 451189479869390849, 
+                  "reply": true, 
+                  "timestamp": "Wed Apr 02 02:48:49 +0000 2014", 
+                  "tree_size": 1, 
+                  "tweet": "@MrMeritology the BATS CEO's reply to the issue, he argues that HFT traders have enabled brokers to substitute algorithmic capital for +\n", 
+                  "uid": 343566768, 
+                  "user": 0, 
+                  "user_score": 0.0, 
+                  "users": {
+                    "0": 1
+                  }
+                }, 
+                {
+                  "entropy_score": 0.0, 
+                  "favourites": 0, 
+                  "follower": true, 
+                  "id": 451189846833254400, 
+                  "reply": true, 
+                  "timestamp": "Wed Apr 02 02:50:16 +0000 2014", 
+                  "tree_size": 1, 
+                  "tweet": "@MrMeritology financial capital in the provision of liquidity to the market. At least on the margin. from this perspective, HFTs comprise +\n", 
+                  "uid": 343566768, 
+                  "user": 0, 
+                  "user_score": 0.0, 
+                  "users": {
+                    "0": 1
+                  }
+                }, 
+                {
+                  "entropy_score": 0.0, 
+                  "favourites": 0, 
+                  "follower": true, 
+                  "id": 451190159036260352, 
+                  "reply": true, 
+                  "timestamp": "Wed Apr 02 02:51:31 +0000 2014", 
+                  "tree_size": 1, 
+                  "tweet": "@MrMeritology part of the brokerage architecture. What is important is the role they play in the market, not the organizational structure.\n", 
+                  "uid": 343566768, 
+                  "user": 0, 
+                  "user_score": 0.0, 
+                  "users": {
+                    "0": 1
+                  }
+                }, 
+                {
+                  "entropy_score": 0.0, 
+                  "favourites": 0, 
+                  "follower": true, 
+                  "id": 451190396173828096, 
+                  "reply": true, 
+                  "timestamp": "Wed Apr 02 02:52:27 +0000 2014", 
+                  "tree_size": 1, 
+                  "tweet": "@MrMeritology after decimalization drove down profits in brokerage, the risk was that less capital would be allocated to market making.\n", 
+                  "uid": 343566768, 
+                  "user": 0, 
+                  "user_score": 0.0, 
+                  "users": {
+                    "0": 1
+                  }
+                }, 
+                {
+                  "entropy_score": 0.0, 
+                  "favourites": 0, 
+                  "follower": true, 
+                  "id": 451190888593514496, 
+                  "reply": true, 
+                  "timestamp": "Wed Apr 02 02:54:25 +0000 2014", 
+                  "tree_size": 1, 
+                  "tweet": "@MrMeritology by driving down spreads, IBs and market makers had less incentive to provide liquidity; exacerbating info inefficiencies.\n", 
+                  "uid": 343566768, 
+                  "user": 0, 
+                  "user_score": 0.0, 
+                  "users": {
+                    "0": 1
+                  }
+                }, 
+                {
+                  "entropy_score": 0.0, 
+                  "favourites": 0, 
+                  "follower": true, 
+                  "id": 451191274800816130, 
+                  "reply": true, 
+                  "timestamp": "Wed Apr 02 02:55:57 +0000 2014", 
+                  "tree_size": 1, 
+                  "tweet": "@MrMeritology into this environment, the HFTs come in and provide additional liquidity while also speeding info transmission about what\n", 
+                  "uid": 343566768, 
+                  "user": 0, 
+                  "user_score": 0.0, 
+                  "users": {
+                    "0": 1
+                  }
+                }, 
+                {
+                  "entropy_score": 0.0, 
+                  "favourites": 0, 
+                  "follower": true, 
+                  "id": 451191835340189696, 
+                  "reply": true, 
+                  "timestamp": "Wed Apr 02 02:58:10 +0000 2014", 
+                  "tree_size": 1, 
+                  "tweet": "@MrMeritology large block traders are doing in the mkt (the scenario outlined by the 60 minutes piece last night). For this, they earn a fee\n", 
+                  "uid": 343566768, 
+                  "user": 0, 
+                  "user_score": 0.0, 
+                  "users": {
+                    "0": 1
+                  }
+                }, 
+                {
+                  "entropy_score": 0.0, 
+                  "favourites": 0, 
+                  "follower": true, 
+                  "id": 451192243928326144, 
+                  "reply": true, 
+                  "timestamp": "Wed Apr 02 02:59:48 +0000 2014", 
+                  "tree_size": 1, 
+                  "tweet": "@MrMeritology that is some sense, from a functional perspective, not too far off from the bid ask spread that mkt makers traditionally earn.\n", 
+                  "uid": 343566768, 
+                  "user": 0, 
+                  "user_score": 0.0, 
+                  "users": {
+                    "0": 1
+                  }
+                }, 
+                {
+                  "entropy_score": 0.0, 
+                  "favourites": 0, 
+                  "follower": true, 
+                  "id": 451193141412892672, 
+                  "reply": true, 
+                  "timestamp": "Wed Apr 02 03:03:22 +0000 2014", 
+                  "tree_size": 1, 
+                  "tweet": "@MrMeritology when a large block trader makes a move in the mkt, that implicitly does contain information, I would argue.\n", 
+                  "uid": 343566768, 
+                  "user": 0, 
+                  "user_score": 0.0, 
+                  "users": {
+                    "0": 1
+                  }
+                }, 
+                {
+                  "entropy_score": 0.0, 
+                  "favourites": 0, 
+                  "follower": true, 
+                  "id": 451193433613279233, 
+                  "reply": true, 
+                  "timestamp": "Wed Apr 02 03:04:32 +0000 2014", 
+                  "tree_size": 1, 
+                  "tweet": "@MrMeritology the HFT qua broker thus earns a fee for the provision of liquidity and for the transmission of 'notice' of this move to the +\n", 
+                  "uid": 343566768, 
+                  "user": 0, 
+                  "user_score": 0.0, 
+                  "users": {
+                    "0": 1
+                  }
+                }, 
+                {
+                  "entropy_score": 0.0, 
+                  "favourites": 0, 
+                  "follower": true, 
+                  "id": 451193810098196480, 
+                  "reply": true, 
+                  "timestamp": "Wed Apr 02 03:06:01 +0000 2014", 
+                  "tree_size": 1, 
+                  "tweet": "@MrMeritology rest of the market. What I would argue is that role provides economic value as seen as part of the brokerage infrastructure.\n", 
+                  "uid": 343566768, 
+                  "user": 0, 
+                  "user_score": 0.0, 
+                  "users": {
+                    "0": 1
+                  }
+                }, 
+                {
+                  "entropy_score": 0.0, 
+                  "favourites": 0, 
+                  "follower": true, 
+                  "id": 451194232792162304, 
+                  "reply": true, 
+                  "timestamp": "Wed Apr 02 03:07:42 +0000 2014", 
+                  "tree_size": 1, 
+                  "tweet": "@MrMeritology the fact that HFT might be independent organizations doesn't really matter much from this perspective. no more so than the +\n", 
+                  "uid": 343566768, 
+                  "user": 0, 
+                  "user_score": 0.0, 
+                  "users": {
+                    "0": 1
+                  }
+                }, 
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "children": [
+                                    {
+                                      "children": [
+                                        {
+                                          "children": [
+                                            {
+                                              "children": [
+                                                {
+                                                  "children": [
+                                                    {
+                                                      "entropy_score": 0.0, 
+                                                      "favourites": 0, 
+                                                      "follower": true, 
+                                                      "id": 451216822608490496, 
+                                                      "reply": true, 
+                                                      "timestamp": "Wed Apr 02 04:37:28 +0000 2014", 
+                                                      "tree_size": 1, 
+                                                      "tweet": "@GordonBrianR OK. I'd call it \"functional\" rather than \"structural\" but I understand your distinction.\n", 
+                                                      "uid": 80693776, 
+                                                      "user": 1, 
+                                                      "user_score": 0.0, 
+                                                      "users": {
+                                                        "1": 1
+                                                      }
+                                                    }
+                                                  ], 
+                                                  "entropy_score": 0.0, 
+                                                  "favourites": 0, 
+                                                  "follower": true, 
+                                                  "id": 451216093663617025, 
+                                                  "reply": true, 
+                                                  "timestamp": "Wed Apr 02 04:34:34 +0000 2014", 
+                                                  "tree_size": 2, 
+                                                  "tweet": "@MrMeritology architectural would be specific algos, institutions, regs, players, etc., while structural is role as sub for mkt maker.\n", 
+                                                  "uid": 343566768, 
+                                                  "user": 0, 
+                                                  "user_score": 0.6931471805599453, 
+                                                  "users": {
+                                                    "0": 1, 
+                                                    "1": 1
+                                                  }
+                                                }
+                                              ], 
+                                              "entropy_score": 0.0, 
+                                              "favourites": 0, 
+                                              "follower": true, 
+                                              "id": 451214020867944448, 
+                                              "reply": true, 
+                                              "timestamp": "Wed Apr 02 04:26:20 +0000 2014", 
+                                              "tree_size": 3, 
+                                              "tweet": "@GordonBrianR I don't understand the distinction in this case between \"architectural\" and \"structural\"\n", 
+                                              "uid": 80693776, 
+                                              "user": 1, 
+                                              "user_score": 0.6365141682948128, 
+                                              "users": {
+                                                "0": 1, 
+                                                "1": 2
+                                              }
+                                            }
+                                          ], 
+                                          "entropy_score": 0.0, 
+                                          "favourites": 0, 
+                                          "follower": true, 
+                                          "id": 451213661831323648, 
+                                          "important_users": true, 
+                                          "reply": true, 
+                                          "timestamp": "Wed Apr 02 04:24:54 +0000 2014", 
+                                          "tree_size": 4, 
+                                          "tweet": "@MrMeritology that is definitely problematic and needs to be addressed. But it's an architectural issue, not necessarily a structural one.\n", 
+                                          "uid": 343566768, 
+                                          "user": 0, 
+                                          "user_score": 0.6931471805599453, 
+                                          "users": {
+                                            "0": 2, 
+                                            "1": 2
+                                          }
+                                        }
+                                      ], 
+                                      "entropy_score": 0.0, 
+                                      "favourites": 0, 
+                                      "follower": true, 
+                                      "id": 451212457948639232, 
+                                      "reply": true, 
+                                      "timestamp": "Wed Apr 02 04:20:07 +0000 2014", 
+                                      "tree_size": 5, 
+                                      "tweet": "@GordonBrianR True, but with todays volume X velocity, liquidity evaporation results in frequent \"flash crashes\" in individual stocks.\n", 
+                                      "uid": 80693776, 
+                                      "user": 1, 
+                                      "user_score": 0.6730116670092565, 
+                                      "users": {
+                                        "0": 2, 
+                                        "1": 3
+                                      }
+                                    }
+                                  ], 
+                                  "entropy_score": 0.0, 
+                                  "favourites": 0, 
+                                  "follower": true, 
+                                  "id": 451211863078883328, 
+                                  "important_users": true, 
+                                  "reply": true, 
+                                  "timestamp": "Wed Apr 02 04:17:45 +0000 2014", 
+                                  "tree_size": 6, 
+                                  "tweet": "@MrMeritology true, but was always the case that qtd price was indicative of the market makers inventory. If you exceed that, it was higher.\n", 
+                                  "uid": 343566768, 
+                                  "user": 0, 
+                                  "user_score": 0.6931471805599453, 
+                                  "users": {
+                                    "0": 3, 
+                                    "1": 3
+                                  }
+                                }, 
+                                {
+                                  "children": [
+                                    {
+                                      "children": [
+                                        {
+                                          "children": [
+                                            {
+                                              "entropy_score": 0.0, 
+                                              "favourites": 0, 
+                                              "follower": true, 
+                                              "id": 451219556539695104, 
+                                              "reply": true, 
+                                              "timestamp": "Wed Apr 02 04:48:20 +0000 2014", 
+                                              "tree_size": 1, 
+                                              "tweet": "@GordonBrianR No, it doesn't signal intentions of traders who hold large inventories overnight &amp; longer. HFTs rule millisecond relm.\n", 
+                                              "uid": 80693776, 
+                                              "user": 1, 
+                                              "user_score": 0.0, 
+                                              "users": {
+                                                "1": 1
+                                              }
+                                            }
+                                          ], 
+                                          "entropy_score": 0.0, 
+                                          "favourites": 0, 
+                                          "follower": true, 
+                                          "id": 451216875741908993, 
+                                          "reply": true, 
+                                          "timestamp": "Wed Apr 02 04:37:41 +0000 2014", 
+                                          "tree_size": 2, 
+                                          "tweet": "@MrMeritology the evaporation of liquidity in these situation is itself a signal about the intentions of large players in the market.\n", 
+                                          "uid": 343566768, 
+                                          "user": 0, 
+                                          "user_score": 0.6931471805599453, 
+                                          "users": {
+                                            "0": 1, 
+                                            "1": 1
+                                          }
+                                        }, 
+                                        {
+                                          "children": [
+                                            {
+                                              "entropy_score": 0.0, 
+                                              "favourites": 0, 
+                                              "follower": true, 
+                                              "id": 451218944880152576, 
+                                              "reply": true, 
+                                              "timestamp": "Wed Apr 02 04:45:54 +0000 2014", 
+                                              "tree_size": 1, 
+                                              "tweet": "@GordonBrianR Hayek's analysis operates on time scale of hours, days, weeks, and months. Not milliseconds.\n", 
+                                              "uid": 80693776, 
+                                              "user": 1, 
+                                              "user_score": 0.0, 
+                                              "users": {
+                                                "1": 1
+                                              }
+                                            }
+                                          ], 
+                                          "entropy_score": 0.0, 
+                                          "favourites": 0, 
+                                          "follower": true, 
+                                          "id": 451217294924840960, 
+                                          "reply": true, 
+                                          "timestamp": "Wed Apr 02 04:39:20 +0000 2014", 
+                                          "tree_size": 2, 
+                                          "tweet": "@MrMeritology to extent that moves reflect idiosyncratic info/judgement, it is useful for it to be incorporated into the price, per Hayek.\n", 
+                                          "uid": 343566768, 
+                                          "user": 0, 
+                                          "user_score": 0.6931471805599453, 
+                                          "users": {
+                                            "0": 1, 
+                                            "1": 1
+                                          }
+                                        }, 
+                                        {
+                                          "children": [
+                                            {
+                                              "children": [
+                                                {
+                                                  "children": [
+                                                    {
+                                                      "entropy_score": 0.0, 
+                                                      "favourites": 0, 
+                                                      "follower": true, 
+                                                      "id": 451220310998519809, 
+                                                      "reply": true, 
+                                                      "timestamp": "Wed Apr 02 04:51:20 +0000 2014", 
+                                                      "tree_size": 1, 
+                                                      "tweet": "@GordonBrianR From what I've read, Game Theory and multi-agent social behavior dominates in millisecond realm.\n", 
+                                                      "uid": 80693776, 
+                                                      "user": 1, 
+                                                      "user_score": 0.0, 
+                                                      "users": {
+                                                        "1": 1
+                                                      }
+                                                    }, 
+                                                    {
+                                                      "children": [
+                                                        {
+                                                          "children": [
+                                                            {
+                                                              "children": [
+                                                                {
+                                                                  "children": [
+                                                                    {
+                                                                      "children": [
+                                                                        {
+                                                                          "children": [
+                                                                            {
+                                                                              "children": [
+                                                                                {
+                                                                                  "children": [
+                                                                                    {
+                                                                                      "entropy_score": 0.0, 
+                                                                                      "favourites": 1, 
+                                                                                      "follower": true, 
+                                                                                      "id": 451231915345866753, 
+                                                                                      "reply": true, 
+                                                                                      "timestamp": "Wed Apr 02 05:37:26 +0000 2014", 
+                                                                                      "tree_size": 1, 
+                                                                                      "tweet": "@GordonBrianR \"liquidity\" concept isn't meaningful if it can evaporate in sub-second realm. Analogy: quantum mechanics vs classical physics\n", 
+                                                                                      "uid": 80693776, 
+                                                                                      "user": 1, 
+                                                                                      "user_score": 0.0, 
+                                                                                      "users": {
+                                                                                        "1": 1
+                                                                                      }
+                                                                                    }, 
+                                                                                    {
+                                                                                      "entropy_score": 0.0, 
+                                                                                      "favourites": 1, 
+                                                                                      "follower": true, 
+                                                                                      "id": 451232953834536960, 
+                                                                                      "reply": true, 
+                                                                                      "timestamp": "Wed Apr 02 05:41:34 +0000 2014", 
+                                                                                      "tree_size": 1, 
+                                                                                      "tweet": "@GordonBrianR \"liquidity\" like is a classical physics state, eg. position &amp; momentum. In quantum physics they are coupled probabilities\n", 
+                                                                                      "uid": 80693776, 
+                                                                                      "user": 1, 
+                                                                                      "user_score": 0.0, 
+                                                                                      "users": {
+                                                                                        "1": 1
+                                                                                      }
+                                                                                    }
+                                                                                  ], 
+                                                                                  "entropy_score": 0.7624618986159398, 
+                                                                                  "favourites": 0, 
+                                                                                  "follower": true, 
+                                                                                  "id": 451229789764861952, 
+                                                                                  "reply": true, 
+                                                                                  "timestamp": "Wed Apr 02 05:28:59 +0000 2014", 
+                                                                                  "tree_size": 3, 
+                                                                                  "tweet": "@MrMeritology that is an interesting analogy. I guess it would hold if HFTs drained liquidity from the market, though, no?\n", 
+                                                                                  "uid": 343566768, 
+                                                                                  "user": 0, 
+                                                                                  "user_score": 0.6365141682948128, 
+                                                                                  "users": {
+                                                                                    "0": 1, 
+                                                                                    "1": 2
+                                                                                  }
+                                                                                }
+                                                                              ], 
+                                                                              "entropy_score": 0.7624618986159398, 
+                                                                              "favourites": 0, 
+                                                                              "follower": true, 
+                                                                              "id": 451228983036612609, 
+                                                                              "reply": true, 
+                                                                              "timestamp": "Wed Apr 02 05:25:47 +0000 2014", 
+                                                                              "tree_size": 4, 
+                                                                              "tweet": "@GordonBrianR Are you familiar with the term \"Denial of Service\" attack? No such attack is possible in exchange market of Smith/Hayak/Walras\n", 
+                                                                              "uid": 80693776, 
+                                                                              "user": 1, 
+                                                                              "user_score": 0.5623351446188083, 
+                                                                              "users": {
+                                                                                "0": 1, 
+                                                                                "1": 3
+                                                                              }
+                                                                            }, 
+                                                                            {
+                                                                              "children": [
+                                                                                {
+                                                                                  "children": [
+                                                                                    {
+                                                                                      "children": [
+                                                                                        {
+                                                                                          "entropy_score": 0.0, 
+                                                                                          "favourites": 0, 
+                                                                                          "follower": true, 
+                                                                                          "id": 451237419233181697, 
+                                                                                          "reply": false, 
+                                                                                          "timestamp": "Wed Apr 02 05:59:19 +0000 2014", 
+                                                                                          "tree_size": 1, 
+                                                                                          "tweet": "RT @MrMeritology: @GordonBrianR There is *no* econ justifucation for \"quote spam\" http://t.co/i5m4h2X4YZ http://t.co/Q43TikTSqB http://t.co\u2026\n", 
+                                                                                          "uid": 343566768, 
+                                                                                          "user": 0, 
+                                                                                          "user_score": 0.0, 
+                                                                                          "users": {
+                                                                                            "0": 1
+                                                                                          }
+                                                                                        }
+                                                                                      ], 
+                                                                                      "entropy_score": 0.0, 
+                                                                                      "favourites": 1, 
+                                                                                      "follower": true, 
+                                                                                      "id": 451235828283351040, 
+                                                                                      "reply": true, 
+                                                                                      "timestamp": "Wed Apr 02 05:52:59 +0000 2014", 
+                                                                                      "tree_size": 2, 
+                                                                                      "tweet": "@GordonBrianR There is *no* econ justifucation for \"quote spam\" http://t.co/i5m4h2X4YZ http://t.co/Q43TikTSqB http://t.co/yPRmT2LO6E\n", 
+                                                                                      "uid": 80693776, 
+                                                                                      "user": 1, 
+                                                                                      "user_score": 0.6931471805599453, 
+                                                                                      "users": {
+                                                                                        "0": 1, 
+                                                                                        "1": 1
+                                                                                      }
+                                                                                    }, 
+                                                                                    {
+                                                                                      "children": [
+                                                                                        {
+                                                                                          "entropy_score": 0.0, 
+                                                                                          "favourites": 0, 
+                                                                                          "follower": true, 
+                                                                                          "id": 451235165121941504, 
+                                                                                          "reply": false, 
+                                                                                          "timestamp": "Wed Apr 02 05:50:21 +0000 2014", 
+                                                                                          "tree_size": 1, 
+                                                                                          "tweet": "RT @MrMeritology: @GordonBrianR You'll find that this pattern of quotes vs trades is the norm in HFT, not the exception. http://t.co/i5m4h2\u2026\n", 
+                                                                                          "uid": 343566768, 
+                                                                                          "user": 0, 
+                                                                                          "user_score": 0.0, 
+                                                                                          "users": {
+                                                                                            "0": 1
+                                                                                          }
+                                                                                        }, 
+                                                                                        {
+                                                                                          "children": [
+                                                                                            {
+                                                                                              "children": [
+                                                                                                {
+                                                                                                  "entropy_score": 0.0, 
+                                                                                                  "favourites": 0, 
+                                                                                                  "follower": false, 
+                                                                                                  "id": 451238098160988161, 
+                                                                                                  "reply": true, 
+                                                                                                  "timestamp": "Wed Apr 02 06:02:00 +0000 2014", 
+                                                                                                  "tree_size": 1, 
+                                                                                                  "tweet": "@GordonBrianR Economic theory of comp. markets doesn't allow for any trader identifying&amp;exploiting any other specific trader.\n", 
+                                                                                                  "uid": 80693776, 
+                                                                                                  "user": 1, 
+                                                                                                  "user_score": 0.0, 
+                                                                                                  "users": {
+                                                                                                    "1": 1
+                                                                                                  }
+                                                                                                }
+                                                                                              ], 
+                                                                                              "entropy_score": 0.0, 
+                                                                                              "favourites": 0, 
+                                                                                              "follower": true, 
+                                                                                              "id": 451236672483504128, 
+                                                                                              "reply": true, 
+                                                                                              "timestamp": "Wed Apr 02 05:56:20 +0000 2014", 
+                                                                                              "tree_size": 2, 
+                                                                                              "tweet": "@GordonBrianR One explanation: HFT algos are predators on other HFTs. http://t.co/yPRmT2LO6E\n", 
+                                                                                              "uid": 80693776, 
+                                                                                              "user": 1, 
+                                                                                              "user_score": 0.0, 
+                                                                                              "users": {
+                                                                                                "1": 2
+                                                                                              }
+                                                                                            }
+                                                                                          ], 
+                                                                                          "entropy_score": 0.0, 
+                                                                                          "favourites": 0, 
+                                                                                          "follower": true, 
+                                                                                          "id": 451235529724395520, 
+                                                                                          "reply": true, 
+                                                                                          "timestamp": "Wed Apr 02 05:51:48 +0000 2014", 
+                                                                                          "tree_size": 3, 
+                                                                                          "tweet": "@MrMeritology really interesting. How is the discrepancy between quotes and trades normally accounted for?\n", 
+                                                                                          "uid": 343566768, 
+                                                                                          "user": 0, 
+                                                                                          "user_score": 0.6365141682948128, 
+                                                                                          "users": {
+                                                                                            "0": 1, 
+                                                                                            "1": 2
+                                                                                          }
+                                                                                        }, 
+                                                                                        {
+                                                                                          "children": [
+                                                                                            {
+                                                                                              "children": [
+                                                                                                {
+                                                                                                  "children": [
+                                                                                                    {
+                                                                                                      "entropy_score": 0.0, 
+                                                                                                      "favourites": 0, 
+                                                                                                      "follower": true, 
+                                                                                                      "id": 451238431213903872, 
+                                                                                                      "reply": true, 
+                                                                                                      "timestamp": "Wed Apr 02 06:03:20 +0000 2014", 
+                                                                                                      "tree_size": 1, 
+                                                                                                      "tweet": "@GordonBrianR yup. good interview. saw it earlier.\n", 
+                                                                                                      "uid": 80693776, 
+                                                                                                      "user": 1, 
+                                                                                                      "user_score": 0.0, 
+                                                                                                      "users": {
+                                                                                                        "1": 1
+                                                                                                      }
+                                                                                                    }, 
+                                                                                                    {
+                                                                                                      "children": [
+                                                                                                        {
+                                                                                                          "entropy_score": 0.0, 
+                                                                                                          "favourites": 0, 
+                                                                                                          "follower": true, 
+                                                                                                          "id": 451368782129135616, 
+                                                                                                          "reply": true, 
+                                                                                                          "timestamp": "Wed Apr 02 14:41:18 +0000 2014", 
+                                                                                                          "tree_size": 1, 
+                                                                                                          "tweet": "@MrMeritology a very good interview. It certainly added to the 60 Minutes piece.\n", 
+                                                                                                          "uid": 343566768, 
+                                                                                                          "user": 0, 
+                                                                                                          "user_score": 0.0, 
+                                                                                                          "users": {
+                                                                                                            "0": 1
+                                                                                                          }
+                                                                                                        }
+                                                                                                      ], 
+                                                                                                      "entropy_score": 0.0, 
+                                                                                                      "favourites": 0, 
+                                                                                                      "follower": true, 
+                                                                                                      "id": 451241227917090817, 
+                                                                                                      "reply": true, 
+                                                                                                      "timestamp": "Wed Apr 02 06:14:27 +0000 2014", 
+                                                                                                      "tree_size": 2, 
+                                                                                                      "tweet": "@GordonBrianR And also on Daily Show, and on Fresh Air (NPR) and everywhere else. Charlie Rose interview is the best, as usual.\n", 
+                                                                                                      "uid": 80693776, 
+                                                                                                      "user": 1, 
+                                                                                                      "user_score": 0.6931471805599453, 
+                                                                                                      "users": {
+                                                                                                        "0": 1, 
+                                                                                                        "1": 1
+                                                                                                      }
+                                                                                                    }, 
+                                                                                                    {
+                                                                                                      "children": [
+                                                                                                        {
+                                                                                                          "entropy_score": 0.0, 
+                                                                                                          "favourites": 0, 
+                                                                                                          "follower": true, 
+                                                                                                          "id": 451369883352068096, 
+                                                                                                          "reply": true, 
+                                                                                                          "timestamp": "Wed Apr 02 14:45:40 +0000 2014", 
+                                                                                                          "tree_size": 1, 
+                                                                                                          "tweet": "@MrMeritology algos may, in fact, be predicting non-HFT informational trades in ways that more quickly transmit info to the mkt, consistent+\n", 
+                                                                                                          "uid": 343566768, 
+                                                                                                          "user": 0, 
+                                                                                                          "user_score": 0.0, 
+                                                                                                          "users": {
+                                                                                                            "0": 1
+                                                                                                          }
+                                                                                                        }
+                                                                                                      ], 
+                                                                                                      "entropy_score": 0.0, 
+                                                                                                      "favourites": 1, 
+                                                                                                      "follower": true, 
+                                                                                                      "id": 451246422856183808, 
+                                                                                                      "reply": true, 
+                                                                                                      "timestamp": "Wed Apr 02 06:35:05 +0000 2014", 
+                                                                                                      "tree_size": 2, 
+                                                                                                      "tweet": "@GordonBrianR https://t.co/L222npMEWj http://t.co/YRj4LOfMsN\n", 
+                                                                                                      "uid": 80693776, 
+                                                                                                      "user": 1, 
+                                                                                                      "user_score": 0.6931471805599453, 
+                                                                                                      "users": {
+                                                                                                        "0": 1, 
+                                                                                                        "1": 1
+                                                                                                      }
+                                                                                                    }
+                                                                                                  ], 
+                                                                                                  "entropy_score": 1.1604121847847586, 
+                                                                                                  "favourites": 0, 
+                                                                                                  "follower": true, 
+                                                                                                  "id": 451238175017406465, 
+                                                                                                  "reply": true, 
+                                                                                                  "timestamp": "Wed Apr 02 06:02:19 +0000 2014", 
+                                                                                                  "tree_size": 6, 
+                                                                                                  "tweet": "@MrMeritology Michael Lewis is on Charlie Rose for the full hour right now.\n", 
+                                                                                                  "uid": 343566768, 
+                                                                                                  "user": 0, 
+                                                                                                  "user_score": 0.6931471805599453, 
+                                                                                                  "users": {
+                                                                                                    "0": 3, 
+                                                                                                    "1": 3
+                                                                                                  }
+                                                                                                }
+                                                                                              ], 
+                                                                                              "entropy_score": 1.1604121847847586, 
+                                                                                              "favourites": 0, 
+                                                                                              "follower": true, 
+                                                                                              "id": 451237142891470848, 
+                                                                                              "reply": true, 
+                                                                                              "timestamp": "Wed Apr 02 05:58:13 +0000 2014", 
+                                                                                              "tree_size": 7, 
+                                                                                              "tweet": "@GordonBrianR HFT insiders don't talk. Everyone employed has very strict non-disclosure terms in contracts. Spokespeople talk liquidity.\n", 
+                                                                                              "uid": 80693776, 
+                                                                                              "user": 1, 
+                                                                                              "user_score": 0.6829081047004717, 
+                                                                                              "users": {
+                                                                                                "0": 3, 
+                                                                                                "1": 4
+                                                                                              }
+                                                                                            }
+                                                                                          ], 
+                                                                                          "entropy_score": 1.1604121847847586, 
+                                                                                          "favourites": 0, 
+                                                                                          "follower": true, 
+                                                                                          "id": 451235897078325248, 
+                                                                                          "reply": true, 
+                                                                                          "timestamp": "Wed Apr 02 05:53:16 +0000 2014", 
+                                                                                          "tree_size": 8, 
+                                                                                          "tweet": "@MrMeritology that is, how do HFT insiders explain it?\n", 
+                                                                                          "uid": 343566768, 
+                                                                                          "user": 0, 
+                                                                                          "user_score": 0.6931471805599453, 
+                                                                                          "users": {
+                                                                                            "0": 4, 
+                                                                                            "1": 4
+                                                                                          }
+                                                                                        }, 
+                                                                                        {
+                                                                                          "children": [
+                                                                                            {
+                                                                                              "children": [
+                                                                                                {
+                                                                                                  "entropy_score": 0.0, 
+                                                                                                  "favourites": 0, 
+                                                                                                  "follower": true, 
+                                                                                                  "id": 451369548176822272, 
+                                                                                                  "reply": true, 
+                                                                                                  "timestamp": "Wed Apr 02 14:44:20 +0000 2014", 
+                                                                                                  "tree_size": 1, 
+                                                                                                  "tweet": "@MrMeritology the Hirschey paper looks very interesting, from a quick skim of the intro, he seems to be saying that anticipatory trading +\n", 
+                                                                                                  "uid": 343566768, 
+                                                                                                  "user": 0, 
+                                                                                                  "user_score": 0.0, 
+                                                                                                  "users": {
+                                                                                                    "0": 1
+                                                                                                  }
+                                                                                                }, 
+                                                                                                {
+                                                                                                  "entropy_score": 0.0, 
+                                                                                                  "favourites": 0, 
+                                                                                                  "follower": true, 
+                                                                                                  "id": 451370268204613632, 
+                                                                                                  "reply": true, 
+                                                                                                  "timestamp": "Wed Apr 02 14:47:12 +0000 2014", 
+                                                                                                  "tree_size": 1, 
+                                                                                                  "tweet": "@MrMeritology with the case I was outlining. That is, that HFTs provide liquidity + aid price discovery to the market at a cost to non-HFT.\n", 
+                                                                                                  "uid": 343566768, 
+                                                                                                  "user": 0, 
+                                                                                                  "user_score": 0.0, 
+                                                                                                  "users": {
+                                                                                                    "0": 1
+                                                                                                  }
+                                                                                                }, 
+                                                                                                {
+                                                                                                  "entropy_score": 0.0, 
+                                                                                                  "favourites": 0, 
+                                                                                                  "follower": true, 
+                                                                                                  "id": 451372204941275136, 
+                                                                                                  "reply": true, 
+                                                                                                  "timestamp": "Wed Apr 02 14:54:54 +0000 2014", 
+                                                                                                  "tree_size": 1, 
+                                                                                                  "tweet": "@MrMeritology what's interesting is idea that as spreads compress, deviations from classic 'pure liquidity' trader returns may be adaptive +\n", 
+                                                                                                  "uid": 343566768, 
+                                                                                                  "user": 0, 
+                                                                                                  "user_score": 0.0, 
+                                                                                                  "users": {
+                                                                                                    "0": 1
+                                                                                                  }
+                                                                                                }, 
+                                                                                                {
+                                                                                                  "entropy_score": 0.0, 
+                                                                                                  "favourites": 0, 
+                                                                                                  "follower": true, 
+                                                                                                  "id": 451372511922364416, 
+                                                                                                  "reply": true, 
+                                                                                                  "timestamp": "Wed Apr 02 14:56:07 +0000 2014", 
+                                                                                                  "tree_size": 1, 
+                                                                                                  "tweet": "@MrMeritology by enabling good returns for provision of capital for liquidity trading in a regime of compressed spreads, ie decimalization.\n", 
+                                                                                                  "uid": 343566768, 
+                                                                                                  "user": 0, 
+                                                                                                  "user_score": 0.0, 
+                                                                                                  "users": {
+                                                                                                    "0": 1
+                                                                                                  }
+                                                                                                }, 
+                                                                                                {
+                                                                                                  "entropy_score": 0.0, 
+                                                                                                  "favourites": 0, 
+                                                                                                  "follower": true, 
+                                                                                                  "id": 451373571609079810, 
+                                                                                                  "reply": true, 
+                                                                                                  "timestamp": "Wed Apr 02 15:00:20 +0000 2014", 
+                                                                                                  "tree_size": 1, 
+                                                                                                  "tweet": "@MrMeritology if this is the case, then maybe it's the Gaussian model of the pure liquidity trader that is ill-specified in the current mkt?\n", 
+                                                                                                  "uid": 343566768, 
+                                                                                                  "user": 0, 
+                                                                                                  "user_score": 0.0, 
+                                                                                                  "users": {
+                                                                                                    "0": 1
+                                                                                                  }
+                                                                                                }
+                                                                                              ], 
+                                                                                              "entropy_score": 1.7703817036775107, 
+                                                                                              "favourites": 0, 
+                                                                                              "follower": true, 
+                                                                                              "id": 451247929546645505, 
+                                                                                              "important_entropy": true, 
+                                                                                              "reply": true, 
+                                                                                              "timestamp": "Wed Apr 02 06:41:04 +0000 2014", 
+                                                                                              "tree_size": 6, 
+                                                                                              "tweet": "@GordonBrianR Sub-second domain of financial markets are the land of Game Theory, not equilibrating economic markets.\n", 
+                                                                                              "uid": 80693776, 
+                                                                                              "user": 1, 
+                                                                                              "user_score": 0.45056120886630463, 
+                                                                                              "users": {
+                                                                                                "0": 5, 
+                                                                                                "1": 1
+                                                                                              }
+                                                                                            }
+                                                                                          ], 
+                                                                                          "entropy_score": 1.7703817036775107, 
+                                                                                          "favourites": 0, 
+                                                                                          "follower": true, 
+                                                                                          "id": 451236040896835584, 
+                                                                                          "reply": true, 
+                                                                                          "timestamp": "Wed Apr 02 05:53:50 +0000 2014", 
+                                                                                          "tree_size": 7, 
+                                                                                          "tweet": "@MrMeritology and how do critics explain what's going on?\n", 
+                                                                                          "uid": 343566768, 
+                                                                                          "user": 0, 
+                                                                                          "user_score": 0.410116318288409, 
+                                                                                          "users": {
+                                                                                            "0": 6, 
+                                                                                            "1": 1
+                                                                                          }
+                                                                                        }
+                                                                                      ], 
+                                                                                      "entropy_score": 4.227149698855184, 
+                                                                                      "favourites": 0, 
+                                                                                      "follower": true, 
+                                                                                      "id": 451234745540554753, 
+                                                                                      "important_entropy": true, 
+                                                                                      "reply": true, 
+                                                                                      "timestamp": "Wed Apr 02 05:48:41 +0000 2014", 
+                                                                                      "tree_size": 20, 
+                                                                                      "tweet": "@GordonBrianR You'll find that this pattern of quotes vs trades is the norm in HFT, not the exception. http://t.co/i5m4h2X4YZ\n", 
+                                                                                      "uid": 80693776, 
+                                                                                      "user": 1, 
+                                                                                      "user_score": 0.6730116670092565, 
+                                                                                      "users": {
+                                                                                        "0": 12, 
+                                                                                        "1": 8
+                                                                                      }
+                                                                                    }
+                                                                                  ], 
+                                                                                  "entropy_score": 4.562249405939346, 
+                                                                                  "favourites": 0, 
+                                                                                  "follower": true, 
+                                                                                  "id": 451232699877822465, 
+                                                                                  "reply": true, 
+                                                                                  "timestamp": "Wed Apr 02 05:40:33 +0000 2014", 
+                                                                                  "tree_size": 23, 
+                                                                                  "tweet": "@MrMeritology huh...that is definitely interesting. How is it explained? Algo gone wild/design flaw vs malicious/weapon?\n", 
+                                                                                  "uid": 343566768, 
+                                                                                  "user": 0, 
+                                                                                  "user_score": 0.6693279632926454, 
+                                                                                  "users": {
+                                                                                    "0": 14, 
+                                                                                    "1": 9
+                                                                                  }
+                                                                                }
+                                                                              ], 
+                                                                              "entropy_score": 4.562249405939346, 
+                                                                              "favourites": 1, 
+                                                                              "follower": true, 
+                                                                              "id": 451229565919059969, 
+                                                                              "reply": true, 
+                                                                              "timestamp": "Wed Apr 02 05:28:06 +0000 2014", 
+                                                                              "tree_size": 24, 
+                                                                              "tweet": "@GordonBrianR Evidence of Denial of Service attack in sub-second realm by HFT algo. http://t.co/h8OdTDwS4n 5.8m quotes, 137 trades in KEY\n", 
+                                                                              "uid": 80693776, 
+                                                                              "user": 1, 
+                                                                              "user_score": 0.6791932659915256, 
+                                                                              "users": {
+                                                                                "0": 14, 
+                                                                                "1": 10
+                                                                              }
+                                                                            }
+                                                                          ], 
+                                                                          "entropy_score": 5.775839254672535, 
+                                                                          "favourites": 0, 
+                                                                          "follower": true, 
+                                                                          "id": 451228208042479618, 
+                                                                          "reply": true, 
+                                                                          "timestamp": "Wed Apr 02 05:22:42 +0000 2014", 
+                                                                          "tree_size": 29, 
+                                                                          "tweet": "@MrMeritology right. As you noted earlier, there are signals indicative of pure liquidity providers vs others.\n", 
+                                                                          "uid": 343566768, 
+                                                                          "user": 0, 
+                                                                          "user_score": 0.6877868229921127, 
+                                                                          "users": {
+                                                                            "0": 16, 
+                                                                            "1": 13
+                                                                          }
+                                                                        }, 
+                                                                        {
+                                                                          "entropy_score": 0.0, 
+                                                                          "favourites": 0, 
+                                                                          "follower": true, 
+                                                                          "id": 451228539728044032, 
+                                                                          "reply": true, 
+                                                                          "timestamp": "Wed Apr 02 05:24:01 +0000 2014", 
+                                                                          "tree_size": 1, 
+                                                                          "tweet": "@MrMeritology the big question, then, is whether or not the population of HFTs is homogenous.\n", 
+                                                                          "uid": 343566768, 
+                                                                          "user": 0, 
+                                                                          "user_score": 0.0, 
+                                                                          "users": {
+                                                                            "0": 1
+                                                                          }
+                                                                        }, 
+                                                                        {
+                                                                          "children": [
+                                                                            {
+                                                                              "children": [
+                                                                                {
+                                                                                  "entropy_score": 0.0, 
+                                                                                  "favourites": 0, 
+                                                                                  "follower": true, 
+                                                                                  "id": 451233214011428864, 
+                                                                                  "reply": true, 
+                                                                                  "timestamp": "Wed Apr 02 05:42:36 +0000 2014", 
+                                                                                  "tree_size": 1, 
+                                                                                  "tweet": "@MrMeritology that is an entirely different story. Almost always out matched by the firms they are supposed to oversee.\n", 
+                                                                                  "uid": 343566768, 
+                                                                                  "user": 0, 
+                                                                                  "user_score": 0.0, 
+                                                                                  "users": {
+                                                                                    "0": 1
+                                                                                  }
+                                                                                }
+                                                                              ], 
+                                                                              "entropy_score": 0.0, 
+                                                                              "favourites": 0, 
+                                                                              "follower": true, 
+                                                                              "id": 451229961697775616, 
+                                                                              "reply": true, 
+                                                                              "timestamp": "Wed Apr 02 05:29:40 +0000 2014", 
+                                                                              "tree_size": 2, 
+                                                                              "tweet": "@GordonBrianR It appears that regulators (SEC) are either complicit or hopelessly outmatched and understaffed. They are AWOL, certainly.\n", 
+                                                                              "uid": 80693776, 
+                                                                              "user": 1, 
+                                                                              "user_score": 0.6931471805599453, 
+                                                                              "users": {
+                                                                                "0": 1, 
+                                                                                "1": 1
+                                                                              }
+                                                                            }, 
+                                                                            {
+                                                                              "entropy_score": 0.0, 
+                                                                              "favourites": 0, 
+                                                                              "follower": true, 
+                                                                              "id": 451230671155892224, 
+                                                                              "reply": true, 
+                                                                              "timestamp": "Wed Apr 02 05:32:30 +0000 2014", 
+                                                                              "tree_size": 1, 
+                                                                              "tweet": "@GordonBrianR If HFTs are providing functional liquidity, then faster access to exchanges should be irrelevant.\n", 
+                                                                              "uid": 80693776, 
+                                                                              "user": 1, 
+                                                                              "user_score": 0.0, 
+                                                                              "users": {
+                                                                                "1": 1
+                                                                              }
+                                                                            }, 
+                                                                            {
+                                                                              "entropy_score": 0.0, 
+                                                                              "favourites": 0, 
+                                                                              "follower": true, 
+                                                                              "id": 451231017068548097, 
+                                                                              "reply": true, 
+                                                                              "timestamp": "Wed Apr 02 05:33:52 +0000 2014", 
+                                                                              "tree_size": 1, 
+                                                                              "tweet": "@GordonBrianR Why do HFTs pay multi-millions for a few milliseconds of speed advantage? B/c they don't make $ on liquidity.\n", 
+                                                                              "uid": 80693776, 
+                                                                              "user": 1, 
+                                                                              "user_score": 0.0, 
+                                                                              "users": {
+                                                                                "1": 1
+                                                                              }
+                                                                            }
+                                                                          ], 
+                                                                          "entropy_score": 1.1436928479239097, 
+                                                                          "favourites": 0, 
+                                                                          "follower": true, 
+                                                                          "id": 451228845312442368, 
+                                                                          "reply": true, 
+                                                                          "timestamp": "Wed Apr 02 05:25:14 +0000 2014", 
+                                                                          "tree_size": 5, 
+                                                                          "tweet": "@MrMeritology can regulators discriminate between functional liquidity providers and predatory HFTs.\n", 
+                                                                          "uid": 343566768, 
+                                                                          "user": 0, 
+                                                                          "user_score": 0.6730116670092565, 
+                                                                          "users": {
+                                                                            "0": 2, 
+                                                                            "1": 3
+                                                                          }
+                                                                        }
+                                                                      ], 
+                                                                      "entropy_score": 7.508453670378913, 
+                                                                      "favourites": 0, 
+                                                                      "follower": true, 
+                                                                      "id": 451227299455582209, 
+                                                                      "important_entropy": true, 
+                                                                      "reply": true, 
+                                                                      "timestamp": "Wed Apr 02 05:19:06 +0000 2014", 
+                                                                      "tree_size": 36, 
+                                                                      "tweet": "@GordonBrianR That would be fine if that's what happened the sub-second scale. But HFT environment is far different world.\n", 
+                                                                      "uid": 80693776, 
+                                                                      "user": 1, 
+                                                                      "user_score": 0.6916031758694977, 
+                                                                      "users": {
+                                                                        "0": 19, 
+                                                                        "1": 17
+                                                                      }
+                                                                    }
+                                                                  ], 
+                                                                  "entropy_score": 7.508453670378913, 
+                                                                  "favourites": 0, 
+                                                                  "follower": true, 
+                                                                  "id": 451226139948625920, 
+                                                                  "reply": true, 
+                                                                  "timestamp": "Wed Apr 02 05:14:29 +0000 2014", 
+                                                                  "tree_size": 37, 
+                                                                  "tweet": "@MrMeritology but the same holds for any bid ask spread. To buy, you pay more than spot price, to sell you get less. Broker makes money.\n", 
+                                                                  "uid": 343566768, 
+                                                                  "user": 0, 
+                                                                  "user_score": 0.689856498589211, 
+                                                                  "users": {
+                                                                    "0": 20, 
+                                                                    "1": 17
+                                                                  }
+                                                                }, 
+                                                                {
+                                                                  "children": [
+                                                                    {
+                                                                      "entropy_score": 0.0, 
+                                                                      "favourites": 0, 
+                                                                      "follower": true, 
+                                                                      "id": 451228189503651840, 
+                                                                      "reply": true, 
+                                                                      "timestamp": "Wed Apr 02 05:22:38 +0000 2014", 
+                                                                      "tree_size": 1, 
+                                                                      "tweet": "@GordonBrianR Yes. But to answer that question requires instantaneous measures of liquidity. Most research uses methods from 2000 &amp; before\n", 
+                                                                      "uid": 80693776, 
+                                                                      "user": 1, 
+                                                                      "user_score": 0.0, 
+                                                                      "users": {
+                                                                        "1": 1
+                                                                      }
+                                                                    }
+                                                                  ], 
+                                                                  "entropy_score": 0.0, 
+                                                                  "favourites": 0, 
+                                                                  "follower": true, 
+                                                                  "id": 451226603654103040, 
+                                                                  "reply": true, 
+                                                                  "timestamp": "Wed Apr 02 05:16:20 +0000 2014", 
+                                                                  "tree_size": 2, 
+                                                                  "tweet": "@MrMeritology is the liquidity in the market now less than the liquidity pre-HFT? Are costs higher? I think that's the first order question.\n", 
+                                                                  "uid": 343566768, 
+                                                                  "user": 0, 
+                                                                  "user_score": 0.6931471805599453, 
+                                                                  "users": {
+                                                                    "0": 1, 
+                                                                    "1": 1
+                                                                  }
+                                                                }
+                                                              ], 
+                                                              "entropy_score": 7.730953972356093, 
+                                                              "favourites": 0, 
+                                                              "follower": true, 
+                                                              "id": 451222814461157379, 
+                                                              "reply": true, 
+                                                              "timestamp": "Wed Apr 02 05:01:16 +0000 2014", 
+                                                              "tree_size": 40, 
+                                                              "tweet": "@GordonBrianR They are \"transaction fees\", but not for reliable liquidity. For any given transaction \u2248 extortion, b/c HFT controls spreads.\n", 
+                                                              "uid": 80693776, 
+                                                              "user": 1, 
+                                                              "user_score": 0.6918966592050799, 
+                                                              "users": {
+                                                                "0": 21, 
+                                                                "1": 19
+                                                              }
+                                                            }
+                                                          ], 
+                                                          "entropy_score": 7.730953972356093, 
+                                                          "favourites": 0, 
+                                                          "follower": true, 
+                                                          "id": 451221417757917184, 
+                                                          "reply": true, 
+                                                          "timestamp": "Wed Apr 02 04:55:43 +0000 2014", 
+                                                          "tree_size": 41, 
+                                                          "tweet": "@MrMeritology if not, then the costs are just transaction fees paid for liquidity, paid to HFT counterparts rather than broker.\n", 
+                                                          "uid": 343566768, 
+                                                          "user": 0, 
+                                                          "user_score": 0.6904678087032025, 
+                                                          "users": {
+                                                            "0": 22, 
+                                                            "1": 19
+                                                          }
+                                                        }, 
+                                                        {
+                                                          "entropy_score": 0.0, 
+                                                          "favourites": 0, 
+                                                          "follower": true, 
+                                                          "id": 451221830204792832, 
+                                                          "reply": true, 
+                                                          "timestamp": "Wed Apr 02 04:57:22 +0000 2014", 
+                                                          "tree_size": 1, 
+                                                          "tweet": "@MrMeritology my suggestion, in this case, is that we have seen an unbundling of brokerage 'functionality'; an architectural transformation.\n", 
+                                                          "uid": 343566768, 
+                                                          "user": 0, 
+                                                          "user_score": 0.0, 
+                                                          "users": {
+                                                            "0": 1
+                                                          }
+                                                        }, 
+                                                        {
+                                                          "children": [
+                                                            {
+                                                              "entropy_score": 0.0, 
+                                                              "favourites": 0, 
+                                                              "follower": true, 
+                                                              "id": 451223219182137344, 
+                                                              "reply": true, 
+                                                              "timestamp": "Wed Apr 02 05:02:53 +0000 2014", 
+                                                              "tree_size": 1, 
+                                                              "tweet": "@GordonBrianR No, I didn't see anything about traders being harmed by the fact that their *intent* was signaled.\n", 
+                                                              "uid": 80693776, 
+                                                              "user": 1, 
+                                                              "user_score": 0.0, 
+                                                              "users": {
+                                                                "1": 1
+                                                              }
+                                                            }, 
+                                                            {
+                                                              "entropy_score": 0.0, 
+                                                              "favourites": 0, 
+                                                              "follower": true, 
+                                                              "id": 451223468286017540, 
+                                                              "reply": true, 
+                                                              "timestamp": "Wed Apr 02 05:03:52 +0000 2014", 
+                                                              "tree_size": 1, 
+                                                              "tweet": "@GordonBrianR What was signaled was the *fact* of their buy/sell order, for the sole benefit of the HFT who could front-run them.\n", 
+                                                              "uid": 80693776, 
+                                                              "user": 1, 
+                                                              "user_score": 0.0, 
+                                                              "users": {
+                                                                "1": 1
+                                                              }
+                                                            }, 
+                                                            {
+                                                              "entropy_score": 0.0, 
+                                                              "favourites": 0, 
+                                                              "follower": true, 
+                                                              "id": 451223680094175232, 
+                                                              "reply": true, 
+                                                              "timestamp": "Wed Apr 02 05:04:43 +0000 2014", 
+                                                              "tree_size": 1, 
+                                                              "tweet": "@GordonBrianR The rest of the market players, who may have bids or asks in the market or may be thinking of trading, have zero info. benefit\n", 
+                                                              "uid": 80693776, 
+                                                              "user": 1, 
+                                                              "user_score": 0.0, 
+                                                              "users": {
+                                                                "1": 1
+                                                              }
+                                                            }
+                                                          ], 
+                                                          "entropy_score": 1.2084735175349208, 
+                                                          "favourites": 0, 
+                                                          "follower": true, 
+                                                          "id": 451222412932046848, 
+                                                          "reply": true, 
+                                                          "timestamp": "Wed Apr 02 04:59:41 +0000 2014", 
+                                                          "tree_size": 4, 
+                                                          "tweet": "@MrMeritology but the story in the 60 minutes episodes was, essentially, that the trader was harmed by their intent being signaled.\n", 
+                                                          "uid": 343566768, 
+                                                          "user": 0, 
+                                                          "user_score": 0.5623351446188083, 
+                                                          "users": {
+                                                            "0": 1, 
+                                                            "1": 3
+                                                          }
+                                                        }, 
+                                                        {
+                                                          "entropy_score": 0.0, 
+                                                          "favourites": 0, 
+                                                          "follower": true, 
+                                                          "id": 451222803186851841, 
+                                                          "reply": true, 
+                                                          "timestamp": "Wed Apr 02 05:01:14 +0000 2014", 
+                                                          "tree_size": 1, 
+                                                          "tweet": "@MrMeritology and in case like that, my point was that *these* costs are offset by other shareholders gains. Up or down, the info content +\n", 
+                                                          "uid": 343566768, 
+                                                          "user": 0, 
+                                                          "user_score": 0.0, 
+                                                          "users": {
+                                                            "0": 1
+                                                          }
+                                                        }, 
+                                                        {
+                                                          "children": [
+                                                            {
+                                                              "entropy_score": 0.0, 
+                                                              "favourites": 0, 
+                                                              "follower": true, 
+                                                              "id": 451224640908582912, 
+                                                              "reply": true, 
+                                                              "timestamp": "Wed Apr 02 05:08:32 +0000 2014", 
+                                                              "tree_size": 1, 
+                                                              "tweet": "@GordonBrianR HFT in no way facilitates the signal to the rest of the market.\n", 
+                                                              "uid": 80693776, 
+                                                              "user": 1, 
+                                                              "user_score": 0.0, 
+                                                              "users": {
+                                                                "1": 1
+                                                              }
+                                                            }
+                                                          ], 
+                                                          "entropy_score": 0.0, 
+                                                          "favourites": 0, 
+                                                          "follower": true, 
+                                                          "id": 451222883214168064, 
+                                                          "reply": true, 
+                                                          "timestamp": "Wed Apr 02 05:01:33 +0000 2014", 
+                                                          "tree_size": 2, 
+                                                          "tweet": "@MrMeritology implicit in the trade is transmitted to the rest of the market.\n", 
+                                                          "uid": 343566768, 
+                                                          "user": 0, 
+                                                          "user_score": 0.6931471805599453, 
+                                                          "users": {
+                                                            "0": 1, 
+                                                            "1": 1
+                                                          }
+                                                        }
+                                                      ], 
+                                                      "entropy_score": 9.646823303638751, 
+                                                      "favourites": 0, 
+                                                      "follower": true, 
+                                                      "id": 451220596622249985, 
+                                                      "important_entropy": true, 
+                                                      "reply": true, 
+                                                      "timestamp": "Wed Apr 02 04:52:28 +0000 2014", 
+                                                      "tree_size": 50, 
+                                                      "tweet": "@GordonBrianR I believe there is no transmission of meaningful/relevant economic information in sub-second realm where HFT operates.\n", 
+                                                      "uid": 80693776, 
+                                                      "user": 1, 
+                                                      "user_score": 0.6923469670899615, 
+                                                      "users": {
+                                                        "0": 26, 
+                                                        "1": 24
+                                                      }
+                                                    }
+                                                  ], 
+                                                  "entropy_score": 9.752983160448293, 
+                                                  "favourites": 0, 
+                                                  "follower": true, 
+                                                  "id": 451219261021638656, 
+                                                  "reply": true, 
+                                                  "timestamp": "Wed Apr 02 04:47:09 +0000 2014", 
+                                                  "tree_size": 52, 
+                                                  "tweet": "@MrMeritology true. But under HFT regime, arguably the transmission is faster. Whether that's in fact beneficial is another question.\n", 
+                                                  "uid": 343566768, 
+                                                  "user": 0, 
+                                                  "user_score": 0.6924073531233138, 
+                                                  "users": {
+                                                    "0": 27, 
+                                                    "1": 25
+                                                  }
+                                                }
+                                              ], 
+                                              "entropy_score": 9.752983160448293, 
+                                              "favourites": 0, 
+                                              "follower": true, 
+                                              "id": 451217526572056576, 
+                                              "reply": true, 
+                                              "timestamp": "Wed Apr 02 04:40:16 +0000 2014", 
+                                              "tree_size": 53, 
+                                              "tweet": "@GordonBrianR Large block \"signal\" would be there without HFT.\n", 
+                                              "uid": 80693776, 
+                                              "user": 1, 
+                                              "user_score": 0.6929691707091894, 
+                                              "users": {
+                                                "0": 27, 
+                                                "1": 26
+                                              }
+                                            }, 
+                                            {
+                                              "entropy_score": 0.0, 
+                                              "favourites": 0, 
+                                              "follower": true, 
+                                              "id": 451218237133291520, 
+                                              "reply": true, 
+                                              "timestamp": "Wed Apr 02 04:43:05 +0000 2014", 
+                                              "tree_size": 1, 
+                                              "tweet": "@GordonBrianR I believe there's a statistical signature of pure liquidity provider: Gaussian distribution of returns w/ mean\u2248bid-ask spread\n", 
+                                              "uid": 80693776, 
+                                              "user": 1, 
+                                              "user_score": 0.0, 
+                                              "users": {
+                                                "1": 1
+                                              }
+                                            }, 
+                                            {
+                                              "children": [
+                                                {
+                                                  "entropy_score": 0.0, 
+                                                  "favourites": 0, 
+                                                  "follower": true, 
+                                                  "id": 451219633832337409, 
+                                                  "reply": true, 
+                                                  "timestamp": "Wed Apr 02 04:48:38 +0000 2014", 
+                                                  "tree_size": 1, 
+                                                  "tweet": "@MrMeritology and that's an interesting question from a regulatory perspective. Some HFTs may be predatory while others beneficial.\n", 
+                                                  "uid": 343566768, 
+                                                  "user": 0, 
+                                                  "user_score": 0.0, 
+                                                  "users": {
+                                                    "0": 1
+                                                  }
+                                                }, 
+                                                {
+                                                  "children": [
+                                                    {
+                                                      "children": [
+                                                        {
+                                                          "children": [
+                                                            {
+                                                              "entropy_score": 0.0, 
+                                                              "favourites": 0, 
+                                                              "follower": true, 
+                                                              "id": 451224823729901568, 
+                                                              "reply": true, 
+                                                              "timestamp": "Wed Apr 02 05:09:15 +0000 2014", 
+                                                              "tree_size": 1, 
+                                                              "tweet": "@GordonBrianR Right. Then we can't evaluate HFT purely on effect on price changes or effect on bid-ask spreads.\n", 
+                                                              "uid": 80693776, 
+                                                              "user": 1, 
+                                                              "user_score": 0.0, 
+                                                              "users": {
+                                                                "1": 1
+                                                              }
+                                                            }, 
+                                                            {
+                                                              "children": [
+                                                                {
+                                                                  "entropy_score": 0.0, 
+                                                                  "favourites": 0, 
+                                                                  "follower": false, 
+                                                                  "id": 451225246083723264, 
+                                                                  "reply": true, 
+                                                                  "timestamp": "Wed Apr 02 05:10:56 +0000 2014", 
+                                                                  "tree_size": 1, 
+                                                                  "tweet": "@GordonBrianR Same logic justifies laws against insider trading.\n", 
+                                                                  "uid": 80693776, 
+                                                                  "user": 1, 
+                                                                  "user_score": 0.0, 
+                                                                  "users": {
+                                                                    "1": 1
+                                                                  }
+                                                                }, 
+                                                                {
+                                                                  "entropy_score": 0.0, 
+                                                                  "favourites": 0, 
+                                                                  "follower": false, 
+                                                                  "id": 451225582206849024, 
+                                                                  "reply": true, 
+                                                                  "timestamp": "Wed Apr 02 05:12:16 +0000 2014", 
+                                                                  "tree_size": 1, 
+                                                                  "tweet": "@GordonBrianR front-running and bid-ask manipulation w/ quote spam are mechanisms for \"systemic advantage\"\n", 
+                                                                  "uid": 80693776, 
+                                                                  "user": 1, 
+                                                                  "user_score": 0.0, 
+                                                                  "users": {
+                                                                    "1": 1
+                                                                  }
+                                                                }
+                                                              ], 
+                                                              "entropy_score": 0.7624618986159398, 
+                                                              "favourites": 0, 
+                                                              "follower": true, 
+                                                              "id": 451225120690819072, 
+                                                              "reply": true, 
+                                                              "timestamp": "Wed Apr 02 05:10:26 +0000 2014", 
+                                                              "tree_size": 3, 
+                                                              "tweet": "@GordonBrianR If one class of traders (HFT) has systematic advantage on another (everyone else)--takes $$ from them--then it's rigged market\n", 
+                                                              "uid": 80693776, 
+                                                              "user": 1, 
+                                                              "user_score": 0.0, 
+                                                              "users": {
+                                                                "1": 3
+                                                              }
+                                                            }
+                                                          ], 
+                                                          "entropy_score": 1.381030557696629, 
+                                                          "favourites": 0, 
+                                                          "follower": true, 
+                                                          "id": 451224109708361728, 
+                                                          "reply": true, 
+                                                          "timestamp": "Wed Apr 02 05:06:25 +0000 2014", 
+                                                          "tree_size": 5, 
+                                                          "tweet": "@MrMeritology If defined by affect on valuation, then the question implies that the answer is no. If no change in price, no harm\n", 
+                                                          "uid": 343566768, 
+                                                          "user": 0, 
+                                                          "user_score": 0.5004024235381879, 
+                                                          "users": {
+                                                            "0": 1, 
+                                                            "1": 4
+                                                          }
+                                                        }, 
+                                                        {
+                                                          "children": [
+                                                            {
+                                                              "entropy_score": 0.0, 
+                                                              "favourites": 0, 
+                                                              "follower": true, 
+                                                              "id": 451226362267705344, 
+                                                              "reply": true, 
+                                                              "timestamp": "Wed Apr 02 05:15:22 +0000 2014", 
+                                                              "tree_size": 1, 
+                                                              "tweet": "@GordonBrianR The good news for HFT analysis is that there is abundant data &amp; analysis thanks to folks like @nanexllc http://t.co/E1wiFAjhMQ\n", 
+                                                              "uid": 80693776, 
+                                                              "user": 1, 
+                                                              "user_score": 0.0, 
+                                                              "users": {
+                                                                "1": 1
+                                                              }
+                                                            }
+                                                          ], 
+                                                          "entropy_score": 0.0, 
+                                                          "favourites": 0, 
+                                                          "follower": true, 
+                                                          "id": 451224595714953216, 
+                                                          "reply": true, 
+                                                          "timestamp": "Wed Apr 02 05:08:21 +0000 2014", 
+                                                          "tree_size": 2, 
+                                                          "tweet": "@MrMeritology undoubtedly not a satisfactory answer. In part, because a priori, no way to tell whether or not any trade will affect price.\n", 
+                                                          "uid": 343566768, 
+                                                          "user": 0, 
+                                                          "user_score": 0.6931471805599453, 
+                                                          "users": {
+                                                            "0": 1, 
+                                                            "1": 1
+                                                          }
+                                                        }
+                                                      ], 
+                                                      "entropy_score": 2.039127105140412, 
+                                                      "favourites": 0, 
+                                                      "follower": true, 
+                                                      "id": 451221142674501632, 
+                                                      "reply": true, 
+                                                      "timestamp": "Wed Apr 02 04:54:38 +0000 2014", 
+                                                      "tree_size": 8, 
+                                                      "tweet": "@GordonBrianR Do corporate \"insiders\" who trade on private information harm regular investors if they aren't large enough to move the price?\n", 
+                                                      "uid": 80693776, 
+                                                      "user": 1, 
+                                                      "user_score": 0.5623351446188083, 
+                                                      "users": {
+                                                        "0": 2, 
+                                                        "1": 6
+                                                      }
+                                                    }
+                                                  ], 
+                                                  "entropy_score": 2.039127105140412, 
+                                                  "favourites": 0, 
+                                                  "follower": true, 
+                                                  "id": 451220133889843200, 
+                                                  "reply": true, 
+                                                  "timestamp": "Wed Apr 02 04:50:37 +0000 2014", 
+                                                  "tree_size": 9, 
+                                                  "tweet": "@MrMeritology but that is different than saying that HFTs have rigged the market and harm 'regular' investors.\n", 
+                                                  "uid": 343566768, 
+                                                  "user": 0, 
+                                                  "user_score": 0.6365141682948128, 
+                                                  "users": {
+                                                    "0": 3, 
+                                                    "1": 6
+                                                  }
+                                                }
+                                              ], 
+                                              "entropy_score": 2.396718375871005, 
+                                              "favourites": 0, 
+                                              "follower": true, 
+                                              "id": 451218555808124928, 
+                                              "reply": true, 
+                                              "timestamp": "Wed Apr 02 04:44:21 +0000 2014", 
+                                              "tree_size": 11, 
+                                              "tweet": "@GordonBrianR I'd guess that HFT returns are NOT Gaussian, but are heavily skewed right, with very large number of transactions.\n", 
+                                              "uid": 80693776, 
+                                              "user": 1, 
+                                              "user_score": 0.6554817739013927, 
+                                              "users": {
+                                                "0": 4, 
+                                                "1": 7
+                                              }
+                                            }
+                                          ], 
+                                          "entropy_score": 12.734103666112976, 
+                                          "favourites": 0, 
+                                          "follower": true, 
+                                          "id": 451216668673339392, 
+                                          "important_entropy": true, 
+                                          "reply": true, 
+                                          "timestamp": "Wed Apr 02 04:36:51 +0000 2014", 
+                                          "tree_size": 66, 
+                                          "tweet": "@MrMeritology right. Price move could be up or down. What is 'gained' by the market is signal that a large block trade is being executed.\n", 
+                                          "uid": 343566768, 
+                                          "user": 0, 
+                                          "user_score": 0.6926879734424749, 
+                                          "users": {
+                                            "0": 32, 
+                                            "1": 34
+                                          }
+                                        }
+                                      ], 
+                                      "entropy_score": 13.018608691430384, 
+                                      "favourites": 0, 
+                                      "follower": true, 
+                                      "id": 451215305432240128, 
+                                      "reply": true, 
+                                      "timestamp": "Wed Apr 02 04:31:26 +0000 2014", 
+                                      "tree_size": 71, 
+                                      "tweet": "@GordonBrianR Collapse in liquidity lasting milliseconds doesn't favor higher stock prices. No difference between up and down \"crashes\".\n", 
+                                      "uid": 80693776, 
+                                      "user": 1, 
+                                      "user_score": 0.6922542347203888, 
+                                      "users": {
+                                        "0": 34, 
+                                        "1": 37
+                                      }
+                                    }
+                                  ], 
+                                  "entropy_score": 13.018608691430384, 
+                                  "favourites": 0, 
+                                  "follower": true, 
+                                  "id": 451212462142918657, 
+                                  "reply": true, 
+                                  "timestamp": "Wed Apr 02 04:20:08 +0000 2014", 
+                                  "tree_size": 72, 
+                                  "tweet": "@MrMeritology while the transactor is adversely affected by those moves, other shareholders benefit from the higher valuation, for example.\n", 
+                                  "uid": 343566768, 
+                                  "user": 0, 
+                                  "user_score": 0.692761328460975, 
+                                  "users": {
+                                    "0": 35, 
+                                    "1": 37
+                                  }
+                                }, 
+                                {
+                                  "entropy_score": 0.0, 
+                                  "favourites": 0, 
+                                  "follower": true, 
+                                  "id": 451214445235023872, 
+                                  "reply": true, 
+                                  "timestamp": "Wed Apr 02 04:28:01 +0000 2014", 
+                                  "tree_size": 1, 
+                                  "tweet": "@MrMeritology what's interesting is idea that other shareholders actually benefit from the price action that signals large block moves.\n", 
+                                  "uid": 343566768, 
+                                  "user": 0, 
+                                  "user_score": 0.0, 
+                                  "users": {
+                                    "0": 1
+                                  }
+                                }, 
+                                {
+                                  "entropy_score": 0.0, 
+                                  "favourites": 0, 
+                                  "follower": true, 
+                                  "id": 451215103958859778, 
+                                  "reply": true, 
+                                  "timestamp": "Wed Apr 02 04:30:38 +0000 2014", 
+                                  "tree_size": 1, 
+                                  "tweet": "@MrMeritology the loses/costs seen by the transactor co-occurs with info gains across the rest of the shareholders implicit in the trade.\n", 
+                                  "uid": 343566768, 
+                                  "user": 0, 
+                                  "user_score": 0.0, 
+                                  "users": {
+                                    "0": 1
+                                  }
+                                }, 
+                                {
+                                  "children": [
+                                    {
+                                      "children": [
+                                        {
+                                          "entropy_score": 0.0, 
+                                          "favourites": 0, 
+                                          "follower": true, 
+                                          "id": 451218207206936576, 
+                                          "reply": true, 
+                                          "timestamp": "Wed Apr 02 04:42:58 +0000 2014", 
+                                          "tree_size": 1, 
+                                          "tweet": "@MrMeritology the gain is implicit in the price action, I would argue. It's a Smithean/Hayekean gain.\n", 
+                                          "uid": 343566768, 
+                                          "user": 0, 
+                                          "user_score": 0.0, 
+                                          "users": {
+                                            "0": 1
+                                          }
+                                        }
+                                      ], 
+                                      "entropy_score": 0.0, 
+                                      "favourites": 0, 
+                                      "follower": true, 
+                                      "id": 451217264197787648, 
+                                      "reply": true, 
+                                      "timestamp": "Wed Apr 02 04:39:13 +0000 2014", 
+                                      "tree_size": 2, 
+                                      "tweet": "@GordonBrianR I seriously question whether the market as a whole or other shareholders have any informational gain as side effect of HFT.\n", 
+                                      "uid": 80693776, 
+                                      "user": 1, 
+                                      "user_score": 0.6931471805599453, 
+                                      "users": {
+                                        "0": 1, 
+                                        "1": 1
+                                      }
+                                    }
+                                  ], 
+                                  "entropy_score": 0.0, 
+                                  "favourites": 0, 
+                                  "follower": true, 
+                                  "id": 451215298553577473, 
+                                  "reply": true, 
+                                  "timestamp": "Wed Apr 02 04:31:25 +0000 2014", 
+                                  "tree_size": 3, 
+                                  "tweet": "@MrMeritology informational gains that are realized by the price action, up or down, that results from the large block trade.\n", 
+                                  "uid": 343566768, 
+                                  "user": 0, 
+                                  "user_score": 0.6365141682948128, 
+                                  "users": {
+                                    "0": 2, 
+                                    "1": 1
+                                  }
+                                }
+                              ], 
+                              "entropy_score": 13.612309388011683, 
+                              "favourites": 0, 
+                              "follower": true, 
+                              "id": 451207635195285505, 
+                              "important_users": true, 
+                              "reply": true, 
+                              "timestamp": "Wed Apr 02 04:00:57 +0000 2014", 
+                              "tree_size": 84, 
+                              "tweet": "@GordonBrianR What does \"liquidity\" mean if it can disappear in milliseconds? It's there except when you need it most.\n", 
+                              "uid": 80693776, 
+                              "user": 1, 
+                              "user_score": 0.6931471805599453, 
+                              "users": {
+                                "0": 42, 
+                                "1": 42
+                              }
+                            }, 
+                            {
+                              "children": [
+                                {
+                                  "entropy_score": 0.0, 
+                                  "favourites": 0, 
+                                  "follower": true, 
+                                  "id": 451211137279733760, 
+                                  "reply": true, 
+                                  "timestamp": "Wed Apr 02 04:14:52 +0000 2014", 
+                                  "tree_size": 1, 
+                                  "tweet": "@MrMeritology @nanexllc I will definitely take a look.\n", 
+                                  "uid": 343566768, 
+                                  "user": 0, 
+                                  "user_score": 0.0, 
+                                  "users": {
+                                    "0": 1
+                                  }
+                                }
+                              ], 
+                              "entropy_score": 0.0, 
+                              "favourites": 0, 
+                              "follower": true, 
+                              "id": 451207233246744576, 
+                              "important_users": true, 
+                              "reply": true, 
+                              "timestamp": "Wed Apr 02 03:59:22 +0000 2014", 
+                              "tree_size": 2, 
+                              "tweet": "@GordonBrianR Yes, that is the public justification of #HFT by firms &amp; exchanges. But analysis by @nanexllc and econo-physic show otherwise", 
+                              "uid": 80693776, 
+                              "user": 1, 
+                              "user_score": 0.6931471805599453, 
+                              "users": {
+                                "0": 1, 
+                                "1": 1
+                              }
+                            }
+                          ], 
+                          "entropy_score": 13.73380773935154, 
+                          "favourites": 0, 
+                          "follower": true, 
+                          "id": 451201190408101889, 
+                          "reply": true, 
+                          "timestamp": "Wed Apr 02 03:35:21 +0000 2014", 
+                          "tree_size": 87, 
+                          "tweet": "@MrMeritology no. Rather that some aspects of HFT can be seen as a substitute for traditional brokerage. A subset of HFT strategies/roles.\n", 
+                          "uid": 343566768, 
+                          "user": 0, 
+                          "user_score": 0.6930811201807139, 
+                          "users": {
+                            "0": 44, 
+                            "1": 43
+                          }
+                        }, 
+                        {
+                          "entropy_score": 0.0, 
+                          "favourites": 0, 
+                          "follower": true, 
+                          "id": 451201388547018753, 
+                          "reply": true, 
+                          "timestamp": "Wed Apr 02 03:36:08 +0000 2014", 
+                          "tree_size": 1, 
+                          "tweet": "@MrMeritology and that those roles can be seen as economically valuable even if other roles/strategies are more 'parasitic'.\n", 
+                          "uid": 343566768, 
+                          "user": 0, 
+                          "user_score": 0.0, 
+                          "users": {
+                            "0": 1
+                          }
+                        }
+                      ], 
+                      "entropy_score": 13.802203156240708, 
+                      "favourites": 0, 
+                      "follower": true, 
+                      "id": 451200253832593408, 
+                      "reply": true, 
+                      "timestamp": "Wed Apr 02 03:31:38 +0000 2014", 
+                      "tree_size": 89, 
+                      "tweet": "@GordonBrianR are you saying that HFT is nothing more than liquidity providers that make money on bid-ask spread equiv of old market mkrs?\n", 
+                      "uid": 80693776, 
+                      "user": 1, 
+                      "user_score": 0.6930840558886805, 
+                      "users": {
+                        "0": 45, 
+                        "1": 44
+                      }
+                    }, 
+                    {
+                      "children": [
+                        {
+                          "entropy_score": 0.0, 
+                          "favourites": 0, 
+                          "follower": true, 
+                          "id": 451204592026394625, 
+                          "reply": false, 
+                          "timestamp": "Wed Apr 02 03:48:52 +0000 2014", 
+                          "tree_size": 1, 
+                          "tweet": "RT @MrMeritology: @GordonBrianR Here's a great article from Economist in 2012 that surveys these issues and complexities http://t.co/CJVNCP\u2026\n", 
+                          "uid": 343566768, 
+                          "user": 0, 
+                          "user_score": 0.0, 
+                          "users": {
+                            "0": 1
+                          }
+                        }, 
+                        {
+                          "entropy_score": 0.0, 
+                          "favourites": 0, 
+                          "follower": true, 
+                          "id": 451204735035400192, 
+                          "reply": true, 
+                          "timestamp": "Wed Apr 02 03:49:26 +0000 2014", 
+                          "tree_size": 1, 
+                          "tweet": "@MrMeritology wow. great article. thanks.\n", 
+                          "uid": 343566768, 
+                          "user": 0, 
+                          "user_score": 0.0, 
+                          "users": {
+                            "0": 1
+                          }
+                        }, 
+                        {
+                          "entropy_score": 0.0, 
+                          "favourites": 0, 
+                          "follower": true, 
+                          "id": 451204967659868160, 
+                          "reply": true, 
+                          "timestamp": "Wed Apr 02 03:50:21 +0000 2014", 
+                          "tree_size": 1, 
+                          "tweet": "@MrMeritology that definitely covers a lot of the territory that I was thinking about.\n", 
+                          "uid": 343566768, 
+                          "user": 0, 
+                          "user_score": 0.0, 
+                          "users": {
+                            "0": 1
+                          }
+                        }
+                      ], 
+                      "entropy_score": 1.2084735175349208, 
+                      "favourites": 0, 
+                      "follower": true, 
+                      "id": 451201691770032128, 
+                      "reply": true, 
+                      "timestamp": "Wed Apr 02 03:37:20 +0000 2014", 
+                      "tree_size": 4, 
+                      "tweet": "@GordonBrianR Here's a great article from Economist in 2012 that surveys these issues and complexities http://t.co/CJVNCPbl0u\n", 
+                      "uid": 80693776, 
+                      "user": 1, 
+                      "user_score": 0.5623351446188083, 
+                      "users": {
+                        "0": 3, 
+                        "1": 1
+                      }
+                    }, 
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "entropy_score": 0.0, 
+                              "favourites": 1, 
+                              "follower": true, 
+                              "id": 451212077017755648, 
+                              "reply": true, 
+                              "timestamp": "Wed Apr 02 04:18:36 +0000 2014", 
+                              "tree_size": 1, 
+                              "tweet": "@GordonBrianR Beyond 2010 system-wide flash crash, there were 18K crash events in individual stocks btwn 2006-2011. http://t.co/7tvG1m47r1\n", 
+                              "uid": 80693776, 
+                              "user": 1, 
+                              "user_score": 0.0, 
+                              "users": {
+                                "1": 1
+                              }
+                            }
+                          ], 
+                          "entropy_score": 0.0, 
+                          "favourites": 0, 
+                          "follower": true, 
+                          "id": 451210133121417216, 
+                          "reply": true, 
+                          "timestamp": "Wed Apr 02 04:10:53 +0000 2014", 
+                          "tree_size": 2, 
+                          "tweet": "@MrMeritology completely agree that issues like the flash crash illustrate structural issues that need to be resolved/regulated.\n", 
+                          "uid": 343566768, 
+                          "user": 0, 
+                          "user_score": 0.6931471805599453, 
+                          "users": {
+                            "0": 1, 
+                            "1": 1
+                          }
+                        }
+                      ], 
+                      "entropy_score": 0.0, 
+                      "favourites": 0, 
+                      "follower": true, 
+                      "id": 451205604883709952, 
+                      "reply": true, 
+                      "timestamp": "Wed Apr 02 03:52:53 +0000 2014", 
+                      "tree_size": 3, 
+                      "tweet": "@GordonBrianR There's a diff w/ old market maker system: flash crashes. See: http://t.co/7tvG1m47r1\n", 
+                      "uid": 80693776, 
+                      "user": 1, 
+                      "user_score": 0.6365141682948128, 
+                      "users": {
+                        "0": 1, 
+                        "1": 2
+                      }
+                    }
+                  ], 
+                  "entropy_score": 15.3526824308662, 
+                  "favourites": 0, 
+                  "follower": true, 
+                  "id": 451194616578973696, 
+                  "reply": true, 
+                  "timestamp": "Wed Apr 02 03:09:14 +0000 2014", 
+                  "tree_size": 97, 
+                  "tweet": "@MrMeritology fact that traditional brokerage was provided by a large number of independent firms, who all earned fees from this role.\n", 
+                  "uid": 343566768, 
+                  "user": 0, 
+                  "user_score": 0.6926688387943101, 
+                  "users": {
+                    "0": 50, 
+                    "1": 47
+                  }
+                }
+              ], 
+              "entropy_score": 16.135673207207866, 
+              "favourites": 0, 
+              "follower": false, 
+              "id": 451153348293431297, 
+              "reply": true, 
+              "timestamp": "Wed Apr 02 00:25:14 +0000 2014", 
+              "tree_size": 112, 
+              "tweet": "@GordonBrianR Information that drives #HFT has nothing to do w/ economic price discovery. Economists would call them called \"noise traders\"", 
+              "uid": 80693776, 
+              "user": 1, 
+              "user_score": 0.6853142072764582, 
+              "users": {
+                "0": 63, 
+                "1": 49
+              }
+            }
+          ], 
+          "entropy_score": 16.135673207207866, 
+          "favourites": 0, 
+          "follower": false, 
+          "id": 451152530026676224, 
+          "reply": true, 
+          "timestamp": "Wed Apr 02 00:21:59 +0000 2014", 
+          "tree_size": 113, 
+          "tweet": "@GordonBrianR millisecond level changes in price happen 2 to 4 orders of magnitude faster than changes in idiosyncratic info of traders\n", 
+          "uid": 80693776, 
+          "user": 1, 
+          "user_score": 0.6865149157559347, 
+          "users": {
+            "0": 63, 
+            "1": 50
+          }
+        }
+      ], 
+      "entropy_score": 16.19098004547739, 
+      "favourites": 0, 
+      "follower": true, 
+      "id": 451151635993997312, 
+      "reply": true, 
+      "timestamp": "Wed Apr 02 00:18:26 +0000 2014", 
+      "tree_size": 115, 
+      "tweet": "@GordonBrianR Plus construct of \"price discovery\" fails at microlevel b/c changes in price are uncorrelated w/ instantaneous changes in info\n", 
+      "uid": 80693776, 
+      "user": 1, 
+      "user_score": 0.6885655098510695, 
+      "users": {
+        "0": 63, 
+        "1": 52
+      }
+    }
+  ], 
+  "entropy_score": 16.32561815195243, 
+  "favourites": 0, 
+  "id": 451146859138928641, 
+  "important_users": true, 
+  "reply": false, 
+  "timestamp": "Tue Apr 01 23:59:27 +0000 2014", 
+  "total_tweets": 119, 
+  "total_users": 3, 
+  "tree_size": 119, 
+  "tweet": "I think Lewis is completely backwards on this issue; the market would be *rigged* if price discovery was thwarted, not when it works.\n", 
+  "uid": 343566768, 
+  "user": 0, 
+  "user_score": 0.7322860489981696, 
+  "users": {
+    "0": 64, 
+    "1": 54, 
+    "2": 1
+  }
+}

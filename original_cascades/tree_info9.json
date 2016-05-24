@@ -1,0 +1,2064 @@
+{
+  "children": [
+    {
+      "entropy_score": 0.0, 
+      "favourites": 0, 
+      "follower": true, 
+      "id": 454677606777253888, 
+      "reply": false, 
+      "timestamp": "Fri Apr 11 17:49:23 +0000 2014", 
+      "tree_size": 1, 
+      "tweet": "RT @JoshuaHol: MOOCHERS! MT @AmericanHawkTPJ: If you are hesitant on going to #BundyRanch because of supplies, there is food, water, everyt\u2026", 
+      "uid": 57834409, 
+      "user": 2, 
+      "user_score": 0.0, 
+      "users": {
+        "2": 1
+      }
+    }, 
+    {
+      "entropy_score": 0.0, 
+      "favourites": 0, 
+      "follower": false, 
+      "id": 454678603393806337, 
+      "reply": false, 
+      "timestamp": "Fri Apr 11 17:53:21 +0000 2014", 
+      "tree_size": 1, 
+      "tweet": "RT @JoshuaHol: MOOCHERS! MT @AmericanHawkTPJ: If you are hesitant on going to #BundyRanch because of supplies, there is food, water, everyt\u2026", 
+      "uid": 1976799128, 
+      "user": 1, 
+      "user_score": 0.0, 
+      "users": {
+        "1": 1
+      }
+    }, 
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "entropy_score": 0.0, 
+                              "favourites": 0, 
+                              "follower": true, 
+                              "id": 454680706485354496, 
+                              "reply": true, 
+                              "timestamp": "Fri Apr 11 18:01:42 +0000 2014", 
+                              "tree_size": 1, 
+                              "tweet": "@JoshuaHol @DoremusJ @AmericanHawkTPJ Of course. They're the same ones crying about not enough ANWR drilling with Palin.\n", 
+                              "uid": 57834409, 
+                              "user": 2, 
+                              "user_score": 0.0, 
+                              "users": {
+                                "2": 1
+                              }
+                            }, 
+                            {
+                              "children": [
+                                {
+                                  "children": [
+                                    {
+                                      "children": [
+                                        {
+                                          "children": [
+                                            {
+                                              "entropy_score": 0.0, 
+                                              "favourites": 0, 
+                                              "follower": false, 
+                                              "id": 454682742895042560, 
+                                              "reply": true, 
+                                              "timestamp": "Fri Apr 11 18:09:48 +0000 2014", 
+                                              "tree_size": 1, 
+                                              "tweet": "@DoremusJ @JoshuaHol @Driveswift @AmericanHawkTPJ He had a lease. They pulled it because of the tortoises\n", 
+                                              "uid": 307665488, 
+                                              "user": 6, 
+                                              "user_score": 0.0, 
+                                              "users": {
+                                                "6": 1
+                                              }
+                                            }
+                                          ], 
+                                          "entropy_score": 0.0, 
+                                          "favourites": 0, 
+                                          "follower": false, 
+                                          "id": 454682558429552640, 
+                                          "reply": true, 
+                                          "timestamp": "Fri Apr 11 18:09:04 +0000 2014", 
+                                          "tree_size": 2, 
+                                          "tweet": "@WYApril Would you feel the same way if Exxon started drilling without a lease? @JoshuaHol @Driveswift @AmericanHawkTPJ\n", 
+                                          "uid": 326957691, 
+                                          "user": 5, 
+                                          "user_score": 0.6931471805599453, 
+                                          "users": {
+                                            "5": 1, 
+                                            "6": 1
+                                          }
+                                        }
+                                      ], 
+                                      "entropy_score": 0.0, 
+                                      "favourites": 1, 
+                                      "follower": false, 
+                                      "id": 454681748832399360, 
+                                      "reply": true, 
+                                      "timestamp": "Fri Apr 11 18:05:51 +0000 2014", 
+                                      "tree_size": 3, 
+                                      "tweet": "@JoshuaHol @DoremusJ @Driveswift @AmericanHawkTPJ No, the shock is that BLM has AR15s aimed at Americans over cows.\n", 
+                                      "uid": 307665488, 
+                                      "user": 6, 
+                                      "user_score": 0.6365141682948128, 
+                                      "users": {
+                                        "5": 1, 
+                                        "6": 2
+                                      }
+                                    }
+                                  ], 
+                                  "entropy_score": 0.0, 
+                                  "favourites": 1, 
+                                  "follower": false, 
+                                  "id": 454681445773369345, 
+                                  "reply": true, 
+                                  "timestamp": "Fri Apr 11 18:04:38 +0000 2014", 
+                                  "tree_size": 4, 
+                                  "tweet": ".@WYApril He says there are plenty of fed laws he won\u2019t follow. Shocking that they\u2019re not OK w that. @DoremusJ @Driveswift @AmericanHawkTPJ\n", 
+                                  "uid": 22063600, 
+                                  "user": 0, 
+                                  "user_score": 1.0397207708399179, 
+                                  "users": {
+                                    "0": 1, 
+                                    "5": 1, 
+                                    "6": 2
+                                  }
+                                }, 
+                                {
+                                  "children": [
+                                    {
+                                      "children": [
+                                        {
+                                          "children": [
+                                            {
+                                              "children": [
+                                                {
+                                                  "children": [
+                                                    {
+                                                      "children": [
+                                                        {
+                                                          "entropy_score": 0.0, 
+                                                          "favourites": 0, 
+                                                          "follower": false, 
+                                                          "id": 454683535753101313, 
+                                                          "reply": true, 
+                                                          "timestamp": "Fri Apr 11 18:12:57 +0000 2014", 
+                                                          "tree_size": 1, 
+                                                          "tweet": "@WYApril @DoremusJ @JoshuaHol @AmericanHawkTPJ The ones the federal gov't sent troops to fight for and paid Mexico for? Those lands?\n", 
+                                                          "uid": 57834409, 
+                                                          "user": 2, 
+                                                          "user_score": 0.0, 
+                                                          "users": {
+                                                            "2": 1
+                                                          }
+                                                        }, 
+                                                        {
+                                                          "children": [
+                                                            {
+                                                              "children": [
+                                                                {
+                                                                  "children": [
+                                                                    {
+                                                                      "children": [
+                                                                        {
+                                                                          "children": [
+                                                                            {
+                                                                              "entropy_score": 0.0, 
+                                                                              "favourites": 0, 
+                                                                              "follower": true, 
+                                                                              "id": 454685527741329409, 
+                                                                              "reply": false, 
+                                                                              "timestamp": "Fri Apr 11 18:20:52 +0000 2014", 
+                                                                              "tree_size": 1, 
+                                                                              "tweet": "RT @JoshuaHol: That\u2019s like \u201coffering\u201d to pay your cable bill to the electric company. @WYApril @DoremusJ @AmericanHawkTPJ @Driveswift\n", 
+                                                                              "uid": 57834409, 
+                                                                              "user": 2, 
+                                                                              "user_score": 0.0, 
+                                                                              "users": {
+                                                                                "2": 1
+                                                                              }
+                                                                            }, 
+                                                                            {
+                                                                              "entropy_score": 0.0, 
+                                                                              "favourites": 0, 
+                                                                              "follower": true, 
+                                                                              "id": 454686896904359936, 
+                                                                              "reply": false, 
+                                                                              "timestamp": "Fri Apr 11 18:26:18 +0000 2014", 
+                                                                              "tree_size": 1, 
+                                                                              "tweet": "RT @JoshuaHol: That\u2019s like \u201coffering\u201d to pay your cable bill to the electric company. @WYApril @DoremusJ @AmericanHawkTPJ @Driveswift\n", 
+                                                                              "uid": 326957691, 
+                                                                              "user": 5, 
+                                                                              "user_score": 0.0, 
+                                                                              "users": {
+                                                                                "5": 1
+                                                                              }
+                                                                            }
+                                                                          ], 
+                                                                          "entropy_score": 0.7624618986159398, 
+                                                                          "favourites": 2, 
+                                                                          "follower": false, 
+                                                                          "id": 454685495151591425, 
+                                                                          "reply": true, 
+                                                                          "timestamp": "Fri Apr 11 18:20:44 +0000 2014", 
+                                                                          "tree_size": 3, 
+                                                                          "tweet": "That\u2019s like \u201coffering\u201d to pay your cable bill to the electric company. @WYApril @DoremusJ @AmericanHawkTPJ @Driveswift\n", 
+                                                                          "uid": 22063600, 
+                                                                          "user": 0, 
+                                                                          "user_score": 1.0986122886681096, 
+                                                                          "users": {
+                                                                            "0": 1, 
+                                                                            "2": 1, 
+                                                                            "5": 1
+                                                                          }
+                                                                        }, 
+                                                                        {
+                                                                          "entropy_score": 0.0, 
+                                                                          "favourites": 0, 
+                                                                          "follower": false, 
+                                                                          "id": 454685710423842816, 
+                                                                          "reply": true, 
+                                                                          "timestamp": "Fri Apr 11 18:21:35 +0000 2014", 
+                                                                          "tree_size": 1, 
+                                                                          "tweet": "@WYApril I'd be okay with a two party check. #ProblemSolved @AmericanHawkTPJ @Driveswift @JoshuaHol", 
+                                                                          "uid": 326957691, 
+                                                                          "user": 5, 
+                                                                          "user_score": 0.0, 
+                                                                          "users": {
+                                                                            "5": 1
+                                                                          }
+                                                                        }
+                                                                      ], 
+                                                                      "entropy_score": 1.381030557696629, 
+                                                                      "favourites": 0, 
+                                                                      "follower": false, 
+                                                                      "id": 454685038697652224, 
+                                                                      "reply": true, 
+                                                                      "timestamp": "Fri Apr 11 18:18:55 +0000 2014", 
+                                                                      "tree_size": 5, 
+                                                                      "tweet": "@DoremusJ @AmericanHawkTPJ @Driveswift @JoshuaHol Uh, no, he offered to pay it to the state.\n", 
+                                                                      "uid": 307665488, 
+                                                                      "user": 6, 
+                                                                      "user_score": 1.3321790402101223, 
+                                                                      "users": {
+                                                                        "0": 1, 
+                                                                        "2": 1, 
+                                                                        "5": 2, 
+                                                                        "6": 1
+                                                                      }
+                                                                    }
+                                                                  ], 
+                                                                  "entropy_score": 1.381030557696629, 
+                                                                  "favourites": 0, 
+                                                                  "follower": false, 
+                                                                  "id": 454684838063140865, 
+                                                                  "reply": true, 
+                                                                  "timestamp": "Fri Apr 11 18:18:07 +0000 2014", 
+                                                                  "tree_size": 6, 
+                                                                  "tweet": "@AmericanHawkTPJ No, he wants to graze his cattle for free which greatly increases his profitability. @WYApril @Driveswift @JoshuaHol\n", 
+                                                                  "uid": 326957691, 
+                                                                  "user": 5, 
+                                                                  "user_score": 1.242453324894, 
+                                                                  "users": {
+                                                                    "0": 1, 
+                                                                    "2": 1, 
+                                                                    "5": 3, 
+                                                                    "6": 1
+                                                                  }
+                                                                }, 
+                                                                {
+                                                                  "entropy_score": 0.0, 
+                                                                  "favourites": 0, 
+                                                                  "follower": false, 
+                                                                  "id": 454685066476527617, 
+                                                                  "reply": true, 
+                                                                  "timestamp": "Fri Apr 11 18:19:02 +0000 2014", 
+                                                                  "tree_size": 1, 
+                                                                  "tweet": "@AmericanHawkTPJ He's cheating the people who pay what they owe. No one gets a free ride. @WYApril @Driveswift @JoshuaHol\n", 
+                                                                  "uid": 326957691, 
+                                                                  "user": 5, 
+                                                                  "user_score": 0.0, 
+                                                                  "users": {
+                                                                    "5": 1
+                                                                  }
+                                                                }, 
+                                                                {
+                                                                  "children": [
+                                                                    {
+                                                                      "children": [
+                                                                        {
+                                                                          "children": [
+                                                                            {
+                                                                              "entropy_score": 0.0, 
+                                                                              "favourites": 0, 
+                                                                              "follower": true, 
+                                                                              "id": 454689233228152832, 
+                                                                              "reply": false, 
+                                                                              "timestamp": "Fri Apr 11 18:35:35 +0000 2014", 
+                                                                              "tree_size": 1, 
+                                                                              "tweet": "RT @Driveswift: @WYApril @AmericanHawkTPJ @DoremusJ @JoshuaHol Being as how they put up the money to fight the war and pay for the treaty t\u2026\n", 
+                                                                              "uid": 326957691, 
+                                                                              "user": 5, 
+                                                                              "user_score": 0.0, 
+                                                                              "users": {
+                                                                                "5": 1
+                                                                              }
+                                                                            }
+                                                                          ], 
+                                                                          "entropy_score": 0.0, 
+                                                                          "favourites": 1, 
+                                                                          "follower": false, 
+                                                                          "id": 454686489956581376, 
+                                                                          "reply": true, 
+                                                                          "timestamp": "Fri Apr 11 18:24:41 +0000 2014", 
+                                                                          "tree_size": 2, 
+                                                                          "tweet": "@WYApril @AmericanHawkTPJ @DoremusJ @JoshuaHol Being as how they put up the money to fight the war and pay for the treaty that secured it...\n", 
+                                                                          "uid": 57834409, 
+                                                                          "user": 2, 
+                                                                          "user_score": 0.6931471805599453, 
+                                                                          "users": {
+                                                                            "2": 1, 
+                                                                            "5": 1
+                                                                          }
+                                                                        }
+                                                                      ], 
+                                                                      "entropy_score": 0.0, 
+                                                                      "favourites": 0, 
+                                                                      "follower": false, 
+                                                                      "id": 454685859770421248, 
+                                                                      "reply": true, 
+                                                                      "timestamp": "Fri Apr 11 18:22:11 +0000 2014", 
+                                                                      "tree_size": 3, 
+                                                                      "tweet": "@Driveswift @AmericanHawkTPJ @DoremusJ @JoshuaHol the feds claim most of western land.\n", 
+                                                                      "uid": 307665488, 
+                                                                      "user": 6, 
+                                                                      "user_score": 1.0986122886681096, 
+                                                                      "users": {
+                                                                        "2": 1, 
+                                                                        "5": 1, 
+                                                                        "6": 1
+                                                                      }
+                                                                    }
+                                                                  ], 
+                                                                  "entropy_score": 0.0, 
+                                                                  "favourites": 1, 
+                                                                  "follower": false, 
+                                                                  "id": 454685412074991616, 
+                                                                  "reply": true, 
+                                                                  "timestamp": "Fri Apr 11 18:20:24 +0000 2014", 
+                                                                  "tree_size": 4, 
+                                                                  "tweet": "@AmericanHawkTPJ @DoremusJ @WYApril @JoshuaHol The whole reason the Fed kept the land was to generate revenue from leases.\n", 
+                                                                  "uid": 57834409, 
+                                                                  "user": 2, 
+                                                                  "user_score": 1.0397207708399179, 
+                                                                  "users": {
+                                                                    "2": 2, 
+                                                                    "5": 1, 
+                                                                    "6": 1
+                                                                  }
+                                                                }
+                                                              ], 
+                                                              "entropy_score": 2.3891419317900477, 
+                                                              "favourites": 0, 
+                                                              "follower": false, 
+                                                              "id": 454684359078215680, 
+                                                              "reply": true, 
+                                                              "timestamp": "Fri Apr 11 18:16:13 +0000 2014", 
+                                                              "tree_size": 12, 
+                                                              "tweet": "@DoremusJ @WYApril @Driveswift @JoshuaHol they pulled his lease bc he wasn't paying fees to an illegitimate govt who want a cut like the mob\n", 
+                                                              "uid": 49690284, 
+                                                              "user": 3, 
+                                                              "user_score": 1.4241299173467734, 
+                                                              "users": {
+                                                                "0": 1, 
+                                                                "2": 3, 
+                                                                "3": 1, 
+                                                                "5": 5, 
+                                                                "6": 2
+                                                              }
+                                                            }, 
+                                                            {
+                                                              "children": [
+                                                                {
+                                                                  "children": [
+                                                                    {
+                                                                      "children": [
+                                                                        {
+                                                                          "children": [
+                                                                            {
+                                                                              "entropy_score": 0.0, 
+                                                                              "favourites": 0, 
+                                                                              "follower": false, 
+                                                                              "id": 454685187356360704, 
+                                                                              "reply": true, 
+                                                                              "timestamp": "Fri Apr 11 18:19:30 +0000 2014", 
+                                                                              "tree_size": 1, 
+                                                                              "tweet": "@JoshuaHol @AmericanHawkTPJ Right, and instead agencies write the laws.\n", 
+                                                                              "uid": 307665488, 
+                                                                              "user": 6, 
+                                                                              "user_score": 0.0, 
+                                                                              "users": {
+                                                                                "6": 1
+                                                                              }
+                                                                            }
+                                                                          ], 
+                                                                          "entropy_score": 0.0, 
+                                                                          "favourites": 1, 
+                                                                          "follower": false, 
+                                                                          "id": 454684933551038464, 
+                                                                          "reply": true, 
+                                                                          "timestamp": "Fri Apr 11 18:18:30 +0000 2014", 
+                                                                          "tree_size": 2, 
+                                                                          "tweet": "The Constitution empowers Congress to write laws and agencies to implement them. That\u2019s how it works. @WYApril @AmericanHawkTPJ\n", 
+                                                                          "uid": 22063600, 
+                                                                          "user": 0, 
+                                                                          "user_score": 0.6931471805599453, 
+                                                                          "users": {
+                                                                            "0": 1, 
+                                                                            "6": 1
+                                                                          }
+                                                                        }, 
+                                                                        {
+                                                                          "entropy_score": 0.0, 
+                                                                          "favourites": 0, 
+                                                                          "follower": false, 
+                                                                          "id": 454685953865420801, 
+                                                                          "reply": true, 
+                                                                          "timestamp": "Fri Apr 11 18:22:33 +0000 2014", 
+                                                                          "tree_size": 1, 
+                                                                          "tweet": "@WYApril They're not making laws, they're enforcing them. @Driveswift @JoshuaHol @AmericanHawkTPJ\n", 
+                                                                          "uid": 326957691, 
+                                                                          "user": 5, 
+                                                                          "user_score": 0.0, 
+                                                                          "users": {
+                                                                            "5": 1
+                                                                          }
+                                                                        }
+                                                                      ], 
+                                                                      "entropy_score": 0.7001655851242942, 
+                                                                      "favourites": 0, 
+                                                                      "follower": false, 
+                                                                      "id": 454684629081923584, 
+                                                                      "reply": true, 
+                                                                      "timestamp": "Fri Apr 11 18:17:17 +0000 2014", 
+                                                                      "tree_size": 4, 
+                                                                      "tweet": "@Driveswift @DoremusJ @JoshuaHol @AmericanHawkTPJ The constitution doesn't grant government agencies the right to make laws\n", 
+                                                                      "uid": 307665488, 
+                                                                      "user": 6, 
+                                                                      "user_score": 1.0397207708399179, 
+                                                                      "users": {
+                                                                        "0": 1, 
+                                                                        "5": 1, 
+                                                                        "6": 2
+                                                                      }
+                                                                    }, 
+                                                                    {
+                                                                      "entropy_score": 0.0, 
+                                                                      "favourites": 0, 
+                                                                      "follower": false, 
+                                                                      "id": 454687426112651264, 
+                                                                      "reply": false, 
+                                                                      "timestamp": "Fri Apr 11 18:28:24 +0000 2014", 
+                                                                      "tree_size": 1, 
+                                                                      "tweet": "RT @Driveswift: @WYApril @DoremusJ @JoshuaHol @AmericanHawkTPJ They pulled his lease because he didn't pay 20 years of fees. He broke the c\u2026\n", 
+                                                                      "uid": 1941001104, 
+                                                                      "user": 14, 
+                                                                      "user_score": 0.0, 
+                                                                      "users": {
+                                                                        "14": 1
+                                                                      }
+                                                                    }, 
+                                                                    {
+                                                                      "children": [
+                                                                        {
+                                                                          "children": [
+                                                                            {
+                                                                              "children": [
+                                                                                {
+                                                                                  "children": [
+                                                                                    {
+                                                                                      "children": [
+                                                                                        {
+                                                                                          "entropy_score": 0.0, 
+                                                                                          "favourites": 0, 
+                                                                                          "follower": false, 
+                                                                                          "id": 454689903876767745, 
+                                                                                          "reply": true, 
+                                                                                          "timestamp": "Fri Apr 11 18:38:15 +0000 2014", 
+                                                                                          "tree_size": 1, 
+                                                                                          "tweet": "@WYApril I\u2018m just not sure. The guy said he has weapons and is ready to fight. @Driveswift @franklingroup_j @DoremusJ @AmericanHawkTPJ\n", 
+                                                                                          "uid": 22063600, 
+                                                                                          "user": 0, 
+                                                                                          "user_score": 0.0, 
+                                                                                          "users": {
+                                                                                            "0": 1
+                                                                                          }
+                                                                                        }, 
+                                                                                        {
+                                                                                          "entropy_score": 0.0, 
+                                                                                          "favourites": 0, 
+                                                                                          "follower": false, 
+                                                                                          "id": 454707090435878912, 
+                                                                                          "reply": false, 
+                                                                                          "timestamp": "Fri Apr 11 19:46:33 +0000 2014", 
+                                                                                          "tree_size": 1, 
+                                                                                          "tweet": "RT @WYApril: @JoshuaHol @Driveswift @franklingroup_j @DoremusJ @AmericanHawkTPJ So we can agree that the fed's armed reaction to this is un\u2026\n", 
+                                                                                          "uid": 1941001104, 
+                                                                                          "user": 14, 
+                                                                                          "user_score": 0.0, 
+                                                                                          "users": {
+                                                                                            "14": 1
+                                                                                          }
+                                                                                        }
+                                                                                      ], 
+                                                                                      "entropy_score": 0.7624618986159398, 
+                                                                                      "favourites": 1, 
+                                                                                      "follower": false, 
+                                                                                      "id": 454689198780317696, 
+                                                                                      "reply": true, 
+                                                                                      "timestamp": "Fri Apr 11 18:35:27 +0000 2014", 
+                                                                                      "tree_size": 3, 
+                                                                                      "tweet": "@JoshuaHol @Driveswift @franklingroup_j @DoremusJ @AmericanHawkTPJ So we can agree that the fed's armed reaction to this is unjustified?\n", 
+                                                                                      "uid": 307665488, 
+                                                                                      "user": 6, 
+                                                                                      "user_score": 1.0986122886681096, 
+                                                                                      "users": {
+                                                                                        "0": 1, 
+                                                                                        "14": 1, 
+                                                                                        "6": 1
+                                                                                      }
+                                                                                    }
+                                                                                  ], 
+                                                                                  "entropy_score": 0.7624618986159398, 
+                                                                                  "favourites": 1, 
+                                                                                  "follower": false, 
+                                                                                  "id": 454688742503350272, 
+                                                                                  "reply": true, 
+                                                                                  "timestamp": "Fri Apr 11 18:33:38 +0000 2014", 
+                                                                                  "tree_size": 4, 
+                                                                                  "tweet": "@WYApril On that we can probably agree. @Driveswift @franklingroup_j @DoremusJ @AmericanHawkTPJ\n", 
+                                                                                  "uid": 22063600, 
+                                                                                  "user": 0, 
+                                                                                  "user_score": 1.0397207708399179, 
+                                                                                  "users": {
+                                                                                    "0": 2, 
+                                                                                    "14": 1, 
+                                                                                    "6": 1
+                                                                                  }
+                                                                                }, 
+                                                                                {
+                                                                                  "children": [
+                                                                                    {
+                                                                                      "children": [
+                                                                                        {
+                                                                                          "entropy_score": 0.0, 
+                                                                                          "favourites": 0, 
+                                                                                          "follower": false, 
+                                                                                          "id": 454689934134083584, 
+                                                                                          "reply": true, 
+                                                                                          "timestamp": "Fri Apr 11 18:38:22 +0000 2014", 
+                                                                                          "tree_size": 1, 
+                                                                                          "tweet": "@wyapril There's a small matter of enforcing a court order. @driveswift @franklingroup_j @joshuahol\n", 
+                                                                                          "uid": 326957691, 
+                                                                                          "user": 5, 
+                                                                                          "user_score": 0.0, 
+                                                                                          "users": {
+                                                                                            "5": 1
+                                                                                          }
+                                                                                        }
+                                                                                      ], 
+                                                                                      "entropy_score": 0.0, 
+                                                                                      "favourites": 0, 
+                                                                                      "follower": false, 
+                                                                                      "id": 454689671688118272, 
+                                                                                      "reply": true, 
+                                                                                      "timestamp": "Fri Apr 11 18:37:20 +0000 2014", 
+                                                                                      "tree_size": 2, 
+                                                                                      "tweet": "@DoremusJ @Driveswift @franklingroup_j @JoshuaHol  Rather than walking away and not waging this fight, knowing where this is going?\n", 
+                                                                                      "uid": 307665488, 
+                                                                                      "user": 6, 
+                                                                                      "user_score": 0.6931471805599453, 
+                                                                                      "users": {
+                                                                                        "5": 1, 
+                                                                                        "6": 1
+                                                                                      }
+                                                                                    }
+                                                                                  ], 
+                                                                                  "entropy_score": 0.0, 
+                                                                                  "favourites": 0, 
+                                                                                  "follower": false, 
+                                                                                  "id": 454689077611098113, 
+                                                                                  "reply": true, 
+                                                                                  "timestamp": "Fri Apr 11 18:34:58 +0000 2014", 
+                                                                                  "tree_size": 3, 
+                                                                                  "tweet": "@wyapril I don't blame them for arming themselves with militias showing up. @driveswift @franklingroup_j @joshuahol @americanhawktpj\n", 
+                                                                                  "uid": 326957691, 
+                                                                                  "user": 5, 
+                                                                                  "user_score": 0.6365141682948128, 
+                                                                                  "users": {
+                                                                                    "5": 2, 
+                                                                                    "6": 1
+                                                                                  }
+                                                                                }
+                                                                              ], 
+                                                                              "entropy_score": 1.513660813786459, 
+                                                                              "favourites": 0, 
+                                                                              "follower": false, 
+                                                                              "id": 454688283490918400, 
+                                                                              "reply": true, 
+                                                                              "timestamp": "Fri Apr 11 18:31:49 +0000 2014", 
+                                                                              "tree_size": 8, 
+                                                                              "tweet": "@Driveswift @franklingroup_j @DoremusJ @JoshuaHol @AmericanHawkTPJ Which doesn't justify ANY of the AR15 slinging that is going on right now\n", 
+                                                                              "uid": 307665488, 
+                                                                              "user": 6, 
+                                                                              "user_score": 1.3208883431493221, 
+                                                                              "users": {
+                                                                                "0": 2, 
+                                                                                "14": 1, 
+                                                                                "5": 2, 
+                                                                                "6": 3
+                                                                              }
+                                                                            }, 
+                                                                            {
+                                                                              "children": [
+                                                                                {
+                                                                                  "entropy_score": 0.0, 
+                                                                                  "favourites": 1, 
+                                                                                  "follower": false, 
+                                                                                  "id": 454689572497002496, 
+                                                                                  "reply": true, 
+                                                                                  "timestamp": "Fri Apr 11 18:36:56 +0000 2014", 
+                                                                                  "tree_size": 1, 
+                                                                                  "tweet": "@franklingroup_j Negative. Lost court case in '98 reaffirmed again last July. @driveswift @wyapril @joshuahol @americanhawktpj\n", 
+                                                                                  "uid": 326957691, 
+                                                                                  "user": 5, 
+                                                                                  "user_score": 0.0, 
+                                                                                  "users": {
+                                                                                    "5": 1
+                                                                                  }
+                                                                                }
+                                                                              ], 
+                                                                              "entropy_score": 0.0, 
+                                                                              "favourites": 0, 
+                                                                              "follower": false, 
+                                                                              "id": 454689177838555136, 
+                                                                              "reply": true, 
+                                                                              "timestamp": "Fri Apr 11 18:35:22 +0000 2014", 
+                                                                              "tree_size": 2, 
+                                                                              "tweet": "@Driveswift @WYApril @DoremusJ @JoshuaHol @AmericanHawkTPJ NO Pay grazing rights' Grandfathered in . Won case in 1999 Clinton admin! CityGal\n", 
+                                                                              "uid": 1941001104, 
+                                                                              "user": 14, 
+                                                                              "user_score": 0.6931471805599453, 
+                                                                              "users": {
+                                                                                "14": 1, 
+                                                                                "5": 1
+                                                                              }
+                                                                            }
+                                                                          ], 
+                                                                          "entropy_score": 2.0641034796784656, 
+                                                                          "favourites": 0, 
+                                                                          "follower": false, 
+                                                                          "id": 454687744657469440, 
+                                                                          "reply": true, 
+                                                                          "timestamp": "Fri Apr 11 18:29:40 +0000 2014", 
+                                                                          "tree_size": 11, 
+                                                                          "tweet": "@franklingroup_j @WYApril @DoremusJ @JoshuaHol @AmericanHawkTPJ Grazing rights come with responsibility to pay fees. He refused.\n", 
+                                                                          "uid": 57834409, 
+                                                                          "user": 2, 
+                                                                          "user_score": 1.5465986860485126, 
+                                                                          "users": {
+                                                                            "0": 2, 
+                                                                            "14": 2, 
+                                                                            "2": 1, 
+                                                                            "5": 3, 
+                                                                            "6": 3
+                                                                          }
+                                                                        }, 
+                                                                        {
+                                                                          "entropy_score": 0.0, 
+                                                                          "favourites": 0, 
+                                                                          "follower": false, 
+                                                                          "id": 454688050741010432, 
+                                                                          "reply": false, 
+                                                                          "timestamp": "Fri Apr 11 18:30:53 +0000 2014", 
+                                                                          "tree_size": 1, 
+                                                                          "tweet": "RT @franklingroup_j: @Driveswift @WYApril @DoremusJ @JoshuaHol @AmericanHawkTPJ  Had Water,Grazing rights since 1800's Grandfathered IN #BL\u2026", 
+                                                                          "uid": 49690284, 
+                                                                          "user": 3, 
+                                                                          "user_score": 0.0, 
+                                                                          "users": {
+                                                                            "3": 1
+                                                                          }
+                                                                        }, 
+                                                                        {
+                                                                          "children": [
+                                                                            {
+                                                                              "children": [
+                                                                                {
+                                                                                  "children": [
+                                                                                    {
+                                                                                      "entropy_score": 0.0, 
+                                                                                      "favourites": 0, 
+                                                                                      "follower": true, 
+                                                                                      "id": 454692416801353728, 
+                                                                                      "reply": false, 
+                                                                                      "timestamp": "Fri Apr 11 18:48:14 +0000 2014", 
+                                                                                      "tree_size": 1, 
+                                                                                      "tweet": "RT @Driveswift: @franklingroup_j @DoremusJ @WYApril @JoshuaHol @AmericanHawkTPJ If you lose two court cases, that's pretty due process-ey.\n", 
+                                                                                      "uid": 326957691, 
+                                                                                      "user": 5, 
+                                                                                      "user_score": 0.0, 
+                                                                                      "users": {
+                                                                                        "5": 1
+                                                                                      }
+                                                                                    }, 
+                                                                                    {
+                                                                                      "children": [
+                                                                                        {
+                                                                                          "entropy_score": 0.0, 
+                                                                                          "favourites": 0, 
+                                                                                          "follower": false, 
+                                                                                          "id": 454694124940455937, 
+                                                                                          "reply": true, 
+                                                                                          "timestamp": "Fri Apr 11 18:55:01 +0000 2014", 
+                                                                                          "tree_size": 1, 
+                                                                                          "tweet": "@franklingroup_j How many court orders do you think you can ignore before law enforcement shows up?\n", 
+                                                                                          "uid": 22063600, 
+                                                                                          "user": 0, 
+                                                                                          "user_score": 0.0, 
+                                                                                          "users": {
+                                                                                            "0": 1
+                                                                                          }
+                                                                                        }, 
+                                                                                        {
+                                                                                          "children": [
+                                                                                            {
+                                                                                              "entropy_score": 0.0, 
+                                                                                              "favourites": 0, 
+                                                                                              "follower": false, 
+                                                                                              "id": 454698673507954688, 
+                                                                                              "reply": false, 
+                                                                                              "timestamp": "Fri Apr 11 19:13:06 +0000 2014", 
+                                                                                              "tree_size": 1, 
+                                                                                              "tweet": "RT @DoremusJ: @franklingroup_j They're following two court orders. @driveswift @wyapril @joshuahol @americanhawktpj\n", 
+                                                                                              "uid": 1941001104, 
+                                                                                              "user": 14, 
+                                                                                              "user_score": 0.0, 
+                                                                                              "users": {
+                                                                                                "14": 1
+                                                                                              }
+                                                                                            }, 
+                                                                                            {
+                                                                                              "children": [
+                                                                                                {
+                                                                                                  "entropy_score": 0.0, 
+                                                                                                  "favourites": 0, 
+                                                                                                  "follower": false, 
+                                                                                                  "id": 454704570766483456, 
+                                                                                                  "reply": true, 
+                                                                                                  "timestamp": "Fri Apr 11 19:36:32 +0000 2014", 
+                                                                                                  "tree_size": 1, 
+                                                                                                  "tweet": "@franklingroup_j Yes, we get that your idea of an argument is to call everything \u201ccorrupt.\u201d @DoremusJ @Driveswift @WYApril @AmericanHawkTPJ\n", 
+                                                                                                  "uid": 22063600, 
+                                                                                                  "user": 0, 
+                                                                                                  "user_score": 0.0, 
+                                                                                                  "users": {
+                                                                                                    "0": 1
+                                                                                                  }
+                                                                                                }
+                                                                                              ], 
+                                                                                              "entropy_score": 0.0, 
+                                                                                              "favourites": 0, 
+                                                                                              "follower": false, 
+                                                                                              "id": 454702817799069696, 
+                                                                                              "reply": true, 
+                                                                                              "timestamp": "Fri Apr 11 19:29:34 +0000 2014", 
+                                                                                              "tree_size": 2, 
+                                                                                              "tweet": "@DoremusJ @Driveswift @WYApril @JoshuaHol @AmericanHawkTPJ 2 Court orders from this Corrupt DOJ? Bundy blackor HispanicbOK? RevAL owes 2.6M?\n", 
+                                                                                              "uid": 1941001104, 
+                                                                                              "user": 14, 
+                                                                                              "user_score": 0.6931471805599453, 
+                                                                                              "users": {
+                                                                                                "0": 1, 
+                                                                                                "14": 1
+                                                                                              }
+                                                                                            }
+                                                                                          ], 
+                                                                                          "entropy_score": 0.7001655851242942, 
+                                                                                          "favourites": 0, 
+                                                                                          "follower": false, 
+                                                                                          "id": 454694175980519424, 
+                                                                                          "reply": true, 
+                                                                                          "timestamp": "Fri Apr 11 18:55:14 +0000 2014", 
+                                                                                          "tree_size": 4, 
+                                                                                          "tweet": "@franklingroup_j They're following two court orders. @driveswift @wyapril @joshuahol @americanhawktpj\n", 
+                                                                                          "uid": 326957691, 
+                                                                                          "user": 5, 
+                                                                                          "user_score": 1.0397207708399179, 
+                                                                                          "users": {
+                                                                                            "0": 1, 
+                                                                                            "14": 2, 
+                                                                                            "5": 1
+                                                                                          }
+                                                                                        }
+                                                                                      ], 
+                                                                                      "entropy_score": 1.2506082510163008, 
+                                                                                      "favourites": 0, 
+                                                                                      "follower": false, 
+                                                                                      "id": 454693175987535872, 
+                                                                                      "reply": true, 
+                                                                                      "timestamp": "Fri Apr 11 18:51:15 +0000 2014", 
+                                                                                      "tree_size": 6, 
+                                                                                      "tweet": "@Driveswift @DoremusJ @WYApril @JoshuaHol @AmericanHawkTPJ  Armed Troops,Ripping out all water irrigationTaking cattle Legal?Appeal Process?\n", 
+                                                                                      "uid": 1941001104, 
+                                                                                      "user": 14, 
+                                                                                      "user_score": 1.0114042647073518, 
+                                                                                      "users": {
+                                                                                        "0": 2, 
+                                                                                        "14": 3, 
+                                                                                        "5": 1
+                                                                                      }
+                                                                                    }
+                                                                                  ], 
+                                                                                  "entropy_score": 1.7017362011335506, 
+                                                                                  "favourites": 1, 
+                                                                                  "follower": false, 
+                                                                                  "id": 454692308118933505, 
+                                                                                  "reply": true, 
+                                                                                  "timestamp": "Fri Apr 11 18:47:48 +0000 2014", 
+                                                                                  "tree_size": 8, 
+                                                                                  "tweet": "@franklingroup_j @DoremusJ @WYApril @JoshuaHol @AmericanHawkTPJ If you lose two court cases, that's pretty due process-ey.\n", 
+                                                                                  "uid": 57834409, 
+                                                                                  "user": 2, 
+                                                                                  "user_score": 1.320888343149322, 
+                                                                                  "users": {
+                                                                                    "0": 2, 
+                                                                                    "14": 3, 
+                                                                                    "2": 1, 
+                                                                                    "5": 2
+                                                                                  }
+                                                                                }
+                                                                              ], 
+                                                                              "entropy_score": 1.7017362011335506, 
+                                                                              "favourites": 0, 
+                                                                              "follower": false, 
+                                                                              "id": 454691737483878401, 
+                                                                              "reply": true, 
+                                                                              "timestamp": "Fri Apr 11 18:45:32 +0000 2014", 
+                                                                              "tree_size": 9, 
+                                                                              "tweet": "@DoremusJ @Driveswift @WYApril @JoshuaHol @AmericanHawkTPJ Cherokee kin murdered #ScotusRuledTrailofTearsIllegal #BLM,no Due Process #Bundy", 
+                                                                              "uid": 1941001104, 
+                                                                              "user": 14, 
+                                                                              "user_score": 1.2730283365896256, 
+                                                                              "users": {
+                                                                                "0": 2, 
+                                                                                "14": 4, 
+                                                                                "2": 1, 
+                                                                                "5": 2
+                                                                              }
+                                                                            }
+                                                                          ], 
+                                                                          "entropy_score": 1.7017362011335506, 
+                                                                          "favourites": 0, 
+                                                                          "follower": false, 
+                                                                          "id": 454688626496905217, 
+                                                                          "reply": true, 
+                                                                          "timestamp": "Fri Apr 11 18:33:10 +0000 2014", 
+                                                                          "tree_size": 10, 
+                                                                          "tweet": "@franklingroup_j Native Americans would find that ironic. @driveswift @wyapril @joshuahol @americanhawktpj\n", 
+                                                                          "uid": 326957691, 
+                                                                          "user": 5, 
+                                                                          "user_score": 1.2798542258336676, 
+                                                                          "users": {
+                                                                            "0": 2, 
+                                                                            "14": 4, 
+                                                                            "2": 1, 
+                                                                            "5": 3
+                                                                          }
+                                                                        }
+                                                                      ], 
+                                                                      "entropy_score": 4.695851432970037, 
+                                                                      "favourites": 2, 
+                                                                      "follower": false, 
+                                                                      "id": 454687397503320065, 
+                                                                      "important_entropy": true, 
+                                                                      "reply": true, 
+                                                                      "timestamp": "Fri Apr 11 18:28:17 +0000 2014", 
+                                                                      "tree_size": 23, 
+                                                                      "tweet": "@Driveswift @WYApril @DoremusJ @JoshuaHol @AmericanHawkTPJ  Had Water,Grazing rights since 1800's Grandfathered IN #BLMGestapo Broke LAW!FYI", 
+                                                                      "uid": 1941001104, 
+                                                                      "user": 14, 
+                                                                      "user_score": 1.6311795841743972, 
+                                                                      "users": {
+                                                                        "0": 4, 
+                                                                        "14": 7, 
+                                                                        "2": 2, 
+                                                                        "3": 1, 
+                                                                        "5": 6, 
+                                                                        "6": 3
+                                                                      }
+                                                                    }
+                                                                  ], 
+                                                                  "entropy_score": 6.01045273457509, 
+                                                                  "favourites": 1, 
+                                                                  "follower": false, 
+                                                                  "id": 454684309778354176, 
+                                                                  "reply": true, 
+                                                                  "timestamp": "Fri Apr 11 18:16:01 +0000 2014", 
+                                                                  "tree_size": 29, 
+                                                                  "tweet": "@WYApril @DoremusJ @JoshuaHol @AmericanHawkTPJ They pulled his lease because he didn't pay 20 years of fees. He broke the contract.\n", 
+                                                                  "uid": 57834409, 
+                                                                  "user": 2, 
+                                                                  "user_score": 1.6553261966357427, 
+                                                                  "users": {
+                                                                    "0": 5, 
+                                                                    "14": 8, 
+                                                                    "2": 3, 
+                                                                    "3": 1, 
+                                                                    "5": 7, 
+                                                                    "6": 5
+                                                                  }
+                                                                }, 
+                                                                {
+                                                                  "children": [
+                                                                    {
+                                                                      "children": [
+                                                                        {
+                                                                          "children": [
+                                                                            {
+                                                                              "entropy_score": 0.0, 
+                                                                              "favourites": 0, 
+                                                                              "follower": false, 
+                                                                              "id": 454687115180138496, 
+                                                                              "reply": true, 
+                                                                              "timestamp": "Fri Apr 11 18:27:10 +0000 2014", 
+                                                                              "tree_size": 1, 
+                                                                              "tweet": "@JoshuaHol Dig a little deeper. This isn't about cattle grazing. It's about the feds wanting to seize this guy's private property.\n", 
+                                                                              "uid": 307665488, 
+                                                                              "user": 6, 
+                                                                              "user_score": 0.0, 
+                                                                              "users": {
+                                                                                "6": 1
+                                                                              }
+                                                                            }, 
+                                                                            {
+                                                                              "children": [
+                                                                                {
+                                                                                  "children": [
+                                                                                    {
+                                                                                      "children": [
+                                                                                        {
+                                                                                          "children": [
+                                                                                            {
+                                                                                              "children": [
+                                                                                                {
+                                                                                                  "entropy_score": 0.0, 
+                                                                                                  "favourites": 0, 
+                                                                                                  "follower": false, 
+                                                                                                  "id": 454689271375339520, 
+                                                                                                  "reply": true, 
+                                                                                                  "timestamp": "Fri Apr 11 18:35:44 +0000 2014", 
+                                                                                                  "tree_size": 1, 
+                                                                                                  "tweet": "@WYApril @JoshuaHol Logic: If you break the law and police respond resulting in violence, it's the govt's fault.  Got it.  Makes sense.\n", 
+                                                                                                  "uid": 124834823, 
+                                                                                                  "user": 13, 
+                                                                                                  "user_score": 0.0, 
+                                                                                                  "users": {
+                                                                                                    "13": 1
+                                                                                                  }
+                                                                                                }, 
+                                                                                                {
+                                                                                                  "children": [
+                                                                                                    {
+                                                                                                      "entropy_score": 0.0, 
+                                                                                                      "favourites": 0, 
+                                                                                                      "follower": false, 
+                                                                                                      "id": 454690006242574336, 
+                                                                                                      "reply": true, 
+                                                                                                      "timestamp": "Fri Apr 11 18:38:39 +0000 2014", 
+                                                                                                      "tree_size": 1, 
+                                                                                                      "tweet": "@JoshuaHol all of them. Both sides.\n", 
+                                                                                                      "uid": 307665488, 
+                                                                                                      "user": 6, 
+                                                                                                      "user_score": 0.0, 
+                                                                                                      "users": {
+                                                                                                        "6": 1
+                                                                                                      }
+                                                                                                    }
+                                                                                                  ], 
+                                                                                                  "entropy_score": 0.0, 
+                                                                                                  "favourites": 0, 
+                                                                                                  "follower": false, 
+                                                                                                  "id": 454689398194712576, 
+                                                                                                  "reply": true, 
+                                                                                                  "timestamp": "Fri Apr 11 18:36:14 +0000 2014", 
+                                                                                                  "tree_size": 2, 
+                                                                                                  "tweet": "@WYApril If people die because fringe anti-government militias start a firefight, would you blame the cops or the militias?\n", 
+                                                                                                  "uid": 22063600, 
+                                                                                                  "user": 0, 
+                                                                                                  "user_score": 0.6931471805599453, 
+                                                                                                  "users": {
+                                                                                                    "0": 1, 
+                                                                                                    "6": 1
+                                                                                                  }
+                                                                                                }
+                                                                                              ], 
+                                                                                              "entropy_score": 0.7001655851242942, 
+                                                                                              "favourites": 0, 
+                                                                                              "follower": false, 
+                                                                                              "id": 454688868499861504, 
+                                                                                              "reply": true, 
+                                                                                              "timestamp": "Fri Apr 11 18:34:08 +0000 2014", 
+                                                                                              "tree_size": 4, 
+                                                                                              "tweet": "@JoshuaHol So if people die, it's going to be fine because hey, he should have paid a fee?\n", 
+                                                                                              "uid": 307665488, 
+                                                                                              "user": 6, 
+                                                                                              "user_score": 1.0397207708399179, 
+                                                                                              "users": {
+                                                                                                "0": 1, 
+                                                                                                "13": 1, 
+                                                                                                "6": 2
+                                                                                              }
+                                                                                            }, 
+                                                                                            {
+                                                                                              "entropy_score": 0.0, 
+                                                                                              "favourites": 0, 
+                                                                                              "follower": true, 
+                                                                                              "id": 454689806899888128, 
+                                                                                              "reply": true, 
+                                                                                              "timestamp": "Fri Apr 11 18:37:52 +0000 2014", 
+                                                                                              "tree_size": 1, 
+                                                                                              "tweet": "@JoshuaHol @WYApril New rule: If a citizen rejects a law,  gov't should just let them off, because they may be violent. Should work out fine\n", 
+                                                                                              "uid": 124834823, 
+                                                                                              "user": 13, 
+                                                                                              "user_score": 0.0, 
+                                                                                              "users": {
+                                                                                                "13": 1
+                                                                                              }
+                                                                                            }, 
+                                                                                            {
+                                                                                              "entropy_score": 0.0, 
+                                                                                              "favourites": 0, 
+                                                                                              "follower": true, 
+                                                                                              "id": 454690869052850176, 
+                                                                                              "reply": true, 
+                                                                                              "timestamp": "Fri Apr 11 18:42:05 +0000 2014", 
+                                                                                              "tree_size": 1, 
+                                                                                              "tweet": "MT @JoshuaHol: I favor paying fees over creating a dangerous stand-off w cops on flimsy pretext that you don\u2019t recognize gov. #BundyRanch", 
+                                                                                              "uid": 62038593, 
+                                                                                              "user": 12, 
+                                                                                              "user_score": 0.0, 
+                                                                                              "users": {
+                                                                                                "12": 1
+                                                                                              }
+                                                                                            }
+                                                                                          ], 
+                                                                                          "entropy_score": 1.6544851364539017, 
+                                                                                          "favourites": 1, 
+                                                                                          "follower": false, 
+                                                                                          "id": 454688537821319169, 
+                                                                                          "reply": true, 
+                                                                                          "timestamp": "Fri Apr 11 18:32:49 +0000 2014", 
+                                                                                          "tree_size": 7, 
+                                                                                          "tweet": "I favor paying your fees over creating a dangerous stand-off w cops on the flimsy pretext that you don\u2019t recognize the gov. @WYApril\n", 
+                                                                                          "uid": 22063600, 
+                                                                                          "user": 0, 
+                                                                                          "user_score": 1.351783994289646, 
+                                                                                          "users": {
+                                                                                            "0": 2, 
+                                                                                            "12": 1, 
+                                                                                            "13": 2, 
+                                                                                            "6": 2
+                                                                                          }
+                                                                                        }
+                                                                                      ], 
+                                                                                      "entropy_score": 1.6544851364539017, 
+                                                                                      "favourites": 0, 
+                                                                                      "follower": false, 
+                                                                                      "id": 454687976660799488, 
+                                                                                      "reply": true, 
+                                                                                      "timestamp": "Fri Apr 11 18:30:35 +0000 2014", 
+                                                                                      "tree_size": 8, 
+                                                                                      "tweet": "@JoshuaHol So you favor bloodshed and spending millions as justification for unpaid cattle grazing?\n", 
+                                                                                      "uid": 307665488, 
+                                                                                      "user": 6, 
+                                                                                      "user_score": 1.320888343149322, 
+                                                                                      "users": {
+                                                                                        "0": 2, 
+                                                                                        "12": 1, 
+                                                                                        "13": 2, 
+                                                                                        "6": 3
+                                                                                      }
+                                                                                    }, 
+                                                                                    {
+                                                                                      "entropy_score": 0.0, 
+                                                                                      "favourites": 0, 
+                                                                                      "follower": true, 
+                                                                                      "id": 454688986909270016, 
+                                                                                      "reply": false, 
+                                                                                      "timestamp": "Fri Apr 11 18:34:36 +0000 2014", 
+                                                                                      "tree_size": 1, 
+                                                                                      "tweet": "RT @JoshuaHol: You keep saying that. The court cases were about his refusal to pay grazing fees, so I\u2019ll go with the record on this one. @W\u2026\n", 
+                                                                                      "uid": 21918727, 
+                                                                                      "user": 11, 
+                                                                                      "user_score": 0.0, 
+                                                                                      "users": {
+                                                                                        "11": 1
+                                                                                      }
+                                                                                    }
+                                                                                  ], 
+                                                                                  "entropy_score": 2.0382004418812367, 
+                                                                                  "favourites": 0, 
+                                                                                  "follower": false, 
+                                                                                  "id": 454687571428507648, 
+                                                                                  "reply": true, 
+                                                                                  "timestamp": "Fri Apr 11 18:28:59 +0000 2014", 
+                                                                                  "tree_size": 10, 
+                                                                                  "tweet": "You keep saying that. The court cases were about his refusal to pay grazing fees, so I\u2019ll go with the record on this one. @WYApril\n", 
+                                                                                  "uid": 22063600, 
+                                                                                  "user": 0, 
+                                                                                  "user_score": 1.5047882836811908, 
+                                                                                  "users": {
+                                                                                    "0": 3, 
+                                                                                    "11": 1, 
+                                                                                    "12": 1, 
+                                                                                    "13": 2, 
+                                                                                    "6": 3
+                                                                                  }
+                                                                                }
+                                                                              ], 
+                                                                              "entropy_score": 2.0382004418812367, 
+                                                                              "favourites": 0, 
+                                                                              "follower": false, 
+                                                                              "id": 454687276182683648, 
+                                                                              "reply": true, 
+                                                                              "timestamp": "Fri Apr 11 18:27:48 +0000 2014", 
+                                                                              "tree_size": 11, 
+                                                                              "tweet": "@JoshuaHol They want  his land and his water rights.\n", 
+                                                                              "uid": 307665488, 
+                                                                              "user": 6, 
+                                                                              "user_score": 1.4681399390162087, 
+                                                                              "users": {
+                                                                                "0": 3, 
+                                                                                "11": 1, 
+                                                                                "12": 1, 
+                                                                                "13": 2, 
+                                                                                "6": 4
+                                                                              }
+                                                                            }
+                                                                          ], 
+                                                                          "entropy_score": 2.3537200232430138, 
+                                                                          "favourites": 2, 
+                                                                          "follower": false, 
+                                                                          "id": 454686589734879233, 
+                                                                          "reply": true, 
+                                                                          "timestamp": "Fri Apr 11 18:25:05 +0000 2014", 
+                                                                          "tree_size": 13, 
+                                                                          "tweet": ".@WYApril But he wasn\u2019t grazing cattle on his land. That\u2019s the topic at hand.\n", 
+                                                                          "uid": 22063600, 
+                                                                          "user": 0, 
+                                                                          "user_score": 1.4127446368638479, 
+                                                                          "users": {
+                                                                            "0": 4, 
+                                                                            "11": 1, 
+                                                                            "12": 1, 
+                                                                            "13": 2, 
+                                                                            "6": 5
+                                                                          }
+                                                                        }, 
+                                                                        {
+                                                                          "entropy_score": 0.0, 
+                                                                          "favourites": 0, 
+                                                                          "follower": false, 
+                                                                          "id": 454686605002170369, 
+                                                                          "reply": true, 
+                                                                          "timestamp": "Fri Apr 11 18:25:08 +0000 2014", 
+                                                                          "tree_size": 1, 
+                                                                          "tweet": "@WYApril @DoremusJ @JoshuaHol @AmericanHawkTPJ Oh, so I guess my dad can just stop paying his mortgage then. Since he lives there.\n", 
+                                                                          "uid": 57834409, 
+                                                                          "user": 2, 
+                                                                          "user_score": 0.0, 
+                                                                          "users": {
+                                                                            "2": 1
+                                                                          }
+                                                                        }
+                                                                      ], 
+                                                                      "entropy_score": 2.636770527841229, 
+                                                                      "favourites": 0, 
+                                                                      "follower": false, 
+                                                                      "id": 454686425150021632, 
+                                                                      "reply": true, 
+                                                                      "timestamp": "Fri Apr 11 18:24:26 +0000 2014", 
+                                                                      "tree_size": 15, 
+                                                                      "tweet": "@DoremusJ @Driveswift @JoshuaHol @AmericanHawkTPJ HIS RANCH IS HIS LAND.\n", 
+                                                                      "uid": 307665488, 
+                                                                      "user": 6, 
+                                                                      "user_score": 1.5292482930376912, 
+                                                                      "users": {
+                                                                        "0": 4, 
+                                                                        "11": 1, 
+                                                                        "12": 1, 
+                                                                        "13": 2, 
+                                                                        "2": 1, 
+                                                                        "6": 6
+                                                                      }
+                                                                    }
+                                                                  ], 
+                                                                  "entropy_score": 2.636770527841229, 
+                                                                  "favourites": 0, 
+                                                                  "follower": false, 
+                                                                  "id": 454686258342543360, 
+                                                                  "reply": true, 
+                                                                  "timestamp": "Fri Apr 11 18:23:46 +0000 2014", 
+                                                                  "tree_size": 16, 
+                                                                  "tweet": "@WYApril It's not his land, your clue should've been the word \"lease\" @Driveswift @JoshuaHol @AmericanHawkTPJ\n", 
+                                                                  "uid": 326957691, 
+                                                                  "user": 5, 
+                                                                  "user_score": 1.6674619334292948, 
+                                                                  "users": {
+                                                                    "0": 4, 
+                                                                    "11": 1, 
+                                                                    "12": 1, 
+                                                                    "13": 2, 
+                                                                    "2": 1, 
+                                                                    "5": 1, 
+                                                                    "6": 6
+                                                                  }
+                                                                }
+                                                              ], 
+                                                              "entropy_score": 9.363123145875033, 
+                                                              "favourites": 0, 
+                                                              "follower": false, 
+                                                              "id": 454684177451855872, 
+                                                              "important_entropy": true, 
+                                                              "reply": true, 
+                                                              "timestamp": "Fri Apr 11 18:15:30 +0000 2014", 
+                                                              "tree_size": 46, 
+                                                              "tweet": "@DoremusJ @Driveswift @JoshuaHol @AmericanHawkTPJ they pulled his lease! They want his land.\n", 
+                                                              "uid": 307665488, 
+                                                              "user": 6, 
+                                                              "user_score": 1.8765449298378167, 
+                                                              "users": {
+                                                                "0": 9, 
+                                                                "11": 1, 
+                                                                "12": 1, 
+                                                                "13": 2, 
+                                                                "14": 8, 
+                                                                "2": 4, 
+                                                                "3": 1, 
+                                                                "5": 8, 
+                                                                "6": 12
+                                                              }
+                                                            }
+                                                          ], 
+                                                          "entropy_score": 12.313062347204939, 
+                                                          "favourites": 1, 
+                                                          "follower": false, 
+                                                          "id": 454683950254796800, 
+                                                          "important_entropy": true, 
+                                                          "reply": true, 
+                                                          "timestamp": "Fri Apr 11 18:14:36 +0000 2014", 
+                                                          "tree_size": 59, 
+                                                          "tweet": "@WYApril I understand perfectly. 18,000 people lease grazing rights on Fed land. He's a slacker. @Driveswift @JoshuaHol @AmericanHawkTPJ\n", 
+                                                          "uid": 326957691, 
+                                                          "user": 5, 
+                                                          "user_score": 1.8750128971560016, 
+                                                          "users": {
+                                                            "0": 10, 
+                                                            "11": 1, 
+                                                            "12": 1, 
+                                                            "13": 2, 
+                                                            "14": 8, 
+                                                            "2": 7, 
+                                                            "3": 2, 
+                                                            "5": 14, 
+                                                            "6": 14
+                                                          }
+                                                        }
+                                                      ], 
+                                                      "entropy_score": 12.406305030491229, 
+                                                      "favourites": 0, 
+                                                      "follower": false, 
+                                                      "id": 454683269527638016, 
+                                                      "reply": true, 
+                                                      "timestamp": "Fri Apr 11 18:11:53 +0000 2014", 
+                                                      "tree_size": 61, 
+                                                      "tweet": "@Driveswift @DoremusJ @JoshuaHol @AmericanHawkTPJ You don't understand western lands.\n", 
+                                                      "uid": 307665488, 
+                                                      "user": 6, 
+                                                      "user_score": 1.870922061710944, 
+                                                      "users": {
+                                                        "0": 10, 
+                                                        "11": 1, 
+                                                        "12": 1, 
+                                                        "13": 2, 
+                                                        "14": 8, 
+                                                        "2": 8, 
+                                                        "3": 2, 
+                                                        "5": 14, 
+                                                        "6": 15
+                                                      }
+                                                    }
+                                                  ], 
+                                                  "entropy_score": 12.406305030491229, 
+                                                  "favourites": 0, 
+                                                  "follower": false, 
+                                                  "id": 454683038811955200, 
+                                                  "reply": true, 
+                                                  "timestamp": "Fri Apr 11 18:10:58 +0000 2014", 
+                                                  "tree_size": 62, 
+                                                  "tweet": "@WYApril @DoremusJ @JoshuaHol @AmericanHawkTPJ My family has cattle in MI. They own their own land, they don't need free land from gov't.\n", 
+                                                  "uid": 57834409, 
+                                                  "user": 2, 
+                                                  "user_score": 1.8726739203226455, 
+                                                  "users": {
+                                                    "0": 10, 
+                                                    "11": 1, 
+                                                    "12": 1, 
+                                                    "13": 2, 
+                                                    "14": 8, 
+                                                    "2": 9, 
+                                                    "3": 2, 
+                                                    "5": 14, 
+                                                    "6": 15
+                                                  }
+                                                }, 
+                                                {
+                                                  "entropy_score": 0.0, 
+                                                  "favourites": 0, 
+                                                  "follower": false, 
+                                                  "id": 454683305334804481, 
+                                                  "reply": true, 
+                                                  "timestamp": "Fri Apr 11 18:12:02 +0000 2014", 
+                                                  "tree_size": 1, 
+                                                  "tweet": "@WYApril @DoremusJ @JoshuaHol @Driveswift yes lol\n", 
+                                                  "uid": 49690284, 
+                                                  "user": 3, 
+                                                  "user_score": 0.0, 
+                                                  "users": {
+                                                    "3": 1
+                                                  }
+                                                }, 
+                                                {
+                                                  "entropy_score": 0.0, 
+                                                  "favourites": 0, 
+                                                  "follower": false, 
+                                                  "id": 454683673384591361, 
+                                                  "reply": true, 
+                                                  "timestamp": "Fri Apr 11 18:13:30 +0000 2014", 
+                                                  "tree_size": 1, 
+                                                  "tweet": "@WYApril Did you read my profile? @JoshuaHol @Driveswift @AmericanHawkTPJ\n", 
+                                                  "uid": 326957691, 
+                                                  "user": 5, 
+                                                  "user_score": 0.0, 
+                                                  "users": {
+                                                    "5": 1
+                                                  }
+                                                }
+                                              ], 
+                                              "entropy_score": 12.583098843123192, 
+                                              "favourites": 0, 
+                                              "follower": false, 
+                                              "id": 454682846708240384, 
+                                              "reply": true, 
+                                              "timestamp": "Fri Apr 11 18:10:12 +0000 2014", 
+                                              "tree_size": 65, 
+                                              "tweet": "@DoremusJ @JoshuaHol @Driveswift @AmericanHawkTPJ Where do you live? NY?\n", 
+                                              "uid": 307665488, 
+                                              "user": 6, 
+                                              "user_score": 1.8805302197587292, 
+                                              "users": {
+                                                "0": 10, 
+                                                "11": 1, 
+                                                "12": 1, 
+                                                "13": 2, 
+                                                "14": 8, 
+                                                "2": 9, 
+                                                "3": 3, 
+                                                "5": 15, 
+                                                "6": 16
+                                              }
+                                            }
+                                          ], 
+                                          "entropy_score": 12.583098843123192, 
+                                          "favourites": 0, 
+                                          "follower": false, 
+                                          "id": 454682730140155904, 
+                                          "reply": true, 
+                                          "timestamp": "Fri Apr 11 18:09:45 +0000 2014", 
+                                          "tree_size": 66, 
+                                          "tweet": "@WYApril Why doesn't he graze is cattle on his own land instead of Federal land? @JoshuaHol @Driveswift @AmericanHawkTPJ\n", 
+                                          "uid": 326957691, 
+                                          "user": 5, 
+                                          "user_score": 1.8738763359930568, 
+                                          "users": {
+                                            "0": 10, 
+                                            "11": 1, 
+                                            "12": 1, 
+                                            "13": 2, 
+                                            "14": 8, 
+                                            "2": 9, 
+                                            "3": 3, 
+                                            "5": 16, 
+                                            "6": 16
+                                          }
+                                        }, 
+                                        {
+                                          "children": [
+                                            {
+                                              "children": [
+                                                {
+                                                  "children": [
+                                                    {
+                                                      "children": [
+                                                        {
+                                                          "children": [
+                                                            {
+                                                              "children": [
+                                                                {
+                                                                  "entropy_score": 0.0, 
+                                                                  "favourites": 1, 
+                                                                  "follower": false, 
+                                                                  "id": 454684678294089728, 
+                                                                  "reply": true, 
+                                                                  "timestamp": "Fri Apr 11 18:17:29 +0000 2014", 
+                                                                  "tree_size": 1, 
+                                                                  "tweet": "EVERYTHING I DON\u2019T LIKE SHOULD BE UNCONSTITUTIONAL TO BEGIN WITH! @WYApril\n", 
+                                                                  "uid": 22063600, 
+                                                                  "user": 0, 
+                                                                  "user_score": 0.0, 
+                                                                  "users": {
+                                                                    "0": 1
+                                                                  }
+                                                                }
+                                                              ], 
+                                                              "entropy_score": 0.0, 
+                                                              "favourites": 0, 
+                                                              "follower": false, 
+                                                              "id": 454684510190174209, 
+                                                              "reply": true, 
+                                                              "timestamp": "Fri Apr 11 18:16:49 +0000 2014", 
+                                                              "tree_size": 2, 
+                                                              "tweet": "@JoshuaHol BLM writing \"law\" should be unconstitutional to begin with!\n", 
+                                                              "uid": 307665488, 
+                                                              "user": 6, 
+                                                              "user_score": 0.6931471805599453, 
+                                                              "users": {
+                                                                "0": 1, 
+                                                                "6": 1
+                                                              }
+                                                            }, 
+                                                            {
+                                                              "entropy_score": 0.0, 
+                                                              "favourites": 0, 
+                                                              "follower": true, 
+                                                              "id": 454685063494770689, 
+                                                              "reply": true, 
+                                                              "timestamp": "Fri Apr 11 18:19:01 +0000 2014", 
+                                                              "tree_size": 1, 
+                                                              "tweet": "@JoshuaHol @WYApril Don't you know \"laws\" are just collectivist fictions? Like that \"Constitution\" the teabaggers keep yammering about.\n", 
+                                                              "uid": 812185596, 
+                                                              "user": 10, 
+                                                              "user_score": 0.0, 
+                                                              "users": {
+                                                                "10": 1
+                                                              }
+                                                            }, 
+                                                            {
+                                                              "entropy_score": 0.0, 
+                                                              "favourites": 0, 
+                                                              "follower": true, 
+                                                              "id": 454686057217269760, 
+                                                              "reply": true, 
+                                                              "timestamp": "Fri Apr 11 18:22:58 +0000 2014", 
+                                                              "tree_size": 1, 
+                                                              "tweet": "I don't think you get how quotes work, @JoshuaHol and note that you are arguing with a \"homeschooling\" mom, @WYApril\n", 
+                                                              "uid": 16059891, 
+                                                              "user": 9, 
+                                                              "user_score": 0.0, 
+                                                              "users": {
+                                                                "9": 1
+                                                              }
+                                                            }
+                                                          ], 
+                                                          "entropy_score": 1.1436928479239097, 
+                                                          "favourites": 0, 
+                                                          "follower": false, 
+                                                          "id": 454684207399567361, 
+                                                          "reply": true, 
+                                                          "timestamp": "Fri Apr 11 18:15:37 +0000 2014", 
+                                                          "tree_size": 5, 
+                                                          "tweet": "Putting \u201claw\u201d in scare quotes isn\u2019t a defense for breaking the law in any court anywhere. @WYApril\n", 
+                                                          "uid": 22063600, 
+                                                          "user": 0, 
+                                                          "user_score": 1.3321790402101223, 
+                                                          "users": {
+                                                            "0": 2, 
+                                                            "10": 1, 
+                                                            "6": 1, 
+                                                            "9": 1
+                                                          }
+                                                        }, 
+                                                        {
+                                                          "children": [
+                                                            {
+                                                              "children": [
+                                                                {
+                                                                  "children": [
+                                                                    {
+                                                                      "children": [
+                                                                        {
+                                                                          "entropy_score": 0.0, 
+                                                                          "favourites": 0, 
+                                                                          "follower": false, 
+                                                                          "id": 454685614538256384, 
+                                                                          "reply": false, 
+                                                                          "timestamp": "Fri Apr 11 18:21:12 +0000 2014", 
+                                                                          "tree_size": 1, 
+                                                                          "tweet": "RT @owillis: @JoshuaHol im going to steal every cute weiner dog i see because i dont believe in obama's laws.\n", 
+                                                                          "uid": 22063600, 
+                                                                          "user": 0, 
+                                                                          "user_score": 0.0, 
+                                                                          "users": {
+                                                                            "0": 1
+                                                                          }
+                                                                        }
+                                                                      ], 
+                                                                      "entropy_score": 0.0, 
+                                                                      "favourites": 1, 
+                                                                      "follower": true, 
+                                                                      "id": 454685533990838272, 
+                                                                      "reply": true, 
+                                                                      "timestamp": "Fri Apr 11 18:20:53 +0000 2014", 
+                                                                      "tree_size": 2, 
+                                                                      "tweet": "@JoshuaHol im going to steal every cute weiner dog i see because i dont believe in obama's laws.\n", 
+                                                                      "uid": 3497941, 
+                                                                      "user": 8, 
+                                                                      "user_score": 0.6931471805599453, 
+                                                                      "users": {
+                                                                        "0": 1, 
+                                                                        "8": 1
+                                                                      }
+                                                                    }, 
+                                                                    {
+                                                                      "children": [
+                                                                        {
+                                                                          "entropy_score": 0.0, 
+                                                                          "favourites": 0, 
+                                                                          "follower": false, 
+                                                                          "id": 454686263371919360, 
+                                                                          "reply": true, 
+                                                                          "timestamp": "Fri Apr 11 18:23:47 +0000 2014", 
+                                                                          "tree_size": 1, 
+                                                                          "tweet": "I wouldn\u2019t steal fodder for 20 years to begin with. If I did, I hope I\u2019d stand up and face the music w/ out whining. @WYApril\n", 
+                                                                          "uid": 22063600, 
+                                                                          "user": 0, 
+                                                                          "user_score": 0.0, 
+                                                                          "users": {
+                                                                            "0": 1
+                                                                          }
+                                                                        }
+                                                                      ], 
+                                                                      "entropy_score": 0.0, 
+                                                                      "favourites": 0, 
+                                                                      "follower": false, 
+                                                                      "id": 454685546095194112, 
+                                                                      "reply": true, 
+                                                                      "timestamp": "Fri Apr 11 18:20:56 +0000 2014", 
+                                                                      "tree_size": 2, 
+                                                                      "tweet": "@JoshuaHol and then if the court said too bad, you would willingly pack up and move out to follow the law.\n", 
+                                                                      "uid": 307665488, 
+                                                                      "user": 6, 
+                                                                      "user_score": 0.6931471805599453, 
+                                                                      "users": {
+                                                                        "0": 1, 
+                                                                        "6": 1
+                                                                      }
+                                                                    }
+                                                                  ], 
+                                                                  "entropy_score": 0.7624618986159398, 
+                                                                  "favourites": 0, 
+                                                                  "follower": false, 
+                                                                  "id": 454685252754358272, 
+                                                                  "reply": true, 
+                                                                  "timestamp": "Fri Apr 11 18:19:46 +0000 2014", 
+                                                                  "tree_size": 5, 
+                                                                  "tweet": "I would take it to court, like he did. It\u2019s called due process, like it says in the Constitution! @WYApril\n", 
+                                                                  "uid": 22063600, 
+                                                                  "user": 0, 
+                                                                  "user_score": 0.9502705392332347, 
+                                                                  "users": {
+                                                                    "0": 3, 
+                                                                    "6": 1, 
+                                                                    "8": 1
+                                                                  }
+                                                                }
+                                                              ], 
+                                                              "entropy_score": 0.7624618986159398, 
+                                                              "favourites": 0, 
+                                                              "follower": false, 
+                                                              "id": 454684749462654976, 
+                                                              "reply": true, 
+                                                              "timestamp": "Fri Apr 11 18:17:46 +0000 2014", 
+                                                              "tree_size": 6, 
+                                                              "tweet": "@JoshuaHol So if a law is passed tomorrow that says you need to leave your house, you better pack it up and get out.\n", 
+                                                              "uid": 307665488, 
+                                                              "user": 6, 
+                                                              "user_score": 1.0114042647073518, 
+                                                              "users": {
+                                                                "0": 3, 
+                                                                "6": 2, 
+                                                                "8": 1
+                                                              }
+                                                            }
+                                                          ], 
+                                                          "entropy_score": 0.7624618986159398, 
+                                                          "favourites": 0, 
+                                                          "follower": false, 
+                                                          "id": 454684316258545665, 
+                                                          "reply": true, 
+                                                          "timestamp": "Fri Apr 11 18:16:03 +0000 2014", 
+                                                          "tree_size": 7, 
+                                                          "tweet": "I mean, one has to follow laws after they\u2019re passed, not before. That\u2019s how laws work.@WYApril\n", 
+                                                          "uid": 22063600, 
+                                                          "user": 0, 
+                                                          "user_score": 0.9556998911125343, 
+                                                          "users": {
+                                                            "0": 4, 
+                                                            "6": 2, 
+                                                            "8": 1
+                                                          }
+                                                        }
+                                                      ], 
+                                                      "entropy_score": 2.6532673391305277, 
+                                                      "favourites": 0, 
+                                                      "follower": false, 
+                                                      "id": 454683858835746816, 
+                                                      "important_entropy": true, 
+                                                      "reply": true, 
+                                                      "timestamp": "Fri Apr 11 18:14:14 +0000 2014", 
+                                                      "tree_size": 13, 
+                                                      "tweet": "@JoshuaHol I'm saying his grazing predates and BLM \"law\"\n", 
+                                                      "uid": 307665488, 
+                                                      "user": 6, 
+                                                      "user_score": 1.3114313374732376, 
+                                                      "users": {
+                                                        "0": 6, 
+                                                        "10": 1, 
+                                                        "6": 4, 
+                                                        "8": 1, 
+                                                        "9": 1
+                                                      }
+                                                    }
+                                                  ], 
+                                                  "entropy_score": 2.6532673391305277, 
+                                                  "favourites": 0, 
+                                                  "follower": false, 
+                                                  "id": 454683468937850880, 
+                                                  "reply": true, 
+                                                  "timestamp": "Fri Apr 11 18:12:41 +0000 2014", 
+                                                  "tree_size": 14, 
+                                                  "tweet": "@WYApril How is that even relevant? You\u2019re saying nostalgia for the 19th century trumps the law?\n", 
+                                                  "uid": 22063600, 
+                                                  "user": 0, 
+                                                  "user_score": 1.2700181519104903, 
+                                                  "users": {
+                                                    "0": 7, 
+                                                    "10": 1, 
+                                                    "6": 4, 
+                                                    "8": 1, 
+                                                    "9": 1
+                                                  }
+                                                }
+                                              ], 
+                                              "entropy_score": 2.6532673391305277, 
+                                              "favourites": 0, 
+                                              "follower": false, 
+                                              "id": 454683125818220544, 
+                                              "reply": true, 
+                                              "timestamp": "Fri Apr 11 18:11:19 +0000 2014", 
+                                              "tree_size": 15, 
+                                              "tweet": "@JoshuaHol His family has grazed that same land since 1880, before BLM existed.\n", 
+                                              "uid": 307665488, 
+                                              "user": 6, 
+                                              "user_score": 1.2634794940650305, 
+                                              "users": {
+                                                "0": 7, 
+                                                "10": 1, 
+                                                "6": 5, 
+                                                "8": 1, 
+                                                "9": 1
+                                              }
+                                            }
+                                          ], 
+                                          "entropy_score": 2.6532673391305277, 
+                                          "favourites": 1, 
+                                          "follower": false, 
+                                          "id": 454682941776740353, 
+                                          "reply": true, 
+                                          "timestamp": "Fri Apr 11 18:10:35 +0000 2014", 
+                                          "tree_size": 16, 
+                                          "tweet": ".@WYApril He\u2019s been grazing his cows on *federal land.* His claims have been litigated for 20 years. He lost.\n", 
+                                          "uid": 22063600, 
+                                          "user": 0, 
+                                          "user_score": 1.229918603764207, 
+                                          "users": {
+                                            "0": 8, 
+                                            "10": 1, 
+                                            "6": 5, 
+                                            "8": 1, 
+                                            "9": 1
+                                          }
+                                        }, 
+                                        {
+                                          "entropy_score": 0.0, 
+                                          "favourites": 0, 
+                                          "follower": false, 
+                                          "id": 454683046701465600, 
+                                          "reply": false, 
+                                          "timestamp": "Fri Apr 11 18:11:00 +0000 2014", 
+                                          "tree_size": 1, 
+                                          "tweet": "RT @WYApril: @DoremusJ @JoshuaHol @Driveswift @AmericanHawkTPJ His ranch land is private property. They want it for what's under it.\n", 
+                                          "uid": 49690284, 
+                                          "user": 3, 
+                                          "user_score": 0.0, 
+                                          "users": {
+                                            "3": 1
+                                          }
+                                        }, 
+                                        {
+                                          "entropy_score": 0.0, 
+                                          "favourites": 0, 
+                                          "follower": false, 
+                                          "id": 454683736148164608, 
+                                          "reply": false, 
+                                          "timestamp": "Fri Apr 11 18:13:45 +0000 2014", 
+                                          "tree_size": 1, 
+                                          "tweet": "RT @WYApril: @DoremusJ @JoshuaHol @Driveswift @AmericanHawkTPJ His ranch land is private property. They want it for what's under it.\n", 
+                                          "uid": 1880168863, 
+                                          "user": 7, 
+                                          "user_score": 0.0, 
+                                          "users": {
+                                            "7": 1
+                                          }
+                                        }
+                                      ], 
+                                      "entropy_score": 15.908282568332094, 
+                                      "favourites": 1, 
+                                      "follower": false, 
+                                      "id": 454682243055628288, 
+                                      "important_entropy": true, 
+                                      "important_users": true, 
+                                      "reply": true, 
+                                      "timestamp": "Fri Apr 11 18:07:48 +0000 2014", 
+                                      "tree_size": 85, 
+                                      "tweet": "@DoremusJ @JoshuaHol @Driveswift @AmericanHawkTPJ His ranch land is private property. They want it for what's under it.\n", 
+                                      "uid": 307665488, 
+                                      "user": 6, 
+                                      "user_score": 1.9987327799383814, 
+                                      "users": {
+                                        "0": 18, 
+                                        "10": 1, 
+                                        "11": 1, 
+                                        "12": 1, 
+                                        "13": 2, 
+                                        "14": 8, 
+                                        "2": 9, 
+                                        "3": 4, 
+                                        "5": 16, 
+                                        "6": 22, 
+                                        "7": 1, 
+                                        "8": 1, 
+                                        "9": 1
+                                      }
+                                    }
+                                  ], 
+                                  "entropy_score": 15.908282568332094, 
+                                  "favourites": 0, 
+                                  "follower": false, 
+                                  "id": 454681965447245824, 
+                                  "reply": true, 
+                                  "timestamp": "Fri Apr 11 18:06:42 +0000 2014", 
+                                  "tree_size": 86, 
+                                  "tweet": "@WYApril Most of our minerals are on Federal land. I've got dibs on Yosemite. @JoshuaHol @Driveswift @AmericanHawkTPJ\n", 
+                                  "uid": 326957691, 
+                                  "user": 5, 
+                                  "user_score": 1.9946231357879998, 
+                                  "users": {
+                                    "0": 18, 
+                                    "10": 1, 
+                                    "11": 1, 
+                                    "12": 1, 
+                                    "13": 2, 
+                                    "14": 8, 
+                                    "2": 9, 
+                                    "3": 4, 
+                                    "5": 17, 
+                                    "6": 22, 
+                                    "7": 1, 
+                                    "8": 1, 
+                                    "9": 1
+                                  }
+                                }
+                              ], 
+                              "entropy_score": 16.108284878867504, 
+                              "favourites": 0, 
+                              "follower": false, 
+                              "id": 454680776710160384, 
+                              "reply": true, 
+                              "timestamp": "Fri Apr 11 18:01:59 +0000 2014", 
+                              "tree_size": 91, 
+                              "tweet": "@JoshuaHol @DoremusJ @Driveswift @AmericanHawkTPJ Feds want his land for mineral development. He offered to pay state but won't pay feds.\n", 
+                              "uid": 307665488, 
+                              "user": 6, 
+                              "user_score": 1.9637721086809985, 
+                              "users": {
+                                "0": 19, 
+                                "10": 1, 
+                                "11": 1, 
+                                "12": 1, 
+                                "13": 2, 
+                                "14": 8, 
+                                "2": 9, 
+                                "3": 4, 
+                                "5": 18, 
+                                "6": 25, 
+                                "7": 1, 
+                                "8": 1, 
+                                "9": 1
+                              }
+                            }
+                          ], 
+                          "entropy_score": 16.174241046204745, 
+                          "favourites": 1, 
+                          "follower": false, 
+                          "id": 454680186223857665, 
+                          "reply": true, 
+                          "timestamp": "Fri Apr 11 17:59:38 +0000 2014", 
+                          "tree_size": 93, 
+                          "tweet": "@DoremusJ Good point, but I\u2019m guessing #BundyRanch supporters would be fine with that too. @Driveswift @AmericanHawkTPJ", 
+                          "uid": 22063600, 
+                          "user": 0, 
+                          "user_score": 1.9626415597780478, 
+                          "users": {
+                            "0": 20, 
+                            "10": 1, 
+                            "11": 1, 
+                            "12": 1, 
+                            "13": 2, 
+                            "14": 8, 
+                            "2": 10, 
+                            "3": 4, 
+                            "5": 18, 
+                            "6": 25, 
+                            "7": 1, 
+                            "8": 1, 
+                            "9": 1
+                          }
+                        }
+                      ], 
+                      "entropy_score": 16.174241046204745, 
+                      "favourites": 0, 
+                      "follower": true, 
+                      "id": 454680015687274496, 
+                      "reply": true, 
+                      "timestamp": "Fri Apr 11 17:58:57 +0000 2014", 
+                      "tree_size": 94, 
+                      "tweet": "@Driveswift What he's doing would is no different  than oil or timber company stealing resources from Fed land @AmericanHawkTPJ @JoshuaHol\n", 
+                      "uid": 326957691, 
+                      "user": 5, 
+                      "user_score": 1.9589997102920704, 
+                      "users": {
+                        "0": 20, 
+                        "10": 1, 
+                        "11": 1, 
+                        "12": 1, 
+                        "13": 2, 
+                        "14": 8, 
+                        "2": 10, 
+                        "3": 4, 
+                        "5": 19, 
+                        "6": 25, 
+                        "7": 1, 
+                        "8": 1, 
+                        "9": 1
+                      }
+                    }
+                  ], 
+                  "entropy_score": 16.174241046204745, 
+                  "favourites": 1, 
+                  "follower": false, 
+                  "id": 454678240083582976, 
+                  "reply": true, 
+                  "timestamp": "Fri Apr 11 17:51:54 +0000 2014", 
+                  "tree_size": 95, 
+                  "tweet": "@AmericanHawkTPJ @JoshuaHol Yes, and that means it's for EVERYONE, not for THIS GUY to graze for free. I can't build a house in Yellowstone.\n", 
+                  "uid": 57834409, 
+                  "user": 2, 
+                  "user_score": 1.9615112722661465, 
+                  "users": {
+                    "0": 20, 
+                    "10": 1, 
+                    "11": 1, 
+                    "12": 1, 
+                    "13": 2, 
+                    "14": 8, 
+                    "2": 11, 
+                    "3": 4, 
+                    "5": 19, 
+                    "6": 25, 
+                    "7": 1, 
+                    "8": 1, 
+                    "9": 1
+                  }
+                }, 
+                {
+                  "entropy_score": 0.0, 
+                  "favourites": 0, 
+                  "follower": false, 
+                  "id": 454689879646294017, 
+                  "reply": true, 
+                  "timestamp": "Fri Apr 11 18:38:09 +0000 2014", 
+                  "tree_size": 1, 
+                  "tweet": "@AmericanHawkTPJ @Driveswift @JoshuaHol keep defending moocher rancher who needs bovine welfare. He's stealing from The People.\n", 
+                  "uid": 163634745, 
+                  "user": 4, 
+                  "user_score": 0.0, 
+                  "users": {
+                    "4": 1
+                  }
+                }
+              ], 
+              "entropy_score": 16.237939315441693, 
+              "favourites": 0, 
+              "follower": false, 
+              "id": 454677834813149184, 
+              "important_users": true, 
+              "reply": true, 
+              "timestamp": "Fri Apr 11 17:50:17 +0000 2014", 
+              "tree_size": 97, 
+              "tweet": "@Driveswift @JoshuaHol The govt doesnt own that land- WE THE PEOPLE DO\n", 
+              "uid": 49690284, 
+              "user": 3, 
+              "user_score": 2.010002257323399, 
+              "users": {
+                "0": 20, 
+                "10": 1, 
+                "11": 1, 
+                "12": 1, 
+                "13": 2, 
+                "14": 8, 
+                "2": 11, 
+                "3": 5, 
+                "4": 1, 
+                "5": 19, 
+                "6": 25, 
+                "7": 1, 
+                "8": 1, 
+                "9": 1
+              }
+            }
+          ], 
+          "entropy_score": 16.237939315441693, 
+          "favourites": 0, 
+          "follower": false, 
+          "id": 454677644777635840, 
+          "important_users": true, 
+          "reply": true, 
+          "timestamp": "Fri Apr 11 17:49:32 +0000 2014", 
+          "tree_size": 98, 
+          "tweet": "@AmericanHawkTPJ @JoshuaHol ON gov't land.\n", 
+          "uid": 57834409, 
+          "user": 2, 
+          "user_score": 2.0113064812100387, 
+          "users": {
+            "0": 20, 
+            "10": 1, 
+            "11": 1, 
+            "12": 1, 
+            "13": 2, 
+            "14": 8, 
+            "2": 12, 
+            "3": 5, 
+            "4": 1, 
+            "5": 19, 
+            "6": 25, 
+            "7": 1, 
+            "8": 1, 
+            "9": 1
+          }
+        }
+      ], 
+      "entropy_score": 16.237939315441693, 
+      "favourites": 0, 
+      "follower": false, 
+      "id": 454677567052984320, 
+      "important_users": true, 
+      "reply": true, 
+      "timestamp": "Fri Apr 11 17:49:14 +0000 2014", 
+      "tree_size": 99, 
+      "tweet": "@JoshuaHol Its NOT PROVIDED BY GOVT, but other Patriots--- shill\n", 
+      "uid": 49690284, 
+      "user": 3, 
+      "user_score": 2.02014868847469, 
+      "users": {
+        "0": 20, 
+        "10": 1, 
+        "11": 1, 
+        "12": 1, 
+        "13": 2, 
+        "14": 8, 
+        "2": 12, 
+        "3": 6, 
+        "4": 1, 
+        "5": 19, 
+        "6": 25, 
+        "7": 1, 
+        "8": 1, 
+        "9": 1
+      }
+    }
+  ], 
+  "entropy_score": 16.348932454428258, 
+  "favourites": 1, 
+  "id": 454677320557928448, 
+  "important_users": true, 
+  "reply": false, 
+  "timestamp": "Fri Apr 11 17:48:15 +0000 2014", 
+  "total_tweets": 102, 
+  "total_users": 15, 
+  "tree_size": 102, 
+  "tweet": "MOOCHERS! MT @AmericanHawkTPJ: If you are hesitant on going to #BundyRanch because of supplies, there is food, water, everything you need!!", 
+  "uid": 22063600, 
+  "user": 0, 
+  "user_score": 2.051757788039309, 
+  "users": {
+    "0": 21, 
+    "1": 1, 
+    "10": 1, 
+    "11": 1, 
+    "12": 1, 
+    "13": 2, 
+    "14": 8, 
+    "2": 13, 
+    "3": 6, 
+    "4": 1, 
+    "5": 19, 
+    "6": 25, 
+    "7": 1, 
+    "8": 1, 
+    "9": 1
+  }
+}

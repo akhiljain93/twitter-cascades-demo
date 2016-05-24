@@ -1,0 +1,2555 @@
+{
+  "children": [
+    {
+      "entropy_score": 0.0, 
+      "favourites": 0, 
+      "follower": false, 
+      "id": 461542912808222720, 
+      "reply": false, 
+      "timestamp": "Wed Apr 30 16:29:40 +0000 2014", 
+      "tree_size": 1, 
+      "tweet": "RT @JonahNRO: Don't forget what these monsters in Oklahoma actually did. http://t.co/sdYuALVSR4\n", 
+      "uid": 15395753, 
+      "user": 53, 
+      "user_score": 0.0, 
+      "users": {
+        "53": 1
+      }
+    }, 
+    {
+      "entropy_score": 0.0, 
+      "favourites": 0, 
+      "follower": false, 
+      "id": 461542959675355136, 
+      "reply": false, 
+      "timestamp": "Wed Apr 30 16:29:51 +0000 2014", 
+      "tree_size": 1, 
+      "tweet": "RT @JonahNRO: Don't forget what these monsters in Oklahoma actually did. http://t.co/sdYuALVSR4\n", 
+      "uid": 59024717, 
+      "user": 52, 
+      "user_score": 0.0, 
+      "users": {
+        "52": 1
+      }
+    }, 
+    {
+      "entropy_score": 0.0, 
+      "favourites": 0, 
+      "follower": false, 
+      "id": 461543315268452352, 
+      "reply": false, 
+      "timestamp": "Wed Apr 30 16:31:16 +0000 2014", 
+      "tree_size": 1, 
+      "tweet": "RT @JonahNRO: Don't forget what these monsters in Oklahoma actually did. http://t.co/sdYuALVSR4\n", 
+      "uid": 18521067, 
+      "user": 51, 
+      "user_score": 0.0, 
+      "users": {
+        "51": 1
+      }
+    }, 
+    {
+      "entropy_score": 0.0, 
+      "favourites": 0, 
+      "follower": false, 
+      "id": 461543341658615809, 
+      "reply": false, 
+      "timestamp": "Wed Apr 30 16:31:22 +0000 2014", 
+      "tree_size": 1, 
+      "tweet": "RT @JonahNRO: Don't forget what these monsters in Oklahoma actually did. http://t.co/sdYuALVSR4\n", 
+      "uid": 15693190, 
+      "user": 50, 
+      "user_score": 0.0, 
+      "users": {
+        "50": 1
+      }
+    }, 
+    {
+      "entropy_score": 0.0, 
+      "favourites": 0, 
+      "follower": false, 
+      "id": 461543896757977089, 
+      "reply": false, 
+      "timestamp": "Wed Apr 30 16:33:34 +0000 2014", 
+      "tree_size": 1, 
+      "tweet": "RT @JonahNRO: Don't forget what these monsters in Oklahoma actually did. http://t.co/sdYuALVSR4\n", 
+      "uid": 818468149, 
+      "user": 49, 
+      "user_score": 0.0, 
+      "users": {
+        "49": 1
+      }
+    }, 
+    {
+      "entropy_score": 0.0, 
+      "favourites": 0, 
+      "follower": false, 
+      "id": 461544044187762689, 
+      "reply": false, 
+      "timestamp": "Wed Apr 30 16:34:09 +0000 2014", 
+      "tree_size": 1, 
+      "tweet": "RT @JonahNRO: Don't forget what these monsters in Oklahoma actually did. http://t.co/sdYuALVSR4\n", 
+      "uid": 221157375, 
+      "user": 48, 
+      "user_score": 0.0, 
+      "users": {
+        "48": 1
+      }
+    }, 
+    {
+      "children": [
+        {
+          "entropy_score": 0.0, 
+          "favourites": 0, 
+          "follower": false, 
+          "id": 461567628998615040, 
+          "reply": true, 
+          "timestamp": "Wed Apr 30 18:07:52 +0000 2014", 
+          "tree_size": 1, 
+          "tweet": "@ftworthwriter no.\n", 
+          "uid": 71627462, 
+          "user": 0, 
+          "user_score": 0.0, 
+          "users": {
+            "0": 1
+          }
+        }
+      ], 
+      "entropy_score": 0.0, 
+      "favourites": 0, 
+      "follower": false, 
+      "id": 461544817936195584, 
+      "reply": true, 
+      "timestamp": "Wed Apr 30 16:37:14 +0000 2014", 
+      "tree_size": 2, 
+      "tweet": "@JonahNRO so you would support more brutal and horrific forms of executions for extreme crimes?\n", 
+      "uid": 24428755, 
+      "user": 47, 
+      "user_score": 0.6931471805599453, 
+      "users": {
+        "0": 1, 
+        "47": 1
+      }
+    }, 
+    {
+      "entropy_score": 0.0, 
+      "favourites": 0, 
+      "follower": false, 
+      "id": 461545190554370049, 
+      "reply": false, 
+      "timestamp": "Wed Apr 30 16:38:43 +0000 2014", 
+      "tree_size": 1, 
+      "tweet": "RT @JonahNRO: Don't forget what these monsters in Oklahoma actually did. http://t.co/sdYuALVSR4\n", 
+      "uid": 340046380, 
+      "user": 46, 
+      "user_score": 0.0, 
+      "users": {
+        "46": 1
+      }
+    }, 
+    {
+      "entropy_score": 0.0, 
+      "favourites": 0, 
+      "follower": false, 
+      "id": 461546345111642112, 
+      "reply": false, 
+      "timestamp": "Wed Apr 30 16:43:18 +0000 2014", 
+      "tree_size": 1, 
+      "tweet": "RT @JonahNRO: Don't forget what these monsters in Oklahoma actually did. http://t.co/sdYuALVSR4\n", 
+      "uid": 1303121653, 
+      "user": 45, 
+      "user_score": 0.0, 
+      "users": {
+        "45": 1
+      }
+    }, 
+    {
+      "entropy_score": 0.0, 
+      "favourites": 0, 
+      "follower": false, 
+      "id": 461546816945651712, 
+      "reply": true, 
+      "timestamp": "Wed Apr 30 16:45:10 +0000 2014", 
+      "tree_size": 1, 
+      "tweet": "Exactly, karma is a bitch \"@JonahNRO: Don't forget what these monsters in Oklahoma actually did. http://t.co/L37xlSMVm7\u201d\n", 
+      "uid": 39048539, 
+      "user": 44, 
+      "user_score": 0.0, 
+      "users": {
+        "44": 1
+      }
+    }, 
+    {
+      "entropy_score": 0.0, 
+      "favourites": 0, 
+      "follower": false, 
+      "id": 461548253360553985, 
+      "reply": false, 
+      "timestamp": "Wed Apr 30 16:50:53 +0000 2014", 
+      "tree_size": 1, 
+      "tweet": "RT @JonahNRO: Don't forget what these monsters in Oklahoma actually did. http://t.co/sdYuALVSR4\n", 
+      "uid": 65375897, 
+      "user": 43, 
+      "user_score": 0.0, 
+      "users": {
+        "43": 1
+      }
+    }, 
+    {
+      "entropy_score": 0.0, 
+      "favourites": 0, 
+      "follower": false, 
+      "id": 461550412072771584, 
+      "reply": false, 
+      "timestamp": "Wed Apr 30 16:59:28 +0000 2014", 
+      "tree_size": 1, 
+      "tweet": "RT @JonahNRO: Don't forget what these monsters in Oklahoma actually did. http://t.co/sdYuALVSR4\n", 
+      "uid": 65063850, 
+      "user": 42, 
+      "user_score": 0.0, 
+      "users": {
+        "42": 1
+      }
+    }, 
+    {
+      "entropy_score": 0.0, 
+      "favourites": 0, 
+      "follower": false, 
+      "id": 461551527770218497, 
+      "reply": false, 
+      "timestamp": "Wed Apr 30 17:03:54 +0000 2014", 
+      "tree_size": 1, 
+      "tweet": "RT @JonahNRO: Don't forget what these monsters in Oklahoma actually did. http://t.co/sdYuALVSR4\n", 
+      "uid": 16388033, 
+      "user": 41, 
+      "user_score": 0.0, 
+      "users": {
+        "41": 1
+      }
+    }, 
+    {
+      "entropy_score": 0.0, 
+      "favourites": 0, 
+      "follower": false, 
+      "id": 461559430870335488, 
+      "reply": true, 
+      "timestamp": "Wed Apr 30 17:35:18 +0000 2014", 
+      "tree_size": 1, 
+      "tweet": "Perspective is important. RT @JonahNRO: Don't forget what these monsters in Oklahoma actually did. http://t.co/tP6CxMKTp8\n", 
+      "uid": 13000042, 
+      "user": 40, 
+      "user_score": 0.0, 
+      "users": {
+        "40": 1
+      }
+    }, 
+    {
+      "entropy_score": 0.0, 
+      "favourites": 0, 
+      "follower": false, 
+      "id": 461561532938063872, 
+      "reply": false, 
+      "timestamp": "Wed Apr 30 17:43:39 +0000 2014", 
+      "tree_size": 1, 
+      "tweet": "RT @JonahNRO: Don't forget what these monsters in Oklahoma actually did. http://t.co/sdYuALVSR4\n", 
+      "uid": 444319455, 
+      "user": 39, 
+      "user_score": 0.0, 
+      "users": {
+        "39": 1
+      }
+    }, 
+    {
+      "entropy_score": 0.0, 
+      "favourites": 0, 
+      "follower": false, 
+      "id": 461575286341902336, 
+      "reply": false, 
+      "timestamp": "Wed Apr 30 18:38:18 +0000 2014", 
+      "tree_size": 1, 
+      "tweet": "RT @JonahNRO: Don't forget what these monsters in Oklahoma actually did. http://t.co/sdYuALVSR4\n", 
+      "uid": 483285907, 
+      "user": 38, 
+      "user_score": 0.0, 
+      "users": {
+        "38": 1
+      }
+    }, 
+    {
+      "entropy_score": 0.0, 
+      "favourites": 0, 
+      "follower": false, 
+      "id": 461577934575525889, 
+      "reply": false, 
+      "timestamp": "Wed Apr 30 18:48:49 +0000 2014", 
+      "tree_size": 1, 
+      "tweet": "RT @JonahNRO: Don't forget what these monsters in Oklahoma actually did. http://t.co/sdYuALVSR4\n", 
+      "uid": 158025921, 
+      "user": 37, 
+      "user_score": 0.0, 
+      "users": {
+        "37": 1
+      }
+    }, 
+    {
+      "entropy_score": 0.0, 
+      "favourites": 0, 
+      "follower": false, 
+      "id": 461580803017670657, 
+      "reply": false, 
+      "timestamp": "Wed Apr 30 19:00:13 +0000 2014", 
+      "tree_size": 1, 
+      "tweet": "RT @JonahNRO: Don't forget what these monsters in Oklahoma actually did. http://t.co/sdYuALVSR4\n", 
+      "uid": 187059363, 
+      "user": 36, 
+      "user_score": 0.0, 
+      "users": {
+        "36": 1
+      }
+    }, 
+    {
+      "entropy_score": 0.0, 
+      "favourites": 0, 
+      "follower": false, 
+      "id": 461586152865017856, 
+      "reply": true, 
+      "timestamp": "Wed Apr 30 19:21:29 +0000 2014", 
+      "tree_size": 1, 
+      "tweet": "Not for the faint hearted RT\u201c@JonahNRO: Don't forget what these monsters in Oklahoma actually did. http://t.co/yaUWwuLJRZ\u201d\n", 
+      "uid": 248994056, 
+      "user": 35, 
+      "user_score": 0.0, 
+      "users": {
+        "35": 1
+      }
+    }, 
+    {
+      "entropy_score": 0.0, 
+      "favourites": 0, 
+      "follower": false, 
+      "id": 461588027819950080, 
+      "reply": true, 
+      "timestamp": "Wed Apr 30 19:28:56 +0000 2014", 
+      "tree_size": 1, 
+      "tweet": "@JonahNRO The 8th Amendment does not have an exemption.  So much for strict constructionists.\n", 
+      "uid": 268792491, 
+      "user": 34, 
+      "user_score": 0.0, 
+      "users": {
+        "34": 1
+      }
+    }, 
+    {
+      "entropy_score": 0.0, 
+      "favourites": 0, 
+      "follower": false, 
+      "id": 461589464444198912, 
+      "reply": false, 
+      "timestamp": "Wed Apr 30 19:34:38 +0000 2014", 
+      "tree_size": 1, 
+      "tweet": "RT @JonahNRO: Don't forget what these monsters in Oklahoma actually did. http://t.co/sdYuALVSR4\n", 
+      "uid": 5793792, 
+      "user": 13, 
+      "user_score": 0.0, 
+      "users": {
+        "13": 1
+      }
+    }, 
+    {
+      "entropy_score": 0.0, 
+      "favourites": 0, 
+      "follower": false, 
+      "id": 461591908247429121, 
+      "reply": false, 
+      "timestamp": "Wed Apr 30 19:44:21 +0000 2014", 
+      "tree_size": 1, 
+      "tweet": "RT @JonahNRO: Don't forget what these monsters in Oklahoma actually did. http://t.co/sdYuALVSR4\n", 
+      "uid": 526976464, 
+      "user": 12, 
+      "user_score": 0.0, 
+      "users": {
+        "12": 1
+      }
+    }, 
+    {
+      "entropy_score": 0.0, 
+      "favourites": 0, 
+      "follower": false, 
+      "id": 461598945785815041, 
+      "reply": false, 
+      "timestamp": "Wed Apr 30 20:12:19 +0000 2014", 
+      "tree_size": 1, 
+      "tweet": "RT @JonahNRO: Don't forget what these monsters in Oklahoma actually did. http://t.co/sdYuALVSR4\n", 
+      "uid": 202317378, 
+      "user": 11, 
+      "user_score": 0.0, 
+      "users": {
+        "11": 1
+      }
+    }, 
+    {
+      "entropy_score": 0.0, 
+      "favourites": 0, 
+      "follower": false, 
+      "id": 461611781707038720, 
+      "reply": false, 
+      "timestamp": "Wed Apr 30 21:03:19 +0000 2014", 
+      "tree_size": 1, 
+      "tweet": "RT @JonahNRO: Don't forget what these monsters in Oklahoma actually did. http://t.co/sdYuALVSR4\n", 
+      "uid": 1247829421, 
+      "user": 10, 
+      "user_score": 0.0, 
+      "users": {
+        "10": 1
+      }
+    }, 
+    {
+      "entropy_score": 0.0, 
+      "favourites": 0, 
+      "follower": false, 
+      "id": 461613519142940673, 
+      "reply": false, 
+      "timestamp": "Wed Apr 30 21:10:14 +0000 2014", 
+      "tree_size": 1, 
+      "tweet": "RT @JonahNRO: Don't forget what these monsters in Oklahoma actually did. http://t.co/sdYuALVSR4\n", 
+      "uid": 16921339, 
+      "user": 9, 
+      "user_score": 0.0, 
+      "users": {
+        "9": 1
+      }
+    }, 
+    {
+      "entropy_score": 0.0, 
+      "favourites": 0, 
+      "follower": false, 
+      "id": 461614004268302337, 
+      "reply": false, 
+      "timestamp": "Wed Apr 30 21:12:09 +0000 2014", 
+      "tree_size": 1, 
+      "tweet": "RT @JonahNRO: Don't forget what these monsters in Oklahoma actually did. http://t.co/sdYuALVSR4\n", 
+      "uid": 1184682378, 
+      "user": 8, 
+      "user_score": 0.0, 
+      "users": {
+        "8": 1
+      }
+    }, 
+    {
+      "entropy_score": 0.0, 
+      "favourites": 0, 
+      "follower": false, 
+      "id": 461614723403096064, 
+      "reply": false, 
+      "timestamp": "Wed Apr 30 21:15:01 +0000 2014", 
+      "tree_size": 1, 
+      "tweet": "RT @JonahNRO: Don't forget what these monsters in Oklahoma actually did. http://t.co/sdYuALVSR4\n", 
+      "uid": 22919741, 
+      "user": 7, 
+      "user_score": 0.0, 
+      "users": {
+        "7": 1
+      }
+    }, 
+    {
+      "entropy_score": 0.0, 
+      "favourites": 0, 
+      "follower": false, 
+      "id": 461616046558814208, 
+      "reply": true, 
+      "timestamp": "Wed Apr 30 21:20:16 +0000 2014", 
+      "tree_size": 1, 
+      "tweet": "@JonahNRO The national coverage of the execution is obscene with implied plea for sympathy for the killer.\n", 
+      "uid": 89362387, 
+      "user": 6, 
+      "user_score": 0.0, 
+      "users": {
+        "6": 1
+      }
+    }, 
+    {
+      "entropy_score": 0.0, 
+      "favourites": 0, 
+      "follower": false, 
+      "id": 461630789759664128, 
+      "reply": false, 
+      "timestamp": "Wed Apr 30 22:18:51 +0000 2014", 
+      "tree_size": 1, 
+      "tweet": "RT @JonahNRO: Don't forget what these monsters in Oklahoma actually did. http://t.co/sdYuALVSR4\n", 
+      "uid": 366959409, 
+      "user": 5, 
+      "user_score": 0.0, 
+      "users": {
+        "5": 1
+      }
+    }, 
+    {
+      "entropy_score": 0.0, 
+      "favourites": 0, 
+      "follower": false, 
+      "id": 461655847056441344, 
+      "reply": false, 
+      "timestamp": "Wed Apr 30 23:58:25 +0000 2014", 
+      "tree_size": 1, 
+      "tweet": "RT @JonahNRO: Don't forget what these monsters in Oklahoma actually did. http://t.co/sdYuALVSR4\n", 
+      "uid": 247991761, 
+      "user": 4, 
+      "user_score": 0.0, 
+      "users": {
+        "4": 1
+      }
+    }, 
+    {
+      "entropy_score": 0.0, 
+      "favourites": 0, 
+      "follower": false, 
+      "id": 461674895420977152, 
+      "reply": false, 
+      "timestamp": "Thu May 01 01:14:07 +0000 2014", 
+      "tree_size": 1, 
+      "tweet": "RT @JonahNRO: Don't forget what these monsters in Oklahoma actually did. http://t.co/sdYuALVSR4\n", 
+      "uid": 15697117, 
+      "user": 3, 
+      "user_score": 0.0, 
+      "users": {
+        "3": 1
+      }
+    }, 
+    {
+      "entropy_score": 0.0, 
+      "favourites": 0, 
+      "follower": false, 
+      "id": 461696622137597952, 
+      "reply": false, 
+      "timestamp": "Thu May 01 02:40:27 +0000 2014", 
+      "tree_size": 1, 
+      "tweet": "RT @JonahNRO: Don't forget what these monsters in Oklahoma actually did. http://t.co/sdYuALVSR4\n", 
+      "uid": 44504025, 
+      "user": 2, 
+      "user_score": 0.0, 
+      "users": {
+        "2": 1
+      }
+    }, 
+    {
+      "entropy_score": 0.0, 
+      "favourites": 0, 
+      "follower": false, 
+      "id": 461713049288577024, 
+      "reply": false, 
+      "timestamp": "Thu May 01 03:45:43 +0000 2014", 
+      "tree_size": 1, 
+      "tweet": "RT @JonahNRO: Don't forget what these monsters in Oklahoma actually did. http://t.co/sdYuALVSR4\n", 
+      "uid": 34051272, 
+      "user": 1, 
+      "user_score": 0.0, 
+      "users": {
+        "1": 1
+      }
+    }, 
+    {
+      "children": [
+        {
+          "entropy_score": 0.0, 
+          "favourites": 0, 
+          "follower": false, 
+          "id": 461589155852865538, 
+          "reply": false, 
+          "timestamp": "Wed Apr 30 19:33:25 +0000 2014", 
+          "tree_size": 1, 
+          "tweet": "RT @WillMcAvoyACN: I forgot, @JonahNRO, that the Constitution only applies to people we like.\n", 
+          "uid": 826399496, 
+          "user": 33, 
+          "user_score": 0.0, 
+          "users": {
+            "33": 1
+          }
+        }, 
+        {
+          "entropy_score": 0.0, 
+          "favourites": 0, 
+          "follower": false, 
+          "id": 461589478373462016, 
+          "reply": false, 
+          "timestamp": "Wed Apr 30 19:34:42 +0000 2014", 
+          "tree_size": 1, 
+          "tweet": "RT @WillMcAvoyACN: I forgot, @JonahNRO, that the Constitution only applies to people we like.\n", 
+          "uid": 5793792, 
+          "user": 13, 
+          "user_score": 0.0, 
+          "users": {
+            "13": 1
+          }
+        }, 
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "entropy_score": 0.0, 
+                          "favourites": 1, 
+                          "follower": false, 
+                          "id": 461613175759458304, 
+                          "reply": true, 
+                          "timestamp": "Wed Apr 30 21:08:52 +0000 2014", 
+                          "tree_size": 1, 
+                          "tweet": "@WillMcAvoyACN @JonahNRO Someone weighed in on \"acceptability\"? I must have missed it, being blinded by your rhetoric-fu.\n", 
+                          "uid": 502183068, 
+                          "user": 31, 
+                          "user_score": 0.0, 
+                          "users": {
+                            "31": 1
+                          }
+                        }, 
+                        {
+                          "entropy_score": 0.0, 
+                          "favourites": 0, 
+                          "follower": false, 
+                          "id": 461627112211116032, 
+                          "reply": true, 
+                          "timestamp": "Wed Apr 30 22:04:14 +0000 2014", 
+                          "tree_size": 1, 
+                          "tweet": "@WillMcAvoyACN @JonahNRO That's true, so long as you're only railing against that particular execution, not execution as a practice.\n", 
+                          "uid": 161388169, 
+                          "user": 32, 
+                          "user_score": 0.0, 
+                          "users": {
+                            "32": 1
+                          }
+                        }
+                      ], 
+                      "entropy_score": 0.7624618986159398, 
+                      "favourites": 1, 
+                      "follower": false, 
+                      "id": 461612634228277248, 
+                      "reply": true, 
+                      "timestamp": "Wed Apr 30 21:06:43 +0000 2014", 
+                      "tree_size": 3, 
+                      "tweet": "@spongeworthy2 @JonahNRO I don't care if you remember what they did or not. Has nothing to do with the acceptability of the execution.\n", 
+                      "uid": 617825073, 
+                      "user": 14, 
+                      "user_score": 1.0986122886681096, 
+                      "users": {
+                        "14": 1, 
+                        "31": 1, 
+                        "32": 1
+                      }
+                    }
+                  ], 
+                  "entropy_score": 0.7624618986159398, 
+                  "favourites": 0, 
+                  "follower": false, 
+                  "id": 461612444839071745, 
+                  "reply": true, 
+                  "timestamp": "Wed Apr 30 21:05:57 +0000 2014", 
+                  "tree_size": 4, 
+                  "tweet": "@charlescwcooke @JonahNRO I think @WillMcAvoyACN makes a strong case and I have chosen now to forget what these monsters actually did.\n", 
+                  "uid": 502183068, 
+                  "user": 31, 
+                  "user_score": 1.0397207708399179, 
+                  "users": {
+                    "14": 1, 
+                    "31": 2, 
+                    "32": 1
+                  }
+                }
+              ], 
+              "entropy_score": 0.7624618986159398, 
+              "favourites": 1, 
+              "follower": false, 
+              "id": 461611651188670464, 
+              "reply": true, 
+              "timestamp": "Wed Apr 30 21:02:48 +0000 2014", 
+              "tree_size": 5, 
+              "tweet": "@JonahNRO @WillMcAvoyACN Also question begging. All round, pretty impressive.\n", 
+              "uid": 233484761, 
+              "user": 30, 
+              "user_score": 1.3321790402101223, 
+              "users": {
+                "14": 1, 
+                "30": 1, 
+                "31": 2, 
+                "32": 1
+              }
+            }, 
+            {
+              "entropy_score": 0.0, 
+              "favourites": 2, 
+              "follower": false, 
+              "id": 461612795457703937, 
+              "reply": true, 
+              "timestamp": "Wed Apr 30 21:07:21 +0000 2014", 
+              "tree_size": 1, 
+              "tweet": "@JonahNRO @WillMcAvoyACN I always turn to the guy running the fake HBO Newsroom account on Constitutional issues.\n", 
+              "uid": 18493147, 
+              "user": 19, 
+              "user_score": 0.0, 
+              "users": {
+                "19": 1
+              }
+            }, 
+            {
+              "entropy_score": 0.0, 
+              "favourites": 0, 
+              "follower": false, 
+              "id": 461614875148845057, 
+              "reply": true, 
+              "timestamp": "Wed Apr 30 21:15:37 +0000 2014", 
+              "tree_size": 1, 
+              "tweet": "@JonahNRO @WillMcAvoyACN 2/2 part of the punishment.\n", 
+              "uid": 523722046, 
+              "user": 18, 
+              "user_score": 0.0, 
+              "users": {
+                "18": 1
+              }
+            }, 
+            {
+              "children": [
+                {
+                  "entropy_score": 0.0, 
+                  "favourites": 0, 
+                  "follower": false, 
+                  "id": 461614298146803713, 
+                  "reply": true, 
+                  "timestamp": "Wed Apr 30 21:13:19 +0000 2014", 
+                  "tree_size": 1, 
+                  "tweet": "@WillMcAvoyACN @JonahNRO The tortuous part of the execution was not punishment it was an accident. Punishments are purposefully inflicted.\n", 
+                  "uid": 523722046, 
+                  "user": 18, 
+                  "user_score": 0.0, 
+                  "users": {
+                    "18": 1
+                  }
+                }, 
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "entropy_score": 0.0, 
+                              "favourites": 0, 
+                              "follower": false, 
+                              "id": 461616800887611392, 
+                              "reply": true, 
+                              "timestamp": "Wed Apr 30 21:23:16 +0000 2014", 
+                              "tree_size": 1, 
+                              "tweet": "@HNSTHNCBSD @JonahNRO Except, it would seem, Oklahoma's Governor, State House and Supreme Court. Also, Sarah Palin.\n", 
+                              "uid": 617825073, 
+                              "user": 14, 
+                              "user_score": 0.0, 
+                              "users": {
+                                "14": 1
+                              }
+                            }
+                          ], 
+                          "entropy_score": 0.0, 
+                          "favourites": 0, 
+                          "follower": false, 
+                          "id": 461616653965742080, 
+                          "reply": true, 
+                          "timestamp": "Wed Apr 30 21:22:41 +0000 2014", 
+                          "tree_size": 2, 
+                          "tweet": "@WillMcAvoyACN @JonahNRO I am fairly certain everyone would agree it is appropriate to take all reasonable steps to avoid torture.\n", 
+                          "uid": 523722046, 
+                          "user": 18, 
+                          "user_score": 0.6931471805599453, 
+                          "users": {
+                            "14": 1, 
+                            "18": 1
+                          }
+                        }
+                      ], 
+                      "entropy_score": 0.0, 
+                      "favourites": 0, 
+                      "follower": false, 
+                      "id": 461616250259402752, 
+                      "reply": true, 
+                      "timestamp": "Wed Apr 30 21:21:05 +0000 2014", 
+                      "tree_size": 3, 
+                      "tweet": "@HNSTHNCBSD @JonahNRO Except they didn't. They sued to find out where the drugs came from, still have not disclosed.\n", 
+                      "uid": 617825073, 
+                      "user": 14, 
+                      "user_score": 0.6365141682948128, 
+                      "users": {
+                        "14": 2, 
+                        "18": 1
+                      }
+                    }, 
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "entropy_score": 0.0, 
+                                  "favourites": 0, 
+                                  "follower": false, 
+                                  "id": 461617498358824960, 
+                                  "reply": true, 
+                                  "timestamp": "Wed Apr 30 21:26:02 +0000 2014", 
+                                  "tree_size": 1, 
+                                  "tweet": "@WillMcAvoyACN Nope. The burden in 8th Amendment cases is on the plaintiff. Farmer v. Brennan, 511 U.S. 825, 832 (1994)\n", 
+                                  "uid": 523722046, 
+                                  "user": 18, 
+                                  "user_score": 0.0, 
+                                  "users": {
+                                    "18": 1
+                                  }
+                                }
+                              ], 
+                              "entropy_score": 0.0, 
+                              "favourites": 0, 
+                              "follower": false, 
+                              "id": 461617017779273728, 
+                              "reply": true, 
+                              "timestamp": "Wed Apr 30 21:24:08 +0000 2014", 
+                              "tree_size": 2, 
+                              "tweet": "@HNSTHNCBSD Shouldn't the burden of proof be on the state, not the person being executed?\n", 
+                              "uid": 617825073, 
+                              "user": 14, 
+                              "user_score": 0.6931471805599453, 
+                              "users": {
+                                "14": 1, 
+                                "18": 1
+                              }
+                            }
+                          ], 
+                          "entropy_score": 0.0, 
+                          "favourites": 0, 
+                          "follower": false, 
+                          "id": 461616830390738944, 
+                          "reply": true, 
+                          "timestamp": "Wed Apr 30 21:23:23 +0000 2014", 
+                          "tree_size": 3, 
+                          "tweet": "@WillMcAvoyACN @JonahNRO No. The 8th amendment bans inflicting cruel and unusual punishment.  t doesn't ban having it occur by accident.\n", 
+                          "uid": 523722046, 
+                          "user": 18, 
+                          "user_score": 0.6365141682948128, 
+                          "users": {
+                            "14": 1, 
+                            "18": 2
+                          }
+                        }, 
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "entropy_score": 0.0, 
+                                  "favourites": 0, 
+                                  "follower": false, 
+                                  "id": 461617825707483139, 
+                                  "reply": true, 
+                                  "timestamp": "Wed Apr 30 21:27:20 +0000 2014", 
+                                  "tree_size": 1, 
+                                  "tweet": "@WillMcAvoyACN Locking someone in a prison where you control the maintenance ect puts you in control of their safety. SCOTUS has found 1/?\n", 
+                                  "uid": 523722046, 
+                                  "user": 18, 
+                                  "user_score": 0.0, 
+                                  "users": {
+                                    "18": 1
+                                  }
+                                }, 
+                                {
+                                  "children": [
+                                    {
+                                      "children": [
+                                        {
+                                          "entropy_score": 0.0, 
+                                          "favourites": 0, 
+                                          "follower": false, 
+                                          "id": 461619490804203520, 
+                                          "reply": true, 
+                                          "timestamp": "Wed Apr 30 21:33:57 +0000 2014", 
+                                          "tree_size": 1, 
+                                          "tweet": "@WillMcAvoyACN  I honestly don't have enough knowledge to form an opinion. But even if your right it doesn't justify your attack on Jonah.\n", 
+                                          "uid": 523722046, 
+                                          "user": 18, 
+                                          "user_score": 0.0, 
+                                          "users": {
+                                            "18": 1
+                                          }
+                                        }, 
+                                        {
+                                          "entropy_score": 0.0, 
+                                          "favourites": 0, 
+                                          "follower": false, 
+                                          "id": 461619959651897344, 
+                                          "reply": true, 
+                                          "timestamp": "Wed Apr 30 21:35:49 +0000 2014", 
+                                          "tree_size": 1, 
+                                          "tweet": "@WillMcAvoyACN His argument was not to overreact, not that there was necessarily no legal issue at all. He in fact said 1/2\n", 
+                                          "uid": 523722046, 
+                                          "user": 18, 
+                                          "user_score": 0.0, 
+                                          "users": {
+                                            "18": 1
+                                          }
+                                        }, 
+                                        {
+                                          "children": [
+                                            {
+                                              "entropy_score": 0.0, 
+                                              "favourites": 0, 
+                                              "follower": false, 
+                                              "id": 461620361776201728, 
+                                              "reply": true, 
+                                              "timestamp": "Wed Apr 30 21:37:25 +0000 2014", 
+                                              "tree_size": 1, 
+                                              "tweet": "@HNSTHNCBSD Indeed, he did. What they did or did not do does not matter when the form of execution was inhumane.\n", 
+                                              "uid": 617825073, 
+                                              "user": 14, 
+                                              "user_score": 0.0, 
+                                              "users": {
+                                                "14": 1
+                                              }
+                                            }, 
+                                            {
+                                              "entropy_score": 0.0, 
+                                              "favourites": 0, 
+                                              "follower": false, 
+                                              "id": 461620483138404352, 
+                                              "reply": true, 
+                                              "timestamp": "Wed Apr 30 21:37:54 +0000 2014", 
+                                              "tree_size": 1, 
+                                              "tweet": "@HNSTHNCBSD All day I have been hearing about people who \"don't care\" about what happened because these people did horrible acts.\n", 
+                                              "uid": 617825073, 
+                                              "user": 14, 
+                                              "user_score": 0.0, 
+                                              "users": {
+                                                "14": 1
+                                              }
+                                            }, 
+                                            {
+                                              "children": [
+                                                {
+                                                  "children": [
+                                                    {
+                                                      "children": [
+                                                        {
+                                                          "children": [
+                                                            {
+                                                              "children": [
+                                                                {
+                                                                  "children": [
+                                                                    {
+                                                                      "children": [
+                                                                        {
+                                                                          "children": [
+                                                                            {
+                                                                              "entropy_score": 0.0, 
+                                                                              "favourites": 0, 
+                                                                              "follower": false, 
+                                                                              "id": 461623047250657280, 
+                                                                              "reply": true, 
+                                                                              "timestamp": "Wed Apr 30 21:48:05 +0000 2014", 
+                                                                              "tree_size": 1, 
+                                                                              "tweet": "@HNSTHNCBSD The court initially ruled a stay and for the state to disclose. Reps threaten impeachment, court reverses judgment.\n", 
+                                                                              "uid": 617825073, 
+                                                                              "user": 14, 
+                                                                              "user_score": 0.0, 
+                                                                              "users": {
+                                                                                "14": 1
+                                                                              }
+                                                                            }, 
+                                                                            {
+                                                                              "entropy_score": 0.0, 
+                                                                              "favourites": 0, 
+                                                                              "follower": false, 
+                                                                              "id": 461623115638796289, 
+                                                                              "reply": true, 
+                                                                              "timestamp": "Wed Apr 30 21:48:21 +0000 2014", 
+                                                                              "tree_size": 1, 
+                                                                              "tweet": "@HNSTHNCBSD At the very best the state of Oklahoma is extremely corrupt and not interested in due process.\n", 
+                                                                              "uid": 617825073, 
+                                                                              "user": 14, 
+                                                                              "user_score": 0.0, 
+                                                                              "users": {
+                                                                                "14": 1
+                                                                              }
+                                                                            }
+                                                                          ], 
+                                                                          "entropy_score": 0.7624618986159398, 
+                                                                          "favourites": 0, 
+                                                                          "follower": false, 
+                                                                          "id": 461622818023956480, 
+                                                                          "reply": true, 
+                                                                          "timestamp": "Wed Apr 30 21:47:11 +0000 2014", 
+                                                                          "tree_size": 3, 
+                                                                          "tweet": "@WillMcAvoyACN That's not going to cut it based on the 8th Amendment precedents.\n", 
+                                                                          "uid": 523722046, 
+                                                                          "user": 18, 
+                                                                          "user_score": 0.6365141682948128, 
+                                                                          "users": {
+                                                                            "14": 2, 
+                                                                            "18": 1
+                                                                          }
+                                                                        }
+                                                                      ], 
+                                                                      "entropy_score": 0.7624618986159398, 
+                                                                      "favourites": 0, 
+                                                                      "follower": false, 
+                                                                      "id": 461622683172478976, 
+                                                                      "reply": true, 
+                                                                      "timestamp": "Wed Apr 30 21:46:38 +0000 2014", 
+                                                                      "tree_size": 4, 
+                                                                      "tweet": "@HNSTHNCBSD What about negligently doing so by failing to be open and transparent?\n", 
+                                                                      "uid": 617825073, 
+                                                                      "user": 14, 
+                                                                      "user_score": 0.5623351446188083, 
+                                                                      "users": {
+                                                                        "14": 3, 
+                                                                        "18": 1
+                                                                      }
+                                                                    }
+                                                                  ], 
+                                                                  "entropy_score": 0.7624618986159398, 
+                                                                  "favourites": 0, 
+                                                                  "follower": false, 
+                                                                  "id": 461622326392815616, 
+                                                                  "reply": true, 
+                                                                  "timestamp": "Wed Apr 30 21:45:13 +0000 2014", 
+                                                                  "tree_size": 5, 
+                                                                  "tweet": "@WillMcAvoyACN Intentionally doing so would very probably be considered cruel.\n", 
+                                                                  "uid": 523722046, 
+                                                                  "user": 18, 
+                                                                  "user_score": 0.6730116670092565, 
+                                                                  "users": {
+                                                                    "14": 3, 
+                                                                    "18": 2
+                                                                  }
+                                                                }
+                                                              ], 
+                                                              "entropy_score": 0.7624618986159398, 
+                                                              "favourites": 0, 
+                                                              "follower": false, 
+                                                              "id": 461622029192425472, 
+                                                              "reply": true, 
+                                                              "timestamp": "Wed Apr 30 21:44:02 +0000 2014", 
+                                                              "tree_size": 6, 
+                                                              "tweet": "@HNSTHNCBSD I think making someone suffer a 40 minute heart attack could be easily considered cruel.\n", 
+                                                              "uid": 617825073, 
+                                                              "user": 14, 
+                                                              "user_score": 0.6365141682948128, 
+                                                              "users": {
+                                                                "14": 4, 
+                                                                "18": 2
+                                                              }
+                                                            }
+                                                          ], 
+                                                          "entropy_score": 0.7624618986159398, 
+                                                          "favourites": 0, 
+                                                          "follower": false, 
+                                                          "id": 461621601797410816, 
+                                                          "reply": true, 
+                                                          "timestamp": "Wed Apr 30 21:42:21 +0000 2014", 
+                                                          "tree_size": 7, 
+                                                          "tweet": "@WillMcAvoyACN  I don't think that's a plausible reading of the Constitution which explicitly recognizes capital punishment.\n", 
+                                                          "uid": 523722046, 
+                                                          "user": 18, 
+                                                          "user_score": 0.6829081047004717, 
+                                                          "users": {
+                                                            "14": 4, 
+                                                            "18": 3
+                                                          }
+                                                        }
+                                                      ], 
+                                                      "entropy_score": 0.7624618986159398, 
+                                                      "favourites": 0, 
+                                                      "follower": false, 
+                                                      "id": 461621376181227520, 
+                                                      "reply": true, 
+                                                      "timestamp": "Wed Apr 30 21:41:27 +0000 2014", 
+                                                      "tree_size": 8, 
+                                                      "tweet": "@HNSTHNCBSD Not just as humane as possible. If as humane is possible is still inhumane, not acceptable.\n", 
+                                                      "uid": 617825073, 
+                                                      "user": 14, 
+                                                      "user_score": 0.6615632381579821, 
+                                                      "users": {
+                                                        "14": 5, 
+                                                        "18": 3
+                                                      }
+                                                    }
+                                                  ], 
+                                                  "entropy_score": 0.7624618986159398, 
+                                                  "favourites": 0, 
+                                                  "follower": false, 
+                                                  "id": 461620989835890688, 
+                                                  "reply": true, 
+                                                  "timestamp": "Wed Apr 30 21:39:55 +0000 2014", 
+                                                  "tree_size": 9, 
+                                                  "tweet": "@WillMcAvoyACN It does in fact matter. If the execution was \"as  humane . . . as possible\" it would alleviate your stated concern.\n", 
+                                                  "uid": 523722046, 
+                                                  "user": 18, 
+                                                  "user_score": 0.6869615765973234, 
+                                                  "users": {
+                                                    "14": 5, 
+                                                    "18": 4
+                                                  }
+                                                }
+                                              ], 
+                                              "entropy_score": 0.7624618986159398, 
+                                              "favourites": 0, 
+                                              "follower": false, 
+                                              "id": 461620627892232192, 
+                                              "reply": true, 
+                                              "timestamp": "Wed Apr 30 21:38:28 +0000 2014", 
+                                              "tree_size": 10, 
+                                              "tweet": "@HNSTHNCBSD That DOES NOT MATTER. No one is making the case that we should be sorry for these people, as @JonahNRO said in his opening.\n", 
+                                              "uid": 617825073, 
+                                              "user": 14, 
+                                              "user_score": 0.6730116670092565, 
+                                              "users": {
+                                                "14": 6, 
+                                                "18": 4
+                                              }
+                                            }, 
+                                            {
+                                              "children": [
+                                                {
+                                                  "entropy_score": 0.0, 
+                                                  "favourites": 0, 
+                                                  "follower": false, 
+                                                  "id": 461621272926228481, 
+                                                  "reply": true, 
+                                                  "timestamp": "Wed Apr 30 21:41:02 +0000 2014", 
+                                                  "tree_size": 1, 
+                                                  "tweet": ".@WillMcAvoyACN \"What we are saying\" Then you'd be a liar, as usual. Unless it was planned it wasn't the intended punishment. @HNSTHNCBSD\n", 
+                                                  "uid": 52759650, 
+                                                  "user": 20, 
+                                                  "user_score": 0.0, 
+                                                  "users": {
+                                                    "20": 1
+                                                  }
+                                                }, 
+                                                {
+                                                  "children": [
+                                                    {
+                                                      "entropy_score": 0.0, 
+                                                      "favourites": 0, 
+                                                      "follower": false, 
+                                                      "id": 461621497463717888, 
+                                                      "reply": true, 
+                                                      "timestamp": "Wed Apr 30 21:41:56 +0000 2014", 
+                                                      "tree_size": 1, 
+                                                      "tweet": "@HNSTHNCBSD I'm talking about the specifics in this case.\n", 
+                                                      "uid": 617825073, 
+                                                      "user": 14, 
+                                                      "user_score": 0.0, 
+                                                      "users": {
+                                                        "14": 1
+                                                      }
+                                                    }
+                                                  ], 
+                                                  "entropy_score": 0.0, 
+                                                  "favourites": 0, 
+                                                  "follower": false, 
+                                                  "id": 461621292849192960, 
+                                                  "reply": true, 
+                                                  "timestamp": "Wed Apr 30 21:41:07 +0000 2014", 
+                                                  "tree_size": 2, 
+                                                  "tweet": "@WillMcAvoyACN if by \"this\" you mean the use of this specific drug. Maybe, I dont know enough to say. But if you mean capital punishment 1/2\n", 
+                                                  "uid": 523722046, 
+                                                  "user": 18, 
+                                                  "user_score": 0.6931471805599453, 
+                                                  "users": {
+                                                    "14": 1, 
+                                                    "18": 1
+                                                  }
+                                                }, 
+                                                {
+                                                  "children": [
+                                                    {
+                                                      "children": [
+                                                        {
+                                                          "entropy_score": 0.0, 
+                                                          "favourites": 0, 
+                                                          "follower": false, 
+                                                          "id": 461621879552622593, 
+                                                          "reply": true, 
+                                                          "timestamp": "Wed Apr 30 21:43:27 +0000 2014", 
+                                                          "tree_size": 1, 
+                                                          "tweet": "@WillMcAvoyACN Luckily I'm not a Christian.\n", 
+                                                          "uid": 523722046, 
+                                                          "user": 18, 
+                                                          "user_score": 0.0, 
+                                                          "users": {
+                                                            "18": 1
+                                                          }
+                                                        }, 
+                                                        {
+                                                          "entropy_score": 0.0, 
+                                                          "favourites": 0, 
+                                                          "follower": false, 
+                                                          "id": 461622631234797568, 
+                                                          "reply": true, 
+                                                          "timestamp": "Wed Apr 30 21:46:26 +0000 2014", 
+                                                          "tree_size": 1, 
+                                                          "tweet": ".@WillMcAvoyACN \"It's the least Christian thing we do\" If you aren't Christian this is incredibly despicable&amp;cowardly. So SOP. @HNSTHNCBSD\n", 
+                                                          "uid": 52759650, 
+                                                          "user": 20, 
+                                                          "user_score": 0.0, 
+                                                          "users": {
+                                                            "20": 1
+                                                          }
+                                                        }
+                                                      ], 
+                                                      "entropy_score": 0.7624618986159398, 
+                                                      "favourites": 0, 
+                                                      "follower": false, 
+                                                      "id": 461621722865623040, 
+                                                      "reply": true, 
+                                                      "timestamp": "Wed Apr 30 21:42:49 +0000 2014", 
+                                                      "tree_size": 3, 
+                                                      "tweet": "@HNSTHNCBSD We can debate the merits of the death penalty another day. It's the least Christian thing we do, but whatever. I don't care.\n", 
+                                                      "uid": 617825073, 
+                                                      "user": 14, 
+                                                      "user_score": 1.0986122886681096, 
+                                                      "users": {
+                                                        "14": 1, 
+                                                        "18": 1, 
+                                                        "20": 1
+                                                      }
+                                                    }, 
+                                                    {
+                                                      "entropy_score": 0.0, 
+                                                      "favourites": 0, 
+                                                      "follower": false, 
+                                                      "id": 461621810576896001, 
+                                                      "reply": true, 
+                                                      "timestamp": "Wed Apr 30 21:43:10 +0000 2014", 
+                                                      "tree_size": 1, 
+                                                      "tweet": "@HNSTHNCBSD What I care about, today, is that the State of Oklahoma violated the Constitution of the United States of America by...\n", 
+                                                      "uid": 617825073, 
+                                                      "user": 14, 
+                                                      "user_score": 0.0, 
+                                                      "users": {
+                                                        "14": 1
+                                                      }
+                                                    }, 
+                                                    {
+                                                      "children": [
+                                                        {
+                                                          "children": [
+                                                            {
+                                                              "children": [
+                                                                {
+                                                                  "entropy_score": 0.0, 
+                                                                  "favourites": 0, 
+                                                                  "follower": false, 
+                                                                  "id": 461622621000724480, 
+                                                                  "reply": true, 
+                                                                  "timestamp": "Wed Apr 30 21:46:24 +0000 2014", 
+                                                                  "tree_size": 1, 
+                                                                  "tweet": "@WillMcAvoyACN What requires such a disclosure? You can be eminently safe without such a disclosure.\n", 
+                                                                  "uid": 523722046, 
+                                                                  "user": 18, 
+                                                                  "user_score": 0.0, 
+                                                                  "users": {
+                                                                    "18": 1
+                                                                  }
+                                                                }
+                                                              ], 
+                                                              "entropy_score": 0.0, 
+                                                              "favourites": 0, 
+                                                              "follower": false, 
+                                                              "id": 461622394176548864, 
+                                                              "reply": true, 
+                                                              "timestamp": "Wed Apr 30 21:45:30 +0000 2014", 
+                                                              "tree_size": 2, 
+                                                              "tweet": "@HNSTHNCBSD Did they, after being explicitly asked to, disclose the source of the drug used to execute the criminal?\n", 
+                                                              "uid": 617825073, 
+                                                              "user": 14, 
+                                                              "user_score": 0.6931471805599453, 
+                                                              "users": {
+                                                                "14": 1, 
+                                                                "18": 1
+                                                              }
+                                                            }, 
+                                                            {
+                                                              "children": [
+                                                                {
+                                                                  "children": [
+                                                                    {
+                                                                      "children": [
+                                                                        {
+                                                                          "children": [
+                                                                            {
+                                                                              "children": [
+                                                                                {
+                                                                                  "children": [
+                                                                                    {
+                                                                                      "children": [
+                                                                                        {
+                                                                                          "children": [
+                                                                                            {
+                                                                                              "children": [
+                                                                                                {
+                                                                                                  "entropy_score": 0.0, 
+                                                                                                  "favourites": 0, 
+                                                                                                  "follower": false, 
+                                                                                                  "id": 461625435910963200, 
+                                                                                                  "reply": true, 
+                                                                                                  "timestamp": "Wed Apr 30 21:57:35 +0000 2014", 
+                                                                                                  "tree_size": 1, 
+                                                                                                  "tweet": "@HNSTHNCBSD I'm not frustrated with you, so much, as people in general. This issue brings out the worst in people.\n", 
+                                                                                                  "uid": 617825073, 
+                                                                                                  "user": 14, 
+                                                                                                  "user_score": 0.0, 
+                                                                                                  "users": {
+                                                                                                    "14": 1
+                                                                                                  }
+                                                                                                }, 
+                                                                                                {
+                                                                                                  "children": [
+                                                                                                    {
+                                                                                                      "entropy_score": 0.0, 
+                                                                                                      "favourites": 0, 
+                                                                                                      "follower": false, 
+                                                                                                      "id": 461626014096179200, 
+                                                                                                      "reply": true, 
+                                                                                                      "timestamp": "Wed Apr 30 21:59:53 +0000 2014", 
+                                                                                                      "tree_size": 1, 
+                                                                                                      "tweet": "@WillMcAvoyACN @JonahNRO At least as I read Jonah's column it said we should of course strive to be ethical and legal but we shouldn't 1/2\n", 
+                                                                                                      "uid": 523722046, 
+                                                                                                      "user": 18, 
+                                                                                                      "user_score": 0.0, 
+                                                                                                      "users": {
+                                                                                                        "18": 1
+                                                                                                      }
+                                                                                                    }, 
+                                                                                                    {
+                                                                                                      "children": [
+                                                                                                        {
+                                                                                                          "children": [
+                                                                                                            {
+                                                                                                              "children": [
+                                                                                                                {
+                                                                                                                  "children": [
+                                                                                                                    {
+                                                                                                                      "entropy_score": 0.0, 
+                                                                                                                      "favourites": 0, 
+                                                                                                                      "follower": false, 
+                                                                                                                      "id": 461628267733463040, 
+                                                                                                                      "reply": true, 
+                                                                                                                      "timestamp": "Wed Apr 30 22:08:50 +0000 2014", 
+                                                                                                                      "tree_size": 1, 
+                                                                                                                      "tweet": "@WillMcAvoyACN @JonahNRO It takes a lot of effort.It is a problem which I think we are all aware of. It takes a lot of patience.\n", 
+                                                                                                                      "uid": 523722046, 
+                                                                                                                      "user": 18, 
+                                                                                                                      "user_score": 0.0, 
+                                                                                                                      "users": {
+                                                                                                                        "18": 1
+                                                                                                                      }
+                                                                                                                    }
+                                                                                                                  ], 
+                                                                                                                  "entropy_score": 0.0, 
+                                                                                                                  "favourites": 0, 
+                                                                                                                  "follower": false, 
+                                                                                                                  "id": 461627717511704576, 
+                                                                                                                  "reply": true, 
+                                                                                                                  "timestamp": "Wed Apr 30 22:06:39 +0000 2014", 
+                                                                                                                  "tree_size": 2, 
+                                                                                                                  "tweet": "@HNSTHNCBSD @JonahNRO Twitter doesn't exactly lend itself to nuanced conversation does it?\n", 
+                                                                                                                  "uid": 617825073, 
+                                                                                                                  "user": 14, 
+                                                                                                                  "user_score": 0.6931471805599453, 
+                                                                                                                  "users": {
+                                                                                                                    "14": 1, 
+                                                                                                                    "18": 1
+                                                                                                                  }
+                                                                                                                }
+                                                                                                              ], 
+                                                                                                              "entropy_score": 0.0, 
+                                                                                                              "favourites": 0, 
+                                                                                                              "follower": false, 
+                                                                                                              "id": 461627112886394880, 
+                                                                                                              "reply": true, 
+                                                                                                              "timestamp": "Wed Apr 30 22:04:14 +0000 2014", 
+                                                                                                              "tree_size": 3, 
+                                                                                                              "tweet": "@WillMcAvoyACN @JonahNRO Again to be clear \"the death penalty\" means in this specific instance as opposed to in most cases where it is 1/2\n", 
+                                                                                                              "uid": 523722046, 
+                                                                                                              "user": 18, 
+                                                                                                              "user_score": 0.6365141682948128, 
+                                                                                                              "users": {
+                                                                                                                "14": 1, 
+                                                                                                                "18": 2
+                                                                                                              }
+                                                                                                            }, 
+                                                                                                            {
+                                                                                                              "entropy_score": 0.0, 
+                                                                                                              "favourites": 0, 
+                                                                                                              "follower": false, 
+                                                                                                              "id": 461627151637557248, 
+                                                                                                              "reply": true, 
+                                                                                                              "timestamp": "Wed Apr 30 22:04:24 +0000 2014", 
+                                                                                                              "tree_size": 1, 
+                                                                                                              "tweet": "@WillMcAvoyACN @JonahNRO 2/2 clearly constitutional.\n", 
+                                                                                                              "uid": 523722046, 
+                                                                                                              "user": 18, 
+                                                                                                              "user_score": 0.0, 
+                                                                                                              "users": {
+                                                                                                                "18": 1
+                                                                                                              }
+                                                                                                            }
+                                                                                                          ], 
+                                                                                                          "entropy_score": 0.6185686590806891, 
+                                                                                                          "favourites": 0, 
+                                                                                                          "follower": false, 
+                                                                                                          "id": 461626671322234880, 
+                                                                                                          "reply": true, 
+                                                                                                          "timestamp": "Wed Apr 30 22:02:29 +0000 2014", 
+                                                                                                          "tree_size": 5, 
+                                                                                                          "tweet": "@HNSTHNCBSD @JonahNRO And I read it as downplaying the issues of the death penalty by comparing them to the actions of a horrible human.\n", 
+                                                                                                          "uid": 617825073, 
+                                                                                                          "user": 14, 
+                                                                                                          "user_score": 0.6730116670092565, 
+                                                                                                          "users": {
+                                                                                                            "14": 2, 
+                                                                                                            "18": 3
+                                                                                                          }
+                                                                                                        }
+                                                                                                      ], 
+                                                                                                      "entropy_score": 0.6185686590806891, 
+                                                                                                      "favourites": 0, 
+                                                                                                      "follower": false, 
+                                                                                                      "id": 461626215418572800, 
+                                                                                                      "reply": true, 
+                                                                                                      "timestamp": "Wed Apr 30 22:00:41 +0000 2014", 
+                                                                                                      "tree_size": 6, 
+                                                                                                      "tweet": "@WillMcAvoyACN @JonahNRO 2/2 go too far and overreact to one incident however horrible it was.\n", 
+                                                                                                      "uid": 523722046, 
+                                                                                                      "user": 18, 
+                                                                                                      "user_score": 0.6365141682948128, 
+                                                                                                      "users": {
+                                                                                                        "14": 2, 
+                                                                                                        "18": 4
+                                                                                                      }
+                                                                                                    }
+                                                                                                  ], 
+                                                                                                  "entropy_score": 1.0696966091979392, 
+                                                                                                  "favourites": 0, 
+                                                                                                  "follower": false, 
+                                                                                                  "id": 461625572351684608, 
+                                                                                                  "reply": true, 
+                                                                                                  "timestamp": "Wed Apr 30 21:58:07 +0000 2014", 
+                                                                                                  "tree_size": 8, 
+                                                                                                  "tweet": "@HNSTHNCBSD For a vast majority of people, this is about vengeance, not justice, and @JonahNRO's column plays right to those people.\n", 
+                                                                                                  "uid": 617825073, 
+                                                                                                  "user": 14, 
+                                                                                                  "user_score": 0.6615632381579821, 
+                                                                                                  "users": {
+                                                                                                    "14": 3, 
+                                                                                                    "18": 5
+                                                                                                  }
+                                                                                                }, 
+                                                                                                {
+                                                                                                  "entropy_score": 0.0, 
+                                                                                                  "favourites": 0, 
+                                                                                                  "follower": false, 
+                                                                                                  "id": 461625818175655936, 
+                                                                                                  "reply": true, 
+                                                                                                  "timestamp": "Wed Apr 30 21:59:06 +0000 2014", 
+                                                                                                  "tree_size": 1, 
+                                                                                                  "tweet": "@HNSTHNCBSD And I probably should have explicitly stated that from the start, but I didn't.\n", 
+                                                                                                  "uid": 617825073, 
+                                                                                                  "user": 14, 
+                                                                                                  "user_score": 0.0, 
+                                                                                                  "users": {
+                                                                                                    "14": 1
+                                                                                                  }
+                                                                                                }
+                                                                                              ], 
+                                                                                              "entropy_score": 1.772631654813134, 
+                                                                                              "favourites": 0, 
+                                                                                              "follower": false, 
+                                                                                              "id": 461624780970815488, 
+                                                                                              "reply": true, 
+                                                                                              "timestamp": "Wed Apr 30 21:54:59 +0000 2014", 
+                                                                                              "tree_size": 11, 
+                                                                                              "tweet": "@WillMcAvoyACN Ok. Sorry you're frustrated. I think the rhetoric is far larger than our disagreement, but whatever.\n", 
+                                                                                              "uid": 523722046, 
+                                                                                              "user": 18, 
+                                                                                              "user_score": 0.6890092384766586, 
+                                                                                              "users": {
+                                                                                                "14": 5, 
+                                                                                                "18": 6
+                                                                                              }
+                                                                                            }
+                                                                                          ], 
+                                                                                          "entropy_score": 1.772631654813134, 
+                                                                                          "favourites": 0, 
+                                                                                          "follower": false, 
+                                                                                          "id": 461624568465997824, 
+                                                                                          "reply": true, 
+                                                                                          "timestamp": "Wed Apr 30 21:54:08 +0000 2014", 
+                                                                                          "tree_size": 12, 
+                                                                                          "tweet": "@HNSTHNCBSD I'm done with this. I've been doing this all fucking day. I'm, quite frankly, exhausted.\n", 
+                                                                                          "uid": 617825073, 
+                                                                                          "user": 14, 
+                                                                                          "user_score": 0.6931471805599453, 
+                                                                                          "users": {
+                                                                                            "14": 6, 
+                                                                                            "18": 6
+                                                                                          }
+                                                                                        }, 
+                                                                                        {
+                                                                                          "entropy_score": 0.0, 
+                                                                                          "favourites": 0, 
+                                                                                          "follower": false, 
+                                                                                          "id": 461624755531952129, 
+                                                                                          "reply": true, 
+                                                                                          "timestamp": "Wed Apr 30 21:54:52 +0000 2014", 
+                                                                                          "tree_size": 1, 
+                                                                                          "tweet": "@HNSTHNCBSD Even if it didn't violate the Constitution (it did), the civil settlement in this case is going to be harsh.\n", 
+                                                                                          "uid": 617825073, 
+                                                                                          "user": 14, 
+                                                                                          "user_score": 0.0, 
+                                                                                          "users": {
+                                                                                            "14": 1
+                                                                                          }
+                                                                                        }
+                                                                                      ], 
+                                                                                      "entropy_score": 2.0709399651591625, 
+                                                                                      "favourites": 0, 
+                                                                                      "follower": false, 
+                                                                                      "id": 461624182259056640, 
+                                                                                      "reply": true, 
+                                                                                      "timestamp": "Wed Apr 30 21:52:36 +0000 2014", 
+                                                                                      "tree_size": 14, 
+                                                                                      "tweet": "@WillMcAvoyACN I never set any goalpost . . . its SCOTUS.\n", 
+                                                                                      "uid": 523722046, 
+                                                                                      "user": 18, 
+                                                                                      "user_score": 0.6931471805599453, 
+                                                                                      "users": {
+                                                                                        "14": 7, 
+                                                                                        "18": 7
+                                                                                      }
+                                                                                    }
+                                                                                  ], 
+                                                                                  "entropy_score": 2.0709399651591625, 
+                                                                                  "favourites": 0, 
+                                                                                  "follower": false, 
+                                                                                  "id": 461623704296779776, 
+                                                                                  "reply": true, 
+                                                                                  "timestamp": "Wed Apr 30 21:50:42 +0000 2014", 
+                                                                                  "tree_size": 15, 
+                                                                                  "tweet": "@HNSTHNCBSD Keep moving those goalposts.\n", 
+                                                                                  "uid": 617825073, 
+                                                                                  "user": 14, 
+                                                                                  "user_score": 0.6909233093138181, 
+                                                                                  "users": {
+                                                                                    "14": 8, 
+                                                                                    "18": 7
+                                                                                  }
+                                                                                }
+                                                                              ], 
+                                                                              "entropy_score": 2.0709399651591625, 
+                                                                              "favourites": 0, 
+                                                                              "follower": false, 
+                                                                              "id": 461623249030627330, 
+                                                                              "reply": true, 
+                                                                              "timestamp": "Wed Apr 30 21:48:53 +0000 2014", 
+                                                                              "tree_size": 16, 
+                                                                              "tweet": "@WillMcAvoyACN Unless you now believe everything any politician says.\n", 
+                                                                              "uid": 523722046, 
+                                                                              "user": 18, 
+                                                                              "user_score": 0.6931471805599453, 
+                                                                              "users": {
+                                                                                "14": 8, 
+                                                                                "18": 8
+                                                                              }
+                                                                            }
+                                                                          ], 
+                                                                          "entropy_score": 2.0709399651591625, 
+                                                                          "favourites": 0, 
+                                                                          "follower": false, 
+                                                                          "id": 461623153534697472, 
+                                                                          "reply": true, 
+                                                                          "timestamp": "Wed Apr 30 21:48:31 +0000 2014", 
+                                                                          "tree_size": 17, 
+                                                                          "tweet": "@WillMcAvoyACN The fact that a lawmaker asserts something may be probative but it hardly proves his assertions.\n", 
+                                                                          "uid": 523722046, 
+                                                                          "user": 18, 
+                                                                          "user_score": 0.6914160776171183, 
+                                                                          "users": {
+                                                                            "14": 8, 
+                                                                            "18": 9
+                                                                          }
+                                                                        }
+                                                                      ], 
+                                                                      "entropy_score": 2.0709399651591625, 
+                                                                      "favourites": 0, 
+                                                                      "follower": false, 
+                                                                      "id": 461622850051256321, 
+                                                                      "reply": true, 
+                                                                      "timestamp": "Wed Apr 30 21:47:18 +0000 2014", 
+                                                                      "tree_size": 18, 
+                                                                      "tweet": "@HNSTHNCBSD http://t.co/9IXdHe7ZH1 How's that for proof?\n", 
+                                                                      "uid": 617825073, 
+                                                                      "user": 14, 
+                                                                      "user_score": 0.6931471805599453, 
+                                                                      "users": {
+                                                                        "14": 9, 
+                                                                        "18": 9
+                                                                      }
+                                                                    }
+                                                                  ], 
+                                                                  "entropy_score": 2.0709399651591625, 
+                                                                  "favourites": 0, 
+                                                                  "follower": false, 
+                                                                  "id": 461622710100320256, 
+                                                                  "reply": true, 
+                                                                  "timestamp": "Wed Apr 30 21:46:45 +0000 2014", 
+                                                                  "tree_size": 19, 
+                                                                  "tweet": "@WillMcAvoyACN The burden would be quite heavy on you to prove that in court.\n", 
+                                                                  "uid": 523722046, 
+                                                                  "user": 18, 
+                                                                  "user_score": 0.6917614988524178, 
+                                                                  "users": {
+                                                                    "14": 9, 
+                                                                    "18": 10
+                                                                  }
+                                                                }
+                                                              ], 
+                                                              "entropy_score": 2.0709399651591625, 
+                                                              "favourites": 0, 
+                                                              "follower": false, 
+                                                              "id": 461622508634910720, 
+                                                              "reply": true, 
+                                                              "timestamp": "Wed Apr 30 21:45:57 +0000 2014", 
+                                                              "tree_size": 20, 
+                                                              "tweet": "@HNSTHNCBSD Did the state not only ignore the initial stay, but put political pressure on judges to reach a specific conclusion?\n", 
+                                                              "uid": 617825073, 
+                                                              "user": 14, 
+                                                              "user_score": 0.6931471805599453, 
+                                                              "users": {
+                                                                "14": 10, 
+                                                                "18": 10
+                                                              }
+                                                            }
+                                                          ], 
+                                                          "entropy_score": 2.4060396722433244, 
+                                                          "favourites": 0, 
+                                                          "follower": false, 
+                                                          "id": 461622093264986112, 
+                                                          "reply": true, 
+                                                          "timestamp": "Wed Apr 30 21:44:18 +0000 2014", 
+                                                          "tree_size": 23, 
+                                                          "tweet": "@WillMcAvoyACN If and only if you can prove that they did not take reasonable steps to avoid this accident and it was foreseeable.\n", 
+                                                          "uid": 523722046, 
+                                                          "user": 18, 
+                                                          "user_score": 0.6922017029622767, 
+                                                          "users": {
+                                                            "14": 11, 
+                                                            "18": 12
+                                                          }
+                                                        }
+                                                      ], 
+                                                      "entropy_score": 2.4060396722433244, 
+                                                      "favourites": 0, 
+                                                      "follower": false, 
+                                                      "id": 461621845234446337, 
+                                                      "reply": true, 
+                                                      "timestamp": "Wed Apr 30 21:43:19 +0000 2014", 
+                                                      "tree_size": 24, 
+                                                      "tweet": "@HNSTHNCBSD ...torturing someone to death.\n", 
+                                                      "uid": 617825073, 
+                                                      "user": 14, 
+                                                      "user_score": 0.6931471805599453, 
+                                                      "users": {
+                                                        "14": 12, 
+                                                        "18": 12
+                                                      }
+                                                    }
+                                                  ], 
+                                                  "entropy_score": 3.7079964722737557, 
+                                                  "favourites": 0, 
+                                                  "follower": false, 
+                                                  "id": 461621366463414272, 
+                                                  "reply": true, 
+                                                  "timestamp": "Wed Apr 30 21:41:24 +0000 2014", 
+                                                  "tree_size": 29, 
+                                                  "tweet": "@WillMcAvoyACN 2/2 then your prior argument doesn't get you anywhere close to there.\n", 
+                                                  "uid": 523722046, 
+                                                  "user": 18, 
+                                                  "user_score": 0.8192404772545001, 
+                                                  "users": {
+                                                    "14": 14, 
+                                                    "18": 14, 
+                                                    "20": 1
+                                                  }
+                                                }
+                                              ], 
+                                              "entropy_score": 4.115879066172193, 
+                                              "favourites": 0, 
+                                              "follower": false, 
+                                              "id": 461620741033566208, 
+                                              "reply": true, 
+                                              "timestamp": "Wed Apr 30 21:38:55 +0000 2014", 
+                                              "tree_size": 33, 
+                                              "tweet": "@HNSTHNCBSD What we are saying is that this is the kind of punishment explicitly forbidden by the 8th amendment, and we should be better.\n", 
+                                              "uid": 617825073, 
+                                              "user": 14, 
+                                              "user_score": 0.879281290754676, 
+                                              "users": {
+                                                "14": 16, 
+                                                "18": 15, 
+                                                "20": 2
+                                              }
+                                            }
+                                          ], 
+                                          "entropy_score": 5.682299470109535, 
+                                          "favourites": 0, 
+                                          "follower": false, 
+                                          "id": 461620054065676288, 
+                                          "important_entropy": true, 
+                                          "reply": true, 
+                                          "timestamp": "Wed Apr 30 21:36:12 +0000 2014", 
+                                          "tree_size": 46, 
+                                          "tweet": "@WillMcAvoyACN 2/2 \"I think it\u2019s necessary for executions to be as humane and unsensational as possible.\"\n", 
+                                          "uid": 523722046, 
+                                          "user": 18, 
+                                          "user_score": 0.8378972277814775, 
+                                          "users": {
+                                            "14": 24, 
+                                            "18": 20, 
+                                            "20": 2
+                                          }
+                                        }
+                                      ], 
+                                      "entropy_score": 5.9045944433092945, 
+                                      "favourites": 0, 
+                                      "follower": false, 
+                                      "id": 461618820021374977, 
+                                      "reply": true, 
+                                      "timestamp": "Wed Apr 30 21:31:17 +0000 2014", 
+                                      "tree_size": 49, 
+                                      "tweet": "@HNSTHNCBSD I say the Gov &amp; statehouse putting pressure of the State Supreme Court to remove the stay of execution would qualify.\n", 
+                                      "uid": 617825073, 
+                                      "user": 14, 
+                                      "user_score": 0.833430013279854, 
+                                      "users": {
+                                        "14": 25, 
+                                        "18": 22, 
+                                        "20": 2
+                                      }
+                                    }
+                                  ], 
+                                  "entropy_score": 5.9045944433092945, 
+                                  "favourites": 0, 
+                                  "follower": false, 
+                                  "id": 461617971077857280, 
+                                  "reply": true, 
+                                  "timestamp": "Wed Apr 30 21:27:55 +0000 2014", 
+                                  "tree_size": 50, 
+                                  "tweet": "@WillMcAvoyACN that if the plaintiff can prove the prison showed deliberate indifference to the prisoner's safety its an 8th amendment issue\n", 
+                                  "uid": 523722046, 
+                                  "user": 18, 
+                                  "user_score": 0.8325318664442389, 
+                                  "users": {
+                                    "14": 25, 
+                                    "18": 23, 
+                                    "20": 2
+                                  }
+                                }, 
+                                {
+                                  "entropy_score": 0.0, 
+                                  "favourites": 0, 
+                                  "follower": false, 
+                                  "id": 461617999196463104, 
+                                  "reply": true, 
+                                  "timestamp": "Wed Apr 30 21:28:02 +0000 2014", 
+                                  "tree_size": 1, 
+                                  "tweet": "@WillMcAvoyACN But accident's don't cut it.\n", 
+                                  "uid": 523722046, 
+                                  "user": 18, 
+                                  "user_score": 0.0, 
+                                  "users": {
+                                    "18": 1
+                                  }
+                                }, 
+                                {
+                                  "entropy_score": 0.0, 
+                                  "favourites": 0, 
+                                  "follower": false, 
+                                  "id": 461620962925223936, 
+                                  "reply": true, 
+                                  "timestamp": "Wed Apr 30 21:39:48 +0000 2014", 
+                                  "tree_size": 1, 
+                                  "tweet": "@WillMcAvoyACN Precisely. You are against death penalty, period. But *using* this to push agenda through deceit. #AnyMeans @HNSTHNCBSD", 
+                                  "uid": 52759650, 
+                                  "user": 20, 
+                                  "user_score": 0.0, 
+                                  "users": {
+                                    "20": 1
+                                  }
+                                }
+                              ], 
+                              "entropy_score": 6.212269033149685, 
+                              "favourites": 0, 
+                              "follower": false, 
+                              "id": 461617253679501314, 
+                              "reply": true, 
+                              "timestamp": "Wed Apr 30 21:25:04 +0000 2014", 
+                              "tree_size": 54, 
+                              "tweet": "@HNSTHNCBSD On what planet is that the same as injecting someone with a substance?\n", 
+                              "uid": 617825073, 
+                              "user": 14, 
+                              "user_score": 0.8690165933000544, 
+                              "users": {
+                                "14": 26, 
+                                "18": 25, 
+                                "20": 3
+                              }
+                            }
+                          ], 
+                          "entropy_score": 6.212269033149685, 
+                          "favourites": 0, 
+                          "follower": false, 
+                          "id": 461616941577560064, 
+                          "reply": true, 
+                          "timestamp": "Wed Apr 30 21:23:49 +0000 2014", 
+                          "tree_size": 55, 
+                          "tweet": "@WillMcAvoyACN @JonahNRO Being in prison is not unconstitutional because someone could have a horrible slip and fall on the way to his cell.\n", 
+                          "uid": 523722046, 
+                          "user": 18, 
+                          "user_score": 0.8670266971757182, 
+                          "users": {
+                            "14": 26, 
+                            "18": 26, 
+                            "20": 3
+                          }
+                        }
+                      ], 
+                      "entropy_score": 6.436186029937483, 
+                      "favourites": 0, 
+                      "follower": false, 
+                      "id": 461616344782217218, 
+                      "reply": true, 
+                      "timestamp": "Wed Apr 30 21:21:27 +0000 2014", 
+                      "tree_size": 59, 
+                      "tweet": "@HNSTHNCBSD @JonahNRO Furthermore, it doesn't say that you should \"try\" not to be cruel and unusual, it explicitly bans it.\n", 
+                      "uid": 617825073, 
+                      "user": 14, 
+                      "user_score": 0.8589054195698593, 
+                      "users": {
+                        "14": 28, 
+                        "18": 28, 
+                        "20": 3
+                      }
+                    }
+                  ], 
+                  "entropy_score": 6.64929835893731, 
+                  "favourites": 0, 
+                  "follower": false, 
+                  "id": 461614829971996672, 
+                  "reply": true, 
+                  "timestamp": "Wed Apr 30 21:15:26 +0000 2014", 
+                  "tree_size": 63, 
+                  "tweet": "@WillMcAvoyACN @JonahNRO If prison took all reasonable steps to avoid cruelty but accident occurs its unfounded to consider the accident 1/2\n", 
+                  "uid": 523722046, 
+                  "user": 18, 
+                  "user_score": 0.8515842539195699, 
+                  "users": {
+                    "14": 30, 
+                    "18": 30, 
+                    "20": 3
+                  }
+                }, 
+                {
+                  "entropy_score": 0.0, 
+                  "favourites": 0, 
+                  "follower": false, 
+                  "id": 461615441014964224, 
+                  "reply": true, 
+                  "timestamp": "Wed Apr 30 21:17:52 +0000 2014", 
+                  "tree_size": 1, 
+                  "tweet": "@WillMcAvoyACN where did I say that we should torture people? You're leaping to a conclusion you assume I hold which I clearly don't.\n", 
+                  "uid": 71627462, 
+                  "user": 0, 
+                  "user_score": 0.0, 
+                  "users": {
+                    "0": 1
+                  }
+                }, 
+                {
+                  "entropy_score": 0.0, 
+                  "favourites": 0, 
+                  "follower": false, 
+                  "id": 461618580313079809, 
+                  "reply": true, 
+                  "timestamp": "Wed Apr 30 21:30:20 +0000 2014", 
+                  "tree_size": 1, 
+                  "tweet": "@WillMcAvoyACN Hi, you deceitful, zealot, piece of garbage, an accident was not the punishment. You're welcome.  @JonahNRO\n", 
+                  "uid": 52759650, 
+                  "user": 20, 
+                  "user_score": 0.0, 
+                  "users": {
+                    "20": 1
+                  }
+                }, 
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "children": [
+                                    {
+                                      "children": [
+                                        {
+                                          "children": [
+                                            {
+                                              "children": [
+                                                {
+                                                  "children": [
+                                                    {
+                                                      "entropy_score": 0.0, 
+                                                      "favourites": 1, 
+                                                      "follower": false, 
+                                                      "id": 461636077963341826, 
+                                                      "reply": true, 
+                                                      "timestamp": "Wed Apr 30 22:39:52 +0000 2014", 
+                                                      "tree_size": 1, 
+                                                      "tweet": "@kareninatl @JonahNRO I've been making the same case all day, Karen. That the state's actions were not consistent with ensuring Constitution\n", 
+                                                      "uid": 617825073, 
+                                                      "user": 14, 
+                                                      "user_score": 0.0, 
+                                                      "users": {
+                                                        "14": 1
+                                                      }
+                                                    }
+                                                  ], 
+                                                  "entropy_score": 0.0, 
+                                                  "favourites": 0, 
+                                                  "follower": false, 
+                                                  "id": 461632241207349248, 
+                                                  "reply": true, 
+                                                  "timestamp": "Wed Apr 30 22:24:37 +0000 2014", 
+                                                  "tree_size": 2, 
+                                                  "tweet": "@WillMcAvoyACN @JonahNRO  Appreciate the conv, seriously, but Im going to get off of your circle It will always b 1\" further 4 you  Thank u\n", 
+                                                  "uid": 348441416, 
+                                                  "user": 21, 
+                                                  "user_score": 0.6931471805599453, 
+                                                  "users": {
+                                                    "14": 1, 
+                                                    "21": 1
+                                                  }
+                                                }
+                                              ], 
+                                              "entropy_score": 0.0, 
+                                              "favourites": 0, 
+                                              "follower": false, 
+                                              "id": 461629732375646209, 
+                                              "reply": true, 
+                                              "timestamp": "Wed Apr 30 22:14:39 +0000 2014", 
+                                              "tree_size": 3, 
+                                              "tweet": "@kareninatl @JonahNRO No, it wasn't unavoidable, which is why courts in Oklahoma issued a stay until the statehouse threatened impeachment.\n", 
+                                              "uid": 617825073, 
+                                              "user": 14, 
+                                              "user_score": 0.6365141682948128, 
+                                              "users": {
+                                                "14": 2, 
+                                                "21": 1
+                                              }
+                                            }
+                                          ], 
+                                          "entropy_score": 0.0, 
+                                          "favourites": 0, 
+                                          "follower": false, 
+                                          "id": 461629032900358144, 
+                                          "reply": true, 
+                                          "timestamp": "Wed Apr 30 22:11:52 +0000 2014", 
+                                          "tree_size": 4, 
+                                          "tweet": "@WillMcAvoyACN @JonahNRO The act of the punishment certainly was justified per judge &amp; jury. Hence unavoidable Result was unfortunate &amp; sad.\n", 
+                                          "uid": 348441416, 
+                                          "user": 21, 
+                                          "user_score": 0.6931471805599453, 
+                                          "users": {
+                                            "14": 2, 
+                                            "21": 2
+                                          }
+                                        }
+                                      ], 
+                                      "entropy_score": 0.0, 
+                                      "favourites": 1, 
+                                      "follower": false, 
+                                      "id": 461627568332886016, 
+                                      "reply": true, 
+                                      "timestamp": "Wed Apr 30 22:06:03 +0000 2014", 
+                                      "tree_size": 5, 
+                                      "tweet": "@kareninatl @JonahNRO The question isn't was it intentional, it is was it avoidable? And it certainly was.\n", 
+                                      "uid": 617825073, 
+                                      "user": 14, 
+                                      "user_score": 0.6730116670092565, 
+                                      "users": {
+                                        "14": 3, 
+                                        "21": 2
+                                      }
+                                    }, 
+                                    {
+                                      "entropy_score": 0.0, 
+                                      "favourites": 0, 
+                                      "follower": false, 
+                                      "id": 461715329522356224, 
+                                      "reply": true, 
+                                      "timestamp": "Thu May 01 03:54:47 +0000 2014", 
+                                      "tree_size": 1, 
+                                      "tweet": "@kareninatl But if they know those drugs act that way, they should not use them again or it becomes intentional @WillMcAvoyACN @JonahNRO\n", 
+                                      "uid": 1391311344, 
+                                      "user": 23, 
+                                      "user_score": 0.0, 
+                                      "users": {
+                                        "23": 1
+                                      }
+                                    }
+                                  ], 
+                                  "entropy_score": 0.49561732975293515, 
+                                  "favourites": 0, 
+                                  "follower": false, 
+                                  "id": 461627415824183297, 
+                                  "reply": true, 
+                                  "timestamp": "Wed Apr 30 22:05:27 +0000 2014", 
+                                  "tree_size": 7, 
+                                  "tweet": "@WillMcAvoyACN @JonahNRO Incompetent things happen in alot of efforts Doesn't mean intentionally cruel. Was not planned to happen that way.\n", 
+                                  "uid": 348441416, 
+                                  "user": 21, 
+                                  "user_score": 1.0042424730540764, 
+                                  "users": {
+                                    "14": 3, 
+                                    "21": 3, 
+                                    "23": 1
+                                  }
+                                }, 
+                                {
+                                  "entropy_score": 0.0, 
+                                  "favourites": 0, 
+                                  "follower": false, 
+                                  "id": 461808601296678912, 
+                                  "reply": true, 
+                                  "timestamp": "Thu May 01 10:05:25 +0000 2014", 
+                                  "tree_size": 1, 
+                                  "tweet": "@WillMcAvoyACN @kareninatl @JonahNRO When it comes to murdering another human being: Intent is irrelevant, competence is essential. Got it.\n", 
+                                  "uid": 233630926, 
+                                  "user": 22, 
+                                  "user_score": 0.0, 
+                                  "users": {
+                                    "22": 1
+                                  }
+                                }
+                              ], 
+                              "entropy_score": 0.9100645071350155, 
+                              "favourites": 0, 
+                              "follower": false, 
+                              "id": 461625322161455104, 
+                              "reply": true, 
+                              "timestamp": "Wed Apr 30 21:57:08 +0000 2014", 
+                              "tree_size": 9, 
+                              "tweet": "@kareninatl @JonahNRO The question is not intent, it was competence.\n", 
+                              "uid": 617825073, 
+                              "user": 14, 
+                              "user_score": 1.2148896539491203, 
+                              "users": {
+                                "14": 4, 
+                                "21": 3, 
+                                "22": 1, 
+                                "23": 1
+                              }
+                            }
+                          ], 
+                          "entropy_score": 0.9100645071350155, 
+                          "favourites": 0, 
+                          "follower": false, 
+                          "id": 461625056024858624, 
+                          "reply": true, 
+                          "timestamp": "Wed Apr 30 21:56:04 +0000 2014", 
+                          "tree_size": 10, 
+                          "tweet": "@WillMcAvoyACN @JonahNRO B/C unintentional things happen 2 ppl everyday This guy intended to 2 kill the girl. That's Why.\n", 
+                          "uid": 348441416, 
+                          "user": 21, 
+                          "user_score": 1.193549604098133, 
+                          "users": {
+                            "14": 4, 
+                            "21": 4, 
+                            "22": 1, 
+                            "23": 1
+                          }
+                        }, 
+                        {
+                          "children": [
+                            {
+                              "entropy_score": 0.0, 
+                              "favourites": 0, 
+                              "follower": false, 
+                              "id": 461617767183958016, 
+                              "reply": false, 
+                              "timestamp": "Wed Apr 30 21:27:06 +0000 2014", 
+                              "tree_size": 1, 
+                              "tweet": "RT @JonahNRO: .@WillMcAvoyACN I'll be sure to cater all future arguments and posts to your reading habits and your bad faith expectations o\u2026\n", 
+                              "uid": 16930489, 
+                              "user": 29, 
+                              "user_score": 0.0, 
+                              "users": {
+                                "29": 1
+                              }
+                            }, 
+                            {
+                              "entropy_score": 0.0, 
+                              "favourites": 0, 
+                              "follower": false, 
+                              "id": 461619293369556992, 
+                              "reply": false, 
+                              "timestamp": "Wed Apr 30 21:33:10 +0000 2014", 
+                              "tree_size": 1, 
+                              "tweet": "RT @JonahNRO: .@WillMcAvoyACN I'll be sure to cater all future arguments and posts to your reading habits and your bad faith expectations o\u2026\n", 
+                              "uid": 14942593, 
+                              "user": 28, 
+                              "user_score": 0.0, 
+                              "users": {
+                                "28": 1
+                              }
+                            }, 
+                            {
+                              "entropy_score": 0.0, 
+                              "favourites": 0, 
+                              "follower": false, 
+                              "id": 461623779685199872, 
+                              "reply": true, 
+                              "timestamp": "Wed Apr 30 21:51:00 +0000 2014", 
+                              "tree_size": 1, 
+                              "tweet": "@JonahNRO You don't do that for meand I've known you for years! Lol @WillMcAvoyACN\n", 
+                              "uid": 22513016, 
+                              "user": 27, 
+                              "user_score": 0.0, 
+                              "users": {
+                                "27": 1
+                              }
+                            }, 
+                            {
+                              "entropy_score": 0.0, 
+                              "favourites": 0, 
+                              "follower": false, 
+                              "id": 461624612267511809, 
+                              "reply": false, 
+                              "timestamp": "Wed Apr 30 21:54:18 +0000 2014", 
+                              "tree_size": 1, 
+                              "tweet": "RT @JonahNRO: .@WillMcAvoyACN I'll be sure to cater all future arguments and posts to your reading habits and your bad faith expectations o\u2026\n", 
+                              "uid": 428236147, 
+                              "user": 26, 
+                              "user_score": 0.0, 
+                              "users": {
+                                "26": 1
+                              }
+                            }, 
+                            {
+                              "entropy_score": 0.0, 
+                              "favourites": 0, 
+                              "follower": false, 
+                              "id": 461671393814667264, 
+                              "reply": true, 
+                              "timestamp": "Thu May 01 01:00:12 +0000 2014", 
+                              "tree_size": 1, 
+                              "tweet": "@JonahNRO @WillMcAvoyACN Boom\n", 
+                              "uid": 19072339, 
+                              "user": 25, 
+                              "user_score": 0.0, 
+                              "users": {
+                                "25": 1
+                              }
+                            }, 
+                            {
+                              "entropy_score": 0.0, 
+                              "favourites": 0, 
+                              "follower": false, 
+                              "id": 461672883765256192, 
+                              "reply": false, 
+                              "timestamp": "Thu May 01 01:06:07 +0000 2014", 
+                              "tree_size": 1, 
+                              "tweet": "RT @JonahNRO: .@WillMcAvoyACN I'll be sure to cater all future arguments and posts to your reading habits and your bad faith expectations o\u2026\n", 
+                              "uid": 31065730, 
+                              "user": 24, 
+                              "user_score": 0.0, 
+                              "users": {
+                                "24": 1
+                              }
+                            }
+                          ], 
+                          "entropy_score": 1.9709354161508605, 
+                          "favourites": 15, 
+                          "follower": false, 
+                          "id": 461617421007462400, 
+                          "important_entropy": true, 
+                          "important_users": true, 
+                          "reply": true, 
+                          "timestamp": "Wed Apr 30 21:25:44 +0000 2014", 
+                          "tree_size": 7, 
+                          "tweet": ".@WillMcAvoyACN I'll be sure to cater all future arguments and posts to your reading habits and your bad faith expectations of my views.\n", 
+                          "uid": 71627462, 
+                          "user": 0, 
+                          "user_score": 1.945910149055313, 
+                          "users": {
+                            "0": 1, 
+                            "24": 1, 
+                            "25": 1, 
+                            "26": 1, 
+                            "27": 1, 
+                            "28": 1, 
+                            "29": 1
+                          }
+                        }
+                      ], 
+                      "entropy_score": 3.626243768179454, 
+                      "favourites": 0, 
+                      "follower": false, 
+                      "id": 461616123876614144, 
+                      "important_entropy": true, 
+                      "important_users": true, 
+                      "reply": true, 
+                      "timestamp": "Wed Apr 30 21:20:35 +0000 2014", 
+                      "tree_size": 18, 
+                      "tweet": "@JonahNRO You could have been more explicit in saying so, as I've been hearing this argument all day as to why it was not an issue.\n", 
+                      "uid": 617825073, 
+                      "user": 14, 
+                      "user_score": 2.135240257526716, 
+                      "users": {
+                        "0": 1, 
+                        "14": 5, 
+                        "21": 4, 
+                        "22": 1, 
+                        "23": 1, 
+                        "24": 1, 
+                        "25": 1, 
+                        "26": 1, 
+                        "27": 1, 
+                        "28": 1, 
+                        "29": 1
+                      }
+                    }
+                  ], 
+                  "entropy_score": 3.626243768179454, 
+                  "favourites": 0, 
+                  "follower": false, 
+                  "id": 461615608434814976, 
+                  "important_users": true, 
+                  "reply": true, 
+                  "timestamp": "Wed Apr 30 21:18:32 +0000 2014", 
+                  "tree_size": 19, 
+                  "tweet": "@WillMcAvoyACN you assume my lack of sympathy for this murderer means I favor torturing murders.\n", 
+                  "uid": 71627462, 
+                  "user": 0, 
+                  "user_score": 2.1560883808627587, 
+                  "users": {
+                    "0": 2, 
+                    "14": 5, 
+                    "21": 4, 
+                    "22": 1, 
+                    "23": 1, 
+                    "24": 1, 
+                    "25": 1, 
+                    "26": 1, 
+                    "27": 1, 
+                    "28": 1, 
+                    "29": 1
+                  }
+                }
+              ], 
+              "entropy_score": 11.06059955392068, 
+              "favourites": 0, 
+              "follower": false, 
+              "id": 461612322281107456, 
+              "important_entropy": true, 
+              "reply": true, 
+              "timestamp": "Wed Apr 30 21:05:28 +0000 2014", 
+              "tree_size": 86, 
+              "tweet": "@JonahNRO Constitution forbids cruel and unusual punishment. How was what happened last night not cruel?\n", 
+              "uid": 617825073, 
+              "user": 14, 
+              "user_score": 1.5491557046439388, 
+              "users": {
+                "0": 3, 
+                "14": 36, 
+                "18": 31, 
+                "20": 4, 
+                "21": 4, 
+                "22": 1, 
+                "23": 1, 
+                "24": 1, 
+                "25": 1, 
+                "26": 1, 
+                "27": 1, 
+                "28": 1, 
+                "29": 1
+              }
+            }
+          ], 
+          "entropy_score": 12.182757854747466, 
+          "favourites": 3, 
+          "follower": false, 
+          "id": 461611424549449728, 
+          "reply": true, 
+          "timestamp": "Wed Apr 30 21:01:54 +0000 2014", 
+          "tree_size": 94, 
+          "tweet": ".@WillMcAvoyACN a ridiculous non-sequitur\n", 
+          "uid": 71627462, 
+          "user": 0, 
+          "user_score": 1.7504294806531309, 
+          "users": {
+            "0": 4, 
+            "14": 37, 
+            "18": 32, 
+            "19": 1, 
+            "20": 4, 
+            "21": 4, 
+            "22": 1, 
+            "23": 1, 
+            "24": 1, 
+            "25": 1, 
+            "26": 1, 
+            "27": 1, 
+            "28": 1, 
+            "29": 1, 
+            "30": 1, 
+            "31": 2, 
+            "32": 1
+          }
+        }, 
+        {
+          "entropy_score": 0.0, 
+          "favourites": 0, 
+          "follower": false, 
+          "id": 461612271027126272, 
+          "reply": true, 
+          "timestamp": "Wed Apr 30 21:05:16 +0000 2014", 
+          "tree_size": 1, 
+          "tweet": ".@WillMcAvoyACN @JonahNRO IF the 2nd Amd allows only muskets, the 8th should only allow public hangings. Sounds good to me.\n", 
+          "uid": 1625059340, 
+          "user": 17, 
+          "user_score": 0.0, 
+          "users": {
+            "17": 1
+          }
+        }, 
+        {
+          "children": [
+            {
+              "entropy_score": 0.0, 
+              "favourites": 0, 
+              "follower": false, 
+              "id": 461637320710447104, 
+              "reply": true, 
+              "timestamp": "Wed Apr 30 22:44:48 +0000 2014", 
+              "tree_size": 1, 
+              "tweet": "@Kanamit2 @JonahNRO Well, that's got a complicated answer. Let's start with the fact that the IRS was simply doing its job...\n", 
+              "uid": 617825073, 
+              "user": 14, 
+              "user_score": 0.0, 
+              "users": {
+                "14": 1
+              }
+            }, 
+            {
+              "entropy_score": 0.0, 
+              "favourites": 0, 
+              "follower": false, 
+              "id": 461637400960065536, 
+              "reply": true, 
+              "timestamp": "Wed Apr 30 22:45:07 +0000 2014", 
+              "tree_size": 1, 
+              "tweet": "@Kanamit2 @JonahNRO ...and expand to the fact that not only were liberal groups also targeted, they were targeted more heavily than...\n", 
+              "uid": 617825073, 
+              "user": 14, 
+              "user_score": 0.0, 
+              "users": {
+                "14": 1
+              }
+            }, 
+            {
+              "entropy_score": 0.0, 
+              "favourites": 0, 
+              "follower": false, 
+              "id": 461637453997043712, 
+              "reply": true, 
+              "timestamp": "Wed Apr 30 22:45:20 +0000 2014", 
+              "tree_size": 1, 
+              "tweet": "@Kanamit2 @JonahNRO ...conservative groups who were trying to skirt federal tax laws.\n", 
+              "uid": 617825073, 
+              "user": 14, 
+              "user_score": 0.0, 
+              "users": {
+                "14": 1
+              }
+            }
+          ], 
+          "entropy_score": 1.2084735175349208, 
+          "favourites": 0, 
+          "follower": false, 
+          "id": 461637021446856704, 
+          "reply": true, 
+          "timestamp": "Wed Apr 30 22:43:37 +0000 2014", 
+          "tree_size": 4, 
+          "tweet": "\"@WillMcAvoyACN: I forgot, @JonahNRO, the Constitution only applies to people we like.\" Then why aren't the liberals hopping mad about IRS?\n", 
+          "uid": 1405909537, 
+          "user": 16, 
+          "user_score": 0.5623351446188083, 
+          "users": {
+            "14": 3, 
+            "16": 1
+          }
+        }, 
+        {
+          "children": [
+            {
+              "entropy_score": 0.0, 
+              "favourites": 0, 
+              "follower": false, 
+              "id": 461641673554939904, 
+              "reply": true, 
+              "timestamp": "Wed Apr 30 23:02:06 +0000 2014", 
+              "tree_size": 1, 
+              "tweet": "@jaycutlersux @JonahNRO They didn't target conservatives, they targeted political groups.   http://t.co/7kJg1tJHZx\n", 
+              "uid": 617825073, 
+              "user": 14, 
+              "user_score": 0.0, 
+              "users": {
+                "14": 1
+              }
+            }
+          ], 
+          "entropy_score": 0.0, 
+          "favourites": 0, 
+          "follower": false, 
+          "id": 461641251364671488, 
+          "reply": true, 
+          "timestamp": "Wed Apr 30 23:00:25 +0000 2014", 
+          "tree_size": 2, 
+          "tweet": "@WillMcAvoyACN said the leftist who sees the actions of the IRS towards conservatives as perfectly reasonable. LOL. @JonahNRO\n", 
+          "uid": 105575757, 
+          "user": 15, 
+          "user_score": 0.6931471805599453, 
+          "users": {
+            "14": 1, 
+            "15": 1
+          }
+        }
+      ], 
+      "entropy_score": 13.854469186782774, 
+      "favourites": 16, 
+      "follower": false, 
+      "id": 461588491088830465, 
+      "important_entropy": true, 
+      "important_users": true, 
+      "reply": true, 
+      "timestamp": "Wed Apr 30 19:30:46 +0000 2014", 
+      "tree_size": 104, 
+      "tweet": "I forgot, @JonahNRO, that the Constitution only applies to people we like.\n", 
+      "uid": 617825073, 
+      "user": 14, 
+      "user_score": 1.8952803265254945, 
+      "users": {
+        "0": 4, 
+        "13": 1, 
+        "14": 42, 
+        "15": 1, 
+        "16": 1, 
+        "17": 1, 
+        "18": 32, 
+        "19": 1, 
+        "20": 4, 
+        "21": 4, 
+        "22": 1, 
+        "23": 1, 
+        "24": 1, 
+        "25": 1, 
+        "26": 1, 
+        "27": 1, 
+        "28": 1, 
+        "29": 1, 
+        "30": 1, 
+        "31": 2, 
+        "32": 1, 
+        "33": 1
+      }
+    }
+  ], 
+  "entropy_score": 15.271556583013723, 
+  "favourites": 27, 
+  "id": 461542847851036672, 
+  "important_users": true, 
+  "reply": false, 
+  "timestamp": "Wed Apr 30 16:29:24 +0000 2014", 
+  "total_tweets": 139, 
+  "total_users": 54, 
+  "tree_size": 139, 
+  "tweet": "Don't forget what these monsters in Oklahoma actually did. http://t.co/sdYuALVSR4\n", 
+  "uid": 71627462, 
+  "user": 0, 
+  "user_score": 2.830163333964789, 
+  "users": {
+    "0": 6, 
+    "1": 1, 
+    "10": 1, 
+    "11": 1, 
+    "12": 1, 
+    "13": 2, 
+    "14": 42, 
+    "15": 1, 
+    "16": 1, 
+    "17": 1, 
+    "18": 32, 
+    "19": 1, 
+    "2": 1, 
+    "20": 4, 
+    "21": 4, 
+    "22": 1, 
+    "23": 1, 
+    "24": 1, 
+    "25": 1, 
+    "26": 1, 
+    "27": 1, 
+    "28": 1, 
+    "29": 1, 
+    "3": 1, 
+    "30": 1, 
+    "31": 2, 
+    "32": 1, 
+    "33": 1, 
+    "34": 1, 
+    "35": 1, 
+    "36": 1, 
+    "37": 1, 
+    "38": 1, 
+    "39": 1, 
+    "4": 1, 
+    "40": 1, 
+    "41": 1, 
+    "42": 1, 
+    "43": 1, 
+    "44": 1, 
+    "45": 1, 
+    "46": 1, 
+    "47": 1, 
+    "48": 1, 
+    "49": 1, 
+    "5": 1, 
+    "50": 1, 
+    "51": 1, 
+    "52": 1, 
+    "53": 1, 
+    "6": 1, 
+    "7": 1, 
+    "8": 1, 
+    "9": 1
+  }
+}

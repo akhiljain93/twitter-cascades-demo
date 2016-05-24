@@ -1,0 +1,2088 @@
+{
+  "children": [
+    {
+      "children": [
+        {
+          "entropy_score": 0.0, 
+          "favourites": 0, 
+          "follower": true, 
+          "id": 459111753532841985, 
+          "reply": true, 
+          "timestamp": "Wed Apr 23 23:29:06 +0000 2014", 
+          "tree_size": 1, 
+          "tweet": "@danaditomaso Thanks Dana! I'll be leaving May 16.\n", 
+          "uid": 44279211, 
+          "user": 0, 
+          "user_score": 0.0, 
+          "users": {
+            "0": 1
+          }
+        }
+      ], 
+      "entropy_score": 0.0, 
+      "favourites": 0, 
+      "follower": true, 
+      "id": 459110007837962240, 
+      "reply": true, 
+      "timestamp": "Wed Apr 23 23:22:10 +0000 2014", 
+      "tree_size": 2, 
+      "tweet": "@andrealauder @SaskPulse Wow! They are lucky to have you. When do you leave?\n", 
+      "uid": 15118038, 
+      "user": 24, 
+      "user_score": 0.6931471805599453, 
+      "users": {
+        "0": 1, 
+        "24": 1
+      }
+    }, 
+    {
+      "children": [
+        {
+          "entropy_score": 0.0, 
+          "favourites": 0, 
+          "follower": true, 
+          "id": 459111827507798016, 
+          "reply": true, 
+          "timestamp": "Wed Apr 23 23:29:24 +0000 2014", 
+          "tree_size": 1, 
+          "tweet": "@thomaspaulpura Thank you so much!\n", 
+          "uid": 44279211, 
+          "user": 0, 
+          "user_score": 0.0, 
+          "users": {
+            "0": 1
+          }
+        }
+      ], 
+      "entropy_score": 0.0, 
+      "favourites": 0, 
+      "follower": true, 
+      "id": 459110367059136513, 
+      "reply": true, 
+      "timestamp": "Wed Apr 23 23:23:36 +0000 2014", 
+      "tree_size": 2, 
+      "tweet": "@andrealauder congratulations! All the best in your new adventure!\n", 
+      "uid": 38034726, 
+      "user": 23, 
+      "user_score": 0.6931471805599453, 
+      "users": {
+        "0": 1, 
+        "23": 1
+      }
+    }, 
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "entropy_score": 0.0, 
+              "favourites": 0, 
+              "follower": true, 
+              "id": 459114652828311552, 
+              "reply": true, 
+              "timestamp": "Wed Apr 23 23:40:37 +0000 2014", 
+              "tree_size": 1, 
+              "tweet": "@andrealauder Happy to have a new friend in Saskatchewan, watch out here she comes! :)\n", 
+              "uid": 27695791, 
+              "user": 22, 
+              "user_score": 0.0, 
+              "users": {
+                "22": 1
+              }
+            }
+          ], 
+          "entropy_score": 0.0, 
+          "favourites": 1, 
+          "follower": true, 
+          "id": 459112144664285185, 
+          "reply": true, 
+          "timestamp": "Wed Apr 23 23:30:39 +0000 2014", 
+          "tree_size": 2, 
+          "tweet": "@milzofsmilz Thank you so much Joveena, you're so amazing. It has been such an honour to get to know you and hang out with you!\n", 
+          "uid": 44279211, 
+          "user": 0, 
+          "user_score": 0.6931471805599453, 
+          "users": {
+            "0": 1, 
+            "22": 1
+          }
+        }
+      ], 
+      "entropy_score": 0.0, 
+      "favourites": 0, 
+      "follower": true, 
+      "id": 459111314669834242, 
+      "reply": true, 
+      "timestamp": "Wed Apr 23 23:27:21 +0000 2014", 
+      "tree_size": 3, 
+      "tweet": "@andrealauder @SaskPulse Congrats on your new career move Andrea. You must be delighted to be closer to your FAMily. You are sooo wonderful!\n", 
+      "uid": 27695791, 
+      "user": 22, 
+      "user_score": 0.6365141682948128, 
+      "users": {
+        "0": 1, 
+        "22": 2
+      }
+    }, 
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "entropy_score": 0.0, 
+                                  "favourites": 0, 
+                                  "follower": true, 
+                                  "id": 459114726853586945, 
+                                  "reply": true, 
+                                  "timestamp": "Wed Apr 23 23:40:55 +0000 2014", 
+                                  "tree_size": 1, 
+                                  "tweet": "@SaskGatz @andrealauder @Farontino I will help cough cough\n", 
+                                  "uid": 308223568, 
+                                  "user": 18, 
+                                  "user_score": 0.0, 
+                                  "users": {
+                                    "18": 1
+                                  }
+                                }
+                              ], 
+                              "entropy_score": 0.0, 
+                              "favourites": 0, 
+                              "follower": true, 
+                              "id": 459114617642688512, 
+                              "reply": true, 
+                              "timestamp": "Wed Apr 23 23:40:29 +0000 2014", 
+                              "tree_size": 2, 
+                              "tweet": "@andrealauder anything is possible. I'll help, but not spear heading. @Farontino @raygfox\n", 
+                              "uid": 22858189, 
+                              "user": 17, 
+                              "user_score": 0.6931471805599453, 
+                              "users": {
+                                "17": 1, 
+                                "18": 1
+                              }
+                            }, 
+                            {
+                              "children": [
+                                {
+                                  "entropy_score": 0.0, 
+                                  "favourites": 1, 
+                                  "follower": true, 
+                                  "id": 459115111329050624, 
+                                  "reply": true, 
+                                  "timestamp": "Wed Apr 23 23:42:27 +0000 2014", 
+                                  "tree_size": 1, 
+                                  "tweet": "@raygfox @andrealauder @Farontino agreed, he'd be great @ShahanFancy\n", 
+                                  "uid": 22858189, 
+                                  "user": 17, 
+                                  "user_score": 0.0, 
+                                  "users": {
+                                    "17": 1
+                                  }
+                                }, 
+                                {
+                                  "children": [
+                                    {
+                                      "entropy_score": 0.0, 
+                                      "favourites": 0, 
+                                      "follower": true, 
+                                      "id": 459117145343803392, 
+                                      "reply": true, 
+                                      "timestamp": "Wed Apr 23 23:50:32 +0000 2014", 
+                                      "tree_size": 1, 
+                                      "tweet": "@ShahanFancy @andrealauder @SaskGatz @Farontino Steve is like Obi-wan when he\u2019s buggered off to Tatooine to mellow out\n", 
+                                      "uid": 308223568, 
+                                      "user": 18, 
+                                      "user_score": 0.0, 
+                                      "users": {
+                                        "18": 1
+                                      }
+                                    }, 
+                                    {
+                                      "children": [
+                                        {
+                                          "children": [
+                                            {
+                                              "entropy_score": 0.0, 
+                                              "favourites": 0, 
+                                              "follower": true, 
+                                              "id": 459115757063122944, 
+                                              "reply": true, 
+                                              "timestamp": "Wed Apr 23 23:45:01 +0000 2014", 
+                                              "tree_size": 1, 
+                                              "tweet": "@raygfox @andrealauder @ShahanFancy @Farontino seconded\n", 
+                                              "uid": 22858189, 
+                                              "user": 17, 
+                                              "user_score": 0.0, 
+                                              "users": {
+                                                "17": 1
+                                              }
+                                            }, 
+                                            {
+                                              "children": [
+                                                {
+                                                  "children": [
+                                                    {
+                                                      "children": [
+                                                        {
+                                                          "children": [
+                                                            {
+                                                              "entropy_score": 0.0, 
+                                                              "favourites": 0, 
+                                                              "follower": true, 
+                                                              "id": 459129325208358913, 
+                                                              "reply": true, 
+                                                              "timestamp": "Thu Apr 24 00:38:56 +0000 2014", 
+                                                              "tree_size": 1, 
+                                                              "tweet": "@raygfox @ShahanFancy @SaskGatz @andrealauder @Farontino lol do it\n", 
+                                                              "uid": 257644524, 
+                                                              "user": 20, 
+                                                              "user_score": 0.0, 
+                                                              "users": {
+                                                                "20": 1
+                                                              }
+                                                            }, 
+                                                            {
+                                                              "children": [
+                                                                {
+                                                                  "children": [
+                                                                    {
+                                                                      "children": [
+                                                                        {
+                                                                          "children": [
+                                                                            {
+                                                                              "children": [
+                                                                                {
+                                                                                  "children": [
+                                                                                    {
+                                                                                      "children": [
+                                                                                        {
+                                                                                          "entropy_score": 0.0, 
+                                                                                          "favourites": 1, 
+                                                                                          "follower": true, 
+                                                                                          "id": 459170566193176576, 
+                                                                                          "reply": true, 
+                                                                                          "timestamp": "Thu Apr 24 03:22:48 +0000 2014", 
+                                                                                          "tree_size": 1, 
+                                                                                          "tweet": "@SaskGatz @raygfox @wapimaskwa69 @ShahanFancy @andrealauder @Farontino @saskajules he's the Mango to my Garth Brooks, all right.\n", 
+                                                                                          "uid": 275586438, 
+                                                                                          "user": 21, 
+                                                                                          "user_score": 0.0, 
+                                                                                          "users": {
+                                                                                            "21": 1
+                                                                                          }
+                                                                                        }
+                                                                                      ], 
+                                                                                      "entropy_score": 0.0, 
+                                                                                      "favourites": 0, 
+                                                                                      "follower": true, 
+                                                                                      "id": 459166809225445376, 
+                                                                                      "reply": true, 
+                                                                                      "timestamp": "Thu Apr 24 03:07:52 +0000 2014", 
+                                                                                      "tree_size": 2, 
+                                                                                      "tweet": "@jasondfedorchuk @raygfox @wapimaskwa69 @ShahanFancy @andrealauder @Farontino @saskajules admit it, you liked it\n", 
+                                                                                      "uid": 22858189, 
+                                                                                      "user": 17, 
+                                                                                      "user_score": 0.6931471805599453, 
+                                                                                      "users": {
+                                                                                        "17": 1, 
+                                                                                        "21": 1
+                                                                                      }
+                                                                                    }
+                                                                                  ], 
+                                                                                  "entropy_score": 0.0, 
+                                                                                  "favourites": 1, 
+                                                                                  "follower": true, 
+                                                                                  "id": 459166218990010368, 
+                                                                                  "reply": true, 
+                                                                                  "timestamp": "Thu Apr 24 03:05:32 +0000 2014", 
+                                                                                  "tree_size": 3, 
+                                                                                  "tweet": "@SaskGatz @raygfox @wapimaskwa69 @ShahanFancy @andrealauder @Farontino @saskajules Agh! What--what the--?\n", 
+                                                                                  "uid": 275586438, 
+                                                                                  "user": 21, 
+                                                                                  "user_score": 0.6365141682948128, 
+                                                                                  "users": {
+                                                                                    "17": 1, 
+                                                                                    "21": 2
+                                                                                  }
+                                                                                }
+                                                                              ], 
+                                                                              "entropy_score": 0.0, 
+                                                                              "favourites": 0, 
+                                                                              "follower": true, 
+                                                                              "id": 459135380823232513, 
+                                                                              "reply": true, 
+                                                                              "timestamp": "Thu Apr 24 01:02:59 +0000 2014", 
+                                                                              "tree_size": 4, 
+                                                                              "tweet": "@raygfox @wapimaskwa69 @ShahanFancy @andrealauder @Farontino @saskajules you mean like this one? http://t.co/CMwvmNb1zJ\n", 
+                                                                              "uid": 22858189, 
+                                                                              "user": 17, 
+                                                                              "user_score": 0.6931471805599453, 
+                                                                              "users": {
+                                                                                "17": 2, 
+                                                                                "21": 2
+                                                                              }
+                                                                            }
+                                                                          ], 
+                                                                          "entropy_score": 0.0, 
+                                                                          "favourites": 0, 
+                                                                          "follower": true, 
+                                                                          "id": 459132642546315264, 
+                                                                          "reply": true, 
+                                                                          "timestamp": "Thu Apr 24 00:52:06 +0000 2014", 
+                                                                          "tree_size": 5, 
+                                                                          "tweet": "@SaskGatz @wapimaskwa69 @ShahanFancy @andrealauder @Farontino @saskajules him and his freaky unicorn fetish\n", 
+                                                                          "uid": 308223568, 
+                                                                          "user": 18, 
+                                                                          "user_score": 1.0549201679861442, 
+                                                                          "users": {
+                                                                            "17": 2, 
+                                                                            "18": 1, 
+                                                                            "21": 2
+                                                                          }
+                                                                        }
+                                                                      ], 
+                                                                      "entropy_score": 0.0, 
+                                                                      "favourites": 1, 
+                                                                      "follower": true, 
+                                                                      "id": 459131206282788864, 
+                                                                      "reply": true, 
+                                                                      "timestamp": "Thu Apr 24 00:46:24 +0000 2014", 
+                                                                      "tree_size": 6, 
+                                                                      "tweet": "@raygfox @wapimaskwa69 @ShahanFancy @andrealauder @Farontino @saskajules is not local anymore. He's am import pervert\n", 
+                                                                      "uid": 22858189, 
+                                                                      "user": 17, 
+                                                                      "user_score": 1.0114042647073518, 
+                                                                      "users": {
+                                                                        "17": 3, 
+                                                                        "18": 1, 
+                                                                        "21": 2
+                                                                      }
+                                                                    }
+                                                                  ], 
+                                                                  "entropy_score": 0.0, 
+                                                                  "favourites": 0, 
+                                                                  "follower": true, 
+                                                                  "id": 459130531502751746, 
+                                                                  "reply": true, 
+                                                                  "timestamp": "Thu Apr 24 00:43:43 +0000 2014", 
+                                                                  "tree_size": 7, 
+                                                                  "tweet": "@SaskGatz @wapimaskwa69 @ShahanFancy @andrealauder @Farontino well I think Kev,but you or @saskajules could qualify\u2026\n", 
+                                                                  "uid": 308223568, 
+                                                                  "user": 18, 
+                                                                  "user_score": 1.0789922078775833, 
+                                                                  "users": {
+                                                                    "17": 3, 
+                                                                    "18": 2, 
+                                                                    "21": 2
+                                                                  }
+                                                                }
+                                                              ], 
+                                                              "entropy_score": 0.0, 
+                                                              "favourites": 0, 
+                                                              "follower": true, 
+                                                              "id": 459130145107091456, 
+                                                              "reply": true, 
+                                                              "timestamp": "Thu Apr 24 00:42:11 +0000 2014", 
+                                                              "tree_size": 8, 
+                                                              "tweet": "@raygfox @wapimaskwa69 @ShahanFancy @andrealauder @Farontino can you clarify who the resident pervert is\n", 
+                                                              "uid": 22858189, 
+                                                              "user": 17, 
+                                                              "user_score": 1.0397207708399179, 
+                                                              "users": {
+                                                                "17": 4, 
+                                                                "18": 2, 
+                                                                "21": 2
+                                                              }
+                                                            }
+                                                          ], 
+                                                          "entropy_score": 0.3837153054273352, 
+                                                          "favourites": 0, 
+                                                          "follower": true, 
+                                                          "id": 459128872512913408, 
+                                                          "reply": true, 
+                                                          "timestamp": "Thu Apr 24 00:37:08 +0000 2014", 
+                                                          "tree_size": 10, 
+                                                          "tweet": "@wapimaskwa69 @ShahanFancy @SaskGatz @andrealauder @Farontino let our resident pervert run the tweetup!!!\n", 
+                                                          "uid": 308223568, 
+                                                          "user": 18, 
+                                                          "user_score": 1.2798542258336676, 
+                                                          "users": {
+                                                            "17": 4, 
+                                                            "18": 3, 
+                                                            "20": 1, 
+                                                            "21": 2
+                                                          }
+                                                        }
+                                                      ], 
+                                                      "entropy_score": 0.3837153054273352, 
+                                                      "favourites": 0, 
+                                                      "follower": true, 
+                                                      "id": 459117844668481536, 
+                                                      "reply": true, 
+                                                      "timestamp": "Wed Apr 23 23:53:18 +0000 2014", 
+                                                      "tree_size": 11, 
+                                                      "tweet": "@ShahanFancy @SaskGatz @raygfox @andrealauder @Farontino what what?\n", 
+                                                      "uid": 257644524, 
+                                                      "user": 20, 
+                                                      "user_score": 1.3421131789144003, 
+                                                      "users": {
+                                                        "17": 4, 
+                                                        "18": 3, 
+                                                        "20": 2, 
+                                                        "21": 2
+                                                      }
+                                                    }, 
+                                                    {
+                                                      "children": [
+                                                        {
+                                                          "entropy_score": 0.0, 
+                                                          "favourites": 0, 
+                                                          "follower": true, 
+                                                          "id": 459122294238224384, 
+                                                          "reply": true, 
+                                                          "timestamp": "Thu Apr 24 00:10:59 +0000 2014", 
+                                                          "tree_size": 1, 
+                                                          "tweet": "@andrealauder @ShahanFancy @raygfox @Farontino bwhahaha!\n", 
+                                                          "uid": 22858189, 
+                                                          "user": 17, 
+                                                          "user_score": 0.0, 
+                                                          "users": {
+                                                            "17": 1
+                                                          }
+                                                        }
+                                                      ], 
+                                                      "entropy_score": 0.0, 
+                                                      "favourites": 0, 
+                                                      "follower": true, 
+                                                      "id": 459117848229449728, 
+                                                      "reply": true, 
+                                                      "timestamp": "Wed Apr 23 23:53:19 +0000 2014", 
+                                                      "tree_size": 2, 
+                                                      "tweet": "@ShahanFancy @SaskGatz @raygfox @Farontino What have we started....\n", 
+                                                      "uid": 44279211, 
+                                                      "user": 0, 
+                                                      "user_score": 0.6931471805599453, 
+                                                      "users": {
+                                                        "0": 1, 
+                                                        "17": 1
+                                                      }
+                                                    }
+                                                  ], 
+                                                  "entropy_score": 0.855970629551013, 
+                                                  "favourites": 1, 
+                                                  "follower": true, 
+                                                  "id": 459116379438739457, 
+                                                  "important_users": true, 
+                                                  "reply": true, 
+                                                  "timestamp": "Wed Apr 23 23:47:29 +0000 2014", 
+                                                  "tree_size": 14, 
+                                                  "tweet": "@SaskGatz @raygfox @andrealauder @Farontino Oh Lawd!\n", 
+                                                  "uid": 85222916, 
+                                                  "user": 19, 
+                                                  "user_score": 1.6307991045856431, 
+                                                  "users": {
+                                                    "0": 1, 
+                                                    "17": 5, 
+                                                    "18": 3, 
+                                                    "19": 1, 
+                                                    "20": 2, 
+                                                    "21": 2
+                                                  }
+                                                }
+                                              ], 
+                                              "entropy_score": 0.855970629551013, 
+                                              "favourites": 1, 
+                                              "follower": true, 
+                                              "id": 459115790231691264, 
+                                              "reply": true, 
+                                              "timestamp": "Wed Apr 23 23:45:09 +0000 2014", 
+                                              "tree_size": 15, 
+                                              "tweet": "@raygfox @andrealauder @ShahanFancy @Farontino motion passed\n", 
+                                              "uid": 22858189, 
+                                              "user": 17, 
+                                              "user_score": 1.5867847075280475, 
+                                              "users": {
+                                                "0": 1, 
+                                                "17": 6, 
+                                                "18": 3, 
+                                                "19": 1, 
+                                                "20": 2, 
+                                                "21": 2
+                                              }
+                                            }
+                                          ], 
+                                          "entropy_score": 1.1131414541281182, 
+                                          "favourites": 0, 
+                                          "follower": true, 
+                                          "id": 459115417215062017, 
+                                          "reply": true, 
+                                          "timestamp": "Wed Apr 23 23:43:40 +0000 2014", 
+                                          "tree_size": 17, 
+                                          "tweet": "@andrealauder @ShahanFancy @SaskGatz @Farontino Anders and Shahan! We need someone to 2nd the notion\n", 
+                                          "uid": 308223568, 
+                                          "user": 18, 
+                                          "user_score": 1.5426758611087728, 
+                                          "users": {
+                                            "0": 1, 
+                                            "17": 7, 
+                                            "18": 4, 
+                                            "19": 1, 
+                                            "20": 2, 
+                                            "21": 2
+                                          }
+                                        }
+                                      ], 
+                                      "entropy_score": 1.1131414541281182, 
+                                      "favourites": 0, 
+                                      "follower": true, 
+                                      "id": 459115182006890496, 
+                                      "important_users": true, 
+                                      "reply": true, 
+                                      "timestamp": "Wed Apr 23 23:42:43 +0000 2014", 
+                                      "tree_size": 18, 
+                                      "tweet": "@ShahanFancy @raygfox @SaskGatz @Farontino Please can't I just ease into this? Remember I'm \"new in town\". ;)\n", 
+                                      "uid": 44279211, 
+                                      "user": 0, 
+                                      "user_score": 1.5945144483835854, 
+                                      "users": {
+                                        "0": 2, 
+                                        "17": 7, 
+                                        "18": 4, 
+                                        "19": 1, 
+                                        "20": 2, 
+                                        "21": 2
+                                      }
+                                    }
+                                  ], 
+                                  "entropy_score": 1.3399527098246733, 
+                                  "favourites": 0, 
+                                  "follower": true, 
+                                  "id": 459115010820554753, 
+                                  "important_users": true, 
+                                  "reply": true, 
+                                  "timestamp": "Wed Apr 23 23:42:03 +0000 2014", 
+                                  "tree_size": 20, 
+                                  "tweet": "@raygfox @andrealauder @SaskGatz @Farontino Hahaa, Steve is still the Tweetup master.\n", 
+                                  "uid": 85222916, 
+                                  "user": 19, 
+                                  "user_score": 1.635045371052128, 
+                                  "users": {
+                                    "0": 2, 
+                                    "17": 7, 
+                                    "18": 5, 
+                                    "19": 2, 
+                                    "20": 2, 
+                                    "21": 2
+                                  }
+                                }
+                              ], 
+                              "entropy_score": 1.5505411999781622, 
+                              "favourites": 0, 
+                              "follower": true, 
+                              "id": 459114430182088705, 
+                              "important_users": true, 
+                              "reply": true, 
+                              "timestamp": "Wed Apr 23 23:39:44 +0000 2014", 
+                              "tree_size": 22, 
+                              "tweet": "@andrealauder @SaskGatz @Farontino really not my expertise! Steve\u2019s so good at it, @ShahanFancy  would be fabulous I think\n", 
+                              "uid": 308223568, 
+                              "user": 18, 
+                              "user_score": 1.5941666991180168, 
+                              "users": {
+                                "0": 2, 
+                                "17": 8, 
+                                "18": 6, 
+                                "19": 2, 
+                                "20": 2, 
+                                "21": 2
+                              }
+                            }
+                          ], 
+                          "entropy_score": 1.866060781339939, 
+                          "favourites": 0, 
+                          "follower": true, 
+                          "id": 459113753746092032, 
+                          "reply": true, 
+                          "timestamp": "Wed Apr 23 23:37:03 +0000 2014", 
+                          "tree_size": 25, 
+                          "tweet": "@SaskGatz Well what about @Farontino or @raygfox?\n", 
+                          "uid": 44279211, 
+                          "user": 0, 
+                          "user_score": 1.5848313373171141, 
+                          "users": {
+                            "0": 3, 
+                            "17": 9, 
+                            "18": 7, 
+                            "19": 2, 
+                            "20": 2, 
+                            "21": 2
+                          }
+                        }
+                      ], 
+                      "entropy_score": 1.866060781339939, 
+                      "favourites": 0, 
+                      "follower": true, 
+                      "id": 459113483192516610, 
+                      "reply": true, 
+                      "timestamp": "Wed Apr 23 23:35:58 +0000 2014", 
+                      "tree_size": 26, 
+                      "tweet": "@andrealauder I've retired. :-)\n", 
+                      "uid": 22858189, 
+                      "user": 17, 
+                      "user_score": 1.5618680025333418, 
+                      "users": {
+                        "0": 3, 
+                        "17": 10, 
+                        "18": 7, 
+                        "19": 2, 
+                        "20": 2, 
+                        "21": 2
+                      }
+                    }
+                  ], 
+                  "entropy_score": 1.866060781339939, 
+                  "favourites": 0, 
+                  "follower": true, 
+                  "id": 459112547925647362, 
+                  "reply": true, 
+                  "timestamp": "Wed Apr 23 23:32:15 +0000 2014", 
+                  "tree_size": 27, 
+                  "tweet": "@SaskGatz errrr...that wasn't what I had in mind.. ;)\n", 
+                  "uid": 44279211, 
+                  "user": 0, 
+                  "user_score": 1.5791226992944445, 
+                  "users": {
+                    "0": 4, 
+                    "17": 10, 
+                    "18": 7, 
+                    "19": 2, 
+                    "20": 2, 
+                    "21": 2
+                  }
+                }
+              ], 
+              "entropy_score": 1.866060781339939, 
+              "favourites": 0, 
+              "follower": true, 
+              "id": 459112456737271809, 
+              "reply": true, 
+              "timestamp": "Wed Apr 23 23:31:54 +0000 2014", 
+              "tree_size": 28, 
+              "tweet": "@andrealauder even better you can organise them\n", 
+              "uid": 22858189, 
+              "user": 17, 
+              "user_score": 1.557123096889186, 
+              "users": {
+                "0": 4, 
+                "17": 11, 
+                "18": 7, 
+                "19": 2, 
+                "20": 2, 
+                "21": 2
+              }
+            }
+          ], 
+          "entropy_score": 1.866060781339939, 
+          "favourites": 0, 
+          "follower": true, 
+          "id": 459111895514234880, 
+          "reply": true, 
+          "timestamp": "Wed Apr 23 23:29:40 +0000 2014", 
+          "tree_size": 29, 
+          "tweet": "@SaskGatz Does that mean I officially can get in on some tweetups now?!\n", 
+          "uid": 44279211, 
+          "user": 0, 
+          "user_score": 1.5671478406864936, 
+          "users": {
+            "0": 5, 
+            "17": 11, 
+            "18": 7, 
+            "19": 2, 
+            "20": 2, 
+            "21": 2
+          }
+        }
+      ], 
+      "entropy_score": 1.866060781339939, 
+      "favourites": 0, 
+      "follower": true, 
+      "id": 459111557566582784, 
+      "reply": true, 
+      "timestamp": "Wed Apr 23 23:28:19 +0000 2014", 
+      "tree_size": 30, 
+      "tweet": "@andrealauder welcome home\n", 
+      "uid": 22858189, 
+      "user": 17, 
+      "user_score": 1.5463199321163763, 
+      "users": {
+        "0": 5, 
+        "17": 12, 
+        "18": 7, 
+        "19": 2, 
+        "20": 2, 
+        "21": 2
+      }
+    }, 
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "children": [
+                                    {
+                                      "children": [
+                                        {
+                                          "entropy_score": 0.0, 
+                                          "favourites": 0, 
+                                          "follower": true, 
+                                          "id": 459137173745172480, 
+                                          "reply": true, 
+                                          "timestamp": "Thu Apr 24 01:10:07 +0000 2014", 
+                                          "tree_size": 1, 
+                                          "tweet": "@TheSpinDoctor @habanerogal No pressure at all Daryl - you can buy me lunch in Saskatoon ;)\n", 
+                                          "uid": 44279211, 
+                                          "user": 0, 
+                                          "user_score": 0.0, 
+                                          "users": {
+                                            "0": 1
+                                          }
+                                        }
+                                      ], 
+                                      "entropy_score": 0.0, 
+                                      "favourites": 0, 
+                                      "follower": true, 
+                                      "id": 459123979370778624, 
+                                      "reply": true, 
+                                      "timestamp": "Thu Apr 24 00:17:41 +0000 2014", 
+                                      "tree_size": 2, 
+                                      "tweet": "@andrealauder @habanerogal Awww... dang. \\nI guess this puts a little pressure on the deadline for that lunch I owe you.\n", 
+                                      "uid": 20095163, 
+                                      "user": 16, 
+                                      "user_score": 0.6931471805599453, 
+                                      "users": {
+                                        "0": 1, 
+                                        "16": 1
+                                      }
+                                    }, 
+                                    {
+                                      "entropy_score": 0.0, 
+                                      "favourites": 0, 
+                                      "follower": true, 
+                                      "id": 459128800597393408, 
+                                      "reply": true, 
+                                      "timestamp": "Thu Apr 24 00:36:50 +0000 2014", 
+                                      "tree_size": 1, 
+                                      "tweet": "@andrealauder hard to find a rhyme for lentils... LOL\n", 
+                                      "uid": 14317893, 
+                                      "user": 15, 
+                                      "user_score": 0.0, 
+                                      "users": {
+                                        "15": 1
+                                      }
+                                    }
+                                  ], 
+                                  "entropy_score": 0.7001655851242942, 
+                                  "favourites": 0, 
+                                  "follower": true, 
+                                  "id": 459123178615234560, 
+                                  "important_entropy": true, 
+                                  "reply": true, 
+                                  "timestamp": "Thu Apr 24 00:14:30 +0000 2014", 
+                                  "tree_size": 4, 
+                                  "tweet": "@habanerogal Oh whatevs. I'm not too PC myself! ;)\n", 
+                                  "uid": 44279211, 
+                                  "user": 0, 
+                                  "user_score": 1.0397207708399179, 
+                                  "users": {
+                                    "0": 2, 
+                                    "15": 1, 
+                                    "16": 1
+                                  }
+                                }
+                              ], 
+                              "entropy_score": 0.7001655851242942, 
+                              "favourites": 0, 
+                              "follower": true, 
+                              "id": 459121298501681152, 
+                              "reply": true, 
+                              "timestamp": "Thu Apr 24 00:07:02 +0000 2014", 
+                              "tree_size": 5, 
+                              "tweet": "@andrealauder feel free to delete it if you wish somewhat not pc\n", 
+                              "uid": 14317893, 
+                              "user": 15, 
+                              "user_score": 1.0549201679861442, 
+                              "users": {
+                                "0": 2, 
+                                "15": 2, 
+                                "16": 1
+                              }
+                            }
+                          ], 
+                          "entropy_score": 0.7001655851242942, 
+                          "favourites": 0, 
+                          "follower": true, 
+                          "id": 459120958700154880, 
+                          "reply": true, 
+                          "timestamp": "Thu Apr 24 00:05:41 +0000 2014", 
+                          "tree_size": 6, 
+                          "tweet": "@habanerogal Oh dear.....\n", 
+                          "uid": 44279211, 
+                          "user": 0, 
+                          "user_score": 1.0114042647073518, 
+                          "users": {
+                            "0": 3, 
+                            "15": 2, 
+                            "16": 1
+                          }
+                        }
+                      ], 
+                      "entropy_score": 0.7001655851242942, 
+                      "favourites": 0, 
+                      "follower": true, 
+                      "id": 459118621126451201, 
+                      "reply": true, 
+                      "timestamp": "Wed Apr 23 23:56:23 +0000 2014", 
+                      "tree_size": 7, 
+                      "tweet": "@andrealauder wait till you see my comment on the blog post LOL\n", 
+                      "uid": 14317893, 
+                      "user": 15, 
+                      "user_score": 1.0042424730540764, 
+                      "users": {
+                        "0": 3, 
+                        "15": 3, 
+                        "16": 1
+                      }
+                    }
+                  ], 
+                  "entropy_score": 0.7001655851242942, 
+                  "favourites": 0, 
+                  "follower": true, 
+                  "id": 459117951665197056, 
+                  "reply": true, 
+                  "timestamp": "Wed Apr 23 23:53:44 +0000 2014", 
+                  "tree_size": 8, 
+                  "tweet": "@habanerogal Hahaha I like it!\n", 
+                  "uid": 44279211, 
+                  "user": 0, 
+                  "user_score": 0.9743147528693494, 
+                  "users": {
+                    "0": 4, 
+                    "15": 3, 
+                    "16": 1
+                  }
+                }
+              ], 
+              "entropy_score": 0.7001655851242942, 
+              "favourites": 0, 
+              "follower": true, 
+              "id": 459116760034078720, 
+              "reply": true, 
+              "timestamp": "Wed Apr 23 23:49:00 +0000 2014", 
+              "tree_size": 9, 
+              "tweet": "@andrealauder Fibre will be your new middle name !\n", 
+              "uid": 14317893, 
+              "user": 15, 
+              "user_score": 0.9649629230074277, 
+              "users": {
+                "0": 4, 
+                "15": 4, 
+                "16": 1
+              }
+            }
+          ], 
+          "entropy_score": 0.7001655851242942, 
+          "favourites": 1, 
+          "follower": true, 
+          "id": 459114766443634688, 
+          "reply": true, 
+          "timestamp": "Wed Apr 23 23:41:04 +0000 2014", 
+          "tree_size": 10, 
+          "tweet": "@habanerogal And I will miss you and #yeg with every fibre of my being. #truth", 
+          "uid": 44279211, 
+          "user": 0, 
+          "user_score": 0.9433483923290392, 
+          "users": {
+            "0": 5, 
+            "15": 4, 
+            "16": 1
+          }
+        }
+      ], 
+      "entropy_score": 0.7001655851242942, 
+      "favourites": 0, 
+      "follower": true, 
+      "id": 459114133057581056, 
+      "reply": true, 
+      "timestamp": "Wed Apr 23 23:38:33 +0000 2014", 
+      "tree_size": 11, 
+      "tweet": "@andrealauder We of the  #YEG #Twitter community will miss you very much !", 
+      "uid": 14317893, 
+      "user": 15, 
+      "user_score": 0.9347698978582792, 
+      "users": {
+        "0": 5, 
+        "15": 5, 
+        "16": 1
+      }
+    }, 
+    {
+      "children": [
+        {
+          "entropy_score": 0.0, 
+          "favourites": 0, 
+          "follower": true, 
+          "id": 459118077230063616, 
+          "reply": true, 
+          "timestamp": "Wed Apr 23 23:54:14 +0000 2014", 
+          "tree_size": 1, 
+          "tweet": "@lonesomebilydad Thank you so much John, I feel pretty lucky.\n", 
+          "uid": 44279211, 
+          "user": 0, 
+          "user_score": 0.0, 
+          "users": {
+            "0": 1
+          }
+        }
+      ], 
+      "entropy_score": 0.0, 
+      "favourites": 0, 
+      "follower": true, 
+      "id": 459116425118883840, 
+      "reply": true, 
+      "timestamp": "Wed Apr 23 23:47:40 +0000 2014", 
+      "tree_size": 2, 
+      "tweet": "@andrealauder @SaskPulse  Oh my that Sask is getting a great person. We hoe ya luck and will miss you\n", 
+      "uid": 52503887, 
+      "user": 14, 
+      "user_score": 0.6931471805599453, 
+      "users": {
+        "0": 1, 
+        "14": 1
+      }
+    }, 
+    {
+      "children": [
+        {
+          "entropy_score": 0.0, 
+          "favourites": 0, 
+          "follower": true, 
+          "id": 459117985882337280, 
+          "reply": true, 
+          "timestamp": "Wed Apr 23 23:53:52 +0000 2014", 
+          "tree_size": 1, 
+          "tweet": "@vgrabia Thank you Vanessa!\n", 
+          "uid": 44279211, 
+          "user": 0, 
+          "user_score": 0.0, 
+          "users": {
+            "0": 1
+          }
+        }
+      ], 
+      "entropy_score": 0.0, 
+      "favourites": 0, 
+      "follower": true, 
+      "id": 459116506337398785, 
+      "reply": true, 
+      "timestamp": "Wed Apr 23 23:47:59 +0000 2014", 
+      "tree_size": 2, 
+      "tweet": "@andrealauder congratulations!!\n", 
+      "uid": 244427619, 
+      "user": 13, 
+      "user_score": 0.6931471805599453, 
+      "users": {
+        "0": 1, 
+        "13": 1
+      }
+    }, 
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "entropy_score": 0.0, 
+                  "favourites": 0, 
+                  "follower": true, 
+                  "id": 459123346521616384, 
+                  "reply": true, 
+                  "timestamp": "Thu Apr 24 00:15:10 +0000 2014", 
+                  "tree_size": 1, 
+                  "tweet": "@dheuman Thank you Dean, I look forward to this new chapter and all the great challenges and hard work that comes with it. :)\n", 
+                  "uid": 44279211, 
+                  "user": 0, 
+                  "user_score": 0.0, 
+                  "users": {
+                    "0": 1
+                  }
+                }
+              ], 
+              "entropy_score": 0.0, 
+              "favourites": 0, 
+              "follower": true, 
+              "id": 459121435626463232, 
+              "reply": true, 
+              "timestamp": "Thu Apr 24 00:07:34 +0000 2014", 
+              "tree_size": 2, 
+              "tweet": "@andrealauder Congrats to you, sounds like a great opportunity and I know it will be nice to be home for you. Best wishes.\n", 
+              "uid": 54080524, 
+              "user": 12, 
+              "user_score": 0.6931471805599453, 
+              "users": {
+                "0": 1, 
+                "12": 1
+              }
+            }, 
+            {
+              "children": [
+                {
+                  "entropy_score": 0.0, 
+                  "favourites": 0, 
+                  "follower": true, 
+                  "id": 459137645608579072, 
+                  "reply": true, 
+                  "timestamp": "Thu Apr 24 01:11:59 +0000 2014", 
+                  "tree_size": 1, 
+                  "tweet": "@focuscom Ah thank you Sue, I hope we never lose touch. You're the best! *hugs*\n", 
+                  "uid": 44279211, 
+                  "user": 0, 
+                  "user_score": 0.0, 
+                  "users": {
+                    "0": 1
+                  }
+                }
+              ], 
+              "entropy_score": 0.0, 
+              "favourites": 0, 
+              "follower": true, 
+              "id": 459135702114906113, 
+              "reply": true, 
+              "timestamp": "Thu Apr 24 01:04:16 +0000 2014", 
+              "tree_size": 2, 
+              "tweet": "@andrealauder You will be brilliant! I'm a big fan and I know we'll keep in touch. *hugs*\n", 
+              "uid": 44134284, 
+              "user": 11, 
+              "user_score": 0.6931471805599453, 
+              "users": {
+                "0": 1, 
+                "11": 1
+              }
+            }
+          ], 
+          "entropy_score": 0.7624618986159398, 
+          "favourites": 0, 
+          "follower": true, 
+          "id": 459120667397349377, 
+          "important_entropy": true, 
+          "reply": true, 
+          "timestamp": "Thu Apr 24 00:04:31 +0000 2014", 
+          "tree_size": 5, 
+          "tweet": "@focuscom Thank you Sue, you've been a great supporter and I appreciate your kind words. I will miss you, @dheuman and your team.\n", 
+          "uid": 44279211, 
+          "user": 0, 
+          "user_score": 0.9502705392332347, 
+          "users": {
+            "0": 3, 
+            "11": 1, 
+            "12": 1
+          }
+        }
+      ], 
+      "entropy_score": 0.7624618986159398, 
+      "favourites": 1, 
+      "follower": true, 
+      "id": 459118591527239680, 
+      "reply": true, 
+      "timestamp": "Wed Apr 23 23:56:16 +0000 2014", 
+      "tree_size": 6, 
+      "tweet": "@andrealauder @saskpulse Andrea! Wow, I'm so excited for you. I know this is your dream. We will miss you very much\n", 
+      "uid": 44134284, 
+      "user": 11, 
+      "user_score": 1.0114042647073516, 
+      "users": {
+        "0": 3, 
+        "11": 2, 
+        "12": 1
+      }
+    }, 
+    {
+      "children": [
+        {
+          "entropy_score": 0.0, 
+          "favourites": 0, 
+          "follower": true, 
+          "id": 459123109044301824, 
+          "reply": true, 
+          "timestamp": "Thu Apr 24 00:14:13 +0000 2014", 
+          "tree_size": 1, 
+          "tweet": "@debhammacher Thank you so much Deb. You're right, the lure of home is inescapable. :)\n", 
+          "uid": 44279211, 
+          "user": 0, 
+          "user_score": 0.0, 
+          "users": {
+            "0": 1
+          }
+        }
+      ], 
+      "entropy_score": 0.0, 
+      "favourites": 0, 
+      "follower": true, 
+      "id": 459121702954631168, 
+      "reply": true, 
+      "timestamp": "Thu Apr 24 00:08:38 +0000 2014", 
+      "tree_size": 2, 
+      "tweet": "@andrealauder congrats! I'm happy for you and can relate to wanting to go home. best of luck.\n", 
+      "uid": 232050903, 
+      "user": 10, 
+      "user_score": 0.6931471805599453, 
+      "users": {
+        "0": 1, 
+        "10": 1
+      }
+    }, 
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "entropy_score": 0.0, 
+                  "favourites": 0, 
+                  "follower": true, 
+                  "id": 459143293004050432, 
+                  "reply": true, 
+                  "timestamp": "Thu Apr 24 01:34:26 +0000 2014", 
+                  "tree_size": 1, 
+                  "tweet": "@TamaraVineberg I will look forward to that hug so much!\n", 
+                  "uid": 44279211, 
+                  "user": 0, 
+                  "user_score": 0.0, 
+                  "users": {
+                    "0": 1
+                  }
+                }
+              ], 
+              "entropy_score": 0.0, 
+              "favourites": 0, 
+              "follower": true, 
+              "id": 459138328839745537, 
+              "reply": true, 
+              "timestamp": "Thu Apr 24 01:14:42 +0000 2014", 
+              "tree_size": 2, 
+              "tweet": "@andrealauder And when you do visit #yeg, be sure to get the best hug from my little guy.", 
+              "uid": 18169084, 
+              "user": 9, 
+              "user_score": 0.6931471805599453, 
+              "users": {
+                "0": 1, 
+                "9": 1
+              }
+            }
+          ], 
+          "entropy_score": 0.0, 
+          "favourites": 0, 
+          "follower": true, 
+          "id": 459138153480069120, 
+          "reply": true, 
+          "timestamp": "Thu Apr 24 01:14:00 +0000 2014", 
+          "tree_size": 3, 
+          "tweet": "@TamaraVineberg Thanks Tamara - that's the plan. This auntie needs more baby snuggles...\n", 
+          "uid": 44279211, 
+          "user": 0, 
+          "user_score": 0.6365141682948128, 
+          "users": {
+            "0": 2, 
+            "9": 1
+          }
+        }
+      ], 
+      "entropy_score": 0.0, 
+      "favourites": 0, 
+      "follower": true, 
+      "id": 459137148961042432, 
+      "reply": true, 
+      "timestamp": "Thu Apr 24 01:10:01 +0000 2014", 
+      "tree_size": 4, 
+      "tweet": "@andrealauder Ah..double good news for you! I think being an aunt again will be more of an adventure. You will be closer to babysit. ;)\n", 
+      "uid": 18169084, 
+      "user": 9, 
+      "user_score": 0.6931471805599453, 
+      "users": {
+        "0": 2, 
+        "9": 2
+      }
+    }, 
+    {
+      "children": [
+        {
+          "entropy_score": 0.0, 
+          "favourites": 0, 
+          "follower": true, 
+          "id": 459172895319543808, 
+          "reply": false, 
+          "timestamp": "Thu Apr 24 03:32:03 +0000 2014", 
+          "tree_size": 1, 
+          "tweet": "RT @RealTurkeyLady: WHOA. And in Ag!! Sahweeeeet! When? RT @andrealauder: Excited to announce my next adventure! http://t.co/RBu4QWM2M1 @sa\u2026", 
+          "uid": 707023, 
+          "user": 7, 
+          "user_score": 0.0, 
+          "users": {
+            "7": 1
+          }
+        }, 
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "entropy_score": 0.0, 
+                          "favourites": 2, 
+                          "follower": true, 
+                          "id": 459172018558996480, 
+                          "reply": true, 
+                          "timestamp": "Thu Apr 24 03:28:34 +0000 2014", 
+                          "tree_size": 1, 
+                          "tweet": "@RealTurkeyLady @karlkovacs Bahahahaha\ud83d\ude02\n", 
+                          "uid": 44279211, 
+                          "user": 0, 
+                          "user_score": 0.0, 
+                          "users": {
+                            "0": 1
+                          }
+                        }
+                      ], 
+                      "entropy_score": 0.0, 
+                      "favourites": 1, 
+                      "follower": true, 
+                      "id": 459171761976664064, 
+                      "reply": true, 
+                      "timestamp": "Thu Apr 24 03:27:33 +0000 2014", 
+                      "tree_size": 2, 
+                      "tweet": "Oh baby. RT @karlkovacs: @andrealauder only if I win the 649lotto :) If I could, I'd move to a mountain retreat (with wifi of course)\n", 
+                      "uid": 33133488, 
+                      "user": 6, 
+                      "user_score": 0.6931471805599453, 
+                      "users": {
+                        "0": 1, 
+                        "6": 1
+                      }
+                    }
+                  ], 
+                  "entropy_score": 0.0, 
+                  "favourites": 1, 
+                  "follower": true, 
+                  "id": 459170300811149313, 
+                  "reply": true, 
+                  "timestamp": "Thu Apr 24 03:21:45 +0000 2014", 
+                  "tree_size": 3, 
+                  "tweet": "@RealTurkeyLady @andrealauder only if I win the 649lotto :) If I could, I'd move to a mountain retreat (with wifi of course)\n", 
+                  "uid": 16436186, 
+                  "user": 8, 
+                  "user_score": 1.0986122886681096, 
+                  "users": {
+                    "0": 1, 
+                    "6": 1, 
+                    "8": 1
+                  }
+                }
+              ], 
+              "entropy_score": 0.0, 
+              "favourites": 1, 
+              "follower": true, 
+              "id": 459170060561432576, 
+              "reply": true, 
+              "timestamp": "Thu Apr 24 03:20:48 +0000 2014", 
+              "tree_size": 4, 
+              "tweet": "@andrealauder Wowza!! Who is moving next?? @karlkovacs ??\n", 
+              "uid": 33133488, 
+              "user": 6, 
+              "user_score": 1.0397207708399179, 
+              "users": {
+                "0": 1, 
+                "6": 2, 
+                "8": 1
+              }
+            }, 
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "entropy_score": 0.0, 
+                                  "favourites": 1, 
+                                  "follower": true, 
+                                  "id": 459180201138597891, 
+                                  "reply": true, 
+                                  "timestamp": "Thu Apr 24 04:01:05 +0000 2014", 
+                                  "tree_size": 1, 
+                                  "tweet": "@RealTurkeyLady Now.....when will you and @karlkovacs come to visit???!!\n", 
+                                  "uid": 44279211, 
+                                  "user": 0, 
+                                  "user_score": 0.0, 
+                                  "users": {
+                                    "0": 1
+                                  }
+                                }
+                              ], 
+                              "entropy_score": 0.0, 
+                              "favourites": 0, 
+                              "follower": true, 
+                              "id": 459172789266558976, 
+                              "reply": true, 
+                              "timestamp": "Thu Apr 24 03:31:38 +0000 2014", 
+                              "tree_size": 2, 
+                              "tweet": "Oh I hope so!! Haha I speak the truth! RT @andrealauder: @RealTurkeyLady You charmer!!! #flatterygetsyoueverywhere", 
+                              "uid": 33133488, 
+                              "user": 6, 
+                              "user_score": 0.6931471805599453, 
+                              "users": {
+                                "0": 1, 
+                                "6": 1
+                              }
+                            }
+                          ], 
+                          "entropy_score": 0.0, 
+                          "favourites": 1, 
+                          "follower": true, 
+                          "id": 459171901118492674, 
+                          "reply": true, 
+                          "timestamp": "Thu Apr 24 03:28:06 +0000 2014", 
+                          "tree_size": 3, 
+                          "tweet": "@RealTurkeyLady You charmer!!! #flatterygetsyoueverywhere", 
+                          "uid": 44279211, 
+                          "user": 0, 
+                          "user_score": 0.6365141682948128, 
+                          "users": {
+                            "0": 2, 
+                            "6": 1
+                          }
+                        }
+                      ], 
+                      "entropy_score": 0.0, 
+                      "favourites": 0, 
+                      "follower": true, 
+                      "id": 459171654875090944, 
+                      "reply": true, 
+                      "timestamp": "Thu Apr 24 03:27:08 +0000 2014", 
+                      "tree_size": 4, 
+                      "tweet": "@andrealauder haha they've come a long way already;) you could make anything sexay!\n", 
+                      "uid": 33133488, 
+                      "user": 6, 
+                      "user_score": 0.6931471805599453, 
+                      "users": {
+                        "0": 2, 
+                        "6": 2
+                      }
+                    }
+                  ], 
+                  "entropy_score": 0.0, 
+                  "favourites": 0, 
+                  "follower": true, 
+                  "id": 459171317661442049, 
+                  "reply": true, 
+                  "timestamp": "Thu Apr 24 03:25:47 +0000 2014", 
+                  "tree_size": 5, 
+                  "tweet": "@RealTurkeyLady Haha that sounds awesome. I have the enviable job of making lentils sexy. :)\n", 
+                  "uid": 44279211, 
+                  "user": 0, 
+                  "user_score": 0.6730116670092565, 
+                  "users": {
+                    "0": 3, 
+                    "6": 2
+                  }
+                }
+              ], 
+              "entropy_score": 0.0, 
+              "favourites": 1, 
+              "follower": true, 
+              "id": 459171086660145152, 
+              "reply": true, 
+              "timestamp": "Thu Apr 24 03:24:52 +0000 2014", 
+              "tree_size": 6, 
+              "tweet": "@andrealauder very cool....you and the Hubs can compare notes now;) haha!\n", 
+              "uid": 33133488, 
+              "user": 6, 
+              "user_score": 0.6931471805599453, 
+              "users": {
+                "0": 3, 
+                "6": 3
+              }
+            }
+          ], 
+          "entropy_score": 0.7403128337101822, 
+          "favourites": 1, 
+          "follower": true, 
+          "id": 459169503037751297, 
+          "important_entropy": true, 
+          "reply": true, 
+          "timestamp": "Thu Apr 24 03:18:35 +0000 2014", 
+          "tree_size": 11, 
+          "tweet": "@RealTurkeyLady Start May 26th!\n", 
+          "uid": 44279211, 
+          "user": 0, 
+          "user_score": 0.9347698978582792, 
+          "users": {
+            "0": 5, 
+            "6": 5, 
+            "8": 1
+          }
+        }
+      ], 
+      "entropy_score": 1.055832415071959, 
+      "favourites": 1, 
+      "follower": true, 
+      "id": 459169384355745792, 
+      "reply": true, 
+      "timestamp": "Thu Apr 24 03:18:06 +0000 2014", 
+      "tree_size": 13, 
+      "tweet": "WHOA. And in Ag!! Sahweeeeet! When? RT @andrealauder: Excited to announce my next adventure! http://t.co/RBu4QWM2M1 @saskpulse #yxe", 
+      "uid": 33133488, 
+      "user": 6, 
+      "user_score": 1.1189688668816267, 
+      "users": {
+        "0": 5, 
+        "6": 6, 
+        "7": 1, 
+        "8": 1
+      }
+    }, 
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "children": [
+                                    {
+                                      "children": [
+                                        {
+                                          "entropy_score": 0.0, 
+                                          "favourites": 0, 
+                                          "follower": true, 
+                                          "id": 459179885605294080, 
+                                          "reply": false, 
+                                          "timestamp": "Thu Apr 24 03:59:50 +0000 2014", 
+                                          "tree_size": 1, 
+                                          "tweet": "RT @trishpaton: @andrealauder @ian_finity I just noticed that AB and MB are same, flip &amp; reverse... #CoincidenceIThinkNot", 
+                                          "uid": 106031653, 
+                                          "user": 4, 
+                                          "user_score": 0.0, 
+                                          "users": {
+                                            "4": 1
+                                          }
+                                        }, 
+                                        {
+                                          "children": [
+                                            {
+                                              "entropy_score": 0.0, 
+                                              "favourites": 0, 
+                                              "follower": true, 
+                                              "id": 459181577851785216, 
+                                              "reply": true, 
+                                              "timestamp": "Thu Apr 24 04:06:34 +0000 2014", 
+                                              "tree_size": 1, 
+                                              "tweet": "@andrealauder @ian_finity \"Always thinking...\"\n", 
+                                              "uid": 44423791, 
+                                              "user": 5, 
+                                              "user_score": 0.0, 
+                                              "users": {
+                                                "5": 1
+                                              }
+                                            }
+                                          ], 
+                                          "entropy_score": 0.0, 
+                                          "favourites": 0, 
+                                          "follower": true, 
+                                          "id": 459179913040236544, 
+                                          "reply": true, 
+                                          "timestamp": "Thu Apr 24 03:59:57 +0000 2014", 
+                                          "tree_size": 2, 
+                                          "tweet": "@trishpaton @ian_finity You're onto something there Trish.....\n", 
+                                          "uid": 44279211, 
+                                          "user": 0, 
+                                          "user_score": 0.6931471805599453, 
+                                          "users": {
+                                            "0": 1, 
+                                            "5": 1
+                                          }
+                                        }
+                                      ], 
+                                      "entropy_score": 0.7001655851242942, 
+                                      "favourites": 0, 
+                                      "follower": true, 
+                                      "id": 459179758882795521, 
+                                      "important_entropy": true, 
+                                      "reply": true, 
+                                      "timestamp": "Thu Apr 24 03:59:20 +0000 2014", 
+                                      "tree_size": 4, 
+                                      "tweet": "@andrealauder @ian_finity I just noticed that AB and MB are same, flip &amp; reverse... #CoincidenceIThinkNot", 
+                                      "uid": 44423791, 
+                                      "user": 5, 
+                                      "user_score": 1.0397207708399179, 
+                                      "users": {
+                                        "0": 1, 
+                                        "4": 1, 
+                                        "5": 2
+                                      }
+                                    }
+                                  ], 
+                                  "entropy_score": 0.7001655851242942, 
+                                  "favourites": 1, 
+                                  "follower": true, 
+                                  "id": 459179126071361536, 
+                                  "reply": true, 
+                                  "timestamp": "Thu Apr 24 03:56:49 +0000 2014", 
+                                  "tree_size": 5, 
+                                  "tweet": "@ian_finity Ian you have some serious skilz. You should take up cartography if you ever get bored of health and communications! \ud83d\udc4d\n", 
+                                  "uid": 44279211, 
+                                  "user": 0, 
+                                  "user_score": 1.0549201679861442, 
+                                  "users": {
+                                    "0": 2, 
+                                    "4": 1, 
+                                    "5": 2
+                                  }
+                                }
+                              ], 
+                              "entropy_score": 0.7001655851242942, 
+                              "favourites": 1, 
+                              "follower": true, 
+                              "id": 459178374162706432, 
+                              "reply": true, 
+                              "timestamp": "Thu Apr 24 03:53:50 +0000 2014", 
+                              "tree_size": 6, 
+                              "tweet": "@andrealauder http://t.co/6LoYrIKwzC\n", 
+                              "uid": 106031653, 
+                              "user": 4, 
+                              "user_score": 1.0986122886681096, 
+                              "users": {
+                                "0": 2, 
+                                "4": 2, 
+                                "5": 2
+                              }
+                            }
+                          ], 
+                          "entropy_score": 0.7001655851242942, 
+                          "favourites": 0, 
+                          "follower": true, 
+                          "id": 459177292615282688, 
+                          "reply": true, 
+                          "timestamp": "Thu Apr 24 03:49:32 +0000 2014", 
+                          "tree_size": 7, 
+                          "tweet": "@ian_finity Ok sounds good! Keep me posted :) #keepdrawing", 
+                          "uid": 44279211, 
+                          "user": 0, 
+                          "user_score": 1.0789922078775833, 
+                          "users": {
+                            "0": 3, 
+                            "4": 2, 
+                            "5": 2
+                          }
+                        }
+                      ], 
+                      "entropy_score": 0.7001655851242942, 
+                      "favourites": 0, 
+                      "follower": true, 
+                      "id": 459176396263137282, 
+                      "reply": true, 
+                      "timestamp": "Thu Apr 24 03:45:58 +0000 2014", 
+                      "tree_size": 8, 
+                      "tweet": "@andrealauder okay. Let me check my work sched and I'll DM you. #candrawmanitobatoo", 
+                      "uid": 106031653, 
+                      "user": 4, 
+                      "user_score": 1.0821955300387673, 
+                      "users": {
+                        "0": 3, 
+                        "4": 3, 
+                        "5": 2
+                      }
+                    }
+                  ], 
+                  "entropy_score": 0.7001655851242942, 
+                  "favourites": 0, 
+                  "follower": true, 
+                  "id": 459175134410993664, 
+                  "reply": true, 
+                  "timestamp": "Thu Apr 24 03:40:57 +0000 2014", 
+                  "tree_size": 9, 
+                  "tweet": "@ian_finity Bahahaha! Ok deal! Let's make a date of it. We've got until May 16. \ud83d\ude02\n", 
+                  "uid": 44279211, 
+                  "user": 0, 
+                  "user_score": 1.0608569471580214, 
+                  "users": {
+                    "0": 4, 
+                    "4": 3, 
+                    "5": 2
+                  }
+                }
+              ], 
+              "entropy_score": 0.7001655851242942, 
+              "favourites": 0, 
+              "follower": true, 
+              "id": 459173693017423872, 
+              "reply": true, 
+              "timestamp": "Thu Apr 24 03:35:14 +0000 2014", 
+              "tree_size": 10, 
+              "tweet": "@andrealauder that the one thing I'm not averted to waxing. Let find the time!\n", 
+              "uid": 106031653, 
+              "user": 4, 
+              "user_score": 1.0549201679861442, 
+              "users": {
+                "0": 4, 
+                "4": 4, 
+                "5": 2
+              }
+            }
+          ], 
+          "entropy_score": 0.7001655851242942, 
+          "favourites": 0, 
+          "follower": true, 
+          "id": 459173218146742272, 
+          "reply": true, 
+          "timestamp": "Thu Apr 24 03:33:20 +0000 2014", 
+          "tree_size": 11, 
+          "tweet": "@ian_finity Haha - thank you Ian. Will we get to wax #MACT poetic before I leave?!", 
+          "uid": 44279211, 
+          "user": 0, 
+          "user_score": 1.0361987848192837, 
+          "users": {
+            "0": 5, 
+            "4": 4, 
+            "5": 2
+          }
+        }
+      ], 
+      "entropy_score": 0.7001655851242942, 
+      "favourites": 1, 
+      "follower": true, 
+      "id": 459172979390181377, 
+      "reply": true, 
+      "timestamp": "Thu Apr 24 03:32:23 +0000 2014", 
+      "tree_size": 12, 
+      "tweet": "@andrealauder Your journey has taken you to the only provinces I can draw. We are connected. Congrats!\n", 
+      "uid": 106031653, 
+      "user": 4, 
+      "user_score": 1.0281838593329258, 
+      "users": {
+        "0": 5, 
+        "4": 5, 
+        "5": 2
+      }
+    }, 
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "entropy_score": 0.0, 
+                                  "favourites": 0, 
+                                  "follower": true, 
+                                  "id": 459189130845384704, 
+                                  "reply": true, 
+                                  "timestamp": "Thu Apr 24 04:36:34 +0000 2014", 
+                                  "tree_size": 1, 
+                                  "tweet": "@berrysprite9 Done...making a note of it right now.\n", 
+                                  "uid": 44279211, 
+                                  "user": 0, 
+                                  "user_score": 0.0, 
+                                  "users": {
+                                    "0": 1
+                                  }
+                                }
+                              ], 
+                              "entropy_score": 0.0, 
+                              "favourites": 0, 
+                              "follower": true, 
+                              "id": 459189000905846785, 
+                              "reply": true, 
+                              "timestamp": "Thu Apr 24 04:36:03 +0000 2014", 
+                              "tree_size": 2, 
+                              "tweet": "@andrealauder Email me when you have a time. So happy for you!!\n", 
+                              "uid": 255800536, 
+                              "user": 3, 
+                              "user_score": 0.6931471805599453, 
+                              "users": {
+                                "0": 1, 
+                                "3": 1
+                              }
+                            }
+                          ], 
+                          "entropy_score": 0.0, 
+                          "favourites": 1, 
+                          "follower": true, 
+                          "id": 459188679571824640, 
+                          "reply": true, 
+                          "timestamp": "Thu Apr 24 04:34:47 +0000 2014", 
+                          "tree_size": 3, 
+                          "tweet": "@berrysprite9 Hmmmm, I think I'm good early next week. Let me check my schedule. Yeah Innovation Place is a bustling hub now!\n", 
+                          "uid": 44279211, 
+                          "user": 0, 
+                          "user_score": 0.6365141682948128, 
+                          "users": {
+                            "0": 2, 
+                            "3": 1
+                          }
+                        }
+                      ], 
+                      "entropy_score": 0.0, 
+                      "favourites": 0, 
+                      "follower": true, 
+                      "id": 459188201324675073, 
+                      "reply": true, 
+                      "timestamp": "Thu Apr 24 04:32:53 +0000 2014", 
+                      "tree_size": 4, 
+                      "tweet": "@andrealauder Innovation Place! It's awesome there. Next week? I'm good any day.\n", 
+                      "uid": 255800536, 
+                      "user": 3, 
+                      "user_score": 0.6931471805599453, 
+                      "users": {
+                        "0": 2, 
+                        "3": 2
+                      }
+                    }
+                  ], 
+                  "entropy_score": 0.0, 
+                  "favourites": 0, 
+                  "follower": true, 
+                  "id": 459186857620697088, 
+                  "reply": true, 
+                  "timestamp": "Thu Apr 24 04:27:32 +0000 2014", 
+                  "tree_size": 5, 
+                  "tweet": "@berrysprite9 Are you serious?! Why am I not surprised! Ok throw some dates at me!\n", 
+                  "uid": 44279211, 
+                  "user": 0, 
+                  "user_score": 0.6730116670092565, 
+                  "users": {
+                    "0": 3, 
+                    "3": 2
+                  }
+                }
+              ], 
+              "entropy_score": 0.0, 
+              "favourites": 0, 
+              "follower": true, 
+              "id": 459186656923238400, 
+              "reply": true, 
+              "timestamp": "Thu Apr 24 04:26:44 +0000 2014", 
+              "tree_size": 6, 
+              "tweet": "@andrealauder Sure do!! I used to work in the exact office space you're going to!! #smallworld", 
+              "uid": 255800536, 
+              "user": 3, 
+              "user_score": 0.6931471805599453, 
+              "users": {
+                "0": 3, 
+                "3": 3
+              }
+            }
+          ], 
+          "entropy_score": 0.0, 
+          "favourites": 0, 
+          "follower": true, 
+          "id": 459186494259752960, 
+          "reply": true, 
+          "timestamp": "Thu Apr 24 04:26:06 +0000 2014", 
+          "tree_size": 7, 
+          "tweet": "@berrysprite9 Sure! Weeknights work for you?!\n", 
+          "uid": 44279211, 
+          "user": 0, 
+          "user_score": 0.6829081047004717, 
+          "users": {
+            "0": 4, 
+            "3": 3
+          }
+        }
+      ], 
+      "entropy_score": 0.0, 
+      "favourites": 1, 
+      "follower": true, 
+      "id": 459186250792980482, 
+      "reply": true, 
+      "timestamp": "Thu Apr 24 04:25:08 +0000 2014", 
+      "tree_size": 8, 
+      "tweet": "@andrealauder Can we get together before you leave???\n", 
+      "uid": 255800536, 
+      "user": 3, 
+      "user_score": 0.6931471805599453, 
+      "users": {
+        "0": 4, 
+        "3": 4
+      }
+    }, 
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "entropy_score": 0.0, 
+                          "favourites": 1, 
+                          "follower": true, 
+                          "id": 459330941819682818, 
+                          "reply": true, 
+                          "timestamp": "Thu Apr 24 14:00:05 +0000 2014", 
+                          "tree_size": 1, 
+                          "tweet": "@CaitWills @aguycalled80 Have I ever told you how gorgeous the river valley is in Saskatoon? Perfect for biking! ;)\n", 
+                          "uid": 44279211, 
+                          "user": 0, 
+                          "user_score": 0.0, 
+                          "users": {
+                            "0": 1
+                          }
+                        }
+                      ], 
+                      "entropy_score": 0.0, 
+                      "favourites": 0, 
+                      "follower": true, 
+                      "id": 459330791915286528, 
+                      "reply": true, 
+                      "timestamp": "Thu Apr 24 13:59:29 +0000 2014", 
+                      "tree_size": 2, 
+                      "tweet": "@andrealauder @aguycalled80 one word. (Ok, two): beer &amp; bikes.\n", 
+                      "uid": 15089906, 
+                      "user": 2, 
+                      "user_score": 0.6931471805599453, 
+                      "users": {
+                        "0": 1, 
+                        "2": 1
+                      }
+                    }
+                  ], 
+                  "entropy_score": 0.0, 
+                  "favourites": 0, 
+                  "follower": true, 
+                  "id": 459329341889855488, 
+                  "reply": true, 
+                  "timestamp": "Thu Apr 24 13:53:43 +0000 2014", 
+                  "tree_size": 3, 
+                  "tweet": "@CaitWills Think I could ever convince you and @aguycalled80 to road trip to Saskatoon?!\n", 
+                  "uid": 44279211, 
+                  "user": 0, 
+                  "user_score": 0.6365141682948128, 
+                  "users": {
+                    "0": 2, 
+                    "2": 1
+                  }
+                }
+              ], 
+              "entropy_score": 0.0, 
+              "favourites": 0, 
+              "follower": true, 
+              "id": 459329091733188608, 
+              "reply": true, 
+              "timestamp": "Thu Apr 24 13:52:44 +0000 2014", 
+              "tree_size": 4, 
+              "tweet": "@andrealauder ditto. *sob*\n", 
+              "uid": 15089906, 
+              "user": 2, 
+              "user_score": 0.6931471805599453, 
+              "users": {
+                "0": 2, 
+                "2": 2
+              }
+            }
+          ], 
+          "entropy_score": 0.0, 
+          "favourites": 0, 
+          "follower": true, 
+          "id": 459305910502830080, 
+          "reply": true, 
+          "timestamp": "Thu Apr 24 12:20:37 +0000 2014", 
+          "tree_size": 5, 
+          "tweet": "@CaitWills Ah thanks so much Cait. You know I'll miss you terribly. You are amazing.\n", 
+          "uid": 44279211, 
+          "user": 0, 
+          "user_score": 0.6730116670092565, 
+          "users": {
+            "0": 3, 
+            "2": 2
+          }
+        }
+      ], 
+      "entropy_score": 0.0, 
+      "favourites": 1, 
+      "follower": true, 
+      "id": 459194590306648064, 
+      "reply": true, 
+      "timestamp": "Thu Apr 24 04:58:16 +0000 2014", 
+      "tree_size": 6, 
+      "tweet": "@andrealauder @SaskPulse very late to chime in with congrats, but congrats! They're lucky to have you; we're worse for you leaving.\n", 
+      "uid": 15089906, 
+      "user": 2, 
+      "user_score": 0.6931471805599453, 
+      "users": {
+        "0": 3, 
+        "2": 3
+      }
+    }, 
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "entropy_score": 0.0, 
+                  "favourites": 1, 
+                  "follower": true, 
+                  "id": 459307219062755328, 
+                  "reply": true, 
+                  "timestamp": "Thu Apr 24 12:25:49 +0000 2014", 
+                  "tree_size": 1, 
+                  "tweet": "@JenBanksYEG You sum it up perfectly! #inmyhead", 
+                  "uid": 44279211, 
+                  "user": 0, 
+                  "user_score": 0.0, 
+                  "users": {
+                    "0": 1
+                  }
+                }
+              ], 
+              "entropy_score": 0.0, 
+              "favourites": 0, 
+              "follower": true, 
+              "id": 459306789087870976, 
+              "reply": true, 
+              "timestamp": "Thu Apr 24 12:24:06 +0000 2014", 
+              "tree_size": 2, 
+              "tweet": "@andrealauder terrexcited terrified/excited. I know this well. Very well :)\n", 
+              "uid": 24543789, 
+              "user": 1, 
+              "user_score": 0.6931471805599453, 
+              "users": {
+                "0": 1, 
+                "1": 1
+              }
+            }
+          ], 
+          "entropy_score": 0.0, 
+          "favourites": 0, 
+          "follower": true, 
+          "id": 459306621047283713, 
+          "reply": true, 
+          "timestamp": "Thu Apr 24 12:23:26 +0000 2014", 
+          "tree_size": 3, 
+          "tweet": "@JenBanksYEG Very :) I know you know this feeling.\n", 
+          "uid": 44279211, 
+          "user": 0, 
+          "user_score": 0.6365141682948128, 
+          "users": {
+            "0": 2, 
+            "1": 1
+          }
+        }
+      ], 
+      "entropy_score": 0.0, 
+      "favourites": 0, 
+      "follower": true, 
+      "id": 459306086810394624, 
+      "reply": true, 
+      "timestamp": "Thu Apr 24 12:21:19 +0000 2014", 
+      "tree_size": 4, 
+      "tweet": "@andrealauder @SaskPulse oh wow! How exciting :)\n", 
+      "uid": 24543789, 
+      "user": 1, 
+      "user_score": 0.6931471805599453, 
+      "users": {
+        "0": 2, 
+        "1": 2
+      }
+    }
+  ], 
+  "entropy_score": 7.411437525721127, 
+  "favourites": 8, 
+  "id": 459108727267020801, 
+  "important_entropy": true, 
+  "important_users": true, 
+  "reply": false, 
+  "timestamp": "Wed Apr 23 23:17:05 +0000 2014", 
+  "total_tweets": 108, 
+  "total_users": 25, 
+  "tree_size": 108, 
+  "tweet": "Excited to announce my next adventure! http://t.co/eSDNrlD3Zi @saskpulse #yxe", 
+  "uid": 44279211, 
+  "user": 0, 
+  "user_score": 2.4370107575420703, 
+  "users": {
+    "0": 41, 
+    "1": 2, 
+    "10": 1, 
+    "11": 2, 
+    "12": 1, 
+    "13": 1, 
+    "14": 1, 
+    "15": 5, 
+    "16": 1, 
+    "17": 12, 
+    "18": 7, 
+    "19": 2, 
+    "2": 3, 
+    "20": 2, 
+    "21": 2, 
+    "22": 2, 
+    "23": 1, 
+    "24": 1, 
+    "3": 4, 
+    "4": 5, 
+    "5": 2, 
+    "6": 6, 
+    "7": 1, 
+    "8": 1, 
+    "9": 2
+  }
+}

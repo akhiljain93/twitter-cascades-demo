@@ -151,7 +151,7 @@ alpha = 0.1
 tweetid_node_map = {}
 tweet_list = []
 
-tree = json.load(open('../tree_info' + str(cascade) + '.json', 'r'))
+tree = json.load(open('../original_cascades/tree_info' + str(cascade) + '.json', 'r'))
 
 all_entities = findEntities(tree)
 all_entities = sorted(all_entities, reverse = True, key = lambda x: x[1])[:10]

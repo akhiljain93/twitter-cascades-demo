@@ -1,0 +1,2478 @@
+{
+  "children": [
+    {
+      "entropy_score": 0.0, 
+      "favourites": 0, 
+      "follower": false, 
+      "id": 458067972674686976, 
+      "reply": true, 
+      "timestamp": "Mon Apr 21 02:21:29 +0000 2014", 
+      "tree_size": 1, 
+      "tweet": "@Norsu2 no doubt he has!\n", 
+      "uid": 26396116, 
+      "user": 25, 
+      "user_score": 0.0, 
+      "users": {
+        "25": 1
+      }
+    }, 
+    {
+      "entropy_score": 0.0, 
+      "favourites": 0, 
+      "follower": false, 
+      "id": 458069191308759040, 
+      "reply": false, 
+      "timestamp": "Mon Apr 21 02:26:20 +0000 2014", 
+      "tree_size": 1, 
+      "tweet": "RT @Norsu2: God Bless America #tcot http://t.co/o7Rmc8b89a", 
+      "uid": 16752148, 
+      "user": 24, 
+      "user_score": 0.0, 
+      "users": {
+        "24": 1
+      }
+    }, 
+    {
+      "entropy_score": 0.0, 
+      "favourites": 0, 
+      "follower": false, 
+      "id": 458069245222342656, 
+      "reply": false, 
+      "timestamp": "Mon Apr 21 02:26:33 +0000 2014", 
+      "tree_size": 1, 
+      "tweet": "RT @Norsu2: God Bless America #tcot http://t.co/o7Rmc8b89a", 
+      "uid": 1895221508, 
+      "user": 23, 
+      "user_score": 0.0, 
+      "users": {
+        "23": 1
+      }
+    }, 
+    {
+      "entropy_score": 0.0, 
+      "favourites": 0, 
+      "follower": false, 
+      "id": 458069326411468800, 
+      "reply": false, 
+      "timestamp": "Mon Apr 21 02:26:52 +0000 2014", 
+      "tree_size": 1, 
+      "tweet": "RT @Norsu2: God Bless America #tcot http://t.co/o7Rmc8b89a", 
+      "uid": 533582843, 
+      "user": 22, 
+      "user_score": 0.0, 
+      "users": {
+        "22": 1
+      }
+    }, 
+    {
+      "entropy_score": 0.0, 
+      "favourites": 0, 
+      "follower": false, 
+      "id": 458069436767809537, 
+      "reply": false, 
+      "timestamp": "Mon Apr 21 02:27:18 +0000 2014", 
+      "tree_size": 1, 
+      "tweet": "RT @Norsu2: God Bless America #tcot http://t.co/o7Rmc8b89a", 
+      "uid": 312941129, 
+      "user": 21, 
+      "user_score": 0.0, 
+      "users": {
+        "21": 1
+      }
+    }, 
+    {
+      "entropy_score": 0.0, 
+      "favourites": 0, 
+      "follower": false, 
+      "id": 458070238982971392, 
+      "reply": false, 
+      "timestamp": "Mon Apr 21 02:30:30 +0000 2014", 
+      "tree_size": 1, 
+      "tweet": "RT @Norsu2: God Bless America #tcot http://t.co/o7Rmc8b89a", 
+      "uid": 198964648, 
+      "user": 20, 
+      "user_score": 0.0, 
+      "users": {
+        "20": 1
+      }
+    }, 
+    {
+      "entropy_score": 0.0, 
+      "favourites": 0, 
+      "follower": false, 
+      "id": 458070374568443904, 
+      "reply": false, 
+      "timestamp": "Mon Apr 21 02:31:02 +0000 2014", 
+      "tree_size": 1, 
+      "tweet": "RT @Norsu2: God Bless America #tcot http://t.co/o7Rmc8b89a", 
+      "uid": 37093688, 
+      "user": 19, 
+      "user_score": 0.0, 
+      "users": {
+        "19": 1
+      }
+    }, 
+    {
+      "entropy_score": 0.0, 
+      "favourites": 0, 
+      "follower": false, 
+      "id": 458070520094031873, 
+      "reply": false, 
+      "timestamp": "Mon Apr 21 02:31:37 +0000 2014", 
+      "tree_size": 1, 
+      "tweet": "RT @Norsu2: God Bless America #tcot http://t.co/o7Rmc8b89a", 
+      "uid": 28740137, 
+      "user": 18, 
+      "user_score": 0.0, 
+      "users": {
+        "18": 1
+      }
+    }, 
+    {
+      "entropy_score": 0.0, 
+      "favourites": 0, 
+      "follower": false, 
+      "id": 458084674116403200, 
+      "reply": false, 
+      "timestamp": "Mon Apr 21 03:27:51 +0000 2014", 
+      "tree_size": 1, 
+      "tweet": "RT @Norsu2: God Bless America #tcot http://t.co/o7Rmc8b89a", 
+      "uid": 245071408, 
+      "user": 4, 
+      "user_score": 0.0, 
+      "users": {
+        "4": 1
+      }
+    }, 
+    {
+      "entropy_score": 0.0, 
+      "favourites": 0, 
+      "follower": false, 
+      "id": 458086217217605633, 
+      "reply": false, 
+      "timestamp": "Mon Apr 21 03:33:59 +0000 2014", 
+      "tree_size": 1, 
+      "tweet": "RT @Norsu2: God Bless America #tcot http://t.co/o7Rmc8b89a", 
+      "uid": 734313128, 
+      "user": 3, 
+      "user_score": 0.0, 
+      "users": {
+        "3": 1
+      }
+    }, 
+    {
+      "entropy_score": 0.0, 
+      "favourites": 0, 
+      "follower": false, 
+      "id": 458087818196054016, 
+      "reply": false, 
+      "timestamp": "Mon Apr 21 03:40:21 +0000 2014", 
+      "tree_size": 1, 
+      "tweet": "RT @Norsu2: God Bless America #tcot http://t.co/o7Rmc8b89a", 
+      "uid": 603037450, 
+      "user": 2, 
+      "user_score": 0.0, 
+      "users": {
+        "2": 1
+      }
+    }, 
+    {
+      "entropy_score": 0.0, 
+      "favourites": 0, 
+      "follower": false, 
+      "id": 458088976897695744, 
+      "reply": false, 
+      "timestamp": "Mon Apr 21 03:44:57 +0000 2014", 
+      "tree_size": 1, 
+      "tweet": "RT @Norsu2: God Bless America #tcot http://t.co/o7Rmc8b89a", 
+      "uid": 59209789, 
+      "user": 1, 
+      "user_score": 0.0, 
+      "users": {
+        "1": 1
+      }
+    }, 
+    {
+      "children": [
+        {
+          "entropy_score": 0.0, 
+          "favourites": 0, 
+          "follower": false, 
+          "id": 458076122282868736, 
+          "reply": false, 
+          "timestamp": "Mon Apr 21 02:53:52 +0000 2014", 
+          "tree_size": 1, 
+          "tweet": "RT @Support_Defend: Just gotta love an American Patriot Cowboy! MRT \"@Norsu2: God Bless America #tcot http://t.co/zTTPe4Klq8\u201d", 
+          "uid": 16478130, 
+          "user": 17, 
+          "user_score": 0.0, 
+          "users": {
+            "17": 1
+          }
+        }, 
+        {
+          "entropy_score": 0.0, 
+          "favourites": 0, 
+          "follower": false, 
+          "id": 458077185015054336, 
+          "reply": false, 
+          "timestamp": "Mon Apr 21 02:58:06 +0000 2014", 
+          "tree_size": 1, 
+          "tweet": "RT @Support_Defend: Just gotta love an American Patriot Cowboy! MRT \"@Norsu2: God Bless America #tcot http://t.co/zTTPe4Klq8\u201d", 
+          "uid": 239244397, 
+          "user": 16, 
+          "user_score": 0.0, 
+          "users": {
+            "16": 1
+          }
+        }, 
+        {
+          "entropy_score": 0.0, 
+          "favourites": 0, 
+          "follower": false, 
+          "id": 458078508736999424, 
+          "reply": false, 
+          "timestamp": "Mon Apr 21 03:03:21 +0000 2014", 
+          "tree_size": 1, 
+          "tweet": "RT @Support_Defend: Just gotta love an American Patriot Cowboy! MRT \"@Norsu2: God Bless America #tcot http://t.co/zTTPe4Klq8\u201d", 
+          "uid": 603037450, 
+          "user": 2, 
+          "user_score": 0.0, 
+          "users": {
+            "2": 1
+          }
+        }, 
+        {
+          "children": [
+            {
+              "entropy_score": 0.0, 
+              "favourites": 0, 
+              "follower": false, 
+              "id": 458084414317010944, 
+              "reply": false, 
+              "timestamp": "Mon Apr 21 03:26:49 +0000 2014", 
+              "tree_size": 1, 
+              "tweet": "RT @Fore_Warned: @Support_Defend @johnnyreb1864 @Norsu2 @ClivenBundy Cliven Bundy...American Hero\n", 
+              "uid": 379135492, 
+              "user": 5, 
+              "user_score": 0.0, 
+              "users": {
+                "5": 1
+              }
+            }
+          ], 
+          "entropy_score": 0.0, 
+          "favourites": 4, 
+          "follower": false, 
+          "id": 458078827923922945, 
+          "reply": true, 
+          "timestamp": "Mon Apr 21 03:04:37 +0000 2014", 
+          "tree_size": 2, 
+          "tweet": "@Support_Defend @johnnyreb1864 @Norsu2 @ClivenBundy Cliven Bundy...American Hero\n", 
+          "uid": 603037450, 
+          "user": 2, 
+          "user_score": 0.6931471805599453, 
+          "users": {
+            "2": 1, 
+            "5": 1
+          }
+        }, 
+        {
+          "entropy_score": 0.0, 
+          "favourites": 0, 
+          "follower": false, 
+          "id": 458093518934638592, 
+          "reply": false, 
+          "timestamp": "Mon Apr 21 04:03:00 +0000 2014", 
+          "tree_size": 1, 
+          "tweet": "RT @Support_Defend: Just gotta love an American Patriot Cowboy! MRT \"@Norsu2: God Bless America #tcot http://t.co/zTTPe4Klq8\u201d", 
+          "uid": 71926170, 
+          "user": 6, 
+          "user_score": 0.0, 
+          "users": {
+            "6": 1
+          }
+        }, 
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "entropy_score": 0.0, 
+                      "favourites": 0, 
+                      "follower": true, 
+                      "id": 458087227591888896, 
+                      "reply": true, 
+                      "timestamp": "Mon Apr 21 03:38:00 +0000 2014", 
+                      "tree_size": 1, 
+                      "tweet": "@sayaoak @Support_Defend @Norsu2 Rifles and militia were in defense of the terrible overreaching assault by the 200 armed govt hired guns...\n", 
+                      "uid": 603037450, 
+                      "user": 2, 
+                      "user_score": 0.0, 
+                      "users": {
+                        "2": 1
+                      }
+                    }, 
+                    {
+                      "entropy_score": 0.0, 
+                      "favourites": 0, 
+                      "follower": false, 
+                      "id": 458090986644578304, 
+                      "reply": true, 
+                      "timestamp": "Mon Apr 21 03:52:56 +0000 2014", 
+                      "tree_size": 1, 
+                      "tweet": "@sayaoak @Fore_Warned @Norsu2 \"A well regulated militia\" = Constitutional. BLM attack on #BundyRanch = illegal", 
+                      "uid": 379135492, 
+                      "user": 5, 
+                      "user_score": 0.0, 
+                      "users": {
+                        "5": 1
+                      }
+                    }
+                  ], 
+                  "entropy_score": 0.7624618986159398, 
+                  "favourites": 0, 
+                  "follower": false, 
+                  "id": 458086104889962496, 
+                  "reply": true, 
+                  "timestamp": "Mon Apr 21 03:33:32 +0000 2014", 
+                  "tree_size": 3, 
+                  "tweet": "@Support_Defend @Fore_Warned @Norsu2 I'm Ga farmers' wife.&amp; a Christian. I obey laws of USA.If I disagree I appeal n Ct not w rifles-militia\n", 
+                  "uid": 734313128, 
+                  "user": 3, 
+                  "user_score": 1.0986122886681096, 
+                  "users": {
+                    "2": 1, 
+                    "3": 1, 
+                    "5": 1
+                  }
+                }, 
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "entropy_score": 0.0, 
+                                  "favourites": 0, 
+                                  "follower": false, 
+                                  "id": 458095571736076289, 
+                                  "reply": true, 
+                                  "timestamp": "Mon Apr 21 04:11:09 +0000 2014", 
+                                  "tree_size": 1, 
+                                  "tweet": "@Support_Defend @Fore_Warned @Norsu2 if we don't pay mortgage, tell bank to pound sand, sit on porch w rifles, LE would come heavily armed\n", 
+                                  "uid": 734313128, 
+                                  "user": 3, 
+                                  "user_score": 0.0, 
+                                  "users": {
+                                    "3": 1
+                                  }
+                                }, 
+                                {
+                                  "entropy_score": 0.0, 
+                                  "favourites": 0, 
+                                  "follower": false, 
+                                  "id": 458096027535302656, 
+                                  "reply": true, 
+                                  "timestamp": "Mon Apr 21 04:12:58 +0000 2014", 
+                                  "tree_size": 1, 
+                                  "tweet": "@Support_Defend @Fore_Warned @Norsu2 No. even whne theres lone gunman, swat teams rush in w overwhelming force. It happens all too often\n", 
+                                  "uid": 734313128, 
+                                  "user": 3, 
+                                  "user_score": 0.0, 
+                                  "users": {
+                                    "3": 1
+                                  }
+                                }
+                              ], 
+                              "entropy_score": 0.7624618986159398, 
+                              "favourites": 0, 
+                              "follower": false, 
+                              "id": 458094134167760897, 
+                              "reply": true, 
+                              "timestamp": "Mon Apr 21 04:05:27 +0000 2014", 
+                              "tree_size": 3, 
+                              "tweet": "@sayaoak @Fore_Warned @Norsu2 The same ones who could come after your farm given the \"right\" circumstances. Still no justification for BLM\n", 
+                              "uid": 379135492, 
+                              "user": 5, 
+                              "user_score": 0.6365141682948128, 
+                              "users": {
+                                "3": 2, 
+                                "5": 1
+                              }
+                            }
+                          ], 
+                          "entropy_score": 0.7624618986159398, 
+                          "favourites": 0, 
+                          "follower": true, 
+                          "id": 458088762359042049, 
+                          "reply": true, 
+                          "timestamp": "Mon Apr 21 03:44:06 +0000 2014", 
+                          "tree_size": 4, 
+                          "tweet": "@Fore_Warned @Support_Defend @Norsu2 Yes. Fed judges recommended by state's 2 Senators&gt; Appellate &amp; SCOTUS by POTUS w confirmation 51 Sens\n", 
+                          "uid": 734313128, 
+                          "user": 3, 
+                          "user_score": 0.5623351446188083, 
+                          "users": {
+                            "3": 3, 
+                            "5": 1
+                          }
+                        }
+                      ], 
+                      "entropy_score": 0.7624618986159398, 
+                      "favourites": 0, 
+                      "follower": true, 
+                      "id": 458087735580819456, 
+                      "reply": true, 
+                      "timestamp": "Mon Apr 21 03:40:01 +0000 2014", 
+                      "tree_size": 5, 
+                      "tweet": "@sayaoak @Support_Defend @Norsu2 Judges appointed by powerful politicians..\n", 
+                      "uid": 603037450, 
+                      "user": 2, 
+                      "user_score": 0.9502705392332347, 
+                      "users": {
+                        "2": 1, 
+                        "3": 3, 
+                        "5": 1
+                      }
+                    }
+                  ], 
+                  "entropy_score": 0.7624618986159398, 
+                  "favourites": 0, 
+                  "follower": false, 
+                  "id": 458086937442529280, 
+                  "reply": true, 
+                  "timestamp": "Mon Apr 21 03:36:51 +0000 2014", 
+                  "tree_size": 6, 
+                  "tweet": "@Support_Defend @Fore_Warned @Norsu2 It wasn't just 1Judge; it was 2 different fed Judges AND US Apellate Court-all said land Federal-not Nv\n", 
+                  "uid": 734313128, 
+                  "user": 3, 
+                  "user_score": 0.8675632284814612, 
+                  "users": {
+                    "2": 1, 
+                    "3": 4, 
+                    "5": 1
+                  }
+                }
+              ], 
+              "entropy_score": 2.225089382356174, 
+              "favourites": 0, 
+              "follower": false, 
+              "id": 458085330562736128, 
+              "important_entropy": true, 
+              "reply": true, 
+              "timestamp": "Mon Apr 21 03:30:28 +0000 2014", 
+              "tree_size": 10, 
+              "tweet": "@sayaoak @Fore_Warned @Norsu2 Not all laws are Constitutional. No judge is infallible. I pray you never find yourself surrounded like Bundy.\n", 
+              "uid": 379135492, 
+              "user": 5, 
+              "user_score": 1.0296530140645737, 
+              "users": {
+                "2": 2, 
+                "3": 5, 
+                "5": 3
+              }
+            }, 
+            {
+              "children": [
+                {
+                  "entropy_score": 0.0, 
+                  "favourites": 0, 
+                  "follower": false, 
+                  "id": 458083246773788673, 
+                  "reply": false, 
+                  "timestamp": "Mon Apr 21 03:22:11 +0000 2014", 
+                  "tree_size": 1, 
+                  "tweet": "RT @Fore_Warned: @sayaoak @Support_Defend @Norsu2 The Law Of the United States Of America is The Constitution Of The United States Of Ameri\u2026\n", 
+                  "uid": 379135492, 
+                  "user": 5, 
+                  "user_score": 0.0, 
+                  "users": {
+                    "5": 1
+                  }
+                }, 
+                {
+                  "children": [
+                    {
+                      "entropy_score": 0.0, 
+                      "favourites": 0, 
+                      "follower": false, 
+                      "id": 458086691316572160, 
+                      "reply": true, 
+                      "timestamp": "Mon Apr 21 03:35:52 +0000 2014", 
+                      "tree_size": 1, 
+                      "tweet": "@sayaoak @Fore_Warned @Norsu2 Suggest you research BLM illegal theft and destruction of private and public property. Beyond court order.\n", 
+                      "uid": 379135492, 
+                      "user": 5, 
+                      "user_score": 0.0, 
+                      "users": {
+                        "5": 1
+                      }
+                    }, 
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "entropy_score": 0.0, 
+                                  "favourites": 0, 
+                                  "follower": true, 
+                                  "id": 458086181360508928, 
+                                  "reply": false, 
+                                  "timestamp": "Mon Apr 21 03:33:51 +0000 2014", 
+                                  "tree_size": 1, 
+                                  "tweet": "RT @Fore_Warned: @sayaoak @Support_Defend @Norsu2 Well, at least we agree on supporting Israel.\n", 
+                                  "uid": 734313128, 
+                                  "user": 3, 
+                                  "user_score": 0.0, 
+                                  "users": {
+                                    "3": 1
+                                  }
+                                }
+                              ], 
+                              "entropy_score": 0.0, 
+                              "favourites": 1, 
+                              "follower": true, 
+                              "id": 458085525769838592, 
+                              "reply": true, 
+                              "timestamp": "Mon Apr 21 03:31:14 +0000 2014", 
+                              "tree_size": 2, 
+                              "tweet": "@sayaoak @Support_Defend @Norsu2 Well, at least we agree on supporting Israel.\n", 
+                              "uid": 603037450, 
+                              "user": 2, 
+                              "user_score": 0.6931471805599453, 
+                              "users": {
+                                "2": 1, 
+                                "3": 1
+                              }
+                            }, 
+                            {
+                              "children": [
+                                {
+                                  "entropy_score": 0.0, 
+                                  "favourites": 0, 
+                                  "follower": false, 
+                                  "id": 458088530200117249, 
+                                  "reply": false, 
+                                  "timestamp": "Mon Apr 21 03:43:11 +0000 2014", 
+                                  "tree_size": 1, 
+                                  "tweet": "RT @TiredOfTyranny: That's a big assumption as some are activist! Feds have no business owning 84% of Nevada... @sayaoak @Fore_Warned @Supp\u2026\n", 
+                                  "uid": 72348170, 
+                                  "user": 15, 
+                                  "user_score": 0.0, 
+                                  "users": {
+                                    "15": 1
+                                  }
+                                }
+                              ], 
+                              "entropy_score": 0.0, 
+                              "favourites": 0, 
+                              "follower": true, 
+                              "id": 458086710564253697, 
+                              "reply": true, 
+                              "timestamp": "Mon Apr 21 03:35:57 +0000 2014", 
+                              "tree_size": 2, 
+                              "tweet": "That's a big assumption as some are activist! Feds have no business owning 84% of Nevada... @sayaoak @Fore_Warned @Support_Defend @Norsu2\n", 
+                              "uid": 386331159, 
+                              "user": 7, 
+                              "user_score": 0.6931471805599453, 
+                              "users": {
+                                "15": 1, 
+                                "7": 1
+                              }
+                            }, 
+                            {
+                              "children": [
+                                {
+                                  "children": [
+                                    {
+                                      "children": [
+                                        {
+                                          "entropy_score": 0.0, 
+                                          "favourites": 0, 
+                                          "follower": true, 
+                                          "id": 458088714972184576, 
+                                          "reply": false, 
+                                          "timestamp": "Mon Apr 21 03:43:55 +0000 2014", 
+                                          "tree_size": 1, 
+                                          "tweet": "RT @TiredOfTyranny: #BLM showed up armed b4 anyone showed up in support of Bundy. Unnecessary and out of control. @sayaoak @Fore_Warned @Su\u2026", 
+                                          "uid": 89091453, 
+                                          "user": 14, 
+                                          "user_score": 0.0, 
+                                          "users": {
+                                            "14": 1
+                                          }
+                                        }, 
+                                        {
+                                          "children": [
+                                            {
+                                              "children": [
+                                                {
+                                                  "entropy_score": 0.0, 
+                                                  "favourites": 0, 
+                                                  "follower": false, 
+                                                  "id": 458091929486372864, 
+                                                  "reply": false, 
+                                                  "timestamp": "Mon Apr 21 03:56:41 +0000 2014", 
+                                                  "tree_size": 1, 
+                                                  "tweet": "RT @TiredOfTyranny: Again, none of this would've happened if #BLM wouldn't have acted like taking dn drug cartel. @sayaoak @Fore_Warned @Su\u2026", 
+                                                  "uid": 379135492, 
+                                                  "user": 5, 
+                                                  "user_score": 0.0, 
+                                                  "users": {
+                                                    "5": 1
+                                                  }
+                                                }, 
+                                                {
+                                                  "children": [
+                                                    {
+                                                      "children": [
+                                                        {
+                                                          "children": [
+                                                            {
+                                                              "entropy_score": 0.0, 
+                                                              "favourites": 0, 
+                                                              "follower": true, 
+                                                              "id": 458095832978313217, 
+                                                              "reply": true, 
+                                                              "timestamp": "Mon Apr 21 04:12:12 +0000 2014", 
+                                                              "tree_size": 1, 
+                                                              "tweet": "When #BLM does same w/ fed land being trashed along the border I might buy that. #Consistency @sayaoak @Fore_Warned @Support_Defend @Norsu2", 
+                                                              "uid": 386331159, 
+                                                              "user": 7, 
+                                                              "user_score": 0.0, 
+                                                              "users": {
+                                                                "7": 1
+                                                              }
+                                                            }, 
+                                                            {
+                                                              "children": [
+                                                                {
+                                                                  "children": [
+                                                                    {
+                                                                      "children": [
+                                                                        {
+                                                                          "children": [
+                                                                            {
+                                                                              "entropy_score": 0.0, 
+                                                                              "favourites": 0, 
+                                                                              "follower": false, 
+                                                                              "id": 458098862071099392, 
+                                                                              "reply": true, 
+                                                                              "timestamp": "Mon Apr 21 04:24:14 +0000 2014", 
+                                                                              "tree_size": 1, 
+                                                                              "tweet": "@Fore_Warned @sayaoak @TiredOfTyranny @Norsu2 He promised He would and He already has. Otherwise - no hope.\n", 
+                                                                              "uid": 379135492, 
+                                                                              "user": 5, 
+                                                                              "user_score": 0.0, 
+                                                                              "users": {
+                                                                                "5": 1
+                                                                              }
+                                                                            }
+                                                                          ], 
+                                                                          "entropy_score": 0.0, 
+                                                                          "favourites": 0, 
+                                                                          "follower": false, 
+                                                                          "id": 458098022568579072, 
+                                                                          "reply": true, 
+                                                                          "timestamp": "Mon Apr 21 04:20:54 +0000 2014", 
+                                                                          "tree_size": 2, 
+                                                                          "tweet": "@Support_Defend @sayaoak @TiredOfTyranny @Norsu2 Me too...and I think He will.\n", 
+                                                                          "uid": 603037450, 
+                                                                          "user": 2, 
+                                                                          "user_score": 0.6931471805599453, 
+                                                                          "users": {
+                                                                            "2": 1, 
+                                                                            "5": 1
+                                                                          }
+                                                                        }
+                                                                      ], 
+                                                                      "entropy_score": 0.0, 
+                                                                      "favourites": 0, 
+                                                                      "follower": false, 
+                                                                      "id": 458097529242927106, 
+                                                                      "reply": true, 
+                                                                      "timestamp": "Mon Apr 21 04:18:56 +0000 2014", 
+                                                                      "tree_size": 3, 
+                                                                      "tweet": "@sayaoak @Fore_Warned @TiredOfTyranny @Norsu2 That's it. I'm done here. God help us.\n", 
+                                                                      "uid": 379135492, 
+                                                                      "user": 5, 
+                                                                      "user_score": 0.6365141682948128, 
+                                                                      "users": {
+                                                                        "2": 1, 
+                                                                        "5": 2
+                                                                      }
+                                                                    }
+                                                                  ], 
+                                                                  "entropy_score": 0.0, 
+                                                                  "favourites": 0, 
+                                                                  "follower": true, 
+                                                                  "id": 458096582156488704, 
+                                                                  "reply": true, 
+                                                                  "timestamp": "Mon Apr 21 04:15:10 +0000 2014", 
+                                                                  "tree_size": 4, 
+                                                                  "tweet": "@Fore_Warned @TiredOfTyranny @Support_Defend @Norsu2 \\n Hes a deranged extremist w delusions of grandeur. he &amp; like minded have bleak future\n", 
+                                                                  "uid": 734313128, 
+                                                                  "user": 3, 
+                                                                  "user_score": 1.0397207708399179, 
+                                                                  "users": {
+                                                                    "2": 1, 
+                                                                    "3": 1, 
+                                                                    "5": 2
+                                                                  }
+                                                                }
+                                                              ], 
+                                                              "entropy_score": 0.0, 
+                                                              "favourites": 0, 
+                                                              "follower": true, 
+                                                              "id": 458095977799241728, 
+                                                              "reply": true, 
+                                                              "timestamp": "Mon Apr 21 04:12:46 +0000 2014", 
+                                                              "tree_size": 5, 
+                                                              "tweet": "@sayaoak @TiredOfTyranny @Support_Defend @Norsu2 Bundy is a Champion 4 Constitutional Rule of Law &amp; Limited Govt standing up 4 Our Freedom\n", 
+                                                              "uid": 603037450, 
+                                                              "user": 2, 
+                                                              "user_score": 1.0549201679861442, 
+                                                              "users": {
+                                                                "2": 2, 
+                                                                "3": 1, 
+                                                                "5": 2
+                                                              }
+                                                            }
+                                                          ], 
+                                                          "entropy_score": 0.49561732975293515, 
+                                                          "favourites": 0, 
+                                                          "follower": true, 
+                                                          "id": 458094503316824064, 
+                                                          "reply": true, 
+                                                          "timestamp": "Mon Apr 21 04:06:55 +0000 2014", 
+                                                          "tree_size": 7, 
+                                                          "tweet": "@TiredOfTyranny @Fore_Warned @Support_Defend @Norsu2 He was ordered to vacate grazing land-or pay-he refused 2 do either-cant b condoned\n", 
+                                                          "uid": 734313128, 
+                                                          "user": 3, 
+                                                          "user_score": 1.351783994289646, 
+                                                          "users": {
+                                                            "2": 2, 
+                                                            "3": 2, 
+                                                            "5": 2, 
+                                                            "7": 1
+                                                          }
+                                                        }
+                                                      ], 
+                                                      "entropy_score": 0.49561732975293515, 
+                                                      "favourites": 0, 
+                                                      "follower": true, 
+                                                      "id": 458093602745249792, 
+                                                      "reply": true, 
+                                                      "timestamp": "Mon Apr 21 04:03:20 +0000 2014", 
+                                                      "tree_size": 8, 
+                                                      "tweet": "So what, put lien on his property &amp; collect when he passes. #BLM blew this out of proportion. @sayaoak @Fore_Warned @Support_Defend @Norsu2", 
+                                                      "uid": 386331159, 
+                                                      "user": 7, 
+                                                      "user_score": 1.3862943611198906, 
+                                                      "users": {
+                                                        "2": 2, 
+                                                        "3": 2, 
+                                                        "5": 2, 
+                                                        "7": 2
+                                                      }
+                                                    }
+                                                  ], 
+                                                  "entropy_score": 0.49561732975293515, 
+                                                  "favourites": 0, 
+                                                  "follower": true, 
+                                                  "id": 458093123642470401, 
+                                                  "reply": true, 
+                                                  "timestamp": "Mon Apr 21 04:01:26 +0000 2014", 
+                                                  "tree_size": 9, 
+                                                  "tweet": "@TiredOfTyranny @Fore_Warned @Support_Defend @Norsu2 \\nBundy announced b4 feds arrived, he would nevr pay, nevr leave, nevr submit+\\n#Gauntlet", 
+                                                  "uid": 734313128, 
+                                                  "user": 3, 
+                                                  "user_score": 1.3689223607402192, 
+                                                  "users": {
+                                                    "2": 2, 
+                                                    "3": 3, 
+                                                    "5": 2, 
+                                                    "7": 2
+                                                  }
+                                                }
+                                              ], 
+                                              "entropy_score": 0.8532086004835282, 
+                                              "favourites": 1, 
+                                              "follower": true, 
+                                              "id": 458091802101157888, 
+                                              "reply": true, 
+                                              "timestamp": "Mon Apr 21 03:56:11 +0000 2014", 
+                                              "tree_size": 11, 
+                                              "tweet": "Again, none of this would've happened if #BLM wouldn't have acted like taking dn drug cartel. @sayaoak @Fore_Warned @Support_Defend @Norsu2", 
+                                              "uid": 386331159, 
+                                              "user": 7, 
+                                              "user_score": 1.3730039128771998, 
+                                              "users": {
+                                                "2": 2, 
+                                                "3": 3, 
+                                                "5": 3, 
+                                                "7": 3
+                                              }
+                                            }, 
+                                            {
+                                              "children": [
+                                                {
+                                                  "entropy_score": 0.0, 
+                                                  "favourites": 0, 
+                                                  "follower": true, 
+                                                  "id": 458093667098431488, 
+                                                  "reply": false, 
+                                                  "timestamp": "Mon Apr 21 04:03:35 +0000 2014", 
+                                                  "tree_size": 1, 
+                                                  "tweet": "RT @Fore_Warned: @sayaoak @TiredOfTyranny @Support_Defend @Norsu2 1/2 true? The whole truth is-govt is too big-out of control. Constitution\u2026\n", 
+                                                  "uid": 386331159, 
+                                                  "user": 7, 
+                                                  "user_score": 0.0, 
+                                                  "users": {
+                                                    "7": 1
+                                                  }
+                                                }
+                                              ], 
+                                              "entropy_score": 0.0, 
+                                              "favourites": 2, 
+                                              "follower": true, 
+                                              "id": 458092766841425920, 
+                                              "reply": true, 
+                                              "timestamp": "Mon Apr 21 04:00:01 +0000 2014", 
+                                              "tree_size": 2, 
+                                              "tweet": "@sayaoak @TiredOfTyranny @Support_Defend @Norsu2 1/2 true? The whole truth is-govt is too big-out of control. Constitution was 4 Limited Gov\n", 
+                                              "uid": 603037450, 
+                                              "user": 2, 
+                                              "user_score": 0.6931471805599453, 
+                                              "users": {
+                                                "2": 1, 
+                                                "7": 1
+                                              }
+                                            }
+                                          ], 
+                                          "entropy_score": 1.3254639246072062, 
+                                          "favourites": 0, 
+                                          "follower": true, 
+                                          "id": 458091100436058115, 
+                                          "reply": true, 
+                                          "timestamp": "Mon Apr 21 03:53:23 +0000 2014", 
+                                          "tree_size": 14, 
+                                          "tweet": "@TiredOfTyranny @Fore_Warned @Support_Defend @Norsu2 \\n1/2 true. he had armed neighbors there from get go, then militias came from everywhere\n", 
+                                          "uid": 734313128, 
+                                          "user": 3, 
+                                          "user_score": 1.376055285260417, 
+                                          "users": {
+                                            "2": 3, 
+                                            "3": 4, 
+                                            "5": 3, 
+                                            "7": 4
+                                          }
+                                        }
+                                      ], 
+                                      "entropy_score": 1.5948869540813053, 
+                                      "favourites": 1, 
+                                      "follower": true, 
+                                      "id": 458088409689370624, 
+                                      "reply": true, 
+                                      "timestamp": "Mon Apr 21 03:42:42 +0000 2014", 
+                                      "tree_size": 16, 
+                                      "tweet": "#BLM showed up armed b4 anyone showed up in support of Bundy. Unnecessary and out of control. @sayaoak @Fore_Warned @Support_Defend @Norsu2", 
+                                      "uid": 386331159, 
+                                      "user": 7, 
+                                      "user_score": 1.511086176073611, 
+                                      "users": {
+                                        "14": 1, 
+                                        "2": 3, 
+                                        "3": 4, 
+                                        "5": 3, 
+                                        "7": 5
+                                      }
+                                    }
+                                  ], 
+                                  "entropy_score": 1.5948869540813053, 
+                                  "favourites": 0, 
+                                  "follower": true, 
+                                  "id": 458087637069205504, 
+                                  "reply": true, 
+                                  "timestamp": "Mon Apr 21 03:39:38 +0000 2014", 
+                                  "tree_size": 17, 
+                                  "tweet": "@TiredOfTyranny @Fore_Warned @Support_Defend @Norsu2 Yes, if there r 100 plus angry ranchers pledging defiance &amp; armed w SA rifles. I would\n", 
+                                  "uid": 734313128, 
+                                  "user": 3, 
+                                  "user_score": 1.4987396466238831, 
+                                  "users": {
+                                    "14": 1, 
+                                    "2": 3, 
+                                    "3": 5, 
+                                    "5": 3, 
+                                    "7": 5
+                                  }
+                                }
+                              ], 
+                              "entropy_score": 1.5948869540813053, 
+                              "favourites": 0, 
+                              "follower": true, 
+                              "id": 458086888822165504, 
+                              "reply": true, 
+                              "timestamp": "Mon Apr 21 03:36:39 +0000 2014", 
+                              "tree_size": 18, 
+                              "tweet": "This is about out of control govt! When did we start dending in swat teams to collect debts? @sayaoak @Fore_Warned @Support_Defend @Norsu2\n", 
+                              "uid": 386331159, 
+                              "user": 7, 
+                              "user_score": 1.4798484184768594, 
+                              "users": {
+                                "14": 1, 
+                                "2": 3, 
+                                "3": 5, 
+                                "5": 3, 
+                                "7": 6
+                              }
+                            }, 
+                            {
+                              "children": [
+                                {
+                                  "children": [
+                                    {
+                                      "children": [
+                                        {
+                                          "children": [
+                                            {
+                                              "entropy_score": 0.0, 
+                                              "favourites": 0, 
+                                              "follower": true, 
+                                              "id": 458090120151695360, 
+                                              "reply": true, 
+                                              "timestamp": "Mon Apr 21 03:49:30 +0000 2014", 
+                                              "tree_size": 1, 
+                                              "tweet": "If feds r writing rules/laws2benefits themselves/cronies at expense of citizens who'slawless? @sayaoak @Fore_Warned @Support_Defend @Norsu2\n", 
+                                              "uid": 386331159, 
+                                              "user": 7, 
+                                              "user_score": 0.0, 
+                                              "users": {
+                                                "7": 1
+                                              }
+                                            }, 
+                                            {
+                                              "entropy_score": 0.0, 
+                                              "favourites": 0, 
+                                              "follower": true, 
+                                              "id": 458090804410478592, 
+                                              "reply": true, 
+                                              "timestamp": "Mon Apr 21 03:52:13 +0000 2014", 
+                                              "tree_size": 1, 
+                                              "tweet": "In general I agree.I think this sends message2feds sending swat2collect debt is unacceptable! @sayaoak @Fore_Warned @Support_Defend @Norsu2\n", 
+                                              "uid": 386331159, 
+                                              "user": 7, 
+                                              "user_score": 0.0, 
+                                              "users": {
+                                                "7": 1
+                                              }
+                                            }
+                                          ], 
+                                          "entropy_score": 0.7624618986159398, 
+                                          "favourites": 0, 
+                                          "follower": true, 
+                                          "id": 458089382977601536, 
+                                          "reply": true, 
+                                          "timestamp": "Mon Apr 21 03:46:34 +0000 2014", 
+                                          "tree_size": 3, 
+                                          "tweet": "@TiredOfTyranny @Fore_Warned @Support_Defend @Norsu2 IMO issue is rule of law: if we all decide what laws &amp; Ct orders we will obey&gt;#trouble", 
+                                          "uid": 734313128, 
+                                          "user": 3, 
+                                          "user_score": 0.6365141682948128, 
+                                          "users": {
+                                            "3": 1, 
+                                            "7": 2
+                                          }
+                                        }
+                                      ], 
+                                      "entropy_score": 0.7624618986159398, 
+                                      "favourites": 0, 
+                                      "follower": true, 
+                                      "id": 458088728859123712, 
+                                      "reply": true, 
+                                      "timestamp": "Mon Apr 21 03:43:58 +0000 2014", 
+                                      "tree_size": 4, 
+                                      "tweet": "Are cows really the issue? Feds had already shut dn 52 other ranchers. Whats really going on? @sayaoak @Fore_Warned @Support_Defend @Norsu2\n", 
+                                      "uid": 386331159, 
+                                      "user": 7, 
+                                      "user_score": 0.5623351446188083, 
+                                      "users": {
+                                        "3": 1, 
+                                        "7": 3
+                                      }
+                                    }, 
+                                    {
+                                      "entropy_score": 0.0, 
+                                      "favourites": 2, 
+                                      "follower": true, 
+                                      "id": 458088990009085952, 
+                                      "reply": true, 
+                                      "timestamp": "Mon Apr 21 03:45:00 +0000 2014", 
+                                      "tree_size": 1, 
+                                      "tweet": "@sayaoak @TiredOfTyranny @Support_Defend @Norsu2 God Bless America...and leave the cows alone. Thank you for the debate.\n", 
+                                      "uid": 603037450, 
+                                      "user": 2, 
+                                      "user_score": 0.0, 
+                                      "users": {
+                                        "2": 1
+                                      }
+                                    }, 
+                                    {
+                                      "children": [
+                                        {
+                                          "children": [
+                                            {
+                                              "children": [
+                                                {
+                                                  "children": [
+                                                    {
+                                                      "entropy_score": 0.0, 
+                                                      "favourites": 0, 
+                                                      "follower": true, 
+                                                      "id": 458092889369612289, 
+                                                      "reply": true, 
+                                                      "timestamp": "Mon Apr 21 04:00:30 +0000 2014", 
+                                                      "tree_size": 1, 
+                                                      "tweet": "I agree. At what point do we say we've had enough of thugs like Harry Reid who is calling... @sayaoak @Fore_Warned @Support_Defend @Norsu2\n", 
+                                                      "uid": 386331159, 
+                                                      "user": 7, 
+                                                      "user_score": 0.0, 
+                                                      "users": {
+                                                        "7": 1
+                                                      }
+                                                    }, 
+                                                    {
+                                                      "entropy_score": 0.0, 
+                                                      "favourites": 0, 
+                                                      "follower": true, 
+                                                      "id": 458093249618403328, 
+                                                      "reply": true, 
+                                                      "timestamp": "Mon Apr 21 04:01:56 +0000 2014", 
+                                                      "tree_size": 1, 
+                                                      "tweet": "...his constituents and other Americans \"domestic terrorists?\" Dingy is a lawless thug.  @sayaoak @Fore_Warned @Support_Defend @Norsu2\n", 
+                                                      "uid": 386331159, 
+                                                      "user": 7, 
+                                                      "user_score": 0.0, 
+                                                      "users": {
+                                                        "7": 1
+                                                      }
+                                                    }
+                                                  ], 
+                                                  "entropy_score": 0.7624618986159398, 
+                                                  "favourites": 0, 
+                                                  "follower": true, 
+                                                  "id": 458092348421832704, 
+                                                  "reply": true, 
+                                                  "timestamp": "Mon Apr 21 03:58:21 +0000 2014", 
+                                                  "tree_size": 3, 
+                                                  "tweet": "@TiredOfTyranny @Fore_Warned @Support_Defend @Norsu2\\n ALL GOVs consist of men-men R *inherently* sinful W a fallen nature=\\nlies, thefts, etc\n", 
+                                                  "uid": 734313128, 
+                                                  "user": 3, 
+                                                  "user_score": 0.6365141682948128, 
+                                                  "users": {
+                                                    "3": 1, 
+                                                    "7": 2
+                                                  }
+                                                }
+                                              ], 
+                                              "entropy_score": 0.7624618986159398, 
+                                              "favourites": 0, 
+                                              "follower": true, 
+                                              "id": 458090997335863297, 
+                                              "reply": true, 
+                                              "timestamp": "Mon Apr 21 03:52:59 +0000 2014", 
+                                              "tree_size": 4, 
+                                              "tweet": "Why? @sayaoak @Fore_Warned @Support_Defend @Norsu2\n", 
+                                              "uid": 386331159, 
+                                              "user": 7, 
+                                              "user_score": 0.5623351446188083, 
+                                              "users": {
+                                                "3": 1, 
+                                                "7": 3
+                                              }
+                                            }
+                                          ], 
+                                          "entropy_score": 0.7624618986159398, 
+                                          "favourites": 0, 
+                                          "follower": true, 
+                                          "id": 458090568090779648, 
+                                          "reply": true, 
+                                          "timestamp": "Mon Apr 21 03:51:17 +0000 2014", 
+                                          "tree_size": 5, 
+                                          "tweet": "@TiredOfTyranny @Fore_Warned @Support_Defend @Norsu2 Laws have  NEVER been uniformly enforced anywhere N world n human history; U know why?\n", 
+                                          "uid": 734313128, 
+                                          "user": 3, 
+                                          "user_score": 0.6730116670092565, 
+                                          "users": {
+                                            "3": 2, 
+                                            "7": 3
+                                          }
+                                        }
+                                      ], 
+                                      "entropy_score": 0.7624618986159398, 
+                                      "favourites": 0, 
+                                      "follower": true, 
+                                      "id": 458089037538938880, 
+                                      "reply": true, 
+                                      "timestamp": "Mon Apr 21 03:45:12 +0000 2014", 
+                                      "tree_size": 6, 
+                                      "tweet": "What good r laws when feds write them to benefit themselves or cronies?Who's really lawless? @sayaoak @Fore_Warned @Support_Defend @Norsu2\n", 
+                                      "uid": 386331159, 
+                                      "user": 7, 
+                                      "user_score": 0.6365141682948128, 
+                                      "users": {
+                                        "3": 2, 
+                                        "7": 4
+                                      }
+                                    }, 
+                                    {
+                                      "children": [
+                                        {
+                                          "children": [
+                                            {
+                                              "children": [
+                                                {
+                                                  "entropy_score": 0.0, 
+                                                  "favourites": 0, 
+                                                  "follower": false, 
+                                                  "id": 458106062395019264, 
+                                                  "reply": false, 
+                                                  "timestamp": "Mon Apr 21 04:52:51 +0000 2014", 
+                                                  "tree_size": 1, 
+                                                  "tweet": "RT @TiredOfTyranny: Land transfers have been done before time for it to happen again.  http://t.co/BBXYqLkGfF @sayaoak @Support_Defend @For\u2026\n", 
+                                                  "uid": 379135492, 
+                                                  "user": 5, 
+                                                  "user_score": 0.0, 
+                                                  "users": {
+                                                    "5": 1
+                                                  }
+                                                }
+                                              ], 
+                                              "entropy_score": 0.0, 
+                                              "favourites": 2, 
+                                              "follower": true, 
+                                              "id": 458100985429102592, 
+                                              "reply": true, 
+                                              "timestamp": "Mon Apr 21 04:32:40 +0000 2014", 
+                                              "tree_size": 2, 
+                                              "tweet": "Land transfers have been done before time for it to happen again.  http://t.co/BBXYqLkGfF @sayaoak @Support_Defend @Fore_Warned @Norsu2\n", 
+                                              "uid": 386331159, 
+                                              "user": 7, 
+                                              "user_score": 0.6931471805599453, 
+                                              "users": {
+                                                "5": 1, 
+                                                "7": 1
+                                              }
+                                            }
+                                          ], 
+                                          "entropy_score": 0.0, 
+                                          "favourites": 0, 
+                                          "follower": false, 
+                                          "id": 458099758209327104, 
+                                          "reply": true, 
+                                          "timestamp": "Mon Apr 21 04:27:48 +0000 2014", 
+                                          "tree_size": 3, 
+                                          "tweet": "@Support_Defend @TiredOfTyranny @Fore_Warned @Norsu2 Two fed judges plus US CT of Appeals rejected that. even NV doesn't claim that land\n", 
+                                          "uid": 734313128, 
+                                          "user": 3, 
+                                          "user_score": 1.0986122886681096, 
+                                          "users": {
+                                            "3": 1, 
+                                            "5": 1, 
+                                            "7": 1
+                                          }
+                                        }
+                                      ], 
+                                      "entropy_score": 0.0, 
+                                      "favourites": 0, 
+                                      "follower": false, 
+                                      "id": 458092681801908224, 
+                                      "reply": true, 
+                                      "timestamp": "Mon Apr 21 03:59:40 +0000 2014", 
+                                      "tree_size": 4, 
+                                      "tweet": "@sayaoak @TiredOfTyranny @Fore_Warned @Norsu2 THE JUDGE WAS WRONG. Bundy agreement w State NV in place long before BLM.\n", 
+                                      "uid": 379135492, 
+                                      "user": 5, 
+                                      "user_score": 1.0397207708399179, 
+                                      "users": {
+                                        "3": 1, 
+                                        "5": 2, 
+                                        "7": 1
+                                      }
+                                    }, 
+                                    {
+                                      "children": [
+                                        {
+                                          "children": [
+                                            {
+                                              "children": [
+                                                {
+                                                  "entropy_score": 0.0, 
+                                                  "favourites": 0, 
+                                                  "follower": false, 
+                                                  "id": 458097994777124864, 
+                                                  "reply": true, 
+                                                  "timestamp": "Mon Apr 21 04:20:47 +0000 2014", 
+                                                  "tree_size": 1, 
+                                                  "tweet": "@Support_Defend @TiredOfTyranny @Fore_Warned @Norsu2 If fed agents (BLM) receive Fed CT order to enforce said order-force legally authorized\n", 
+                                                  "uid": 734313128, 
+                                                  "user": 3, 
+                                                  "user_score": 0.0, 
+                                                  "users": {
+                                                    "3": 1
+                                                  }
+                                                }
+                                              ], 
+                                              "entropy_score": 0.0, 
+                                              "favourites": 0, 
+                                              "follower": false, 
+                                              "id": 458096768291307520, 
+                                              "reply": true, 
+                                              "timestamp": "Mon Apr 21 04:15:55 +0000 2014", 
+                                              "tree_size": 2, 
+                                              "tweet": "@sayaoak @TiredOfTyranny @Fore_Warned @Norsu2 Yes granted but still no justification for BLM actions which were illegal.\n", 
+                                              "uid": 379135492, 
+                                              "user": 5, 
+                                              "user_score": 0.6931471805599453, 
+                                              "users": {
+                                                "3": 1, 
+                                                "5": 1
+                                              }
+                                            }
+                                          ], 
+                                          "entropy_score": 0.0, 
+                                          "favourites": 0, 
+                                          "follower": false, 
+                                          "id": 458093438194315265, 
+                                          "reply": true, 
+                                          "timestamp": "Mon Apr 21 04:02:41 +0000 2014", 
+                                          "tree_size": 3, 
+                                          "tweet": "@Support_Defend @TiredOfTyranny @Fore_Warned @Norsu2 \\nRespectfully disagree Judge ordered cows removed, and gave him 30 days notice\\nor PAY\n", 
+                                          "uid": 734313128, 
+                                          "user": 3, 
+                                          "user_score": 0.6365141682948128, 
+                                          "users": {
+                                            "3": 2, 
+                                            "5": 1
+                                          }
+                                        }, 
+                                        {
+                                          "children": [
+                                            {
+                                              "children": [
+                                                {
+                                                  "entropy_score": 0.0, 
+                                                  "favourites": 0, 
+                                                  "follower": true, 
+                                                  "id": 458100457924472832, 
+                                                  "reply": false, 
+                                                  "timestamp": "Mon Apr 21 04:30:35 +0000 2014", 
+                                                  "tree_size": 1, 
+                                                  "tweet": "RT @TiredOfTyranny: I can cite Article 1 sec 8 which says lands the feds are allowed to have. Mil base ports etc, @sayaoak @Support_Defend \u2026\n", 
+                                                  "uid": 535675339, 
+                                                  "user": 13, 
+                                                  "user_score": 0.0, 
+                                                  "users": {
+                                                    "13": 1
+                                                  }
+                                                }, 
+                                                {
+                                                  "children": [
+                                                    {
+                                                      "children": [
+                                                        {
+                                                          "entropy_score": 0.0, 
+                                                          "favourites": 0, 
+                                                          "follower": false, 
+                                                          "id": 458103123001610240, 
+                                                          "reply": true, 
+                                                          "timestamp": "Mon Apr 21 04:41:10 +0000 2014", 
+                                                          "tree_size": 1, 
+                                                          "tweet": "@TiredOfTyranny @sayaoak @Fore_Warned @Norsu2 Hang in there @TiredOfTyranny You're my hero! #oathbeforeorders #BundyRanch", 
+                                                          "uid": 379135492, 
+                                                          "user": 5, 
+                                                          "user_score": 0.0, 
+                                                          "users": {
+                                                            "5": 1
+                                                          }
+                                                        }, 
+                                                        {
+                                                          "entropy_score": 0.0, 
+                                                          "favourites": 0, 
+                                                          "follower": false, 
+                                                          "id": 458103206581530624, 
+                                                          "reply": false, 
+                                                          "timestamp": "Mon Apr 21 04:41:30 +0000 2014", 
+                                                          "tree_size": 1, 
+                                                          "tweet": "RT @TiredOfTyranny: Which have to be Constitutional! How is the feds owning more than 50% of western land Const? @sayaoak @Support_Defend @\u2026\n", 
+                                                          "uid": 379135492, 
+                                                          "user": 5, 
+                                                          "user_score": 0.0, 
+                                                          "users": {
+                                                            "5": 1
+                                                          }
+                                                        }, 
+                                                        {
+                                                          "children": [
+                                                            {
+                                                              "children": [
+                                                                {
+                                                                  "children": [
+                                                                    {
+                                                                      "children": [
+                                                                        {
+                                                                          "children": [
+                                                                            {
+                                                                              "children": [
+                                                                                {
+                                                                                  "entropy_score": 0.0, 
+                                                                                  "favourites": 0, 
+                                                                                  "follower": false, 
+                                                                                  "id": 458111932587720704, 
+                                                                                  "reply": false, 
+                                                                                  "timestamp": "Mon Apr 21 05:16:10 +0000 2014", 
+                                                                                  "tree_size": 1, 
+                                                                                  "tweet": "RT @TiredOfTyranny: Fed govt is to be limited by Const.Any powers it doesn't specifiacally give2fed is2go2states. @sayaoak @Support_Defend \u2026\n", 
+                                                                                  "uid": 379135492, 
+                                                                                  "user": 5, 
+                                                                                  "user_score": 0.0, 
+                                                                                  "users": {
+                                                                                    "5": 1
+                                                                                  }
+                                                                                }, 
+                                                                                {
+                                                                                  "children": [
+                                                                                    {
+                                                                                      "children": [
+                                                                                        {
+                                                                                          "children": [
+                                                                                            {
+                                                                                              "entropy_score": 0.0, 
+                                                                                              "favourites": 0, 
+                                                                                              "follower": true, 
+                                                                                              "id": 458113614465884160, 
+                                                                                              "reply": true, 
+                                                                                              "timestamp": "Mon Apr 21 05:22:51 +0000 2014", 
+                                                                                              "tree_size": 1, 
+                                                                                              "tweet": "Article 1 sec 8 says what fed can do! Does not give unlimited pwr to own whatever they want. @sayaoak @Support_Defend @Fore_Warned @Norsu2\n", 
+                                                                                              "uid": 386331159, 
+                                                                                              "user": 7, 
+                                                                                              "user_score": 0.0, 
+                                                                                              "users": {
+                                                                                                "7": 1
+                                                                                              }
+                                                                                            }, 
+                                                                                            {
+                                                                                              "entropy_score": 0.0, 
+                                                                                              "favourites": 1, 
+                                                                                              "follower": false, 
+                                                                                              "id": 458113990300688384, 
+                                                                                              "reply": true, 
+                                                                                              "timestamp": "Mon Apr 21 05:24:21 +0000 2014", 
+                                                                                              "tree_size": 1, 
+                                                                                              "tweet": "@sayaoak @TiredOfTyranny @Fore_Warned @Norsu2 ok I give up again. For real this time. Good night/morning. God bless.\n", 
+                                                                                              "uid": 379135492, 
+                                                                                              "user": 5, 
+                                                                                              "user_score": 0.0, 
+                                                                                              "users": {
+                                                                                                "5": 1
+                                                                                              }
+                                                                                            }, 
+                                                                                            {
+                                                                                              "children": [
+                                                                                                {
+                                                                                                  "children": [
+                                                                                                    {
+                                                                                                      "children": [
+                                                                                                        {
+                                                                                                          "children": [
+                                                                                                            {
+                                                                                                              "entropy_score": 0.0, 
+                                                                                                              "favourites": 0, 
+                                                                                                              "follower": true, 
+                                                                                                              "id": 458118388607229953, 
+                                                                                                              "reply": true, 
+                                                                                                              "timestamp": "Mon Apr 21 05:41:49 +0000 2014", 
+                                                                                                              "tree_size": 1, 
+                                                                                                              "tweet": "By regulating ppl out of land.They come in say your land is wet land &amp;regulate it out of use. @sayaoak @Support_Defend @Fore_Warned @Norsu2\n", 
+                                                                                                              "uid": 386331159, 
+                                                                                                              "user": 7, 
+                                                                                                              "user_score": 0.0, 
+                                                                                                              "users": {
+                                                                                                                "7": 1
+                                                                                                              }
+                                                                                                            }, 
+                                                                                                            {
+                                                                                                              "entropy_score": 0.0, 
+                                                                                                              "favourites": 0, 
+                                                                                                              "follower": true, 
+                                                                                                              "id": 458118580383404032, 
+                                                                                                              "reply": true, 
+                                                                                                              "timestamp": "Mon Apr 21 05:42:35 +0000 2014", 
+                                                                                                              "tree_size": 1, 
+                                                                                                              "tweet": "They have tried this with several ppl that I have heard of, not always successfully. @sayaoak @Support_Defend @Fore_Warned @Norsu2\n", 
+                                                                                                              "uid": 386331159, 
+                                                                                                              "user": 7, 
+                                                                                                              "user_score": 0.0, 
+                                                                                                              "users": {
+                                                                                                                "7": 1
+                                                                                                              }
+                                                                                                            }
+                                                                                                          ], 
+                                                                                                          "entropy_score": 0.7624618986159398, 
+                                                                                                          "favourites": 0, 
+                                                                                                          "follower": true, 
+                                                                                                          "id": 458116844809752576, 
+                                                                                                          "reply": true, 
+                                                                                                          "timestamp": "Mon Apr 21 05:35:41 +0000 2014", 
+                                                                                                          "tree_size": 3, 
+                                                                                                          "tweet": "@TiredOfTyranny @Support_Defend @Fore_Warned @Norsu2 \"feds are seizing property through EPA \" \\n\\nU mean through imminent Domain?\n", 
+                                                                                                          "uid": 734313128, 
+                                                                                                          "user": 3, 
+                                                                                                          "user_score": 0.6365141682948128, 
+                                                                                                          "users": {
+                                                                                                            "3": 1, 
+                                                                                                            "7": 2
+                                                                                                          }
+                                                                                                        }
+                                                                                                      ], 
+                                                                                                      "entropy_score": 0.7624618986159398, 
+                                                                                                      "favourites": 1, 
+                                                                                                      "follower": true, 
+                                                                                                      "id": 458116215253118976, 
+                                                                                                      "reply": true, 
+                                                                                                      "timestamp": "Mon Apr 21 05:33:11 +0000 2014", 
+                                                                                                      "tree_size": 4, 
+                                                                                                      "tweet": "The feds are seizing property through EPA and other depts! Time to to put a stop to it! @sayaoak @Support_Defend @Fore_Warned @Norsu2\n", 
+                                                                                                      "uid": 386331159, 
+                                                                                                      "user": 7, 
+                                                                                                      "user_score": 0.5623351446188083, 
+                                                                                                      "users": {
+                                                                                                        "3": 1, 
+                                                                                                        "7": 3
+                                                                                                      }
+                                                                                                    }, 
+                                                                                                    {
+                                                                                                      "children": [
+                                                                                                        {
+                                                                                                          "children": [
+                                                                                                            {
+                                                                                                              "entropy_score": 0.0, 
+                                                                                                              "favourites": 1, 
+                                                                                                              "follower": true, 
+                                                                                                              "id": 458118875888881665, 
+                                                                                                              "reply": true, 
+                                                                                                              "timestamp": "Mon Apr 21 05:43:46 +0000 2014", 
+                                                                                                              "tree_size": 1, 
+                                                                                                              "tweet": "No, it's b/c we've allowed them to get where they are and they've purchased votes. @sayaoak @Support_Defend @Fore_Warned @Norsu2\n", 
+                                                                                                              "uid": 386331159, 
+                                                                                                              "user": 7, 
+                                                                                                              "user_score": 0.0, 
+                                                                                                              "users": {
+                                                                                                                "7": 1
+                                                                                                              }
+                                                                                                            }, 
+                                                                                                            {
+                                                                                                              "entropy_score": 0.0, 
+                                                                                                              "favourites": 1, 
+                                                                                                              "follower": true, 
+                                                                                                              "id": 458262095986163712, 
+                                                                                                              "reply": true, 
+                                                                                                              "timestamp": "Mon Apr 21 15:12:52 +0000 2014", 
+                                                                                                              "tree_size": 1, 
+                                                                                                              "tweet": "@sayaoak @TiredOfTyranny @Support_Defend @Fore_Warned China has a brutal &amp; tyrannical Communist Govt, because well - it has so many people\n", 
+                                                                                                              "uid": 149315713, 
+                                                                                                              "user": 0, 
+                                                                                                              "user_score": 0.0, 
+                                                                                                              "users": {
+                                                                                                                "0": 1
+                                                                                                              }
+                                                                                                            }
+                                                                                                          ], 
+                                                                                                          "entropy_score": 0.7624618986159398, 
+                                                                                                          "favourites": 0, 
+                                                                                                          "follower": true, 
+                                                                                                          "id": 458117416354983936, 
+                                                                                                          "reply": true, 
+                                                                                                          "timestamp": "Mon Apr 21 05:37:58 +0000 2014", 
+                                                                                                          "tree_size": 3, 
+                                                                                                          "tweet": "@TiredOfTyranny @Support_Defend @Fore_Warned @Norsu2 U know y\\n gov is bigger than ever? its b/c USA Population 310 mil 3 day\\nn 1776&gt; 2.5 mil\n", 
+                                                                                                          "uid": 734313128, 
+                                                                                                          "user": 3, 
+                                                                                                          "user_score": 1.0986122886681096, 
+                                                                                                          "users": {
+                                                                                                            "0": 1, 
+                                                                                                            "3": 1, 
+                                                                                                            "7": 1
+                                                                                                          }
+                                                                                                        }
+                                                                                                      ], 
+                                                                                                      "entropy_score": 0.7624618986159398, 
+                                                                                                      "favourites": 0, 
+                                                                                                      "follower": true, 
+                                                                                                      "id": 458116392269516800, 
+                                                                                                      "reply": true, 
+                                                                                                      "timestamp": "Mon Apr 21 05:33:53 +0000 2014", 
+                                                                                                      "tree_size": 4, 
+                                                                                                      "tweet": "I go back to my first point. This is about out of control fed govt! @sayaoak @Support_Defend @Fore_Warned @Norsu2\n", 
+                                                                                                      "uid": 386331159, 
+                                                                                                      "user": 7, 
+                                                                                                      "user_score": 1.0397207708399179, 
+                                                                                                      "users": {
+                                                                                                        "0": 1, 
+                                                                                                        "3": 1, 
+                                                                                                        "7": 2
+                                                                                                      }
+                                                                                                    }
+                                                                                                  ], 
+                                                                                                  "entropy_score": 2.2873856958478194, 
+                                                                                                  "favourites": 0, 
+                                                                                                  "follower": true, 
+                                                                                                  "id": 458115642609000448, 
+                                                                                                  "important_entropy": true, 
+                                                                                                  "reply": true, 
+                                                                                                  "timestamp": "Mon Apr 21 05:30:55 +0000 2014", 
+                                                                                                  "tree_size": 9, 
+                                                                                                  "tweet": "@TiredOfTyranny @Support_Defend @Fore_Warned @Norsu2 \\nI see no reason Y both cant own property-In fact Fed Gov &amp; U &amp; I can/do own property\n", 
+                                                                                                  "uid": 734313128, 
+                                                                                                  "user": 3, 
+                                                                                                  "user_score": 0.9368883075390159, 
+                                                                                                  "users": {
+                                                                                                    "0": 1, 
+                                                                                                    "3": 3, 
+                                                                                                    "7": 5
+                                                                                                  }
+                                                                                                }
+                                                                                              ], 
+                                                                                              "entropy_score": 2.2873856958478194, 
+                                                                                              "favourites": 0, 
+                                                                                              "follower": true, 
+                                                                                              "id": 458114394774204416, 
+                                                                                              "reply": true, 
+                                                                                              "timestamp": "Mon Apr 21 05:25:57 +0000 2014", 
+                                                                                              "tree_size": 10, 
+                                                                                              "tweet": "Why have private property rights at all if the feds can own whatever land they want? @sayaoak @Support_Defend @Fore_Warned @Norsu2\n", 
+                                                                                              "uid": 386331159, 
+                                                                                              "user": 7, 
+                                                                                              "user_score": 0.8979457248567797, 
+                                                                                              "users": {
+                                                                                                "0": 1, 
+                                                                                                "3": 3, 
+                                                                                                "7": 6
+                                                                                              }
+                                                                                            }
+                                                                                          ], 
+                                                                                          "entropy_score": 2.910080008703411, 
+                                                                                          "favourites": 0, 
+                                                                                          "follower": false, 
+                                                                                          "id": 458113150923972608, 
+                                                                                          "reply": true, 
+                                                                                          "timestamp": "Mon Apr 21 05:21:01 +0000 2014", 
+                                                                                          "tree_size": 13, 
+                                                                                          "tweet": "@Support_Defend @TiredOfTyranny @Fore_Warned @Norsu2 \\nthere s nada in Conts forbidding fed gov owning property-\\nY don't u take it to ct???\n", 
+                                                                                          "uid": 734313128, 
+                                                                                          "user": 3, 
+                                                                                          "user_score": 1.0905994737794786, 
+                                                                                          "users": {
+                                                                                            "0": 1, 
+                                                                                            "3": 4, 
+                                                                                            "5": 1, 
+                                                                                            "7": 7
+                                                                                          }
+                                                                                        }
+                                                                                      ], 
+                                                                                      "entropy_score": 2.910080008703411, 
+                                                                                      "favourites": 0, 
+                                                                                      "follower": false, 
+                                                                                      "id": 458112465960587264, 
+                                                                                      "reply": true, 
+                                                                                      "timestamp": "Mon Apr 21 05:18:17 +0000 2014", 
+                                                                                      "tree_size": 14, 
+                                                                                      "tweet": "@sayaoak @TiredOfTyranny @Fore_Warned @Norsu2 Obviously in this string it's novel only to you @sayaoak. Please study Federalist Papers\n", 
+                                                                                      "uid": 379135492, 
+                                                                                      "user": 5, 
+                                                                                      "user_score": 1.1709971261162124, 
+                                                                                      "users": {
+                                                                                        "0": 1, 
+                                                                                        "3": 4, 
+                                                                                        "5": 2, 
+                                                                                        "7": 7
+                                                                                      }
+                                                                                    }, 
+                                                                                    {
+                                                                                      "children": [
+                                                                                        {
+                                                                                          "entropy_score": 0.0, 
+                                                                                          "favourites": 0, 
+                                                                                          "follower": false, 
+                                                                                          "id": 458114243624058880, 
+                                                                                          "reply": false, 
+                                                                                          "timestamp": "Mon Apr 21 05:25:21 +0000 2014", 
+                                                                                          "tree_size": 1, 
+                                                                                          "tweet": "RT @TiredOfTyranny: Federalism got destroyed in the 1930's when FDR and SC decided 10th amend did not limit feds. @sayaoak @Support_Defend \u2026\n", 
+                                                                                          "uid": 527276621, 
+                                                                                          "user": 12, 
+                                                                                          "user_score": 0.0, 
+                                                                                          "users": {
+                                                                                            "12": 1
+                                                                                          }
+                                                                                        }
+                                                                                      ], 
+                                                                                      "entropy_score": 0.0, 
+                                                                                      "favourites": 1, 
+                                                                                      "follower": true, 
+                                                                                      "id": 458112818667986944, 
+                                                                                      "reply": true, 
+                                                                                      "timestamp": "Mon Apr 21 05:19:41 +0000 2014", 
+                                                                                      "tree_size": 2, 
+                                                                                      "tweet": "Federalism got destroyed in the 1930's when FDR and SC decided 10th amend did not limit feds. @sayaoak @Support_Defend @Fore_Warned @Norsu2\n", 
+                                                                                      "uid": 386331159, 
+                                                                                      "user": 7, 
+                                                                                      "user_score": 0.6931471805599453, 
+                                                                                      "users": {
+                                                                                        "12": 1, 
+                                                                                        "7": 1
+                                                                                      }
+                                                                                    }, 
+                                                                                    {
+                                                                                      "entropy_score": 0.0, 
+                                                                                      "favourites": 0, 
+                                                                                      "follower": true, 
+                                                                                      "id": 458113071014100992, 
+                                                                                      "reply": true, 
+                                                                                      "timestamp": "Mon Apr 21 05:20:42 +0000 2014", 
+                                                                                      "tree_size": 1, 
+                                                                                      "tweet": "It's not a novel idea it's that we have a fed govt and courts that trample the Constitution. @sayaoak @Support_Defend @Fore_Warned @Norsu2\n", 
+                                                                                      "uid": 386331159, 
+                                                                                      "user": 7, 
+                                                                                      "user_score": 0.0, 
+                                                                                      "users": {
+                                                                                        "7": 1
+                                                                                      }
+                                                                                    }
+                                                                                  ], 
+                                                                                  "entropy_score": 3.546237824029551, 
+                                                                                  "favourites": 0, 
+                                                                                  "follower": true, 
+                                                                                  "id": 458111952602923008, 
+                                                                                  "reply": true, 
+                                                                                  "timestamp": "Mon Apr 21 05:16:15 +0000 2014", 
+                                                                                  "tree_size": 18, 
+                                                                                  "tweet": "@TiredOfTyranny @Support_Defend @Fore_Warned @Norsu2 Joe, why do you think nobody has advanced such a novel view of Constitution in Fed Ct?\n", 
+                                                                                  "uid": 734313128, 
+                                                                                  "user": 3, 
+                                                                                  "user_score": 1.2676770290452555, 
+                                                                                  "users": {
+                                                                                    "0": 1, 
+                                                                                    "12": 1, 
+                                                                                    "3": 5, 
+                                                                                    "5": 2, 
+                                                                                    "7": 9
+                                                                                  }
+                                                                                }, 
+                                                                                {
+                                                                                  "entropy_score": 0.0, 
+                                                                                  "favourites": 0, 
+                                                                                  "follower": true, 
+                                                                                  "id": 458112428216037376, 
+                                                                                  "reply": true, 
+                                                                                  "timestamp": "Mon Apr 21 05:18:08 +0000 2014", 
+                                                                                  "tree_size": 1, 
+                                                                                  "tweet": "@TiredOfTyranny @Support_Defend @Fore_Warned @Norsu2 That doesn't say Fed Gov cant own property. It does and always has-always will\n", 
+                                                                                  "uid": 734313128, 
+                                                                                  "user": 3, 
+                                                                                  "user_score": 0.0, 
+                                                                                  "users": {
+                                                                                    "3": 1
+                                                                                  }
+                                                                                }, 
+                                                                                {
+                                                                                  "entropy_score": 0.0, 
+                                                                                  "favourites": 0, 
+                                                                                  "follower": true, 
+                                                                                  "id": 458114120517050368, 
+                                                                                  "reply": false, 
+                                                                                  "timestamp": "Mon Apr 21 05:24:52 +0000 2014", 
+                                                                                  "tree_size": 1, 
+                                                                                  "tweet": "RT @TiredOfTyranny: Fed govt is to be limited by Const.Any powers it doesn't specifiacally give2fed is2go2states. @sayaoak @Support_Defend \u2026\n", 
+                                                                                  "uid": 503198165, 
+                                                                                  "user": 11, 
+                                                                                  "user_score": 0.0, 
+                                                                                  "users": {
+                                                                                    "11": 1
+                                                                                  }
+                                                                                }
+                                                                              ], 
+                                                                              "entropy_score": 4.170004848080361, 
+                                                                              "favourites": 1, 
+                                                                              "follower": true, 
+                                                                              "id": 458111368105713664, 
+                                                                              "reply": true, 
+                                                                              "timestamp": "Mon Apr 21 05:13:56 +0000 2014", 
+                                                                              "tree_size": 22, 
+                                                                              "tweet": "Fed govt is to be limited by Const.Any powers it doesn't specifiacally give2fed is2go2states. @sayaoak @Support_Defend @Fore_Warned @Norsu2\n", 
+                                                                              "uid": 386331159, 
+                                                                              "user": 7, 
+                                                                              "user_score": 1.4059404255713561, 
+                                                                              "users": {
+                                                                                "0": 1, 
+                                                                                "11": 1, 
+                                                                                "12": 1, 
+                                                                                "3": 6, 
+                                                                                "5": 3, 
+                                                                                "7": 10
+                                                                              }
+                                                                            }
+                                                                          ], 
+                                                                          "entropy_score": 4.170004848080361, 
+                                                                          "favourites": 0, 
+                                                                          "follower": true, 
+                                                                          "id": 458110560198868993, 
+                                                                          "reply": true, 
+                                                                          "timestamp": "Mon Apr 21 05:10:43 +0000 2014", 
+                                                                          "tree_size": 23, 
+                                                                          "tweet": "@TiredOfTyranny @Support_Defend @Fore_Warned @Norsu2 have no idea why Congress did that-I find it unremarkable; assume it was legal transfer\n", 
+                                                                          "uid": 734313128, 
+                                                                          "user": 3, 
+                                                                          "user_score": 1.398839483784281, 
+                                                                          "users": {
+                                                                            "0": 1, 
+                                                                            "11": 1, 
+                                                                            "12": 1, 
+                                                                            "3": 7, 
+                                                                            "5": 3, 
+                                                                            "7": 10
+                                                                          }
+                                                                        }
+                                                                      ], 
+                                                                      "entropy_score": 4.170004848080361, 
+                                                                      "favourites": 1, 
+                                                                      "follower": true, 
+                                                                      "id": 458108898000392192, 
+                                                                      "reply": true, 
+                                                                      "timestamp": "Mon Apr 21 05:04:07 +0000 2014", 
+                                                                      "tree_size": 24, 
+                                                                      "tweet": "Why did feds give up land in Eastern states if it's Constitutional for them to keep it? @sayaoak @Support_Defend @Fore_Warned @Norsu2\n", 
+                                                                      "uid": 386331159, 
+                                                                      "user": 7, 
+                                                                      "user_score": 1.3741348340907122, 
+                                                                      "users": {
+                                                                        "0": 1, 
+                                                                        "11": 1, 
+                                                                        "12": 1, 
+                                                                        "3": 7, 
+                                                                        "5": 3, 
+                                                                        "7": 11
+                                                                      }
+                                                                    }
+                                                                  ], 
+                                                                  "entropy_score": 4.170004848080361, 
+                                                                  "favourites": 0, 
+                                                                  "follower": true, 
+                                                                  "id": 458107800913051649, 
+                                                                  "reply": true, 
+                                                                  "timestamp": "Mon Apr 21 04:59:45 +0000 2014", 
+                                                                  "tree_size": 25, 
+                                                                  "tweet": "@TiredOfTyranny @Support_Defend @Fore_Warned @Norsu2 The presumption is that laws are constitutional till proven/ruled otherwise\n", 
+                                                                  "uid": 734313128, 
+                                                                  "user": 3, 
+                                                                  "user_score": 1.366547136859197, 
+                                                                  "users": {
+                                                                    "0": 1, 
+                                                                    "11": 1, 
+                                                                    "12": 1, 
+                                                                    "3": 8, 
+                                                                    "5": 3, 
+                                                                    "7": 11
+                                                                  }
+                                                                }
+                                                              ], 
+                                                              "entropy_score": 4.170004848080361, 
+                                                              "favourites": 0, 
+                                                              "follower": true, 
+                                                              "id": 458106411642142720, 
+                                                              "reply": true, 
+                                                              "timestamp": "Mon Apr 21 04:54:14 +0000 2014", 
+                                                              "tree_size": 26, 
+                                                              "tweet": "Let me flip it on you. Where does Const say feds can own more than 50% of land out west? @sayaoak @Support_Defend @Fore_Warned @Norsu2\n", 
+                                                              "uid": 386331159, 
+                                                              "user": 7, 
+                                                              "user_score": 1.344625422756135, 
+                                                              "users": {
+                                                                "0": 1, 
+                                                                "11": 1, 
+                                                                "12": 1, 
+                                                                "3": 8, 
+                                                                "5": 3, 
+                                                                "7": 12
+                                                              }
+                                                            }, 
+                                                            {
+                                                              "children": [
+                                                                {
+                                                                  "children": [
+                                                                    {
+                                                                      "entropy_score": 0.0, 
+                                                                      "favourites": 0, 
+                                                                      "follower": true, 
+                                                                      "id": 458109190829928449, 
+                                                                      "reply": true, 
+                                                                      "timestamp": "Mon Apr 21 05:05:17 +0000 2014", 
+                                                                      "tree_size": 1, 
+                                                                      "tweet": "It a use issue. Ports and mil bases for example. What business do feds have w/ grazing land? @sayaoak @Support_Defend @Fore_Warned @Norsu2\n", 
+                                                                      "uid": 386331159, 
+                                                                      "user": 7, 
+                                                                      "user_score": 0.0, 
+                                                                      "users": {
+                                                                        "7": 1
+                                                                      }
+                                                                    }, 
+                                                                    {
+                                                                      "children": [
+                                                                        {
+                                                                          "children": [
+                                                                            {
+                                                                              "children": [
+                                                                                {
+                                                                                  "children": [
+                                                                                    {
+                                                                                      "children": [
+                                                                                        {
+                                                                                          "entropy_score": 0.0, 
+                                                                                          "favourites": 0, 
+                                                                                          "follower": false, 
+                                                                                          "id": 458116258412523520, 
+                                                                                          "reply": true, 
+                                                                                          "timestamp": "Mon Apr 21 05:33:22 +0000 2014", 
+                                                                                          "tree_size": 1, 
+                                                                                          "tweet": "@Support_Defend @TiredOfTyranny @Fore_Warned @Norsu2 \\nU r awfully condescending; I wont respond n kind. But SCOTUS repudiated your theories\n", 
+                                                                                          "uid": 734313128, 
+                                                                                          "user": 3, 
+                                                                                          "user_score": 0.0, 
+                                                                                          "users": {
+                                                                                            "3": 1
+                                                                                          }
+                                                                                        }
+                                                                                      ], 
+                                                                                      "entropy_score": 0.0, 
+                                                                                      "favourites": 0, 
+                                                                                      "follower": false, 
+                                                                                      "id": 458115295849086976, 
+                                                                                      "reply": true, 
+                                                                                      "timestamp": "Mon Apr 21 05:29:32 +0000 2014", 
+                                                                                      "tree_size": 2, 
+                                                                                      "tweet": "@sayaoak @TiredOfTyranny @Fore_Warned @Norsu2 That's too bad. You were so close. I was so hopeful for you.\n", 
+                                                                                      "uid": 379135492, 
+                                                                                      "user": 5, 
+                                                                                      "user_score": 0.6931471805599453, 
+                                                                                      "users": {
+                                                                                        "3": 1, 
+                                                                                        "5": 1
+                                                                                      }
+                                                                                    }
+                                                                                  ], 
+                                                                                  "entropy_score": 0.0, 
+                                                                                  "favourites": 0, 
+                                                                                  "follower": false, 
+                                                                                  "id": 458114155736621056, 
+                                                                                  "reply": true, 
+                                                                                  "timestamp": "Mon Apr 21 05:25:00 +0000 2014", 
+                                                                                  "tree_size": 3, 
+                                                                                  "tweet": "@Support_Defend @TiredOfTyranny @Fore_Warned @Norsu2 LOL I see where you are going, &amp; I'm reluctant to  characterize it\n", 
+                                                                                  "uid": 734313128, 
+                                                                                  "user": 3, 
+                                                                                  "user_score": 0.6365141682948128, 
+                                                                                  "users": {
+                                                                                    "3": 2, 
+                                                                                    "5": 1
+                                                                                  }
+                                                                                }
+                                                                              ], 
+                                                                              "entropy_score": 0.0, 
+                                                                              "favourites": 0, 
+                                                                              "follower": false, 
+                                                                              "id": 458112768281812992, 
+                                                                              "reply": true, 
+                                                                              "timestamp": "Mon Apr 21 05:19:29 +0000 2014", 
+                                                                              "tree_size": 4, 
+                                                                              "tweet": "@sayaoak @TiredOfTyranny @Fore_Warned @Norsu2 EXACTLY! Now you're catching on. Keep it up. Work thru it.\n", 
+                                                                              "uid": 379135492, 
+                                                                              "user": 5, 
+                                                                              "user_score": 0.6931471805599453, 
+                                                                              "users": {
+                                                                                "3": 2, 
+                                                                                "5": 2
+                                                                              }
+                                                                            }
+                                                                          ], 
+                                                                          "entropy_score": 0.0, 
+                                                                          "favourites": 0, 
+                                                                          "follower": false, 
+                                                                          "id": 458111422044467200, 
+                                                                          "reply": true, 
+                                                                          "timestamp": "Mon Apr 21 05:14:08 +0000 2014", 
+                                                                          "tree_size": 5, 
+                                                                          "tweet": "@Support_Defend @TiredOfTyranny @Fore_Warned @Norsu2 RU \\n serious?? \"Not there, not authorized\"?  Theres not many things espressly permitted\n", 
+                                                                          "uid": 734313128, 
+                                                                          "user": 3, 
+                                                                          "user_score": 0.6730116670092565, 
+                                                                          "users": {
+                                                                            "3": 3, 
+                                                                            "5": 2
+                                                                          }
+                                                                        }
+                                                                      ], 
+                                                                      "entropy_score": 0.0, 
+                                                                      "favourites": 0, 
+                                                                      "follower": false, 
+                                                                      "id": 458110318380449792, 
+                                                                      "reply": true, 
+                                                                      "timestamp": "Mon Apr 21 05:09:45 +0000 2014", 
+                                                                      "tree_size": 6, 
+                                                                      "tweet": "@sayaoak @TiredOfTyranny @Fore_Warned @Norsu2 Come on @sayaoak you seem to be intelligent person. \"Nothing\" IS the limit,not there=not auth.\n", 
+                                                                      "uid": 379135492, 
+                                                                      "user": 5, 
+                                                                      "user_score": 0.6931471805599453, 
+                                                                      "users": {
+                                                                        "3": 3, 
+                                                                        "5": 3
+                                                                      }
+                                                                    }
+                                                                  ], 
+                                                                  "entropy_score": 0.45112795011724993, 
+                                                                  "favourites": 0, 
+                                                                  "follower": true, 
+                                                                  "id": 458108484597194753, 
+                                                                  "reply": true, 
+                                                                  "timestamp": "Mon Apr 21 05:02:28 +0000 2014", 
+                                                                  "tree_size": 8, 
+                                                                  "tweet": "@TiredOfTyranny @Support_Defend @Fore_Warned @Norsu2 There's nothing in Constitution limiting fed gov to owning a set %  of land\n", 
+                                                                  "uid": 734313128, 
+                                                                  "user": 3, 
+                                                                  "user_score": 0.9743147528693494, 
+                                                                  "users": {
+                                                                    "3": 4, 
+                                                                    "5": 3, 
+                                                                    "7": 1
+                                                                  }
+                                                                }
+                                                              ], 
+                                                              "entropy_score": 0.45112795011724993, 
+                                                              "favourites": 0, 
+                                                              "follower": true, 
+                                                              "id": 458106482412621824, 
+                                                              "reply": true, 
+                                                              "timestamp": "Mon Apr 21 04:54:31 +0000 2014", 
+                                                              "tree_size": 9, 
+                                                              "tweet": "Or in any state for that matter? @sayaoak @Support_Defend @Fore_Warned @Norsu2\n", 
+                                                              "uid": 386331159, 
+                                                              "user": 7, 
+                                                              "user_score": 1.0608569471580214, 
+                                                              "users": {
+                                                                "3": 4, 
+                                                                "5": 3, 
+                                                                "7": 2
+                                                              }
+                                                            }
+                                                          ], 
+                                                          "entropy_score": 5.248184685749024, 
+                                                          "favourites": 0, 
+                                                          "follower": true, 
+                                                          "id": 458104399424790529, 
+                                                          "reply": true, 
+                                                          "timestamp": "Mon Apr 21 04:46:14 +0000 2014", 
+                                                          "tree_size": 36, 
+                                                          "tweet": "@TiredOfTyranny @Support_Defend @Fore_Warned @Norsu2 \\nHow'sit not constitutional? where does constitution dictate specific %\\nlimit owned?\n", 
+                                                          "uid": 734313128, 
+                                                          "user": 3, 
+                                                          "user_score": 1.3323605752066117, 
+                                                          "users": {
+                                                            "0": 1, 
+                                                            "11": 1, 
+                                                            "12": 1, 
+                                                            "3": 13, 
+                                                            "5": 6, 
+                                                            "7": 14
+                                                          }
+                                                        }
+                                                      ], 
+                                                      "entropy_score": 5.515125515056944, 
+                                                      "favourites": 2, 
+                                                      "follower": true, 
+                                                      "id": 458101680291061760, 
+                                                      "reply": true, 
+                                                      "timestamp": "Mon Apr 21 04:35:26 +0000 2014", 
+                                                      "tree_size": 39, 
+                                                      "tweet": "Which have to be Constitutional! How is the feds owning more than 50% of western land Const? @sayaoak @Support_Defend @Fore_Warned @Norsu2\n", 
+                                                      "uid": 386331159, 
+                                                      "user": 7, 
+                                                      "user_score": 1.3404686462072921, 
+                                                      "users": {
+                                                        "0": 1, 
+                                                        "11": 1, 
+                                                        "12": 1, 
+                                                        "3": 13, 
+                                                        "5": 8, 
+                                                        "7": 15
+                                                      }
+                                                    }
+                                                  ], 
+                                                  "entropy_score": 5.515125515056944, 
+                                                  "favourites": 0, 
+                                                  "follower": true, 
+                                                  "id": 458101192531263488, 
+                                                  "reply": true, 
+                                                  "timestamp": "Mon Apr 21 04:33:30 +0000 2014", 
+                                                  "tree_size": 40, 
+                                                  "tweet": "@TiredOfTyranny @Support_Defend @Fore_Warned @Norsu2 That's not law-that's constitutional framework; laws &amp; statutes r the details\n", 
+                                                  "uid": 734313128, 
+                                                  "user": 3, 
+                                                  "user_score": 1.3338022549992998, 
+                                                  "users": {
+                                                    "0": 1, 
+                                                    "11": 1, 
+                                                    "12": 1, 
+                                                    "3": 14, 
+                                                    "5": 8, 
+                                                    "7": 15
+                                                  }
+                                                }, 
+                                                {
+                                                  "entropy_score": 0.0, 
+                                                  "favourites": 0, 
+                                                  "follower": true, 
+                                                  "id": 458105223299354624, 
+                                                  "reply": false, 
+                                                  "timestamp": "Mon Apr 21 04:49:31 +0000 2014", 
+                                                  "tree_size": 1, 
+                                                  "tweet": "RT @TiredOfTyranny: I can cite Article 1 sec 8 which says lands the feds are allowed to have. Mil base ports etc, @sayaoak @Support_Defend \u2026\n", 
+                                                  "uid": 1400503214, 
+                                                  "user": 10, 
+                                                  "user_score": 0.0, 
+                                                  "users": {
+                                                    "10": 1
+                                                  }
+                                                }, 
+                                                {
+                                                  "entropy_score": 0.0, 
+                                                  "favourites": 0, 
+                                                  "follower": false, 
+                                                  "id": 458112233076060160, 
+                                                  "reply": false, 
+                                                  "timestamp": "Mon Apr 21 05:17:22 +0000 2014", 
+                                                  "tree_size": 1, 
+                                                  "tweet": "RT @TiredOfTyranny: I can cite Article 1 sec 8 which says lands the feds are allowed to have. Mil base ports etc, @sayaoak @Support_Defend \u2026\n", 
+                                                  "uid": 105226269, 
+                                                  "user": 9, 
+                                                  "user_score": 0.0, 
+                                                  "users": {
+                                                    "9": 1
+                                                  }
+                                                }, 
+                                                {
+                                                  "entropy_score": 0.0, 
+                                                  "favourites": 0, 
+                                                  "follower": false, 
+                                                  "id": 458112378937155584, 
+                                                  "reply": true, 
+                                                  "timestamp": "Mon Apr 21 05:17:57 +0000 2014", 
+                                                  "tree_size": 1, 
+                                                  "tweet": "@TiredOfTyranny @MathewsJeanne @sayaoak @Support_Defend @Fore_Warned @Norsu2 RT over &amp;OVER!! http://t.co/JBNEJCI7Fq &amp; http://t.co/6KBHtNDaes\n", 
+                                                  "uid": 105226269, 
+                                                  "user": 9, 
+                                                  "user_score": 0.0, 
+                                                  "users": {
+                                                    "9": 1
+                                                  }
+                                                }
+                                              ], 
+                                              "entropy_score": 5.9888546582530955, 
+                                              "favourites": 3, 
+                                              "follower": true, 
+                                              "id": 458099675359244288, 
+                                              "reply": true, 
+                                              "timestamp": "Mon Apr 21 04:27:28 +0000 2014", 
+                                              "tree_size": 45, 
+                                              "tweet": "I can cite Article 1 sec 8 which says lands the feds are allowed to have. Mil base ports etc, @sayaoak @Support_Defend @Fore_Warned @Norsu2\n", 
+                                              "uid": 386331159, 
+                                              "user": 7, 
+                                              "user_score": 1.5993280705479038, 
+                                              "users": {
+                                                "0": 1, 
+                                                "10": 1, 
+                                                "11": 1, 
+                                                "12": 1, 
+                                                "13": 1, 
+                                                "3": 14, 
+                                                "5": 8, 
+                                                "7": 16, 
+                                                "9": 2
+                                              }
+                                            }, 
+                                            {
+                                              "children": [
+                                                {
+                                                  "entropy_score": 0.0, 
+                                                  "favourites": 0, 
+                                                  "follower": false, 
+                                                  "id": 458100382032334848, 
+                                                  "reply": false, 
+                                                  "timestamp": "Mon Apr 21 04:30:16 +0000 2014", 
+                                                  "tree_size": 1, 
+                                                  "tweet": "RT @TiredOfTyranny: The feds must be made to turn over most of the land they now own! #Unconstitutional  @sayaoak @Support_Defend @Fore_War\u2026", 
+                                                  "uid": 86643035, 
+                                                  "user": 8, 
+                                                  "user_score": 0.0, 
+                                                  "users": {
+                                                    "8": 1
+                                                  }
+                                                }
+                                              ], 
+                                              "entropy_score": 0.0, 
+                                              "favourites": 1, 
+                                              "follower": true, 
+                                              "id": 458100122337828864, 
+                                              "reply": true, 
+                                              "timestamp": "Mon Apr 21 04:29:14 +0000 2014", 
+                                              "tree_size": 2, 
+                                              "tweet": "The feds must be made to turn over most of the land they now own! #Unconstitutional  @sayaoak @Support_Defend @Fore_Warned @Norsu2", 
+                                              "uid": 386331159, 
+                                              "user": 7, 
+                                              "user_score": 0.6931471805599453, 
+                                              "users": {
+                                                "7": 1, 
+                                                "8": 1
+                                              }
+                                            }
+                                          ], 
+                                          "entropy_score": 6.182427295860486, 
+                                          "favourites": 0, 
+                                          "follower": false, 
+                                          "id": 458098678301863937, 
+                                          "reply": true, 
+                                          "timestamp": "Mon Apr 21 04:23:30 +0000 2014", 
+                                          "tree_size": 48, 
+                                          "tweet": "@Support_Defend @TiredOfTyranny @Fore_Warned @Norsu2  can you cite a statute or Ct ruling that says BLM cant remove trespasser &amp; belongings\n", 
+                                          "uid": 734313128, 
+                                          "user": 3, 
+                                          "user_score": 1.6460508742402369, 
+                                          "users": {
+                                            "0": 1, 
+                                            "10": 1, 
+                                            "11": 1, 
+                                            "12": 1, 
+                                            "13": 1, 
+                                            "3": 15, 
+                                            "5": 8, 
+                                            "7": 17, 
+                                            "8": 1, 
+                                            "9": 2
+                                          }
+                                        }
+                                      ], 
+                                      "entropy_score": 6.428517179532903, 
+                                      "favourites": 0, 
+                                      "follower": false, 
+                                      "id": 458092922047438848, 
+                                      "reply": true, 
+                                      "timestamp": "Mon Apr 21 04:00:38 +0000 2014", 
+                                      "tree_size": 52, 
+                                      "tweet": "@sayaoak @TiredOfTyranny @Fore_Warned @Norsu2 BLM had no authority to \"remove\" cows as they did.\n", 
+                                      "uid": 379135492, 
+                                      "user": 5, 
+                                      "user_score": 1.6292937380242791, 
+                                      "users": {
+                                        "0": 1, 
+                                        "10": 1, 
+                                        "11": 1, 
+                                        "12": 1, 
+                                        "13": 1, 
+                                        "3": 17, 
+                                        "5": 10, 
+                                        "7": 17, 
+                                        "8": 1, 
+                                        "9": 2
+                                      }
+                                    }
+                                  ], 
+                                  "entropy_score": 8.8467201181304, 
+                                  "favourites": 0, 
+                                  "follower": true, 
+                                  "id": 458088135469973504, 
+                                  "important_entropy": true, 
+                                  "reply": true, 
+                                  "timestamp": "Mon Apr 21 03:41:37 +0000 2014", 
+                                  "tree_size": 68, 
+                                  "tweet": "@TiredOfTyranny @Fore_Warned @Support_Defend @Norsu2 Liens a partial remedy 2 EVENTUALLY get $ but doesn't get cows off land per Judge order\n", 
+                                  "uid": 734313128, 
+                                  "user": 3, 
+                                  "user_score": 1.5771547087913445, 
+                                  "users": {
+                                    "0": 1, 
+                                    "10": 1, 
+                                    "11": 1, 
+                                    "12": 1, 
+                                    "13": 1, 
+                                    "2": 1, 
+                                    "3": 22, 
+                                    "5": 12, 
+                                    "7": 25, 
+                                    "8": 1, 
+                                    "9": 2
+                                  }
+                                }
+                              ], 
+                              "entropy_score": 8.8467201181304, 
+                              "favourites": 0, 
+                              "follower": true, 
+                              "id": 458087247770685440, 
+                              "reply": true, 
+                              "timestamp": "Mon Apr 21 03:38:05 +0000 2014", 
+                              "tree_size": 69, 
+                              "tweet": "If #BLM would've put a lien on property would have won but they lost due to excessive force! @sayaoak @Fore_Warned @Support_Defend @Norsu2", 
+                              "uid": 386331159, 
+                              "user": 7, 
+                              "user_score": 1.5686192854520802, 
+                              "users": {
+                                "0": 1, 
+                                "10": 1, 
+                                "11": 1, 
+                                "12": 1, 
+                                "13": 1, 
+                                "2": 1, 
+                                "3": 22, 
+                                "5": 12, 
+                                "7": 26, 
+                                "8": 1, 
+                                "9": 2
+                              }
+                            }
+                          ], 
+                          "entropy_score": 11.209619649163319, 
+                          "favourites": 0, 
+                          "follower": true, 
+                          "id": 458084990253678592, 
+                          "important_entropy": true, 
+                          "reply": true, 
+                          "timestamp": "Mon Apr 21 03:29:07 +0000 2014", 
+                          "tree_size": 92, 
+                          "tweet": "@Fore_Warned @Support_Defend @Norsu2 Bundy=freeloader &amp; a kook\\nFed Judges know more than U EVER will about constitution-Land is Fed-NOT NV\n", 
+                          "uid": 734313128, 
+                          "user": 3, 
+                          "user_score": 1.6621085168552885, 
+                          "users": {
+                            "0": 1, 
+                            "10": 1, 
+                            "11": 1, 
+                            "12": 1, 
+                            "13": 1, 
+                            "14": 1, 
+                            "15": 1, 
+                            "2": 5, 
+                            "3": 29, 
+                            "5": 15, 
+                            "7": 33, 
+                            "8": 1, 
+                            "9": 2
+                          }
+                        }
+                      ], 
+                      "entropy_score": 11.209619649163319, 
+                      "favourites": 0, 
+                      "follower": true, 
+                      "id": 458082966707507200, 
+                      "important_users": true, 
+                      "reply": true, 
+                      "timestamp": "Mon Apr 21 03:21:04 +0000 2014", 
+                      "tree_size": 93, 
+                      "tweet": "@sayaoak @Support_Defend @Norsu2 Study it and remove any politics from it...Bundy is right.\n", 
+                      "uid": 603037450, 
+                      "user": 2, 
+                      "user_score": 1.6746002158304285, 
+                      "users": {
+                        "0": 1, 
+                        "10": 1, 
+                        "11": 1, 
+                        "12": 1, 
+                        "13": 1, 
+                        "14": 1, 
+                        "15": 1, 
+                        "2": 6, 
+                        "3": 29, 
+                        "5": 15, 
+                        "7": 33, 
+                        "8": 1, 
+                        "9": 2
+                      }
+                    }
+                  ], 
+                  "entropy_score": 11.274425525090342, 
+                  "favourites": 0, 
+                  "follower": true, 
+                  "id": 458082502289027072, 
+                  "important_users": true, 
+                  "reply": true, 
+                  "timestamp": "Mon Apr 21 03:19:13 +0000 2014", 
+                  "tree_size": 95, 
+                  "tweet": "@Fore_Warned @Support_Defend @Norsu2 LOL\\n2 different learned fed judges who know it better than U disagree w U \\nREAD http://t.co/XuJUnUhC5S\n", 
+                  "uid": 734313128, 
+                  "user": 3, 
+                  "user_score": 1.6705196104365065, 
+                  "users": {
+                    "0": 1, 
+                    "10": 1, 
+                    "11": 1, 
+                    "12": 1, 
+                    "13": 1, 
+                    "14": 1, 
+                    "15": 1, 
+                    "2": 6, 
+                    "3": 30, 
+                    "5": 16, 
+                    "7": 33, 
+                    "8": 1, 
+                    "9": 2
+                  }
+                }
+              ], 
+              "entropy_score": 11.33812379432729, 
+              "favourites": 1, 
+              "follower": true, 
+              "id": 458079975115980801, 
+              "important_users": true, 
+              "reply": true, 
+              "timestamp": "Mon Apr 21 03:09:11 +0000 2014", 
+              "tree_size": 97, 
+              "tweet": "@sayaoak @Support_Defend @Norsu2 The Law Of the United States Of America is The Constitution Of The United States Of America...study it\n", 
+              "uid": 603037450, 
+              "user": 2, 
+              "user_score": 1.6820000173516165, 
+              "users": {
+                "0": 1, 
+                "10": 1, 
+                "11": 1, 
+                "12": 1, 
+                "13": 1, 
+                "14": 1, 
+                "15": 1, 
+                "2": 7, 
+                "3": 30, 
+                "5": 17, 
+                "7": 33, 
+                "8": 1, 
+                "9": 2
+              }
+            }
+          ], 
+          "entropy_score": 13.904725853196744, 
+          "favourites": 0, 
+          "follower": false, 
+          "id": 458079114130239488, 
+          "important_entropy": true, 
+          "reply": true, 
+          "timestamp": "Mon Apr 21 03:05:46 +0000 2014", 
+          "tree_size": 108, 
+          "tweet": "@Support_Defend @Fore_Warned @Norsu2 Yes! *If* they obey *all* the laws of the United States of America-whether they agree w law or not.\n", 
+          "uid": 734313128, 
+          "user": 3, 
+          "user_score": 1.6685442610034833, 
+          "users": {
+            "0": 1, 
+            "10": 1, 
+            "11": 1, 
+            "12": 1, 
+            "13": 1, 
+            "14": 1, 
+            "15": 1, 
+            "2": 9, 
+            "3": 36, 
+            "5": 20, 
+            "7": 33, 
+            "8": 1, 
+            "9": 2
+          }
+        }
+      ], 
+      "entropy_score": 14.221894027311487, 
+      "favourites": 12, 
+      "follower": false, 
+      "id": 458075445699702784, 
+      "important_users": true, 
+      "reply": true, 
+      "timestamp": "Mon Apr 21 02:51:11 +0000 2014", 
+      "tree_size": 115, 
+      "tweet": "Just gotta love an American Patriot Cowboy! MRT \"@Norsu2: God Bless America #tcot http://t.co/zTTPe4Klq8\u201d", 
+      "uid": 379135492, 
+      "user": 5, 
+      "user_score": 1.7870407575058702, 
+      "users": {
+        "0": 1, 
+        "10": 1, 
+        "11": 1, 
+        "12": 1, 
+        "13": 1, 
+        "14": 1, 
+        "15": 1, 
+        "16": 1, 
+        "17": 1, 
+        "2": 11, 
+        "3": 36, 
+        "5": 22, 
+        "6": 1, 
+        "7": 33, 
+        "8": 1, 
+        "9": 2
+      }
+    }
+  ], 
+  "entropy_score": 14.769489029031703, 
+  "favourites": 24, 
+  "id": 458067863296036864, 
+  "important_users": true, 
+  "reply": false, 
+  "timestamp": "Mon Apr 21 02:21:03 +0000 2014", 
+  "total_tweets": 128, 
+  "total_users": 26, 
+  "tree_size": 128, 
+  "tweet": "God Bless America #tcot http://t.co/o7Rmc8b89a", 
+  "uid": 149315713, 
+  "user": 0, 
+  "user_score": 2.120912179624237, 
+  "users": {
+    "0": 2, 
+    "1": 1, 
+    "10": 1, 
+    "11": 1, 
+    "12": 1, 
+    "13": 1, 
+    "14": 1, 
+    "15": 1, 
+    "16": 1, 
+    "17": 1, 
+    "18": 1, 
+    "19": 1, 
+    "2": 12, 
+    "20": 1, 
+    "21": 1, 
+    "22": 1, 
+    "23": 1, 
+    "24": 1, 
+    "25": 1, 
+    "3": 37, 
+    "4": 1, 
+    "5": 22, 
+    "6": 1, 
+    "7": 33, 
+    "8": 1, 
+    "9": 2
+  }
+}
