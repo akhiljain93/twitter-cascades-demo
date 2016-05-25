@@ -158,17 +158,19 @@ all_entities = sorted(all_entities, reverse = True, key = lambda x: len(x[5]))[:
 
 rep_file = open('reps/rep_' + str(cascade) + '.csv', 'w')
 rep_file.write('Topic of discussion,Representative tweet id,Another representative tweet id (if any)\n')
-for entity in all_entities:
+for entity_index in range(len(all_entities)):
+    entity = all_entities[entity_index]
     if entity[4] != entity[3]:
-        rep_file.write(entity[0] + ',' + str(entity[3]) + ',' + str(entity[4]) + '\n')
+        rep_file.write(str(entity_index) + '.' + entity[0] + ',' + str(entity[3]) + ',' + str(entity[4]) + '\n')
     else:
-        rep_file.write(entity[0] + ',' + str(entity[3]) + '\n')
+        rep_file.write(str(entity_index) + '.' + entity[0] + ',' + str(entity[3]) + '\n')
+    all_entities[entity_index][5] = list(entity[5])
 rep_file.close()
 
 scope_file = open('scope/scope_' + str(cascade) + '.csv', 'w')
 for entity in all_entities:
-    scope_file.write(entity[0])
-    for tweetid in entity[5]:
+    scope_file.write(str(entity[5][0]))
+    for tweetid in entity[5][1:]:
         scope_file.write(',' + str(tweetid))
     scope_file.write('\n')
 scope_file.close()
