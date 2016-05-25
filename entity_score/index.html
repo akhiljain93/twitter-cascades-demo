@@ -42,6 +42,7 @@ function GetURLParameter(sParam) {
             return sParameterName[1];
         }
     }
+    return undefined;
 }
 
 document.getElementById('entities').src = 'http://www.cse.iitd.ac.in/~cs5110274/entity_score/entities.html?cascade=' + GetURLParameter('cascade');
@@ -53,7 +54,35 @@ var margin = {top: 30, right: 20, bottom: 30, left: 20},
 
 var i = 0,
     duration = 400,
-    root;
+    root,
+    scope_ids;
+
+var contains = function(needle) {
+    // Per spec, the way to identify NaN is that it is not equal to itself
+    var findNaN = needle !== needle;
+    var indexOf;
+    
+    if(!findNaN && typeof Array.prototype.indexOf === 'function') {
+        indexOf = Array.prototype.indexOf;
+    } else {
+        indexOf = function(needle) {
+            var i = -1, index = -1;
+            
+            for(i = 0; i < this.length; i++) {
+                var item = this[i];
+                
+                if((findNaN && item !== item) || item === needle) {
+                    index = i;
+                    break;
+                }
+            }
+            
+            return index;
+        };
+    }
+    
+    return indexOf.call(this, needle) > -1;
+};
 
 var tree = d3.layout.tree()
     .nodeSize([0, 20]);
@@ -71,7 +100,17 @@ d3.json("../data/tree_info" + GetURLParameter('cascade') + ".json", function(err
 
   json.x0 = 0;
   json.y0 = 0;
-  update(root = json);
+  if (GetURLParameter('scope')) {
+      d3.text("scope/scope_" + GetURLParameter('cascade') + ".csv", function(data) {
+          scope_ids = d3.csv.parseRows(data)[+GetURLParameter('scope')];
+          for (var i = 0; i < scope_ids.length; i++) {
+              scope_ids[i] = +scope_ids[i]
+          }
+      });
+  }
+  setTimeout(function(){
+    update(root = json);
+  },2000);
 });
 
 function update(source) {
@@ -185,7 +224,10 @@ function click(d) {
 }
 
 function color(d) {
-  return d.id == +GetURLParameter('tweet') ? "#000000" : d._children ? "#2b2138" : d.reply ? "#249ca0" : "#f4d822";
+    if (GetURLParameter('scope')) {
+        return d.id == +GetURLParameter('tweet') ? "#000000" : scope_ids.indexOf(d.id) >= 0 ? "#2b2138" : d.reply ? "#249ca0" : "#f4d822";
+    }
+    return d.id == +GetURLParameter('tweet') ? "#000000" : d._children ? "#2b2138" : d.reply ? "#249ca0" : "#f4d822";
 }
 
 </script>

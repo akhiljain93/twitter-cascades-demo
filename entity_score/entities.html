@@ -69,7 +69,7 @@
                         .enter().append("td")
                         .html(function(d, i){
                                     if (i == 0) {
-                                        return d;
+                                        return '<a href="http://www.cse.iitd.ac.in/~cs5110274/entity_score/?cascade=' + GetURLParameter('cascade') + '&scope=' + d.split('.')[0] + '" target="_parent">' + d.split('.')[1] + '</a>';
                                     } else {
                                         return '<a href="http://www.cse.iitd.ac.in/~cs5110274/entity_score/?cascade=' + GetURLParameter('cascade') + '&tweet=' + d + '" target="_parent">' + tweetid_tweet_map[+d] + '</a>';
                                     }
