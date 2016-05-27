@@ -33,6 +33,9 @@ def visit_entropy_and_user(node):
             user_hx = value / (sum * 1.0)
             node['user_score'] -= user_hx * math.log(user_hx)
 
+def getScore(node):
+    return node['user_score'] + 5 * node['entropy_score']
+
 def parseTree(node):
     global tweet_list
     global tweetid_node_map
@@ -55,7 +58,7 @@ def findEntities(tree):
     all_entities = []
 
     # create a joint entity model list for the cascade
-    # all_entities contains [<entity name>, <entity entropy score>, <entity user score>, <max entropy_score tweet id>, <max user_score tweet id>, <tweetids containing entity>]
+    # all_entities contains [<entity name>, <max score tweet id>, <tweetids containing entity>]
     for tweet_index in range(len(tags)):
         for token_index in range(len(tags[tweet_index])):
             if tags[tweet_index][token_index][1] in entity_types:
@@ -69,11 +72,8 @@ def findEntities(tree):
                                 all_entities[entity_index][0] = removePunctuation((all_entities[entity_index][0] + ' ' + tags[tweet_index][token_index][0]).lower())
                     else:
                         this_index = [x[0] for x in all_entities].index(this_entity)
-                        all_entities[this_index][1] += tweetid_node_map[tweet_list[tweet_index]]['entropy_score']
-                        all_entities[this_index][2] += tweetid_node_map[tweet_list[tweet_index]]['user_score']
-                        all_entities[this_index][3] = all_entities[this_index][3] if tweetid_node_map[all_entities[this_index][3]]['entropy_score'] > tweetid_node_map[tweet_list[tweet_index]]['entropy_score'] else tweet_list[tweet_index]
-                        all_entities[this_index][4] = all_entities[this_index][4] if tweetid_node_map[all_entities[this_index][4]]['user_score'] > tweetid_node_map[tweet_list[tweet_index]]['user_score'] else tweet_list[tweet_index]
-                        all_entities[this_index][5] = all_entities[this_index][5].union(set([tweet_list[tweet_index]]))
+                        all_entities[this_index][1] = all_entities[this_index][1] if getScore(tweetid_node_map[all_entities[this_index][1]]) > getScore(tweetid_node_map[tweet_list[tweet_index]]) else tweet_list[tweet_index]
+                        all_entities[this_index][2] = all_entities[this_index][2].union(set([tweet_list[tweet_index]]))
                 # single entity with no neighbour
                 else:
                     present = False
@@ -81,16 +81,13 @@ def findEntities(tree):
                     for entity_index in range(len(all_entities)):
                         if removePunctuation(tags[tweet_index][token_index][0].lower()) in all_entities[entity_index][0].split(' '):
                             present = True
-                            all_entities[entity_index][1] += tweetid_node_map[tweet_list[tweet_index]]['entropy_score']
-                            all_entities[entity_index][2] += tweetid_node_map[tweet_list[tweet_index]]['user_score']
-                            all_entities[entity_index][3] = all_entities[entity_index][3] if tweetid_node_map[all_entities[entity_index][3]]['entropy_score'] > tweetid_node_map[tweet_list[tweet_index]]['entropy_score'] else tweet_list[tweet_index]
-                            all_entities[entity_index][4] = all_entities[entity_index][4] if tweetid_node_map[all_entities[entity_index][4]]['user_score'] > tweetid_node_map[tweet_list[tweet_index]]['user_score'] else tweet_list[tweet_index]
-                            all_entities[entity_index][5] = all_entities[entity_index][5].union(set([tweet_list[tweet_index]]))
+                            all_entities[entity_index][1] = all_entities[entity_index][1] if getScore(tweetid_node_map[all_entities[entity_index][1]]) > getScore(tweetid_node_map[tweet_list[tweet_index]]) else tweet_list[tweet_index]
+                            all_entities[entity_index][2] = all_entities[entity_index][2].union(set([tweet_list[tweet_index]]))
                             break
 
                     # never seen this entity before in any form
                     if not present:
-                        all_entities.append([removePunctuation(tags[tweet_index][token_index][0].lower()), tweetid_node_map[tweet_list[tweet_index]]['entropy_score'], tweetid_node_map[tweet_list[tweet_index]]['user_score'], tweet_list[tweet_index], tweet_list[tweet_index], set([tweet_list[tweet_index]])])
+                        all_entities.append([removePunctuation(tags[tweet_index][token_index][0].lower()), tweet_list[tweet_index], set([tweet_list[tweet_index]])])
 
     # set up all the entities for comparison
     for entity in all_entities:
@@ -103,11 +100,8 @@ def findEntities(tree):
         while entity_index2 < len(all_entities):
             if len(all_entities[entity_index2][0].split(' ')) == len(all_entities[entity_index1][0].split(' ')):
                 if all_entities[entity_index2][0] == all_entities[entity_index1][0]:
-                    all_entities[entity_index1][1] += all_entities[entity_index2][1]
-                    all_entities[entity_index1][2] += all_entities[entity_index2][2]
-                    all_entities[entity_index1][3] = all_entities[entity_index1][3] if tweetid_node_map[all_entities[entity_index1][3]]['entropy_score'] > tweetid_node_map[all_entities[entity_index2][3]]['entropy_score'] else all_entities[entity_index2][3]
-                    all_entities[entity_index1][4] = all_entities[entity_index1][4] if tweetid_node_map[all_entities[entity_index1][4]]['user_score'] > tweetid_node_map[all_entities[entity_index2][4]]['user_score'] else all_entities[entity_index2][4]
-                    all_entities[entity_index1][5] = all_entities[entity_index1][5].union(all_entities[entity_index2][5])
+                    all_entities[entity_index1][1] = all_entities[entity_index1][1] if getScore(tweetid_node_map[all_entities[entity_index1][1]]) > getScore(tweetid_node_map[all_entities[entity_index2][1]]) else all_entities[entity_index2][1]
+                    all_entities[entity_index1][2] = all_entities[entity_index1][2].union(all_entities[entity_index2][2])
                     del all_entities[entity_index2]
             elif len(all_entities[entity_index2][0].split(' ')) > len(all_entities[entity_index1][0].split(' ')):
                 present = True
@@ -118,11 +112,8 @@ def findEntities(tree):
 
                 if present:
                     all_entities[entity_index1][0] = all_entities[entity_index2][0]
-                    all_entities[entity_index1][1] += all_entities[entity_index2][1]
-                    all_entities[entity_index1][2] += all_entities[entity_index2][2]
-                    all_entities[entity_index1][3] = all_entities[entity_index1][3] if tweetid_node_map[all_entities[entity_index1][3]]['entropy_score'] > tweetid_node_map[all_entities[entity_index2][3]]['entropy_score'] else all_entities[entity_index2][3]
-                    all_entities[entity_index1][4] = all_entities[entity_index1][4] if tweetid_node_map[all_entities[entity_index1][4]]['user_score'] > tweetid_node_map[all_entities[entity_index2][4]]['user_score'] else all_entities[entity_index2][4]
-                    all_entities[entity_index1][5] = all_entities[entity_index1][5].union(all_entities[entity_index2][5])
+                    all_entities[entity_index1][1] = all_entities[entity_index1][1] if getScore(tweetid_node_map[all_entities[entity_index1][1]]) > getScore(tweetid_node_map[all_entities[entity_index2][1]]) else all_entities[entity_index2][1]
+                    all_entities[entity_index1][2] = all_entities[entity_index1][2].union(all_entities[entity_index2][2])
                     del all_entities[entity_index2]
             else:
                 present = True
@@ -132,11 +123,8 @@ def findEntities(tree):
                         break
 
                 if present:
-                    all_entities[entity_index1][1] += all_entities[entity_index2][1]
-                    all_entities[entity_index1][2] += all_entities[entity_index2][2]
-                    all_entities[entity_index1][3] = all_entities[entity_index1][3] if tweetid_node_map[all_entities[entity_index1][3]]['entropy_score'] > tweetid_node_map[all_entities[entity_index2][3]]['entropy_score'] else all_entities[entity_index2][3]
-                    all_entities[entity_index1][4] = all_entities[entity_index1][4] if tweetid_node_map[all_entities[entity_index1][4]]['user_score'] > tweetid_node_map[all_entities[entity_index2][4]]['user_score'] else all_entities[entity_index2][4]
-                    all_entities[entity_index1][5] = all_entities[entity_index1][5].union(all_entities[entity_index2][5])
+                    all_entities[entity_index1][1] = all_entities[entity_index1][1] if getScore(tweetid_node_map[all_entities[entity_index1][1]]) > getScore(tweetid_node_map[all_entities[entity_index2][1]]) else all_entities[entity_index2][1]
+                    all_entities[entity_index1][2] = all_entities[entity_index1][2].union(all_entities[entity_index2][2])
                     del all_entities[entity_index2]
 
             entity_index2 += 1
@@ -154,23 +142,20 @@ tweet_list = []
 tree = json.load(open('../original_cascades/tree_info' + str(cascade) + '.json', 'r'))
 
 all_entities = findEntities(tree)
-all_entities = sorted(all_entities, reverse = True, key = lambda x: len(x[5]))[:10]
+all_entities = sorted(all_entities, reverse = True, key = lambda x: len(x[2]))[:10]
 
 rep_file = open('reps/rep_' + str(cascade) + '.csv', 'w')
-rep_file.write('Topic of discussion,Representative tweet id,Another representative tweet id (if any)\n')
+rep_file.write('Topic of discussion,Representative tweet\n')
 for entity_index in range(len(all_entities)):
     entity = all_entities[entity_index]
-    if entity[4] != entity[3]:
-        rep_file.write(str(entity_index) + '.' + entity[0] + ',' + str(entity[3]) + ',' + str(entity[4]) + '\n')
-    else:
-        rep_file.write(str(entity_index) + '.' + entity[0] + ',' + str(entity[3]) + '\n')
-    all_entities[entity_index][5] = list(entity[5])
+    rep_file.write(str(entity_index) + '.' + entity[0] + ',' + str(entity[1]) + '\n')
+    all_entities[entity_index][2] = list(entity[2])
 rep_file.close()
 
 scope_file = open('scope/scope_' + str(cascade) + '.csv', 'w')
 for entity in all_entities:
-    scope_file.write(str(entity[5][0]))
-    for tweetid in entity[5][1:]:
+    scope_file.write(str(entity[2][0]))
+    for tweetid in entity[2][1:]:
         scope_file.write(',' + str(tweetid))
     scope_file.write('\n')
 scope_file.close()
