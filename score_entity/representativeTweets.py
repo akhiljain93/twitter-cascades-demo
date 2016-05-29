@@ -1,6 +1,7 @@
 import json
 import math
 import tagTweets
+import re
 import string
 import sys
 
@@ -130,7 +131,44 @@ def findEntities(tree):
             entity_index2 += 1
         entity_index1 += 1
 
-    return all_entities
+    return (all_entities, tags)
+
+def getContext(tags, topic, tweetid):
+    global tweet_list
+    this_tags = tags[tweet_list.index(tweetid)]
+
+    topic_words = topic.split(' ')
+    
+    context = ''
+    contains_topic_word = [False] * len(this_tags)
+    count_topic_words = 0
+
+    for i in range(len(this_tags)):
+        for j in range(len(topic_words)):
+            if topic_words[j] == removePunctuation(this_tags[i][0]).lower():
+                contains_topic_word[i] = True
+                count_topic_words += 1
+    
+    index_topic_word = 0
+    for index_topic_word in range(len(this_tags)):
+        if contains_topic_word[index_topic_word]:
+            break
+    if count_topic_words == 1:
+        index_topic_word -= 2
+
+    count_context_words = 0
+    while count_context_words < 5 and index_topic_word < len(this_tags):
+        if this_tags[index_topic_word][1] in ['@', 'U', ',']:
+            pass
+        elif this_tags[index_topic_word][1] in ['P', '&']:
+            context += (this_tags[index_topic_word][0] + ' ')
+        else:
+            context += (this_tags[index_topic_word][0] + ' ')
+            count_context_words += 1
+
+        index_topic_word += 1
+
+    return context.strip()
 
 cascade = int(sys.argv[1])
 entity_types = ['N', '^'] if '--common' in sys.argv else ['^']
@@ -141,14 +179,14 @@ tweet_list = []
 
 tree = json.load(open('../original_cascades/tree_info' + str(cascade) + '.json', 'r'))
 
-all_entities = findEntities(tree)
+(all_entities, tags) = findEntities(tree)
 all_entities = sorted(all_entities, reverse = True, key = lambda x: len(x[2]))[:10]
 
 rep_file = open('reps/rep_' + str(cascade) + '.csv', 'w')
 rep_file.write('Topic of discussion,Representative tweet\n')
 for entity_index in range(len(all_entities)):
     entity = all_entities[entity_index]
-    rep_file.write(str(entity_index) + '.' + entity[0] + ',' + str(entity[1]) + '\n')
+    rep_file.write(getContext(tags, entity[0], entity[1]) + ',' + str(entity_index) + '.' + entity[0] + ',' + str(entity[1]) + '\n')
     all_entities[entity_index][2] = list(entity[2])
 rep_file.close()
 
