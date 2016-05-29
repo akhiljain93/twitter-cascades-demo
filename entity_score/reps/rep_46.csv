@@ -1,11 +1,11 @@
-Topic of discussion,Representative tweet id,Another representative tweet id (if any)
-0.stinks bill,456787781990088704
-1.canadian,456787781990088704
-2.voters,457938305250631680
-3.inquiry,457938305250631680,457938467897344000
-4.evidence,457938081933320192
-5.rcmp,457939894107521024
-6.tactics election,457938305250631680
-7.address,457932045377732608
-8.easter george,457942265441161219
-9.world elections years,458088577516048384
+Context,Topic of discussion,Representative tweet
+I oppose bill #c23 \n,0.stinks bill,456787781990088704
+an ordinary Canadian & I oppose,1.canadian,456787781990088704
+that vouched voters couldn't be found,2.voters,457938305250631680
+What federal inquiry,3.inquiry,457938467897344000
+There's no evidence of people abusing,4.evidence,457938081933320192
+work with RCMP and identify which voters,5.rcmp,457939894107521024
+found after election,6.tactics election,457938305250631680
+of address will be hard for some,7.address,457932045377732608
+Easter George :),8.easter george,457942265441161219
+help win elections,9.world elections years,458088577516048384
