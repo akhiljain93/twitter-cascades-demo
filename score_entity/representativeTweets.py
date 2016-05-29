@@ -183,7 +183,7 @@ tree = json.load(open('../original_cascades/tree_info' + str(cascade) + '.json',
 all_entities = sorted(all_entities, reverse = True, key = lambda x: len(x[2]))[:10]
 
 rep_file = open('reps/rep_' + str(cascade) + '.csv', 'w')
-rep_file.write('Topic of discussion,Representative tweet\n')
+rep_file.write('Context,Topic of discussion,Representative tweet\n')
 for entity_index in range(len(all_entities)):
     entity = all_entities[entity_index]
     rep_file.write(getContext(tags, entity[0], entity[1]) + ',' + str(entity_index) + '.' + entity[0] + ',' + str(entity[1]) + '\n')
