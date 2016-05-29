@@ -1,11 +1,11 @@
-Topic of discussion,Representative tweet
-0.jostles sam,446393652999651328
-1.dean,446439089790005248
-2.shopping cart,446387086011404289
-3.beer hipster,446498119409082368
-4.food front junk aisle,446421721672056832
-5.stuff,446387086011404289
-6.brother,446387086011404289
-7.pita chips,446410753940422657
-8.bobby,446505405481779200
-9.pies,446498119409082368
+Context,Topic of discussion,Representative tweet
+Sam pushes open his door,0.jostles sam,446393652999651328
+a young Dean :] Oh,1.dean,446439089790005248
+in the cart,2.shopping cart,446387086011404289
+gotta get beer,3.beer hipster,446498119409082368
+down the aisle Towards the vegetables,4.food front junk aisle,446421721672056832
+can toss stuff in the cart,5.stuff,446387086011404289
+at his brother You want to go,6.brother,446387086011404289
+gettin chips At least,7.pita chips,446410753940422657
+Hey Bobby drinks that PBR right,8.bobby,446505405481779200
+The pies are just on the,9.pies,446498119409082368
