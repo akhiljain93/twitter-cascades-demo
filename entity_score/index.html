@@ -50,6 +50,16 @@ function GetURLParameter(sParam) {
     return undefined;
 }
 
+function eventFire(el, etype) {
+    if (el.fireEvent) {
+        el.fireEvent('on' + etype);
+    } else {
+        var evObj = document.createEvent('Events');
+        evObj.initEvent(etype, true, false);
+        el.dispatchEvent(evObj);
+    }
+}
+
 var w = 10000,
     h = 600,
     x = d3.scale.linear().range([0, w]),
@@ -71,6 +81,7 @@ d3.json("../data/tree_info" + GetURLParameter('cascade') + ".json", function(roo
       .data(partition.nodes(root))
     .enter().append("svg:g")
       .attr("transform", function(d) { return "translate(" + x(d.y) + "," + y(d.x) + ")"; })
+      .attr("id", function(d) { return d.id;})
       .on("click", click);
 
   var kx = w / root.dx,
@@ -115,6 +126,10 @@ d3.json("../data/tree_info" + GetURLParameter('cascade') + ".json", function(roo
 
   function transform(d) {
     return "translate(8," + d.dx * ky / 2 + ")";
+  }
+
+  if (GetURLParameter('tweet')) {
+      eventFire(document.getElementById(GetURLParameter('tweet')), 'click');
   }
 });
 
