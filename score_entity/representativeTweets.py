@@ -190,10 +190,7 @@ for entity_index in range(len(all_entities)):
     all_entities[entity_index][2] = list(entity[2])
 rep_file.close()
 
-scope_file = open('scope/scope_' + str(cascade) + '.csv', 'w')
-for entity in all_entities:
-    scope_file.write(str(entity[2][0]))
-    for tweetid in entity[2][1:]:
-        scope_file.write(',' + str(tweetid))
-    scope_file.write('\n')
-scope_file.close()
+scopes = {}
+for entity_index in range(len(all_entities)):
+    scopes[entity_index] = all_entities[entity_index][2]
+json.dump(scopes, open('scope/scope_' + str(cascade) + '.json', 'w'), indent = 2, sort_keys = True)
