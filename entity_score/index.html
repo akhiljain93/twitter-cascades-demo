@@ -14,6 +14,18 @@
   font-size: 12px;
 }
 
+div.tooltip {
+    position: absolute;
+    text-align: center;
+    width: 250px;
+    height: 60px;
+    padding: 2px;
+    font: 12px sans-serif;
+    background: lightsteelblue;
+    border: 0px;
+    border-radius: 8px;
+}
+
 rect {
   stroke: #eee;
   fill: #aaa;
@@ -76,6 +88,11 @@ var vis = d3.select("#body").append("div")
     .attr("width", w)
     .attr("height", h);
 
+var div= d3.select("body")
+    .append("div")  // declare the tooltip div 
+    .attr("class", "tooltip")              // apply the 'tooltip' class
+    .style("opacity", 0);                  // set the opacity to nil
+
 var partition = d3.layout.partition()
     .value(function(d) { return 1; });
 
@@ -101,7 +118,20 @@ function begin_animation() {
                 return scope_ids[+GetURLParameter('scope')].indexOf(d.id) < 0 ? (d.children ? "parent" : "child") : "scoped";
             }
             return d.children ? "parent" : "child";
-          });
+          })
+      .on("mouseover", function(d) {
+              div.transition()
+                  .duration(500)
+                  .style("opacity", 0);
+
+              div.transition()
+                  .duration(200)
+                  .style("opacity", .7);
+
+              div.html(d.tweet)
+                 .style("left", (d3.event.pageX) + "px")
+                 .style("top", (d3.event.pageY - 28) + "px");
+            });
 
   g.append("svg:text")
       .attr("transform", transform)
