@@ -121,6 +121,8 @@ function begin_animation() {
 
   if (GetURLParameter('tweet')) {
       eventFire(document.getElementById(GetURLParameter('tweet')), 'click');
+  } else if (GetURLParameter('scope')) {
+      eventFire(document.getElementById(scope_ids[+GetURLParameter('scope')].sort()[0].toString()), 'click');
   }
 
   function click(d) {
