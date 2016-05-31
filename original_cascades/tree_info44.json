@@ -1,0 +1,2160 @@
+{
+  "children": [
+    {
+      "children": [
+        {
+          "entropy_score": 0.0, 
+          "favourites": 0, 
+          "follower": false, 
+          "id": 450391381349908480, 
+          "reply": true, 
+          "timestamp": "Sun Mar 30 21:57:27 +0000 2014", 
+          "tree_size": 1, 
+          "tweet": "@julito77 @LatinoPolitics  we need to assert out selves and expect more in media and politics that's why 2 million gone", 
+          "uid": 34062187, 
+          "user": 1, 
+          "user_score": 0.0, 
+          "users": {
+            "1": 1
+          }
+        }, 
+        {
+          "children": [
+            {
+              "entropy_score": 0.0, 
+              "favourites": 0, 
+              "follower": true, 
+              "id": 450329108569157632, 
+              "reply": true, 
+              "timestamp": "Sun Mar 30 17:50:00 +0000 2014", 
+              "tree_size": 1, 
+              "tweet": "@LatinoPolitics yup", 
+              "uid": 17050431, 
+              "user": 2, 
+              "user_score": 0.0, 
+              "users": {
+                "2": 1
+              }
+            }, 
+            {
+              "entropy_score": 0.0, 
+              "favourites": 0, 
+              "follower": true, 
+              "id": 450329131046416385, 
+              "reply": false, 
+              "timestamp": "Sun Mar 30 17:50:06 +0000 2014", 
+              "tree_size": 1, 
+              "tweet": "RT @LatinoPolitics: @julito77 yes, that's Y I think it's good that we are all having these conversations, if we sit silent, expect more mad\u2026", 
+              "uid": 17050431, 
+              "user": 2, 
+              "user_score": 0.0, 
+              "users": {
+                "2": 1
+              }
+            }, 
+            {
+              "entropy_score": 0.0, 
+              "favourites": 0, 
+              "follower": true, 
+              "id": 450335659405115392, 
+              "reply": false, 
+              "timestamp": "Sun Mar 30 18:16:02 +0000 2014", 
+              "tree_size": 1, 
+              "tweet": "RT @LatinoPolitics: @julito77 yes, that's Y I think it's good that we are all having these conversations, if we sit silent, expect more mad\u2026", 
+              "uid": 585741559, 
+              "user": 4, 
+              "user_score": 0.0, 
+              "users": {
+                "4": 1
+              }
+            }, 
+            {
+              "entropy_score": 0.0, 
+              "favourites": 0, 
+              "follower": false, 
+              "id": 450336607674335232, 
+              "reply": true, 
+              "timestamp": "Sun Mar 30 18:19:48 +0000 2014", 
+              "tree_size": 1, 
+              "tweet": "@latinopolitics Also, there was a Latino Film Festival in San Antonio that had some amazing, thought provoking films. Ask @mendezgonzales?", 
+              "uid": 593031913, 
+              "user": 11, 
+              "user_score": 0.0, 
+              "users": {
+                "11": 1
+              }
+            }
+          ], 
+          "entropy_score": 1.5249237972318797, 
+          "favourites": 0, 
+          "follower": false, 
+          "id": 450328966948069376, 
+          "important_entropy": true, 
+          "reply": true, 
+          "timestamp": "Sun Mar 30 17:49:27 +0000 2014", 
+          "tree_size": 5, 
+          "tweet": "@julito77 yes, that's Y I think it's good that we are all having these conversations, if we sit silent, expect more made for TV style films.", 
+          "uid": 17167550, 
+          "user": 0, 
+          "user_score": 1.3321790402101223, 
+          "users": {
+            "0": 1, 
+            "11": 1, 
+            "2": 2, 
+            "4": 1
+          }
+        }
+      ], 
+      "entropy_score": 2.020541126984815, 
+      "favourites": 0, 
+      "follower": true, 
+      "id": 450328661116612608, 
+      "reply": true, 
+      "timestamp": "Sun Mar 30 17:48:14 +0000 2014", 
+      "tree_size": 7, 
+      "tweet": "@LatinoPolitics that's the key here, right? we need to keep challenging that, in the end, we as consumers have a voice here too", 
+      "uid": 17050431, 
+      "user": 2, 
+      "user_score": 1.4750763110546947, 
+      "users": {
+        "0": 1, 
+        "1": 1, 
+        "11": 1, 
+        "2": 3, 
+        "4": 1
+      }
+    }, 
+    {
+      "entropy_score": 0.0, 
+      "favourites": 0, 
+      "follower": true, 
+      "id": 450328675180089344, 
+      "reply": false, 
+      "timestamp": "Sun Mar 30 17:48:17 +0000 2014", 
+      "tree_size": 1, 
+      "tweet": "RT @LatinoPolitics: \"@ what point do Latinos go beyond supporting mediocre movies &amp; when will we get content that is outstanding &amp; thought-\u2026", 
+      "uid": 17050431, 
+      "user": 2, 
+      "user_score": 0.0, 
+      "users": {
+        "2": 1
+      }
+    }, 
+    {
+      "entropy_score": 0.0, 
+      "favourites": 0, 
+      "follower": true, 
+      "id": 450330396434378753, 
+      "reply": false, 
+      "timestamp": "Sun Mar 30 17:55:07 +0000 2014", 
+      "tree_size": 1, 
+      "tweet": "RT @LatinoPolitics: \"@ what point do Latinos go beyond supporting mediocre movies &amp; when will we get content that is outstanding &amp; thought-\u2026", 
+      "uid": 249217178, 
+      "user": 10, 
+      "user_score": 0.0, 
+      "users": {
+        "10": 1
+      }
+    }, 
+    {
+      "entropy_score": 0.0, 
+      "favourites": 0, 
+      "follower": true, 
+      "id": 450330716534890496, 
+      "reply": false, 
+      "timestamp": "Sun Mar 30 17:56:24 +0000 2014", 
+      "tree_size": 1, 
+      "tweet": "RT @LatinoPolitics: \"@ what point do Latinos go beyond supporting mediocre movies &amp; when will we get content that is outstanding &amp; thought-\u2026", 
+      "uid": 234400015, 
+      "user": 9, 
+      "user_score": 0.0, 
+      "users": {
+        "9": 1
+      }
+    }, 
+    {
+      "entropy_score": 0.0, 
+      "favourites": 0, 
+      "follower": true, 
+      "id": 450333347118465025, 
+      "reply": false, 
+      "timestamp": "Sun Mar 30 18:06:51 +0000 2014", 
+      "tree_size": 1, 
+      "tweet": "RT @LatinoPolitics: \"@ what point do Latinos go beyond supporting mediocre movies &amp; when will we get content that is outstanding &amp; thought-\u2026", 
+      "uid": 542677316, 
+      "user": 8, 
+      "user_score": 0.0, 
+      "users": {
+        "8": 1
+      }
+    }, 
+    {
+      "entropy_score": 0.0, 
+      "favourites": 0, 
+      "follower": true, 
+      "id": 450335061012152320, 
+      "reply": false, 
+      "timestamp": "Sun Mar 30 18:13:40 +0000 2014", 
+      "tree_size": 1, 
+      "tweet": "RT @LatinoPolitics: \"@ what point do Latinos go beyond supporting mediocre movies &amp; when will we get content that is outstanding &amp; thought-\u2026", 
+      "uid": 203400403, 
+      "user": 5, 
+      "user_score": 0.0, 
+      "users": {
+        "5": 1
+      }
+    }, 
+    {
+      "entropy_score": 0.0, 
+      "favourites": 0, 
+      "follower": false, 
+      "id": 450335162933719040, 
+      "reply": false, 
+      "timestamp": "Sun Mar 30 18:14:04 +0000 2014", 
+      "tree_size": 1, 
+      "tweet": "RT @LatinoPolitics: \"@ what point do Latinos go beyond supporting mediocre movies &amp; when will we get content that is outstanding &amp; thought-\u2026", 
+      "uid": 167581897, 
+      "user": 7, 
+      "user_score": 0.0, 
+      "users": {
+        "7": 1
+      }
+    }, 
+    {
+      "entropy_score": 0.0, 
+      "favourites": 0, 
+      "follower": true, 
+      "id": 450337103751413760, 
+      "reply": false, 
+      "timestamp": "Sun Mar 30 18:21:47 +0000 2014", 
+      "tree_size": 1, 
+      "tweet": "RT @LatinoPolitics: \"@ what point do Latinos go beyond supporting mediocre movies &amp; when will we get content that is outstanding &amp; thought-\u2026", 
+      "uid": 585741559, 
+      "user": 4, 
+      "user_score": 0.0, 
+      "users": {
+        "4": 1
+      }
+    }, 
+    {
+      "entropy_score": 0.0, 
+      "favourites": 0, 
+      "follower": true, 
+      "id": 450389200836128768, 
+      "reply": true, 
+      "timestamp": "Sun Mar 30 21:48:47 +0000 2014", 
+      "tree_size": 1, 
+      "tweet": "@LatinoPolitics @julito77  I like the fact people are expecting more are Latino audience is getting more sophisticated good job Julio", 
+      "uid": 34062187, 
+      "user": 1, 
+      "user_score": 0.0, 
+      "users": {
+        "1": 1
+      }
+    }, 
+    {
+      "entropy_score": 0.0, 
+      "favourites": 0, 
+      "follower": true, 
+      "id": 450390551683031041, 
+      "reply": true, 
+      "timestamp": "Sun Mar 30 21:54:10 +0000 2014", 
+      "tree_size": 1, 
+      "tweet": "@LatinoPolitics @julito77 it's a fight to prove to studios we are here then do great work but I'm sure the Hector Lavoe  film missed too", 
+      "uid": 34062187, 
+      "user": 1, 
+      "user_score": 0.0, 
+      "users": {
+        "1": 1
+      }
+    }, 
+    {
+      "entropy_score": 0.0, 
+      "favourites": 0, 
+      "follower": true, 
+      "id": 450390966730387456, 
+      "reply": true, 
+      "timestamp": "Sun Mar 30 21:55:48 +0000 2014", 
+      "tree_size": 1, 
+      "tweet": "@LatinoPolitics @julito77 agreed", 
+      "uid": 34062187, 
+      "user": 1, 
+      "user_score": 0.0, 
+      "users": {
+        "1": 1
+      }
+    }, 
+    {
+      "entropy_score": 0.0, 
+      "favourites": 0, 
+      "follower": true, 
+      "id": 450391586644295680, 
+      "reply": true, 
+      "timestamp": "Sun Mar 30 21:58:16 +0000 2014", 
+      "tree_size": 1, 
+      "tweet": "@LatinoPolitics @julito77 more Latinos telling our own  stories", 
+      "uid": 34062187, 
+      "user": 1, 
+      "user_score": 0.0, 
+      "users": {
+        "1": 1
+      }
+    }, 
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "entropy_score": 0.0, 
+                          "favourites": 0, 
+                          "follower": false, 
+                          "id": 450962082117476352, 
+                          "reply": true, 
+                          "timestamp": "Tue Apr 01 11:45:13 +0000 2014", 
+                          "tree_size": 1, 
+                          "tweet": "@ricknajera @LatinoPolitics got it! I will ask the @latinorebels to publish it today", 
+                          "uid": 17050431, 
+                          "user": 2, 
+                          "user_score": 0.0, 
+                          "users": {
+                            "2": 1
+                          }
+                        }, 
+                        {
+                          "children": [
+                            {
+                              "entropy_score": 0.0, 
+                              "favourites": 0, 
+                              "follower": false, 
+                              "id": 451043723913068544, 
+                              "reply": false, 
+                              "timestamp": "Tue Apr 01 17:09:38 +0000 2014", 
+                              "tree_size": 1, 
+                              "tweet": "RT @julito77: @ricknajera here is the piece http://t.co/qcUs1CpTwE", 
+                              "uid": 34062187, 
+                              "user": 1, 
+                              "user_score": 0.0, 
+                              "users": {
+                                "1": 1
+                              }
+                            }
+                          ], 
+                          "entropy_score": 0.0, 
+                          "favourites": 0, 
+                          "follower": false, 
+                          "id": 450978374119600128, 
+                          "reply": true, 
+                          "timestamp": "Tue Apr 01 12:49:57 +0000 2014", 
+                          "tree_size": 2, 
+                          "tweet": "@ricknajera here is the piece http://t.co/qcUs1CpTwE", 
+                          "uid": 17050431, 
+                          "user": 2, 
+                          "user_score": 0.6931471805599453, 
+                          "users": {
+                            "1": 1, 
+                            "2": 1
+                          }
+                        }, 
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "children": [
+                                    {
+                                      "entropy_score": 0.0, 
+                                      "favourites": 0, 
+                                      "follower": false, 
+                                      "id": 451043599166078976, 
+                                      "reply": false, 
+                                      "timestamp": "Tue Apr 01 17:09:08 +0000 2014", 
+                                      "tree_size": 1, 
+                                      "tweet": "RT @julito77: @AaronCasillas @ricknajera @LatinoPolitics Rick is familia to me as well, he knows he always has an open invite for any pieces", 
+                                      "uid": 34062187, 
+                                      "user": 1, 
+                                      "user_score": 0.0, 
+                                      "users": {
+                                        "1": 1
+                                      }
+                                    }
+                                  ], 
+                                  "entropy_score": 0.0, 
+                                  "favourites": 0, 
+                                  "follower": true, 
+                                  "id": 450987141968195584, 
+                                  "reply": true, 
+                                  "timestamp": "Tue Apr 01 13:24:48 +0000 2014", 
+                                  "tree_size": 2, 
+                                  "tweet": "@AaronCasillas @ricknajera @LatinoPolitics Rick is familia to me as well, he knows he always has an open invite for any pieces", 
+                                  "uid": 17050431, 
+                                  "user": 2, 
+                                  "user_score": 0.6931471805599453, 
+                                  "users": {
+                                    "1": 1, 
+                                    "2": 1
+                                  }
+                                }, 
+                                {
+                                  "entropy_score": 0.0, 
+                                  "favourites": 0, 
+                                  "follower": false, 
+                                  "id": 451043654686093312, 
+                                  "reply": false, 
+                                  "timestamp": "Tue Apr 01 17:09:21 +0000 2014", 
+                                  "tree_size": 1, 
+                                  "tweet": "RT @AaronCasillas: @ricknajera @julito77 @LatinoPolitics And thank you Julio for publishing it.", 
+                                  "uid": 34062187, 
+                                  "user": 1, 
+                                  "user_score": 0.0, 
+                                  "users": {
+                                    "1": 1
+                                  }
+                                }
+                              ], 
+                              "entropy_score": 0.7001655851242942, 
+                              "favourites": 0, 
+                              "follower": false, 
+                              "id": 450981744742006784, 
+                              "reply": true, 
+                              "timestamp": "Tue Apr 01 13:03:21 +0000 2014", 
+                              "tree_size": 4, 
+                              "tweet": "@ricknajera @julito77 @LatinoPolitics And thank you Julio for publishing it.", 
+                              "uid": 191312076, 
+                              "user": 3, 
+                              "user_score": 1.0397207708399179, 
+                              "users": {
+                                "1": 2, 
+                                "2": 1, 
+                                "3": 1
+                              }
+                            }, 
+                            {
+                              "entropy_score": 0.0, 
+                              "favourites": 0, 
+                              "follower": true, 
+                              "id": 450987157138984960, 
+                              "reply": false, 
+                              "timestamp": "Tue Apr 01 13:24:51 +0000 2014", 
+                              "tree_size": 1, 
+                              "tweet": "RT @AaronCasillas: @ricknajera @julito77 @LatinoPolitics Loved your review Rick, thank you for putting into words what I think many of us w\u2026", 
+                              "uid": 17050431, 
+                              "user": 2, 
+                              "user_score": 0.0, 
+                              "users": {
+                                "2": 1
+                              }
+                            }, 
+                            {
+                              "entropy_score": 0.0, 
+                              "favourites": 0, 
+                              "follower": false, 
+                              "id": 451043675510808576, 
+                              "reply": false, 
+                              "timestamp": "Tue Apr 01 17:09:26 +0000 2014", 
+                              "tree_size": 1, 
+                              "tweet": "RT @AaronCasillas: @ricknajera @julito77 @LatinoPolitics Loved your review Rick, thank you for putting into words what I think many of us w\u2026", 
+                              "uid": 34062187, 
+                              "user": 1, 
+                              "user_score": 0.0, 
+                              "users": {
+                                "1": 1
+                              }
+                            }
+                          ], 
+                          "entropy_score": 1.6544851364539017, 
+                          "favourites": 0, 
+                          "follower": false, 
+                          "id": 450980924420018176, 
+                          "reply": true, 
+                          "timestamp": "Tue Apr 01 13:00:05 +0000 2014", 
+                          "tree_size": 7, 
+                          "tweet": "@ricknajera @julito77 @LatinoPolitics Loved your review Rick, thank you for putting into words what I think many of us were thinking.", 
+                          "uid": 191312076, 
+                          "user": 3, 
+                          "user_score": 1.0789922078775833, 
+                          "users": {
+                            "1": 3, 
+                            "2": 2, 
+                            "3": 2
+                          }
+                        }, 
+                        {
+                          "children": [
+                            {
+                              "entropy_score": 0.0, 
+                              "favourites": 0, 
+                              "follower": true, 
+                              "id": 451052424132714496, 
+                              "reply": false, 
+                              "timestamp": "Tue Apr 01 17:44:12 +0000 2014", 
+                              "tree_size": 1, 
+                              "tweet": "RT @LatinoPolitics: @ricknajera @julito77 thanks for sharing.", 
+                              "uid": 34062187, 
+                              "user": 1, 
+                              "user_score": 0.0, 
+                              "users": {
+                                "1": 1
+                              }
+                            }
+                          ], 
+                          "entropy_score": 0.0, 
+                          "favourites": 1, 
+                          "follower": false, 
+                          "id": 451042937900523520, 
+                          "reply": true, 
+                          "timestamp": "Tue Apr 01 17:06:31 +0000 2014", 
+                          "tree_size": 2, 
+                          "tweet": "@ricknajera @julito77 thanks for sharing.", 
+                          "uid": 17167550, 
+                          "user": 0, 
+                          "user_score": 0.6931471805599453, 
+                          "users": {
+                            "0": 1, 
+                            "1": 1
+                          }
+                        }
+                      ], 
+                      "entropy_score": 2.8851028060382293, 
+                      "favourites": 0, 
+                      "follower": false, 
+                      "id": 450861112318111744, 
+                      "reply": true, 
+                      "timestamp": "Tue Apr 01 05:04:00 +0000 2014", 
+                      "tree_size": 13, 
+                      "tweet": "@julito77 @LatinoPolitics I wrote something my thoughts on Cesar Chavez movie and sent to you", 
+                      "uid": 34062187, 
+                      "user": 1, 
+                      "user_score": 1.2047933096947843, 
+                      "users": {
+                        "0": 1, 
+                        "1": 6, 
+                        "2": 4, 
+                        "3": 2
+                      }
+                    }
+                  ], 
+                  "entropy_score": 2.8851028060382293, 
+                  "favourites": 0, 
+                  "follower": false, 
+                  "id": 450462806874554368, 
+                  "reply": true, 
+                  "timestamp": "Mon Mar 31 02:41:17 +0000 2014", 
+                  "tree_size": 14, 
+                  "tweet": "@ricknajera @LatinoPolitics 700 theaters I read and better performance where story was known, if you do write something, ping me", 
+                  "uid": 17050431, 
+                  "user": 2, 
+                  "user_score": 1.1973401339967784, 
+                  "users": {
+                    "0": 1, 
+                    "1": 6, 
+                    "2": 5, 
+                    "3": 2
+                  }
+                }
+              ], 
+              "entropy_score": 2.8851028060382293, 
+              "favourites": 0, 
+              "follower": false, 
+              "id": 450461903341359104, 
+              "reply": true, 
+              "timestamp": "Mon Mar 31 02:37:41 +0000 2014", 
+              "tree_size": 15, 
+              "tweet": "@julito77 @LatinoPolitics  I know not great.  curious what was per screen average I may write an op-Ed because this is the bigger picture", 
+              "uid": 34062187, 
+              "user": 1, 
+              "user_score": 1.171059869990371, 
+              "users": {
+                "0": 1, 
+                "1": 7, 
+                "2": 5, 
+                "3": 2
+              }
+            }
+          ], 
+          "entropy_score": 2.8851028060382293, 
+          "favourites": 0, 
+          "follower": false, 
+          "id": 450460833550991360, 
+          "reply": true, 
+          "timestamp": "Mon Mar 31 02:33:26 +0000 2014", 
+          "tree_size": 16, 
+          "tweet": "@ricknajera @LatinoPolitics hearing 3 million and in 12th place", 
+          "uid": 17050431, 
+          "user": 2, 
+          "user_score": 1.1626998334975678, 
+          "users": {
+            "0": 1, 
+            "1": 7, 
+            "2": 6, 
+            "3": 2
+          }
+        }
+      ], 
+      "entropy_score": 2.8851028060382293, 
+      "favourites": 0, 
+      "follower": true, 
+      "id": 450405287300571136, 
+      "reply": true, 
+      "timestamp": "Sun Mar 30 22:52:43 +0000 2014", 
+      "tree_size": 17, 
+      "tweet": "@LatinoPolitics @julito77 it's all going to come to what is the box office  for the film this weekend", 
+      "uid": 34062187, 
+      "user": 1, 
+      "user_score": 1.1407201964134568, 
+      "users": {
+        "0": 1, 
+        "1": 8, 
+        "2": 6, 
+        "3": 2
+      }
+    }, 
+    {
+      "entropy_score": 0.0, 
+      "favourites": 0, 
+      "follower": true, 
+      "id": 450405611163758592, 
+      "reply": false, 
+      "timestamp": "Sun Mar 30 22:54:00 +0000 2014", 
+      "tree_size": 1, 
+      "tweet": "RT @LatinoPolitics: \"@ what point do Latinos go beyond supporting mediocre movies &amp; when will we get content that is outstanding &amp; thought-\u2026", 
+      "uid": 34062187, 
+      "user": 1, 
+      "user_score": 0.0, 
+      "users": {
+        "1": 1
+      }
+    }, 
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "entropy_score": 0.0, 
+                  "favourites": 0, 
+                  "follower": true, 
+                  "id": 450333688904318976, 
+                  "reply": true, 
+                  "timestamp": "Sun Mar 30 18:08:12 +0000 2014", 
+                  "tree_size": 1, 
+                  "tweet": "@LatinoPolitics @AaronCasillas awesome, diversity of opinions are welcome, always!", 
+                  "uid": 17050431, 
+                  "user": 2, 
+                  "user_score": 0.0, 
+                  "users": {
+                    "2": 1
+                  }
+                }
+              ], 
+              "entropy_score": 0.0, 
+              "favourites": 0, 
+              "follower": false, 
+              "id": 450333283222450176, 
+              "reply": true, 
+              "timestamp": "Sun Mar 30 18:06:36 +0000 2014", 
+              "tree_size": 2, 
+              "tweet": "@AaronCasillas @julito77 that's great. I respect different opinions on this.", 
+              "uid": 17167550, 
+              "user": 0, 
+              "user_score": 0.6931471805599453, 
+              "users": {
+                "0": 1, 
+                "2": 1
+              }
+            }, 
+            {
+              "entropy_score": 0.0, 
+              "favourites": 0, 
+              "follower": true, 
+              "id": 450333737583398912, 
+              "reply": false, 
+              "timestamp": "Sun Mar 30 18:08:24 +0000 2014", 
+              "tree_size": 1, 
+              "tweet": "RT @AaronCasillas: @julito77 @LatinoPolitics I respectfully disagree. I enjoyed the movie and mi abuela was singing de colores out loud in \u2026", 
+              "uid": 17050431, 
+              "user": 2, 
+              "user_score": 0.0, 
+              "users": {
+                "2": 1
+              }
+            }
+          ], 
+          "entropy_score": 0.7001655851242942, 
+          "favourites": 1, 
+          "follower": false, 
+          "id": 450333032353112064, 
+          "reply": true, 
+          "timestamp": "Sun Mar 30 18:05:36 +0000 2014", 
+          "tree_size": 4, 
+          "tweet": "@julito77 @LatinoPolitics I respectfully disagree. I enjoyed the movie and mi abuela was singing de colores out loud in the theater.", 
+          "uid": 191312076, 
+          "user": 3, 
+          "user_score": 1.0397207708399179, 
+          "users": {
+            "0": 1, 
+            "2": 2, 
+            "3": 1
+          }
+        }, 
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "entropy_score": 0.0, 
+                  "favourites": 0, 
+                  "follower": false, 
+                  "id": 450389796603437056, 
+                  "reply": true, 
+                  "timestamp": "Sun Mar 30 21:51:10 +0000 2014", 
+                  "tree_size": 1, 
+                  "tweet": "@julito77 @LatinoPolitics  I watched the film with Cesar chavez's family they knew the film was not perfect this is not the last Cesar Film", 
+                  "uid": 34062187, 
+                  "user": 1, 
+                  "user_score": 0.0, 
+                  "users": {
+                    "1": 1
+                  }
+                }
+              ], 
+              "entropy_score": 0.0, 
+              "favourites": 0, 
+              "follower": true, 
+              "id": 450333929514733568, 
+              "reply": true, 
+              "timestamp": "Sun Mar 30 18:09:10 +0000 2014", 
+              "tree_size": 2, 
+              "tweet": "@LatinoPolitics not like there aren't people still alive who literally lived those times :)", 
+              "uid": 17050431, 
+              "user": 2, 
+              "user_score": 0.6931471805599453, 
+              "users": {
+                "1": 1, 
+                "2": 1
+              }
+            }
+          ], 
+          "entropy_score": 0.0, 
+          "favourites": 0, 
+          "follower": false, 
+          "id": 450333742297382914, 
+          "reply": true, 
+          "timestamp": "Sun Mar 30 18:08:25 +0000 2014", 
+          "tree_size": 3, 
+          "tweet": "@julito77 yeah, that would have been good to feature more of the strategy, etc., but Diego Luna probably couldn't have pulled that off.", 
+          "uid": 17167550, 
+          "user": 0, 
+          "user_score": 1.0986122886681096, 
+          "users": {
+            "0": 1, 
+            "1": 1, 
+            "2": 1
+          }
+        }, 
+        {
+          "children": [
+            {
+              "entropy_score": 0.0, 
+              "favourites": 0, 
+              "follower": true, 
+              "id": 450334688276926464, 
+              "reply": false, 
+              "timestamp": "Sun Mar 30 18:12:11 +0000 2014", 
+              "tree_size": 1, 
+              "tweet": "RT @LatinoPolitics: @julito77 that requires more researching of history, talking to people like Marshall Ganz, @miriampawel, etc. @diegolun\u2026", 
+              "uid": 17050431, 
+              "user": 2, 
+              "user_score": 0.0, 
+              "users": {
+                "2": 1
+              }
+            }, 
+            {
+              "entropy_score": 0.0, 
+              "favourites": 0, 
+              "follower": true, 
+              "id": 450337012718272512, 
+              "reply": false, 
+              "timestamp": "Sun Mar 30 18:21:25 +0000 2014", 
+              "tree_size": 1, 
+              "tweet": "RT @LatinoPolitics: @julito77 that requires more researching of history, talking to people like Marshall Ganz, @miriampawel, etc. @diegolun\u2026", 
+              "uid": 585741559, 
+              "user": 4, 
+              "user_score": 0.0, 
+              "users": {
+                "4": 1
+              }
+            }
+          ], 
+          "entropy_score": 0.7624618986159398, 
+          "favourites": 1, 
+          "follower": false, 
+          "id": 450334048116682752, 
+          "reply": true, 
+          "timestamp": "Sun Mar 30 18:09:38 +0000 2014", 
+          "tree_size": 3, 
+          "tweet": "@julito77 that requires more researching of history, talking to people like Marshall Ganz, @miriampawel, etc. @diegoluna_ #CesarChavezMovie", 
+          "uid": 17167550, 
+          "user": 0, 
+          "user_score": 1.0986122886681096, 
+          "users": {
+            "0": 1, 
+            "2": 1, 
+            "4": 1
+          }
+        }, 
+        {
+          "entropy_score": 0.0, 
+          "favourites": 0, 
+          "follower": false, 
+          "id": 450335073095921664, 
+          "reply": false, 
+          "timestamp": "Sun Mar 30 18:13:42 +0000 2014", 
+          "tree_size": 1, 
+          "tweet": "RT @julito77: @LatinoPolitics imagine a 2.5 hour movie about Delano strike and boycott with more nuanced characters? that is the film this \u2026", 
+          "uid": 203400403, 
+          "user": 5, 
+          "user_score": 0.0, 
+          "users": {
+            "5": 1
+          }
+        }
+      ], 
+      "entropy_score": 2.8866271661696197, 
+      "favourites": 1, 
+      "follower": true, 
+      "id": 450329060737286144, 
+      "important_entropy": true, 
+      "reply": true, 
+      "timestamp": "Sun Mar 30 17:49:49 +0000 2014", 
+      "tree_size": 12, 
+      "tweet": "@LatinoPolitics imagine a 2.5 hour movie about Delano strike and boycott with more nuanced characters? that is the film this needed to be", 
+      "uid": 17050431, 
+      "user": 2, 
+      "user_score": 1.539654447440098, 
+      "users": {
+        "0": 3, 
+        "1": 1, 
+        "2": 5, 
+        "3": 1, 
+        "4": 1, 
+        "5": 1
+      }
+    }, 
+    {
+      "children": [
+        {
+          "entropy_score": 0.0, 
+          "favourites": 0, 
+          "follower": true, 
+          "id": 450337561752649728, 
+          "reply": false, 
+          "timestamp": "Sun Mar 30 18:23:36 +0000 2014", 
+          "tree_size": 1, 
+          "tweet": "RT @yoruba69: @LatinoPolitics @julito77 I truly LOVE the issues you are raising. The thought that's being provoked. Sigue.", 
+          "uid": 17050431, 
+          "user": 2, 
+          "user_score": 0.0, 
+          "users": {
+            "2": 1
+          }
+        }, 
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "entropy_score": 0.0, 
+                  "favourites": 0, 
+                  "follower": false, 
+                  "id": 450340192331649024, 
+                  "reply": true, 
+                  "timestamp": "Sun Mar 30 18:34:03 +0000 2014", 
+                  "tree_size": 1, 
+                  "tweet": "@yoruba69 @julito77 @diegoluna_ @rosariodawson @AmericaFerrera @realmichaelpena agreed, they are all talented in their own right.", 
+                  "uid": 17167550, 
+                  "user": 0, 
+                  "user_score": 0.0, 
+                  "users": {
+                    "0": 1
+                  }
+                }, 
+                {
+                  "entropy_score": 0.0, 
+                  "favourites": 0, 
+                  "follower": false, 
+                  "id": 450340476214730752, 
+                  "reply": true, 
+                  "timestamp": "Sun Mar 30 18:35:11 +0000 2014", 
+                  "tree_size": 1, 
+                  "tweet": "@yoruba69 @julito77 I think @rosariodawson @AmericaFerrera deliverd the better performances. @realmichaelpena @diegoluna_", 
+                  "uid": 17167550, 
+                  "user": 0, 
+                  "user_score": 0.0, 
+                  "users": {
+                    "0": 1
+                  }
+                }
+              ], 
+              "entropy_score": 0.7624618986159398, 
+              "favourites": 0, 
+              "follower": true, 
+              "id": 450339634854514688, 
+              "reply": true, 
+              "timestamp": "Sun Mar 30 18:31:50 +0000 2014", 
+              "tree_size": 3, 
+              "tweet": "@LatinoPolitics @julito77 I think we are all giving props to @diegoluna_ @rosariodawson @AmericaFerrera @realmichaelpena.", 
+              "uid": 585741559, 
+              "user": 4, 
+              "user_score": 0.6365141682948128, 
+              "users": {
+                "0": 2, 
+                "4": 1
+              }
+            }, 
+            {
+              "entropy_score": 0.0, 
+              "favourites": 0, 
+              "follower": true, 
+              "id": 450339648997715969, 
+              "reply": true, 
+              "timestamp": "Sun Mar 30 18:31:53 +0000 2014", 
+              "tree_size": 1, 
+              "tweet": "@LatinoPolitics @julito77 Diego Rosario Michael America's hearts in right place. We all know too many of \"ours\" who don't do that.", 
+              "uid": 585741559, 
+              "user": 4, 
+              "user_score": 0.0, 
+              "users": {
+                "4": 1
+              }
+            }, 
+            {
+              "children": [
+                {
+                  "entropy_score": 0.0, 
+                  "favourites": 0, 
+                  "follower": true, 
+                  "id": 450374134200274945, 
+                  "reply": false, 
+                  "timestamp": "Sun Mar 30 20:48:55 +0000 2014", 
+                  "tree_size": 1, 
+                  "tweet": "RT @yoruba69: @LatinoPolitics @julito77 At the same time, we want the next films to be deeper. More complex. Told better. And: financed!", 
+                  "uid": 17050431, 
+                  "user": 2, 
+                  "user_score": 0.0, 
+                  "users": {
+                    "2": 1
+                  }
+                }, 
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "entropy_score": 0.0, 
+                              "favourites": 0, 
+                              "follower": true, 
+                              "id": 450375600185020417, 
+                              "reply": false, 
+                              "timestamp": "Sun Mar 30 20:54:45 +0000 2014", 
+                              "tree_size": 1, 
+                              "tweet": "RT @BlancaVNYC: If Luna believes emotion is divorced from context/history, then we shld support more Latino filmmakers @julito77 @yoruba69 \u2026", 
+                              "uid": 17050431, 
+                              "user": 2, 
+                              "user_score": 0.0, 
+                              "users": {
+                                "2": 1
+                              }
+                            }, 
+                            {
+                              "children": [
+                                {
+                                  "entropy_score": 0.0, 
+                                  "favourites": 0, 
+                                  "follower": true, 
+                                  "id": 450375868171685889, 
+                                  "reply": true, 
+                                  "timestamp": "Sun Mar 30 20:55:49 +0000 2014", 
+                                  "tree_size": 1, 
+                                  "tweet": "@BlancaVNYC @yoruba69 @LatinoPolitics yeah, me too", 
+                                  "uid": 17050431, 
+                                  "user": 2, 
+                                  "user_score": 0.0, 
+                                  "users": {
+                                    "2": 1
+                                  }
+                                }, 
+                                {
+                                  "children": [
+                                    {
+                                      "entropy_score": 0.0, 
+                                      "favourites": 0, 
+                                      "follower": true, 
+                                      "id": 450380084328034304, 
+                                      "reply": false, 
+                                      "timestamp": "Sun Mar 30 21:12:34 +0000 2014", 
+                                      "tree_size": 1, 
+                                      "tweet": "RT @BlancaVNYC: I'm not sure i want to see a \"Latino Malcolm X\" - I want to see a good film that's true to Latinidad. @julito77 @yoruba69 @\u2026", 
+                                      "uid": 3164001, 
+                                      "user": 6, 
+                                      "user_score": 0.0, 
+                                      "users": {
+                                        "6": 1
+                                      }
+                                    }, 
+                                    {
+                                      "children": [
+                                        {
+                                          "children": [
+                                            {
+                                              "entropy_score": 0.0, 
+                                              "favourites": 0, 
+                                              "follower": true, 
+                                              "id": 450376887651823616, 
+                                              "reply": false, 
+                                              "timestamp": "Sun Mar 30 20:59:52 +0000 2014", 
+                                              "tree_size": 1, 
+                                              "tweet": "RT @BlancaVNYC: What Luna should recognize is that HE is not capable of making a film that is rich in history- &amp;emotion @julito77 @yoruba69\u2026", 
+                                              "uid": 17050431, 
+                                              "user": 2, 
+                                              "user_score": 0.0, 
+                                              "users": {
+                                                "2": 1
+                                              }
+                                            }, 
+                                            {
+                                              "children": [
+                                                {
+                                                  "entropy_score": 0.0, 
+                                                  "favourites": 1, 
+                                                  "follower": false, 
+                                                  "id": 450377396257304577, 
+                                                  "reply": true, 
+                                                  "timestamp": "Sun Mar 30 21:01:53 +0000 2014", 
+                                                  "tree_size": 1, 
+                                                  "tweet": "We all wanted that for Diego Luna. But his goal was clear - no history, all Hollywood. @julito77 @yoruba69 @LatinoPolitics", 
+                                                  "uid": 203400403, 
+                                                  "user": 5, 
+                                                  "user_score": 0.0, 
+                                                  "users": {
+                                                    "5": 1
+                                                  }
+                                                }
+                                              ], 
+                                              "entropy_score": 0.0, 
+                                              "favourites": 0, 
+                                              "follower": true, 
+                                              "id": 450376972355764224, 
+                                              "reply": true, 
+                                              "timestamp": "Sun Mar 30 21:00:12 +0000 2014", 
+                                              "tree_size": 2, 
+                                              "tweet": "@BlancaVNYC @yoruba69 @LatinoPolitics looks like it, I was giving him the benefit of doubt until I saw the film, but you're right", 
+                                              "uid": 17050431, 
+                                              "user": 2, 
+                                              "user_score": 0.6931471805599453, 
+                                              "users": {
+                                                "2": 1, 
+                                                "5": 1
+                                              }
+                                            }, 
+                                            {
+                                              "children": [
+                                                {
+                                                  "entropy_score": 0.0, 
+                                                  "favourites": 0, 
+                                                  "follower": true, 
+                                                  "id": 450377531712360449, 
+                                                  "reply": false, 
+                                                  "timestamp": "Sun Mar 30 21:02:25 +0000 2014", 
+                                                  "tree_size": 1, 
+                                                  "tweet": "RT @BlancaVNYC: So, who are the Latino filmmakers that COULD tell the Chavez story that is historical&amp; emotional?@julito77 @yoruba69 @Latin\u2026", 
+                                                  "uid": 17050431, 
+                                                  "user": 2, 
+                                                  "user_score": 0.0, 
+                                                  "users": {
+                                                    "2": 1
+                                                  }
+                                                }, 
+                                                {
+                                                  "entropy_score": 0.0, 
+                                                  "favourites": 0, 
+                                                  "follower": true, 
+                                                  "id": 450377842464153600, 
+                                                  "reply": true, 
+                                                  "timestamp": "Sun Mar 30 21:03:39 +0000 2014", 
+                                                  "tree_size": 1, 
+                                                  "tweet": "@BlancaVNYC off to go some family things, but will circle back later tonight!", 
+                                                  "uid": 17050431, 
+                                                  "user": 2, 
+                                                  "user_score": 0.0, 
+                                                  "users": {
+                                                    "2": 1
+                                                  }
+                                                }, 
+                                                {
+                                                  "children": [
+                                                    {
+                                                      "entropy_score": 0.0, 
+                                                      "favourites": 0, 
+                                                      "follower": false, 
+                                                      "id": 450383958417874945, 
+                                                      "reply": false, 
+                                                      "timestamp": "Sun Mar 30 21:27:58 +0000 2014", 
+                                                      "tree_size": 1, 
+                                                      "tweet": "RT @BlancaVNYC: Maybe @Esai_Morales will direct film that speaks to our history.Just saw #GunHillRoad. He is excellent! @julito77 @yoruba69\u2026", 
+                                                      "uid": 585741559, 
+                                                      "user": 4, 
+                                                      "user_score": 0.0, 
+                                                      "users": {
+                                                        "4": 1
+                                                      }
+                                                    }
+                                                  ], 
+                                                  "entropy_score": 0.0, 
+                                                  "favourites": 1, 
+                                                  "follower": false, 
+                                                  "id": 450379017661976576, 
+                                                  "reply": true, 
+                                                  "timestamp": "Sun Mar 30 21:08:20 +0000 2014", 
+                                                  "tree_size": 2, 
+                                                  "tweet": "Maybe @Esai_Morales will direct film that speaks to our history.Just saw #GunHillRoad. He is excellent! @julito77 @yoruba69 @LatinoPolitics", 
+                                                  "uid": 203400403, 
+                                                  "user": 5, 
+                                                  "user_score": 0.6931471805599453, 
+                                                  "users": {
+                                                    "4": 1, 
+                                                    "5": 1
+                                                  }
+                                                }, 
+                                                {
+                                                  "entropy_score": 0.0, 
+                                                  "favourites": 0, 
+                                                  "follower": false, 
+                                                  "id": 450384013262213120, 
+                                                  "reply": true, 
+                                                  "timestamp": "Sun Mar 30 21:28:11 +0000 2014", 
+                                                  "tree_size": 1, 
+                                                  "tweet": "@BlancaVNYC @julito77 @yoruba69 @LatinoPolitics  come visit me at 49 grove at nyc 4-3 and I ll tell you Chavez fam http://t.co/VGMKuehRKk", 
+                                                  "uid": 34062187, 
+                                                  "user": 1, 
+                                                  "user_score": 0.0, 
+                                                  "users": {
+                                                    "1": 1
+                                                  }
+                                                }
+                                              ], 
+                                              "entropy_score": 1.4653969442311348, 
+                                              "favourites": 0, 
+                                              "follower": false, 
+                                              "id": 450376977086939136, 
+                                              "reply": true, 
+                                              "timestamp": "Sun Mar 30 21:00:13 +0000 2014", 
+                                              "tree_size": 6, 
+                                              "tweet": "So, who are the Latino filmmakers that COULD tell the Chavez story that is historical&amp; emotional?@julito77 @yoruba69 @LatinoPolitics", 
+                                              "uid": 203400403, 
+                                              "user": 5, 
+                                              "user_score": 1.3296613488547582, 
+                                              "users": {
+                                                "1": 1, 
+                                                "2": 2, 
+                                                "4": 1, 
+                                                "5": 2
+                                              }
+                                            }
+                                          ], 
+                                          "entropy_score": 2.3989510577301933, 
+                                          "favourites": 1, 
+                                          "follower": false, 
+                                          "id": 450376627420426241, 
+                                          "reply": true, 
+                                          "timestamp": "Sun Mar 30 20:58:50 +0000 2014", 
+                                          "tree_size": 10, 
+                                          "tweet": "What Luna should recognize is that HE is not capable of making a film that is rich in history- &amp;emotion @julito77 @yoruba69 @LatinoPolitics", 
+                                          "uid": 203400403, 
+                                          "user": 5, 
+                                          "user_score": 1.1935496040981333, 
+                                          "users": {
+                                            "1": 1, 
+                                            "2": 4, 
+                                            "4": 1, 
+                                            "5": 4
+                                          }
+                                        }, 
+                                        {
+                                          "children": [
+                                            {
+                                              "children": [
+                                                {
+                                                  "children": [
+                                                    {
+                                                      "children": [
+                                                        {
+                                                          "children": [
+                                                            {
+                                                              "entropy_score": 0.0, 
+                                                              "favourites": 0, 
+                                                              "follower": false, 
+                                                              "id": 450378177521934336, 
+                                                              "reply": false, 
+                                                              "timestamp": "Sun Mar 30 21:04:59 +0000 2014", 
+                                                              "tree_size": 1, 
+                                                              "tweet": "RT @julito77: @BlancaVNYC @yoruba69 @LatinoPolitics :) all good! LOL you know I am super chill", 
+                                                              "uid": 203400403, 
+                                                              "user": 5, 
+                                                              "user_score": 0.0, 
+                                                              "users": {
+                                                                "5": 1
+                                                              }
+                                                            }
+                                                          ], 
+                                                          "entropy_score": 0.0, 
+                                                          "favourites": 0, 
+                                                          "follower": true, 
+                                                          "id": 450377954540146688, 
+                                                          "reply": true, 
+                                                          "timestamp": "Sun Mar 30 21:04:06 +0000 2014", 
+                                                          "tree_size": 2, 
+                                                          "tweet": "@BlancaVNYC @yoruba69 @LatinoPolitics :) all good! LOL you know I am super chill", 
+                                                          "uid": 17050431, 
+                                                          "user": 2, 
+                                                          "user_score": 0.6931471805599453, 
+                                                          "users": {
+                                                            "2": 1, 
+                                                            "5": 1
+                                                          }
+                                                        }, 
+                                                        {
+                                                          "children": [
+                                                            {
+                                                              "entropy_score": 0.0, 
+                                                              "favourites": 0, 
+                                                              "follower": true, 
+                                                              "id": 450378209537032192, 
+                                                              "reply": false, 
+                                                              "timestamp": "Sun Mar 30 21:05:07 +0000 2014", 
+                                                              "tree_size": 1, 
+                                                              "tweet": "RT @LatinoPolitics: @BlancaVNYC @julito77 interview that @SonaliKolhatkar did w/ @diegoluna_ which I refer to in my review convinced me he \u2026", 
+                                                              "uid": 17050431, 
+                                                              "user": 2, 
+                                                              "user_score": 0.0, 
+                                                              "users": {
+                                                                "2": 1
+                                                              }
+                                                            }, 
+                                                            {
+                                                              "entropy_score": 0.0, 
+                                                              "favourites": 0, 
+                                                              "follower": true, 
+                                                              "id": 450378208463290368, 
+                                                              "reply": false, 
+                                                              "timestamp": "Sun Mar 30 21:05:07 +0000 2014", 
+                                                              "tree_size": 1, 
+                                                              "tweet": "RT @LatinoPolitics: @BlancaVNYC @julito77 interview that @SonaliKolhatkar did w/ @diegoluna_ which I refer to in my review convinced me he \u2026", 
+                                                              "uid": 203400403, 
+                                                              "user": 5, 
+                                                              "user_score": 0.0, 
+                                                              "users": {
+                                                                "5": 1
+                                                              }
+                                                            }, 
+                                                            {
+                                                              "entropy_score": 0.0, 
+                                                              "favourites": 0, 
+                                                              "follower": true, 
+                                                              "id": 450403306209148928, 
+                                                              "reply": true, 
+                                                              "timestamp": "Sun Mar 30 22:44:50 +0000 2014", 
+                                                              "tree_size": 1, 
+                                                              "tweet": "@LatinoPolitics @julito77 @BlancaVNYC @SonaliKolhatkar @diegoluna_  it starts with the script", 
+                                                              "uid": 34062187, 
+                                                              "user": 1, 
+                                                              "user_score": 0.0, 
+                                                              "users": {
+                                                                "1": 1
+                                                              }
+                                                            }
+                                                          ], 
+                                                          "entropy_score": 1.2084735175349208, 
+                                                          "favourites": 0, 
+                                                          "follower": true, 
+                                                          "id": 450378072835899392, 
+                                                          "reply": true, 
+                                                          "timestamp": "Sun Mar 30 21:04:34 +0000 2014", 
+                                                          "tree_size": 4, 
+                                                          "tweet": "@BlancaVNYC @julito77 interview that @SonaliKolhatkar did w/ @diegoluna_ which I refer to in my review convinced me he wasn't up 2 the task.", 
+                                                          "uid": 17167550, 
+                                                          "user": 0, 
+                                                          "user_score": 1.3862943611198906, 
+                                                          "users": {
+                                                            "0": 1, 
+                                                            "1": 1, 
+                                                            "2": 1, 
+                                                            "5": 1
+                                                          }
+                                                        }, 
+                                                        {
+                                                          "children": [
+                                                            {
+                                                              "entropy_score": 0.0, 
+                                                              "favourites": 0, 
+                                                              "follower": true, 
+                                                              "id": 450377994557980672, 
+                                                              "reply": false, 
+                                                              "timestamp": "Sun Mar 30 21:04:16 +0000 2014", 
+                                                              "tree_size": 1, 
+                                                              "tweet": "RT @BlancaVNYC: My student @kellybelly94, told me the ff: \"Movies are meant to entertain, films to educate\" @julito77 @yoruba69 @LatinoPoli\u2026", 
+                                                              "uid": 17050431, 
+                                                              "user": 2, 
+                                                              "user_score": 0.0, 
+                                                              "users": {
+                                                                "2": 1
+                                                              }
+                                                            }, 
+                                                            {
+                                                              "children": [
+                                                                {
+                                                                  "children": [
+                                                                    {
+                                                                      "entropy_score": 0.0, 
+                                                                      "favourites": 0, 
+                                                                      "follower": true, 
+                                                                      "id": 450379247404998657, 
+                                                                      "reply": false, 
+                                                                      "timestamp": "Sun Mar 30 21:09:14 +0000 2014", 
+                                                                      "tree_size": 1, 
+                                                                      "tweet": "RT @LatinoPolitics: @BlancaVNYC @julito77 @yoruba69 I can agree w/ that.I still wonder whether Luis Valdez of Teatro Campesino was consulte\u2026", 
+                                                                      "uid": 17050431, 
+                                                                      "user": 2, 
+                                                                      "user_score": 0.0, 
+                                                                      "users": {
+                                                                        "2": 1
+                                                                      }
+                                                                    }, 
+                                                                    {
+                                                                      "entropy_score": 0.0, 
+                                                                      "favourites": 0, 
+                                                                      "follower": true, 
+                                                                      "id": 450382224429711360, 
+                                                                      "reply": false, 
+                                                                      "timestamp": "Sun Mar 30 21:21:04 +0000 2014", 
+                                                                      "tree_size": 1, 
+                                                                      "tweet": "RT @LatinoPolitics: @BlancaVNYC @julito77 @yoruba69 I can agree w/ that.I still wonder whether Luis Valdez of Teatro Campesino was consulte\u2026", 
+                                                                      "uid": 585741559, 
+                                                                      "user": 4, 
+                                                                      "user_score": 0.0, 
+                                                                      "users": {
+                                                                        "4": 1
+                                                                      }
+                                                                    }, 
+                                                                    {
+                                                                      "children": [
+                                                                        {
+                                                                          "children": [
+                                                                            {
+                                                                              "entropy_score": 0.0, 
+                                                                              "favourites": 0, 
+                                                                              "follower": true, 
+                                                                              "id": 450383455315308544, 
+                                                                              "reply": false, 
+                                                                              "timestamp": "Sun Mar 30 21:25:58 +0000 2014", 
+                                                                              "tree_size": 1, 
+                                                                              "tweet": "RT @LatinoPolitics: @ricknajera @julito77 @BlancaVNYC @yoruba69 I paid full price to see it, but support doesn't mean that I won't criticiz\u2026", 
+                                                                              "uid": 17050431, 
+                                                                              "user": 2, 
+                                                                              "user_score": 0.0, 
+                                                                              "users": {
+                                                                                "2": 1
+                                                                              }
+                                                                            }, 
+                                                                            {
+                                                                              "children": [
+                                                                                {
+                                                                                  "entropy_score": 0.0, 
+                                                                                  "favourites": 0, 
+                                                                                  "follower": false, 
+                                                                                  "id": 450386516762558464, 
+                                                                                  "reply": false, 
+                                                                                  "timestamp": "Sun Mar 30 21:38:08 +0000 2014", 
+                                                                                  "tree_size": 1, 
+                                                                                  "tweet": "RT @BlancaVNYC: @LatinoPolitics agreed. @ricknajera @julito77 @yoruba69", 
+                                                                                  "uid": 34062187, 
+                                                                                  "user": 1, 
+                                                                                  "user_score": 0.0, 
+                                                                                  "users": {
+                                                                                    "1": 1
+                                                                                  }
+                                                                                }
+                                                                              ], 
+                                                                              "entropy_score": 0.0, 
+                                                                              "favourites": 0, 
+                                                                              "follower": true, 
+                                                                              "id": 450383958069772288, 
+                                                                              "reply": true, 
+                                                                              "timestamp": "Sun Mar 30 21:27:57 +0000 2014", 
+                                                                              "tree_size": 2, 
+                                                                              "tweet": "@LatinoPolitics agreed. @ricknajera @julito77 @yoruba69", 
+                                                                              "uid": 203400403, 
+                                                                              "user": 5, 
+                                                                              "user_score": 0.6931471805599453, 
+                                                                              "users": {
+                                                                                "1": 1, 
+                                                                                "5": 1
+                                                                              }
+                                                                            }, 
+                                                                            {
+                                                                              "children": [
+                                                                                {
+                                                                                  "children": [
+                                                                                    {
+                                                                                      "children": [
+                                                                                        {
+                                                                                          "children": [
+                                                                                            {
+                                                                                              "children": [
+                                                                                                {
+                                                                                                  "children": [
+                                                                                                    {
+                                                                                                      "entropy_score": 0.0, 
+                                                                                                      "favourites": 0, 
+                                                                                                      "follower": true, 
+                                                                                                      "id": 450402281406881792, 
+                                                                                                      "reply": false, 
+                                                                                                      "timestamp": "Sun Mar 30 22:40:46 +0000 2014", 
+                                                                                                      "tree_size": 1, 
+                                                                                                      "tweet": "RT @yoruba69: @ricknajera @julito77 @LatinoPolitics @BlancaVNYC Always! Keep these conversations going! #familia #Latinos", 
+                                                                                                      "uid": 17050431, 
+                                                                                                      "user": 2, 
+                                                                                                      "user_score": 0.0, 
+                                                                                                      "users": {
+                                                                                                        "2": 1
+                                                                                                      }
+                                                                                                    }, 
+                                                                                                    {
+                                                                                                      "entropy_score": 0.0, 
+                                                                                                      "favourites": 0, 
+                                                                                                      "follower": false, 
+                                                                                                      "id": 450413183447351296, 
+                                                                                                      "reply": false, 
+                                                                                                      "timestamp": "Sun Mar 30 23:24:05 +0000 2014", 
+                                                                                                      "tree_size": 1, 
+                                                                                                      "tweet": "RT @yoruba69: @ricknajera @julito77 @LatinoPolitics @BlancaVNYC Always! Keep these conversations going! #familia #Latinos", 
+                                                                                                      "uid": 203400403, 
+                                                                                                      "user": 5, 
+                                                                                                      "user_score": 0.0, 
+                                                                                                      "users": {
+                                                                                                        "5": 1
+                                                                                                      }
+                                                                                                    }
+                                                                                                  ], 
+                                                                                                  "entropy_score": 0.7624618986159398, 
+                                                                                                  "favourites": 1, 
+                                                                                                  "follower": false, 
+                                                                                                  "id": 450399168998424576, 
+                                                                                                  "reply": true, 
+                                                                                                  "timestamp": "Sun Mar 30 22:28:24 +0000 2014", 
+                                                                                                  "tree_size": 3, 
+                                                                                                  "tweet": "@ricknajera @julito77 @LatinoPolitics @BlancaVNYC Always! Keep these conversations going! #familia #Latinos", 
+                                                                                                  "uid": 585741559, 
+                                                                                                  "user": 4, 
+                                                                                                  "user_score": 1.0986122886681096, 
+                                                                                                  "users": {
+                                                                                                    "2": 1, 
+                                                                                                    "4": 1, 
+                                                                                                    "5": 1
+                                                                                                  }
+                                                                                                }
+                                                                                              ], 
+                                                                                              "entropy_score": 0.7624618986159398, 
+                                                                                              "favourites": 1, 
+                                                                                              "follower": false, 
+                                                                                              "id": 450395554346835968, 
+                                                                                              "reply": true, 
+                                                                                              "timestamp": "Sun Mar 30 22:14:02 +0000 2014", 
+                                                                                              "tree_size": 4, 
+                                                                                              "tweet": "@julito77 @LatinoPolitics @BlancaVNYC @yoruba69  here say we all who is in NYC April 3 rd ill be there and keep conversation going", 
+                                                                                              "uid": 34062187, 
+                                                                                              "user": 1, 
+                                                                                              "user_score": 1.3862943611198906, 
+                                                                                              "users": {
+                                                                                                "1": 1, 
+                                                                                                "2": 1, 
+                                                                                                "4": 1, 
+                                                                                                "5": 1
+                                                                                              }
+                                                                                            }
+                                                                                          ], 
+                                                                                          "entropy_score": 0.7624618986159398, 
+                                                                                          "favourites": 0, 
+                                                                                          "follower": false, 
+                                                                                          "id": 450392804725121024, 
+                                                                                          "reply": true, 
+                                                                                          "timestamp": "Sun Mar 30 22:03:07 +0000 2014", 
+                                                                                          "tree_size": 5, 
+                                                                                          "tweet": "@ricknajera @LatinoPolitics @BlancaVNYC @yoruba69 yes to all", 
+                                                                                          "uid": 17050431, 
+                                                                                          "user": 2, 
+                                                                                          "user_score": 1.3321790402101223, 
+                                                                                          "users": {
+                                                                                            "1": 1, 
+                                                                                            "2": 2, 
+                                                                                            "4": 1, 
+                                                                                            "5": 1
+                                                                                          }
+                                                                                        }
+                                                                                      ], 
+                                                                                      "entropy_score": 0.7624618986159398, 
+                                                                                      "favourites": 0, 
+                                                                                      "follower": true, 
+                                                                                      "id": 450392131492798464, 
+                                                                                      "reply": true, 
+                                                                                      "timestamp": "Sun Mar 30 22:00:26 +0000 2014", 
+                                                                                      "tree_size": 6, 
+                                                                                      "tweet": "@LatinoPolitics @julito77 @BlancaVNYC @yoruba69  agreed totally we need to expect more as artists", 
+                                                                                      "uid": 34062187, 
+                                                                                      "user": 1, 
+                                                                                      "user_score": 1.329661348854758, 
+                                                                                      "users": {
+                                                                                        "1": 2, 
+                                                                                        "2": 2, 
+                                                                                        "4": 1, 
+                                                                                        "5": 1
+                                                                                      }
+                                                                                    }, 
+                                                                                    {
+                                                                                      "entropy_score": 0.0, 
+                                                                                      "favourites": 0, 
+                                                                                      "follower": true, 
+                                                                                      "id": 450392298660954112, 
+                                                                                      "reply": false, 
+                                                                                      "timestamp": "Sun Mar 30 22:01:06 +0000 2014", 
+                                                                                      "tree_size": 1, 
+                                                                                      "tweet": "RT @LatinoPolitics: @ricknajera @julito77 @BlancaVNYC @yoruba69 in this group, we are media makers, academics, etc. it's our job to have a \u2026", 
+                                                                                      "uid": 34062187, 
+                                                                                      "user": 1, 
+                                                                                      "user_score": 0.0, 
+                                                                                      "users": {
+                                                                                        "1": 1
+                                                                                      }
+                                                                                    }
+                                                                                  ], 
+                                                                                  "entropy_score": 1.2135898487331898, 
+                                                                                  "favourites": 0, 
+                                                                                  "follower": false, 
+                                                                                  "id": 450388160782925824, 
+                                                                                  "reply": true, 
+                                                                                  "timestamp": "Sun Mar 30 21:44:40 +0000 2014", 
+                                                                                  "tree_size": 8, 
+                                                                                  "tweet": "@ricknajera @julito77 @BlancaVNYC @yoruba69 in this group, we are media makers, academics, etc. it's our job to have a critical eye.", 
+                                                                                  "uid": 17167550, 
+                                                                                  "user": 0, 
+                                                                                  "user_score": 1.4941751382893085, 
+                                                                                  "users": {
+                                                                                    "0": 1, 
+                                                                                    "1": 3, 
+                                                                                    "2": 2, 
+                                                                                    "4": 1, 
+                                                                                    "5": 1
+                                                                                  }
+                                                                                }
+                                                                              ], 
+                                                                              "entropy_score": 1.2135898487331898, 
+                                                                              "favourites": 0, 
+                                                                              "follower": true, 
+                                                                              "id": 450387704551710720, 
+                                                                              "reply": true, 
+                                                                              "timestamp": "Sun Mar 30 21:42:51 +0000 2014", 
+                                                                              "tree_size": 9, 
+                                                                              "tweet": "@LatinoPolitics @julito77 @BlancaVNYC @yoruba69 I love that you are being critical you are my kind of audience http://t.co/j2vLjb26B5", 
+                                                                              "uid": 34062187, 
+                                                                              "user": 1, 
+                                                                              "user_score": 1.4270610433807247, 
+                                                                              "users": {
+                                                                                "0": 1, 
+                                                                                "1": 4, 
+                                                                                "2": 2, 
+                                                                                "4": 1, 
+                                                                                "5": 1
+                                                                              }
+                                                                            }
+                                                                          ], 
+                                                                          "entropy_score": 2.0071999040949526, 
+                                                                          "favourites": 2, 
+                                                                          "follower": false, 
+                                                                          "id": 450383038736637953, 
+                                                                          "reply": true, 
+                                                                          "timestamp": "Sun Mar 30 21:24:18 +0000 2014", 
+                                                                          "tree_size": 13, 
+                                                                          "tweet": "@ricknajera @julito77 @BlancaVNYC @yoruba69 I paid full price to see it, but support doesn't mean that I won't criticize it.", 
+                                                                          "uid": 17167550, 
+                                                                          "user": 0, 
+                                                                          "user_score": 1.4791328074296435, 
+                                                                          "users": {
+                                                                            "0": 2, 
+                                                                            "1": 5, 
+                                                                            "2": 3, 
+                                                                            "4": 1, 
+                                                                            "5": 2
+                                                                          }
+                                                                        }, 
+                                                                        {
+                                                                          "children": [
+                                                                            {
+                                                                              "children": [
+                                                                                {
+                                                                                  "entropy_score": 0.0, 
+                                                                                  "favourites": 0, 
+                                                                                  "follower": false, 
+                                                                                  "id": 450386476434333696, 
+                                                                                  "reply": true, 
+                                                                                  "timestamp": "Sun Mar 30 21:37:58 +0000 2014", 
+                                                                                  "tree_size": 1, 
+                                                                                  "tweet": "@BlancaVNYC @LatinoPolitics @julito77 @yoruba69  I do too we need  to expect more from ourselves and real Latinos lift the bar higher", 
+                                                                                  "uid": 34062187, 
+                                                                                  "user": 1, 
+                                                                                  "user_score": 0.0, 
+                                                                                  "users": {
+                                                                                    "1": 1
+                                                                                  }
+                                                                                }, 
+                                                                                {
+                                                                                  "entropy_score": 0.0, 
+                                                                                  "favourites": 0, 
+                                                                                  "follower": false, 
+                                                                                  "id": 450386501193326592, 
+                                                                                  "reply": false, 
+                                                                                  "timestamp": "Sun Mar 30 21:38:04 +0000 2014", 
+                                                                                  "tree_size": 1, 
+                                                                                  "tweet": "RT @BlancaVNYC: Also, I think it's ok to both watch and critique, no? @ricknajera @LatinoPolitics @julito77 @yoruba69", 
+                                                                                  "uid": 34062187, 
+                                                                                  "user": 1, 
+                                                                                  "user_score": 0.0, 
+                                                                                  "users": {
+                                                                                    "1": 1
+                                                                                  }
+                                                                                }
+                                                                              ], 
+                                                                              "entropy_score": 0.7624618986159398, 
+                                                                              "favourites": 0, 
+                                                                              "follower": false, 
+                                                                              "id": 450383497933619200, 
+                                                                              "reply": true, 
+                                                                              "timestamp": "Sun Mar 30 21:26:08 +0000 2014", 
+                                                                              "tree_size": 3, 
+                                                                              "tweet": "Also, I think it's ok to both watch and critique, no? @ricknajera @LatinoPolitics @julito77 @yoruba69", 
+                                                                              "uid": 203400403, 
+                                                                              "user": 5, 
+                                                                              "user_score": 0.6365141682948128, 
+                                                                              "users": {
+                                                                                "1": 2, 
+                                                                                "5": 1
+                                                                              }
+                                                                            }
+                                                                          ], 
+                                                                          "entropy_score": 0.7624618986159398, 
+                                                                          "favourites": 0, 
+                                                                          "follower": false, 
+                                                                          "id": 450383381260681217, 
+                                                                          "reply": true, 
+                                                                          "timestamp": "Sun Mar 30 21:25:40 +0000 2014", 
+                                                                          "tree_size": 4, 
+                                                                          "tweet": "I wonder if the \"support more Latino film\" actually translates to \"more Latino film\" @ricknajera @LatinoPolitics @julito77 @yoruba69", 
+                                                                          "uid": 203400403, 
+                                                                          "user": 5, 
+                                                                          "user_score": 0.6931471805599453, 
+                                                                          "users": {
+                                                                            "1": 2, 
+                                                                            "5": 2
+                                                                          }
+                                                                        }
+                                                                      ], 
+                                                                      "entropy_score": 3.369815834076995, 
+                                                                      "favourites": 0, 
+                                                                      "follower": true, 
+                                                                      "id": 450382762663374848, 
+                                                                      "reply": true, 
+                                                                      "timestamp": "Sun Mar 30 21:23:12 +0000 2014", 
+                                                                      "tree_size": 18, 
+                                                                      "tweet": "@LatinoPolitics @julito77 @BlancaVNYC @yoruba69 I'm sure many people were not consulted I still will support we need more films bigger issue", 
+                                                                      "uid": 34062187, 
+                                                                      "user": 1, 
+                                                                      "user_score": 1.3979917020604717, 
+                                                                      "users": {
+                                                                        "0": 2, 
+                                                                        "1": 8, 
+                                                                        "2": 3, 
+                                                                        "4": 1, 
+                                                                        "5": 4
+                                                                      }
+                                                                    }
+                                                                  ], 
+                                                                  "entropy_score": 3.803653294669182, 
+                                                                  "favourites": 1, 
+                                                                  "follower": true, 
+                                                                  "id": 450378942831013888, 
+                                                                  "reply": true, 
+                                                                  "timestamp": "Sun Mar 30 21:08:02 +0000 2014", 
+                                                                  "tree_size": 21, 
+                                                                  "tweet": "@BlancaVNYC @julito77 @yoruba69 I can agree w/ that.I still wonder whether Luis Valdez of Teatro Campesino was consulted 4 #CesarChavezMovie", 
+                                                                  "uid": 17167550, 
+                                                                  "user": 0, 
+                                                                  "user_score": 1.5012834639366597, 
+                                                                  "users": {
+                                                                    "0": 3, 
+                                                                    "1": 8, 
+                                                                    "2": 4, 
+                                                                    "4": 2, 
+                                                                    "5": 4
+                                                                  }
+                                                                }, 
+                                                                {
+                                                                  "entropy_score": 0.0, 
+                                                                  "favourites": 0, 
+                                                                  "follower": false, 
+                                                                  "id": 450382983342870528, 
+                                                                  "reply": true, 
+                                                                  "timestamp": "Sun Mar 30 21:24:05 +0000 2014", 
+                                                                  "tree_size": 1, 
+                                                                  "tweet": "@BlancaVNYC @julito77 @LatinoPolitics Just about every movie based based on fact takes liberties. The test: Is it faithful? Is it moving?", 
+                                                                  "uid": 585741559, 
+                                                                  "user": 4, 
+                                                                  "user_score": 0.0, 
+                                                                  "users": {
+                                                                    "4": 1
+                                                                  }
+                                                                }, 
+                                                                {
+                                                                  "entropy_score": 0.0, 
+                                                                  "favourites": 0, 
+                                                                  "follower": false, 
+                                                                  "id": 450383895729811457, 
+                                                                  "reply": true, 
+                                                                  "timestamp": "Sun Mar 30 21:27:43 +0000 2014", 
+                                                                  "tree_size": 1, 
+                                                                  "tweet": "@BlancaVNYC @julito77 @LatinoPolitics What comes to mind? Z. Spartacus. Lawrence of Arabia. Battle of Algiers. Malcolm X.", 
+                                                                  "uid": 585741559, 
+                                                                  "user": 4, 
+                                                                  "user_score": 0.0, 
+                                                                  "users": {
+                                                                    "4": 1
+                                                                  }
+                                                                }
+                                                              ], 
+                                                              "entropy_score": 4.194937440390765, 
+                                                              "favourites": 1, 
+                                                              "follower": false, 
+                                                              "id": 450378582930755584, 
+                                                              "important_users": true, 
+                                                              "reply": true, 
+                                                              "timestamp": "Sun Mar 30 21:06:36 +0000 2014", 
+                                                              "tree_size": 24, 
+                                                              "tweet": "And, im totally ok with Hollywood making movies - just don't disguise as \"historical\"&amp; authentic.  @julito77 @yoruba69 @LatinoPolitics", 
+                                                              "uid": 203400403, 
+                                                              "user": 5, 
+                                                              "user_score": 1.550182428240752, 
+                                                              "users": {
+                                                                "0": 3, 
+                                                                "1": 8, 
+                                                                "2": 4, 
+                                                                "4": 4, 
+                                                                "5": 5
+                                                              }
+                                                            }
+                                                          ], 
+                                                          "entropy_score": 4.379676002898356, 
+                                                          "favourites": 2, 
+                                                          "follower": false, 
+                                                          "id": 450377949788008448, 
+                                                          "important_users": true, 
+                                                          "reply": true, 
+                                                          "timestamp": "Sun Mar 30 21:04:05 +0000 2014", 
+                                                          "tree_size": 26, 
+                                                          "tweet": "My student @kellybelly94, told me the ff: \"Movies are meant to entertain, films to educate\" @julito77 @yoruba69 @LatinoPolitics", 
+                                                          "uid": 203400403, 
+                                                          "user": 5, 
+                                                          "user_score": 1.55523911411912, 
+                                                          "users": {
+                                                            "0": 3, 
+                                                            "1": 8, 
+                                                            "2": 5, 
+                                                            "4": 4, 
+                                                            "5": 6
+                                                          }
+                                                        }
+                                                      ], 
+                                                      "entropy_score": 6.250265889338795, 
+                                                      "favourites": 0, 
+                                                      "follower": false, 
+                                                      "id": 450377675228856320, 
+                                                      "important_entropy": true, 
+                                                      "reply": true, 
+                                                      "timestamp": "Sun Mar 30 21:03:00 +0000 2014", 
+                                                      "tree_size": 33, 
+                                                      "tweet": "Noooo, @julito77, the piece was excellent!!! It's a concept that I'm grappling with lately, that's all... @yoruba69 @LatinoPolitics", 
+                                                      "uid": 203400403, 
+                                                      "user": 5, 
+                                                      "user_score": 1.5491812486059269, 
+                                                      "users": {
+                                                        "0": 4, 
+                                                        "1": 9, 
+                                                        "2": 7, 
+                                                        "4": 4, 
+                                                        "5": 9
+                                                      }
+                                                    }
+                                                  ], 
+                                                  "entropy_score": 6.250265889338795, 
+                                                  "favourites": 0, 
+                                                  "follower": true, 
+                                                  "id": 450377501978943488, 
+                                                  "reply": true, 
+                                                  "timestamp": "Sun Mar 30 21:02:18 +0000 2014", 
+                                                  "tree_size": 34, 
+                                                  "tweet": "@BlancaVNYC @yoruba69 @LatinoPolitics I always come up with better lines AFTER my piece is published! #WriterProblems", 
+                                                  "uid": 17050431, 
+                                                  "user": 2, 
+                                                  "user_score": 1.5476567124264624, 
+                                                  "users": {
+                                                    "0": 4, 
+                                                    "1": 9, 
+                                                    "2": 8, 
+                                                    "4": 4, 
+                                                    "5": 9
+                                                  }
+                                                }
+                                              ], 
+                                              "entropy_score": 6.250265889338795, 
+                                              "favourites": 0, 
+                                              "follower": false, 
+                                              "id": 450377182658187264, 
+                                              "reply": true, 
+                                              "timestamp": "Sun Mar 30 21:01:02 +0000 2014", 
+                                              "tree_size": 35, 
+                                              "tweet": "I did. :) but I like your next point :) @julito77 @yoruba69 @LatinoPolitics", 
+                                              "uid": 203400403, 
+                                              "user": 5, 
+                                              "user_score": 1.5402977943932925, 
+                                              "users": {
+                                                "0": 4, 
+                                                "1": 9, 
+                                                "2": 8, 
+                                                "4": 4, 
+                                                "5": 10
+                                              }
+                                            }
+                                          ], 
+                                          "entropy_score": 6.250265889338795, 
+                                          "favourites": 0, 
+                                          "follower": true, 
+                                          "id": 450376651051139072, 
+                                          "reply": true, 
+                                          "timestamp": "Sun Mar 30 20:58:55 +0000 2014", 
+                                          "tree_size": 36, 
+                                          "tweet": "@BlancaVNYC it was an analogy about the very same point you are making, hope you didn't take it literally :) @yoruba69 @LatinoPolitics", 
+                                          "uid": 17050431, 
+                                          "user": 2, 
+                                          "user_score": 1.5372342659296785, 
+                                          "users": {
+                                            "0": 4, 
+                                            "1": 9, 
+                                            "2": 9, 
+                                            "4": 4, 
+                                            "5": 10
+                                          }
+                                        }, 
+                                        {
+                                          "children": [
+                                            {
+                                              "entropy_score": 0.0, 
+                                              "favourites": 0, 
+                                              "follower": false, 
+                                              "id": 450377190090506240, 
+                                              "reply": false, 
+                                              "timestamp": "Sun Mar 30 21:01:04 +0000 2014", 
+                                              "tree_size": 1, 
+                                              "tweet": "RT @julito77: @BlancaVNYC I wanted an epic Malcolm-X type movie, not 101 minutes of Lifetime, how's that? :) @yoruba69 @LatinoPolitics", 
+                                              "uid": 203400403, 
+                                              "user": 5, 
+                                              "user_score": 0.0, 
+                                              "users": {
+                                                "5": 1
+                                              }
+                                            }
+                                          ], 
+                                          "entropy_score": 0.0, 
+                                          "favourites": 2, 
+                                          "follower": true, 
+                                          "id": 450376839463452673, 
+                                          "reply": true, 
+                                          "timestamp": "Sun Mar 30 20:59:40 +0000 2014", 
+                                          "tree_size": 2, 
+                                          "tweet": "@BlancaVNYC I wanted an epic Malcolm-X type movie, not 101 minutes of Lifetime, how's that? :) @yoruba69 @LatinoPolitics", 
+                                          "uid": 17050431, 
+                                          "user": 2, 
+                                          "user_score": 0.6931471805599453, 
+                                          "users": {
+                                            "2": 1, 
+                                            "5": 1
+                                          }
+                                        }
+                                      ], 
+                                      "entropy_score": 9.391689938587911, 
+                                      "favourites": 1, 
+                                      "follower": false, 
+                                      "id": 450376251497533440, 
+                                      "important_entropy": true, 
+                                      "reply": true, 
+                                      "timestamp": "Sun Mar 30 20:57:20 +0000 2014", 
+                                      "tree_size": 49, 
+                                      "tweet": "But, Spike's MalcolmX is perfect example that Luna is wrong abt emotion&amp; history. @julito77 @yoruba69 @LatinoPolitics", 
+                                      "uid": 203400403, 
+                                      "user": 5, 
+                                      "user_score": 1.4851582551097973, 
+                                      "users": {
+                                        "0": 4, 
+                                        "1": 10, 
+                                        "2": 14, 
+                                        "4": 5, 
+                                        "5": 16
+                                      }
+                                    }
+                                  ], 
+                                  "entropy_score": 9.499532963195616, 
+                                  "favourites": 0, 
+                                  "follower": false, 
+                                  "id": 450375992914481152, 
+                                  "reply": true, 
+                                  "timestamp": "Sun Mar 30 20:56:18 +0000 2014", 
+                                  "tree_size": 51, 
+                                  "tweet": "I'm not sure i want to see a \"Latino Malcolm X\" - I want to see a good film that's true to Latinidad. @julito77 @yoruba69 @LatinoPolitics", 
+                                  "uid": 203400403, 
+                                  "user": 5, 
+                                  "user_score": 1.5449698013486433, 
+                                  "users": {
+                                    "0": 4, 
+                                    "1": 10, 
+                                    "2": 14, 
+                                    "4": 5, 
+                                    "5": 17, 
+                                    "6": 1
+                                  }
+                                }
+                              ], 
+                              "entropy_score": 9.604066092176827, 
+                              "favourites": 0, 
+                              "follower": false, 
+                              "id": 450375713468981248, 
+                              "reply": true, 
+                              "timestamp": "Sun Mar 30 20:55:12 +0000 2014", 
+                              "tree_size": 53, 
+                              "tweet": "I was astounded to read that Luna feels this way and speaks to who we encourage to make film. @julito77 @yoruba69 @LatinoPolitics", 
+                              "uid": 203400403, 
+                              "user": 5, 
+                              "user_score": 1.5313171476039213, 
+                              "users": {
+                                "0": 4, 
+                                "1": 10, 
+                                "2": 15, 
+                                "4": 5, 
+                                "5": 18, 
+                                "6": 1
+                              }
+                            }
+                          ], 
+                          "entropy_score": 9.70550375524774, 
+                          "favourites": 1, 
+                          "follower": false, 
+                          "id": 450375485797969920, 
+                          "reply": true, 
+                          "timestamp": "Sun Mar 30 20:54:18 +0000 2014", 
+                          "tree_size": 55, 
+                          "tweet": "If Luna believes emotion is divorced from context/history, then we shld support more Latino filmmakers @julito77 @yoruba69 @LatinoPolitics", 
+                          "uid": 203400403, 
+                          "user": 5, 
+                          "user_score": 1.5178063107490276, 
+                          "users": {
+                            "0": 4, 
+                            "1": 10, 
+                            "2": 16, 
+                            "4": 5, 
+                            "5": 19, 
+                            "6": 1
+                          }
+                        }, 
+                        {
+                          "entropy_score": 0.0, 
+                          "favourites": 0, 
+                          "follower": true, 
+                          "id": 450375556249694208, 
+                          "reply": true, 
+                          "timestamp": "Sun Mar 30 20:54:34 +0000 2014", 
+                          "tree_size": 1, 
+                          "tweet": "@BlancaVNYC @yoruba69 @LatinoPolitics that's the big one, certain topics scream for a \"history lesson,\" this is one of those topics", 
+                          "uid": 17050431, 
+                          "user": 2, 
+                          "user_score": 0.0, 
+                          "users": {
+                            "2": 1
+                          }
+                        }
+                      ], 
+                      "entropy_score": 9.804039584582037, 
+                      "favourites": 0, 
+                      "follower": false, 
+                      "id": 450375038236385280, 
+                      "reply": true, 
+                      "timestamp": "Sun Mar 30 20:52:31 +0000 2014", 
+                      "tree_size": 57, 
+                      "tweet": "Your point, @julito77, abt Luna's perspective on the purpose of film is important to note. @yoruba69 @LatinoPolitics", 
+                      "uid": 203400403, 
+                      "user": 5, 
+                      "user_score": 1.5044988071919885, 
+                      "users": {
+                        "0": 4, 
+                        "1": 10, 
+                        "2": 17, 
+                        "4": 5, 
+                        "5": 20, 
+                        "6": 1
+                      }
+                    }
+                  ], 
+                  "entropy_score": 9.804039584582037, 
+                  "favourites": 0, 
+                  "follower": true, 
+                  "id": 450374197102252032, 
+                  "reply": true, 
+                  "timestamp": "Sun Mar 30 20:49:10 +0000 2014", 
+                  "tree_size": 58, 
+                  "tweet": "@yoruba69 @LatinoPolitics all great points, Pablo.", 
+                  "uid": 17050431, 
+                  "user": 2, 
+                  "user_score": 1.4990713717567419, 
+                  "users": {
+                    "0": 4, 
+                    "1": 10, 
+                    "2": 18, 
+                    "4": 5, 
+                    "5": 20, 
+                    "6": 1
+                  }
+                }, 
+                {
+                  "entropy_score": 0.0, 
+                  "favourites": 0, 
+                  "follower": false, 
+                  "id": 450374750817492992, 
+                  "reply": false, 
+                  "timestamp": "Sun Mar 30 20:51:22 +0000 2014", 
+                  "tree_size": 1, 
+                  "tweet": "RT @yoruba69: @LatinoPolitics @julito77 At the same time, we want the next films to be deeper. More complex. Told better. And: financed!", 
+                  "uid": 203400403, 
+                  "user": 5, 
+                  "user_score": 0.0, 
+                  "users": {
+                    "5": 1
+                  }
+                }
+              ], 
+              "entropy_score": 9.990214201811987, 
+              "favourites": 2, 
+              "follower": true, 
+              "id": 450339660372656128, 
+              "reply": true, 
+              "timestamp": "Sun Mar 30 18:31:56 +0000 2014", 
+              "tree_size": 61, 
+              "tweet": "@LatinoPolitics @julito77 At the same time, we want the next films to be deeper. More complex. Told better. And: financed!", 
+              "uid": 585741559, 
+              "user": 4, 
+              "user_score": 1.5010230939086782, 
+              "users": {
+                "0": 4, 
+                "1": 10, 
+                "2": 19, 
+                "4": 6, 
+                "5": 21, 
+                "6": 1
+              }
+            }
+          ], 
+          "entropy_score": 11.045039684411067, 
+          "favourites": 0, 
+          "follower": false, 
+          "id": 450337938769866752, 
+          "important_users": true, 
+          "reply": true, 
+          "timestamp": "Sun Mar 30 18:25:06 +0000 2014", 
+          "tree_size": 66, 
+          "tweet": "@yoruba69 @julito77 Gracias, I hope people like @diegoluna_ @PantelionFilms @CANANApresenta @rosariodawson @AmericaFerrera R listening too.", 
+          "uid": 17167550, 
+          "user": 0, 
+          "user_score": 1.5659870737973256, 
+          "users": {
+            "0": 7, 
+            "1": 10, 
+            "2": 19, 
+            "4": 8, 
+            "5": 21, 
+            "6": 1
+          }
+        }
+      ], 
+      "entropy_score": 11.13036672587369, 
+      "favourites": 1, 
+      "follower": true, 
+      "id": 450337405598707712, 
+      "important_users": true, 
+      "reply": true, 
+      "timestamp": "Sun Mar 30 18:22:59 +0000 2014", 
+      "tree_size": 68, 
+      "tweet": "@LatinoPolitics @julito77 I truly LOVE the issues you are raising. The thought that's being provoked. Sigue.", 
+      "uid": 585741559, 
+      "user": 4, 
+      "user_score": 1.5684509429316167, 
+      "users": {
+        "0": 7, 
+        "1": 10, 
+        "2": 20, 
+        "4": 9, 
+        "5": 21, 
+        "6": 1
+      }
+    }
+  ], 
+  "entropy_score": 20.41302627788156, 
+  "favourites": 17, 
+  "id": 450328223285403648, 
+  "important_entropy": true, 
+  "important_users": true, 
+  "reply": false, 
+  "timestamp": "Sun Mar 30 17:46:29 +0000 2014", 
+  "total_tweets": 117, 
+  "total_users": 12, 
+  "tree_size": 117, 
+  "tweet": "\"@ what point do Latinos go beyond supporting mediocre movies &amp; when will we get content that is outstanding &amp; thought-provoking?\" @julito77", 
+  "uid": 17167550, 
+  "user": 0, 
+  "user_score": 1.8264089514587376, 
+  "users": {
+    "0": 13, 
+    "1": 25, 
+    "10": 1, 
+    "11": 1, 
+    "2": 35, 
+    "3": 3, 
+    "4": 12, 
+    "5": 23, 
+    "6": 1, 
+    "7": 1, 
+    "8": 1, 
+    "9": 1
+  }
+}

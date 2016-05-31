@@ -1,0 +1,2066 @@
+{
+  "children": [
+    {
+      "entropy_score": 0.0, 
+      "favourites": 0, 
+      "follower": true, 
+      "id": 456884520617140224, 
+      "reply": false, 
+      "timestamp": "Thu Apr 17 19:58:52 +0000 2014", 
+      "tree_size": 1, 
+      "tweet": "RT @erynnwatson: I'm an ordinary Canadian &amp; I oppose bill #c23. \\n #Selfie4Democracy http://t.co/8YL5O8r4rH", 
+      "uid": 1448938615, 
+      "user": 41, 
+      "user_score": 0.0, 
+      "users": {
+        "41": 1
+      }
+    }, 
+    {
+      "entropy_score": 0.0, 
+      "favourites": 0, 
+      "follower": false, 
+      "id": 456904304969146368, 
+      "reply": false, 
+      "timestamp": "Thu Apr 17 21:17:29 +0000 2014", 
+      "tree_size": 1, 
+      "tweet": "RT @erynnwatson: I'm an ordinary Canadian &amp; I oppose bill #c23. \\n #Selfie4Democracy http://t.co/8YL5O8r4rH", 
+      "uid": 25691741, 
+      "user": 40, 
+      "user_score": 0.0, 
+      "users": {
+        "40": 1
+      }
+    }, 
+    {
+      "entropy_score": 0.0, 
+      "favourites": 0, 
+      "follower": false, 
+      "id": 456909123271917568, 
+      "reply": false, 
+      "timestamp": "Thu Apr 17 21:36:38 +0000 2014", 
+      "tree_size": 1, 
+      "tweet": "RT @erynnwatson: I'm an ordinary Canadian &amp; I oppose bill #c23. \\n #Selfie4Democracy http://t.co/8YL5O8r4rH", 
+      "uid": 224728487, 
+      "user": 39, 
+      "user_score": 0.0, 
+      "users": {
+        "39": 1
+      }
+    }, 
+    {
+      "children": [
+        {
+          "entropy_score": 0.0, 
+          "favourites": 0, 
+          "follower": false, 
+          "id": 456919879803625472, 
+          "reply": false, 
+          "timestamp": "Thu Apr 17 22:19:23 +0000 2014", 
+          "tree_size": 1, 
+          "tweet": "RT @robertwalker4: @erynnwatson very nice, succinct #Selfie4Democracy Be sure to contact your MP and Senator(s) Stop #c23 #cdnpoli", 
+          "uid": 22074696, 
+          "user": 0, 
+          "user_score": 0.0, 
+          "users": {
+            "0": 1
+          }
+        }
+      ], 
+      "entropy_score": 0.0, 
+      "favourites": 1, 
+      "follower": false, 
+      "id": 456909407268253696, 
+      "reply": true, 
+      "timestamp": "Thu Apr 17 21:37:46 +0000 2014", 
+      "tree_size": 2, 
+      "tweet": "@erynnwatson very nice, succinct #Selfie4Democracy Be sure to contact your MP and Senator(s) Stop #c23 #cdnpoli", 
+      "uid": 224728487, 
+      "user": 39, 
+      "user_score": 0.6931471805599453, 
+      "users": {
+        "0": 1, 
+        "39": 1
+      }
+    }, 
+    {
+      "entropy_score": 0.0, 
+      "favourites": 0, 
+      "follower": false, 
+      "id": 456910942433849344, 
+      "reply": false, 
+      "timestamp": "Thu Apr 17 21:43:52 +0000 2014", 
+      "tree_size": 1, 
+      "tweet": "RT @erynnwatson: I'm an ordinary Canadian &amp; I oppose bill #c23. \\n #Selfie4Democracy http://t.co/8YL5O8r4rH", 
+      "uid": 519842812, 
+      "user": 38, 
+      "user_score": 0.0, 
+      "users": {
+        "38": 1
+      }
+    }, 
+    {
+      "entropy_score": 0.0, 
+      "favourites": 0, 
+      "follower": false, 
+      "id": 456918559382573056, 
+      "reply": false, 
+      "timestamp": "Thu Apr 17 22:14:08 +0000 2014", 
+      "tree_size": 1, 
+      "tweet": "RT @erynnwatson: I'm an ordinary Canadian &amp; I oppose bill #c23. \\n #Selfie4Democracy http://t.co/8YL5O8r4rH", 
+      "uid": 19557595, 
+      "user": 37, 
+      "user_score": 0.0, 
+      "users": {
+        "37": 1
+      }
+    }, 
+    {
+      "entropy_score": 0.0, 
+      "favourites": 0, 
+      "follower": false, 
+      "id": 456920048095870976, 
+      "reply": false, 
+      "timestamp": "Thu Apr 17 22:20:03 +0000 2014", 
+      "tree_size": 1, 
+      "tweet": "RT @erynnwatson: I'm an ordinary Canadian &amp; I oppose bill #c23. \\n #Selfie4Democracy http://t.co/8YL5O8r4rH", 
+      "uid": 18770502, 
+      "user": 36, 
+      "user_score": 0.0, 
+      "users": {
+        "36": 1
+      }
+    }, 
+    {
+      "entropy_score": 0.0, 
+      "favourites": 0, 
+      "follower": false, 
+      "id": 456923161725247488, 
+      "reply": false, 
+      "timestamp": "Thu Apr 17 22:32:25 +0000 2014", 
+      "tree_size": 1, 
+      "tweet": "RT @erynnwatson: I'm an ordinary Canadian &amp; I oppose bill #c23. \\n #Selfie4Democracy http://t.co/8YL5O8r4rH", 
+      "uid": 8749682, 
+      "user": 35, 
+      "user_score": 0.0, 
+      "users": {
+        "35": 1
+      }
+    }, 
+    {
+      "entropy_score": 0.0, 
+      "favourites": 0, 
+      "follower": false, 
+      "id": 456923675929739264, 
+      "reply": false, 
+      "timestamp": "Thu Apr 17 22:34:28 +0000 2014", 
+      "tree_size": 1, 
+      "tweet": "RT @erynnwatson: I'm an ordinary Canadian &amp; I oppose bill #c23. \\n #Selfie4Democracy http://t.co/8YL5O8r4rH", 
+      "uid": 1917266186, 
+      "user": 34, 
+      "user_score": 0.0, 
+      "users": {
+        "34": 1
+      }
+    }, 
+    {
+      "entropy_score": 0.0, 
+      "favourites": 0, 
+      "follower": false, 
+      "id": 456951597717651456, 
+      "reply": false, 
+      "timestamp": "Fri Apr 18 00:25:25 +0000 2014", 
+      "tree_size": 1, 
+      "tweet": "RT @erynnwatson: I'm an ordinary Canadian &amp; I oppose bill #c23. \\n #Selfie4Democracy http://t.co/8YL5O8r4rH", 
+      "uid": 543483913, 
+      "user": 33, 
+      "user_score": 0.0, 
+      "users": {
+        "33": 1
+      }
+    }, 
+    {
+      "entropy_score": 0.0, 
+      "favourites": 0, 
+      "follower": false, 
+      "id": 456977685411930112, 
+      "reply": false, 
+      "timestamp": "Fri Apr 18 02:09:05 +0000 2014", 
+      "tree_size": 1, 
+      "tweet": "RT @erynnwatson: I'm an ordinary Canadian &amp; I oppose bill #c23. \\n #Selfie4Democracy http://t.co/8YL5O8r4rH", 
+      "uid": 1220560105, 
+      "user": 32, 
+      "user_score": 0.0, 
+      "users": {
+        "32": 1
+      }
+    }, 
+    {
+      "entropy_score": 0.0, 
+      "favourites": 0, 
+      "follower": false, 
+      "id": 457082131244916736, 
+      "reply": false, 
+      "timestamp": "Fri Apr 18 09:04:07 +0000 2014", 
+      "tree_size": 1, 
+      "tweet": "RT @erynnwatson: I'm an ordinary Canadian &amp; I oppose bill #c23. \\n #Selfie4Democracy http://t.co/8YL5O8r4rH", 
+      "uid": 1380472274, 
+      "user": 31, 
+      "user_score": 0.0, 
+      "users": {
+        "31": 1
+      }
+    }, 
+    {
+      "entropy_score": 0.0, 
+      "favourites": 0, 
+      "follower": false, 
+      "id": 457314588598362112, 
+      "reply": false, 
+      "timestamp": "Sat Apr 19 00:27:49 +0000 2014", 
+      "tree_size": 1, 
+      "tweet": "RT @erynnwatson: I'm an ordinary Canadian &amp; I oppose bill #c23. \\n #Selfie4Democracy http://t.co/8YL5O8r4rH", 
+      "uid": 590013232, 
+      "user": 30, 
+      "user_score": 0.0, 
+      "users": {
+        "30": 1
+      }
+    }, 
+    {
+      "entropy_score": 0.0, 
+      "favourites": 0, 
+      "follower": true, 
+      "id": 457772837529325568, 
+      "reply": false, 
+      "timestamp": "Sun Apr 20 06:48:44 +0000 2014", 
+      "tree_size": 1, 
+      "tweet": "RT @erynnwatson: I'm an ordinary Canadian &amp; I oppose bill #c23. \\n #Selfie4Democracy http://t.co/8YL5O8r4rH", 
+      "uid": 244337006, 
+      "user": 29, 
+      "user_score": 0.0, 
+      "users": {
+        "29": 1
+      }
+    }, 
+    {
+      "entropy_score": 0.0, 
+      "favourites": 0, 
+      "follower": false, 
+      "id": 457773020514234368, 
+      "reply": false, 
+      "timestamp": "Sun Apr 20 06:49:27 +0000 2014", 
+      "tree_size": 1, 
+      "tweet": "RT @erynnwatson: I'm an ordinary Canadian &amp; I oppose bill #c23. \\n #Selfie4Democracy http://t.co/8YL5O8r4rH", 
+      "uid": 493673019, 
+      "user": 28, 
+      "user_score": 0.0, 
+      "users": {
+        "28": 1
+      }
+    }, 
+    {
+      "entropy_score": 0.0, 
+      "favourites": 0, 
+      "follower": false, 
+      "id": 457773324097974272, 
+      "reply": false, 
+      "timestamp": "Sun Apr 20 06:50:40 +0000 2014", 
+      "tree_size": 1, 
+      "tweet": "RT @erynnwatson: I'm an ordinary Canadian &amp; I oppose bill #c23. \\n #Selfie4Democracy http://t.co/8YL5O8r4rH", 
+      "uid": 95323438, 
+      "user": 27, 
+      "user_score": 0.0, 
+      "users": {
+        "27": 1
+      }
+    }, 
+    {
+      "entropy_score": 0.0, 
+      "favourites": 0, 
+      "follower": true, 
+      "id": 457897453619269632, 
+      "reply": false, 
+      "timestamp": "Sun Apr 20 15:03:54 +0000 2014", 
+      "tree_size": 1, 
+      "tweet": "RT @erynnwatson: I'm an ordinary Canadian &amp; I oppose bill #c23. \\n #Selfie4Democracy http://t.co/8YL5O8r4rH", 
+      "uid": 492378961, 
+      "user": 26, 
+      "user_score": 0.0, 
+      "users": {
+        "26": 1
+      }
+    }, 
+    {
+      "entropy_score": 0.0, 
+      "favourites": 0, 
+      "follower": false, 
+      "id": 457905554535378945, 
+      "reply": false, 
+      "timestamp": "Sun Apr 20 15:36:06 +0000 2014", 
+      "tree_size": 1, 
+      "tweet": "RT @erynnwatson: I'm an ordinary Canadian &amp; I oppose bill #c23. \\n #Selfie4Democracy http://t.co/8YL5O8r4rH", 
+      "uid": 14258863, 
+      "user": 25, 
+      "user_score": 0.0, 
+      "users": {
+        "25": 1
+      }
+    }, 
+    {
+      "entropy_score": 0.0, 
+      "favourites": 0, 
+      "follower": false, 
+      "id": 457906795302760448, 
+      "reply": false, 
+      "timestamp": "Sun Apr 20 15:41:02 +0000 2014", 
+      "tree_size": 1, 
+      "tweet": "RT @erynnwatson: I'm an ordinary Canadian &amp; I oppose bill #c23. \\n #Selfie4Democracy http://t.co/8YL5O8r4rH", 
+      "uid": 76977981, 
+      "user": 24, 
+      "user_score": 0.0, 
+      "users": {
+        "24": 1
+      }
+    }, 
+    {
+      "entropy_score": 0.0, 
+      "favourites": 0, 
+      "follower": false, 
+      "id": 458324816068476928, 
+      "reply": false, 
+      "timestamp": "Mon Apr 21 19:22:06 +0000 2014", 
+      "tree_size": 1, 
+      "tweet": "RT @erynnwatson: I'm an ordinary Canadian &amp; I oppose bill #c23. \\n #Selfie4Democracy http://t.co/8YL5O8r4rH", 
+      "uid": 1005209094, 
+      "user": 21, 
+      "user_score": 0.0, 
+      "users": {
+        "21": 1
+      }
+    }, 
+    {
+      "entropy_score": 0.0, 
+      "favourites": 1, 
+      "follower": false, 
+      "id": 458327019793948672, 
+      "reply": true, 
+      "timestamp": "Mon Apr 21 19:30:51 +0000 2014", 
+      "tree_size": 1, 
+      "tweet": "@erynnwatson @pgrahammtl Sadly, #Harperites don't give a damn what #Cdns think, their word is GOD. #cdnpoli #unfairelxnsact", 
+      "uid": 25376452, 
+      "user": 20, 
+      "user_score": 0.0, 
+      "users": {
+        "20": 1
+      }
+    }, 
+    {
+      "entropy_score": 0.0, 
+      "favourites": 0, 
+      "follower": false, 
+      "id": 458333225966768128, 
+      "reply": false, 
+      "timestamp": "Mon Apr 21 19:55:31 +0000 2014", 
+      "tree_size": 1, 
+      "tweet": "RT @erynnwatson: I'm an ordinary Canadian &amp; I oppose bill #c23. \\n #Selfie4Democracy http://t.co/8YL5O8r4rH", 
+      "uid": 69856537, 
+      "user": 19, 
+      "user_score": 0.0, 
+      "users": {
+        "19": 1
+      }
+    }, 
+    {
+      "entropy_score": 0.0, 
+      "favourites": 0, 
+      "follower": false, 
+      "id": 458449230412017666, 
+      "reply": false, 
+      "timestamp": "Tue Apr 22 03:36:28 +0000 2014", 
+      "tree_size": 1, 
+      "tweet": "RT @erynnwatson: I'm an ordinary Canadian &amp; I oppose bill #c23. \\n #Selfie4Democracy http://t.co/8YL5O8r4rH", 
+      "uid": 37552089, 
+      "user": 18, 
+      "user_score": 0.0, 
+      "users": {
+        "18": 1
+      }
+    }, 
+    {
+      "entropy_score": 0.0, 
+      "favourites": 0, 
+      "follower": true, 
+      "id": 458451268357222400, 
+      "reply": false, 
+      "timestamp": "Tue Apr 22 03:44:34 +0000 2014", 
+      "tree_size": 1, 
+      "tweet": "RT @erynnwatson: I'm an ordinary Canadian &amp; I oppose bill #c23. \\n #Selfie4Democracy http://t.co/8YL5O8r4rH", 
+      "uid": 187805921, 
+      "user": 17, 
+      "user_score": 0.0, 
+      "users": {
+        "17": 1
+      }
+    }, 
+    {
+      "entropy_score": 0.0, 
+      "favourites": 0, 
+      "follower": false, 
+      "id": 458452657137778690, 
+      "reply": false, 
+      "timestamp": "Tue Apr 22 03:50:05 +0000 2014", 
+      "tree_size": 1, 
+      "tweet": "RT @erynnwatson: I'm an ordinary Canadian &amp; I oppose bill #c23. \\n #Selfie4Democracy http://t.co/8YL5O8r4rH", 
+      "uid": 239378797, 
+      "user": 16, 
+      "user_score": 0.0, 
+      "users": {
+        "16": 1
+      }
+    }, 
+    {
+      "entropy_score": 0.0, 
+      "favourites": 0, 
+      "follower": true, 
+      "id": 458454107716861952, 
+      "reply": false, 
+      "timestamp": "Tue Apr 22 03:55:51 +0000 2014", 
+      "tree_size": 1, 
+      "tweet": "RT @erynnwatson: I'm an ordinary Canadian &amp; I oppose bill #c23. \\n #Selfie4Democracy http://t.co/8YL5O8r4rH", 
+      "uid": 22420494, 
+      "user": 15, 
+      "user_score": 0.0, 
+      "users": {
+        "15": 1
+      }
+    }, 
+    {
+      "entropy_score": 0.0, 
+      "favourites": 0, 
+      "follower": false, 
+      "id": 458454317960163328, 
+      "reply": false, 
+      "timestamp": "Tue Apr 22 03:56:41 +0000 2014", 
+      "tree_size": 1, 
+      "tweet": "RT @erynnwatson: I'm an ordinary Canadian &amp; I oppose bill #c23. \\n #Selfie4Democracy http://t.co/8YL5O8r4rH", 
+      "uid": 80155484, 
+      "user": 14, 
+      "user_score": 0.0, 
+      "users": {
+        "14": 1
+      }
+    }, 
+    {
+      "entropy_score": 0.0, 
+      "favourites": 0, 
+      "follower": false, 
+      "id": 458461686937047041, 
+      "reply": false, 
+      "timestamp": "Tue Apr 22 04:25:58 +0000 2014", 
+      "tree_size": 1, 
+      "tweet": "RT @erynnwatson: I'm an ordinary Canadian &amp; I oppose bill #c23. \\n #Selfie4Democracy http://t.co/8YL5O8r4rH", 
+      "uid": 490997129, 
+      "user": 13, 
+      "user_score": 0.0, 
+      "users": {
+        "13": 1
+      }
+    }, 
+    {
+      "entropy_score": 0.0, 
+      "favourites": 0, 
+      "follower": false, 
+      "id": 458462142723670016, 
+      "reply": false, 
+      "timestamp": "Tue Apr 22 04:27:47 +0000 2014", 
+      "tree_size": 1, 
+      "tweet": "RT @erynnwatson: I'm an ordinary Canadian &amp; I oppose bill #c23. \\n #Selfie4Democracy http://t.co/8YL5O8r4rH", 
+      "uid": 14125950, 
+      "user": 12, 
+      "user_score": 0.0, 
+      "users": {
+        "12": 1
+      }
+    }, 
+    {
+      "entropy_score": 0.0, 
+      "favourites": 0, 
+      "follower": false, 
+      "id": 458465438666469377, 
+      "reply": false, 
+      "timestamp": "Tue Apr 22 04:40:53 +0000 2014", 
+      "tree_size": 1, 
+      "tweet": "RT @erynnwatson: I'm an ordinary Canadian &amp; I oppose bill #c23. \\n #Selfie4Democracy http://t.co/8YL5O8r4rH", 
+      "uid": 11267302, 
+      "user": 11, 
+      "user_score": 0.0, 
+      "users": {
+        "11": 1
+      }
+    }, 
+    {
+      "entropy_score": 0.0, 
+      "favourites": 0, 
+      "follower": false, 
+      "id": 458468192340303872, 
+      "reply": false, 
+      "timestamp": "Tue Apr 22 04:51:49 +0000 2014", 
+      "tree_size": 1, 
+      "tweet": "RT @erynnwatson: I'm an ordinary Canadian &amp; I oppose bill #c23. \\n #Selfie4Democracy http://t.co/8YL5O8r4rH", 
+      "uid": 324086895, 
+      "user": 10, 
+      "user_score": 0.0, 
+      "users": {
+        "10": 1
+      }
+    }, 
+    {
+      "entropy_score": 0.0, 
+      "favourites": 0, 
+      "follower": true, 
+      "id": 458604904903610368, 
+      "reply": false, 
+      "timestamp": "Tue Apr 22 13:55:04 +0000 2014", 
+      "tree_size": 1, 
+      "tweet": "RT @erynnwatson: I'm an ordinary Canadian &amp; I oppose bill #c23. \\n #Selfie4Democracy http://t.co/8YL5O8r4rH", 
+      "uid": 23159696, 
+      "user": 9, 
+      "user_score": 0.0, 
+      "users": {
+        "9": 1
+      }
+    }, 
+    {
+      "entropy_score": 0.0, 
+      "favourites": 0, 
+      "follower": true, 
+      "id": 458605299004628992, 
+      "reply": false, 
+      "timestamp": "Tue Apr 22 13:56:38 +0000 2014", 
+      "tree_size": 1, 
+      "tweet": "RT @erynnwatson: I'm an ordinary Canadian &amp; I oppose bill #c23. \\n #Selfie4Democracy http://t.co/8YL5O8r4rH", 
+      "uid": 378298356, 
+      "user": 8, 
+      "user_score": 0.0, 
+      "users": {
+        "8": 1
+      }
+    }, 
+    {
+      "entropy_score": 0.0, 
+      "favourites": 0, 
+      "follower": false, 
+      "id": 458606568683360256, 
+      "reply": false, 
+      "timestamp": "Tue Apr 22 14:01:41 +0000 2014", 
+      "tree_size": 1, 
+      "tweet": "RT @erynnwatson: I'm an ordinary Canadian &amp; I oppose bill #c23. \\n #Selfie4Democracy http://t.co/8YL5O8r4rH", 
+      "uid": 256155205, 
+      "user": 7, 
+      "user_score": 0.0, 
+      "users": {
+        "7": 1
+      }
+    }, 
+    {
+      "entropy_score": 0.0, 
+      "favourites": 0, 
+      "follower": false, 
+      "id": 458606664011087872, 
+      "reply": false, 
+      "timestamp": "Tue Apr 22 14:02:03 +0000 2014", 
+      "tree_size": 1, 
+      "tweet": "RT @erynnwatson: I'm an ordinary Canadian &amp; I oppose bill #c23. \\n #Selfie4Democracy http://t.co/8YL5O8r4rH", 
+      "uid": 355577666, 
+      "user": 6, 
+      "user_score": 0.0, 
+      "users": {
+        "6": 1
+      }
+    }, 
+    {
+      "entropy_score": 0.0, 
+      "favourites": 0, 
+      "follower": false, 
+      "id": 458651184815816704, 
+      "reply": false, 
+      "timestamp": "Tue Apr 22 16:58:58 +0000 2014", 
+      "tree_size": 1, 
+      "tweet": "RT @erynnwatson: I'm an ordinary Canadian &amp; I oppose bill #c23. \\n #Selfie4Democracy http://t.co/8YL5O8r4rH", 
+      "uid": 501380555, 
+      "user": 5, 
+      "user_score": 0.0, 
+      "users": {
+        "5": 1
+      }
+    }, 
+    {
+      "entropy_score": 0.0, 
+      "favourites": 0, 
+      "follower": false, 
+      "id": 458651329255075840, 
+      "reply": false, 
+      "timestamp": "Tue Apr 22 16:59:32 +0000 2014", 
+      "tree_size": 1, 
+      "tweet": "RT @erynnwatson: I'm an ordinary Canadian &amp; I oppose bill #c23. \\n #Selfie4Democracy http://t.co/8YL5O8r4rH", 
+      "uid": 70016558, 
+      "user": 4, 
+      "user_score": 0.0, 
+      "users": {
+        "4": 1
+      }
+    }, 
+    {
+      "entropy_score": 0.0, 
+      "favourites": 0, 
+      "follower": false, 
+      "id": 458651744176574465, 
+      "reply": false, 
+      "timestamp": "Tue Apr 22 17:01:11 +0000 2014", 
+      "tree_size": 1, 
+      "tweet": "RT @erynnwatson: I'm an ordinary Canadian &amp; I oppose bill #c23. \\n #Selfie4Democracy http://t.co/8YL5O8r4rH", 
+      "uid": 91017612, 
+      "user": 3, 
+      "user_score": 0.0, 
+      "users": {
+        "3": 1
+      }
+    }, 
+    {
+      "entropy_score": 0.0, 
+      "favourites": 0, 
+      "follower": true, 
+      "id": 458663880756330496, 
+      "reply": false, 
+      "timestamp": "Tue Apr 22 17:49:25 +0000 2014", 
+      "tree_size": 1, 
+      "tweet": "RT @erynnwatson: I'm an ordinary Canadian &amp; I oppose bill #c23. \\n #Selfie4Democracy http://t.co/8YL5O8r4rH", 
+      "uid": 1488507558, 
+      "user": 2, 
+      "user_score": 0.0, 
+      "users": {
+        "2": 1
+      }
+    }, 
+    {
+      "entropy_score": 0.0, 
+      "favourites": 0, 
+      "follower": false, 
+      "id": 461241769691451392, 
+      "reply": false, 
+      "timestamp": "Tue Apr 29 20:33:02 +0000 2014", 
+      "tree_size": 1, 
+      "tweet": "RT @erynnwatson: I'm an ordinary Canadian &amp; I oppose bill #c23. \\n #Selfie4Democracy http://t.co/8YL5O8r4rH", 
+      "uid": 823396141, 
+      "user": 1, 
+      "user_score": 0.0, 
+      "users": {
+        "1": 1
+      }
+    }, 
+    {
+      "children": [
+        {
+          "entropy_score": 0.0, 
+          "favourites": 0, 
+          "follower": false, 
+          "id": 457908131092123648, 
+          "reply": true, 
+          "timestamp": "Sun Apr 20 15:46:20 +0000 2014", 
+          "tree_size": 1, 
+          "tweet": "@GSawision @erynnwatson you raise a false dichotomy!", 
+          "uid": 76977981, 
+          "user": 24, 
+          "user_score": 0.0, 
+          "users": {
+            "24": 1
+          }
+        }, 
+        {
+          "children": [
+            {
+              "entropy_score": 0.0, 
+              "favourites": 1, 
+              "follower": true, 
+              "id": 457909092166561792, 
+              "reply": true, 
+              "timestamp": "Sun Apr 20 15:50:09 +0000 2014", 
+              "tree_size": 1, 
+              "tweet": "@craddo @erynnwatson provincial govt is discussing a bill to allow non citizens to vote in municipal elections", 
+              "uid": 121644639, 
+              "user": 22, 
+              "user_score": 0.0, 
+              "users": {
+                "22": 1
+              }
+            }
+          ], 
+          "entropy_score": 0.0, 
+          "favourites": 0, 
+          "follower": false, 
+          "id": 457908315268190208, 
+          "reply": true, 
+          "timestamp": "Sun Apr 20 15:47:04 +0000 2014", 
+          "tree_size": 2, 
+          "tweet": "@GSawision @erynnwatson am I do believe residents and landed immigrants should have the vote, if you're asking", 
+          "uid": 76977981, 
+          "user": 24, 
+          "user_score": 0.6931471805599453, 
+          "users": {
+            "22": 1, 
+            "24": 1
+          }
+        }, 
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "entropy_score": 0.0, 
+                              "favourites": 0, 
+                              "follower": true, 
+                              "id": 457936658956972032, 
+                              "reply": true, 
+                              "timestamp": "Sun Apr 20 17:39:42 +0000 2014", 
+                              "tree_size": 1, 
+                              "tweet": "@JungleStrikeGuy @erynnwatson @craddo 2005 federal inquiry into illegal voting trinity spadina ,Olivia Chow testified,vouched votes", 
+                              "uid": 121644639, 
+                              "user": 22, 
+                              "user_score": 0.0, 
+                              "users": {
+                                "22": 1
+                              }
+                            }, 
+                            {
+                              "entropy_score": 0.0, 
+                              "favourites": 0, 
+                              "follower": true, 
+                              "id": 457936953585852416, 
+                              "reply": true, 
+                              "timestamp": "Sun Apr 20 17:40:52 +0000 2014", 
+                              "tree_size": 1, 
+                              "tweet": "@JungleStrikeGuy @erynnwatson @craddo common practice in trinity spadina to have voters swear in with no ID or get vouched,later disappear", 
+                              "uid": 121644639, 
+                              "user": 22, 
+                              "user_score": 0.0, 
+                              "users": {
+                                "22": 1
+                              }
+                            }
+                          ], 
+                          "entropy_score": 0.7624618986159398, 
+                          "favourites": 0, 
+                          "follower": true, 
+                          "id": 457936241816649728, 
+                          "reply": true, 
+                          "timestamp": "Sun Apr 20 17:38:02 +0000 2014", 
+                          "tree_size": 3, 
+                          "tweet": "@GSawision @erynnwatson @craddo The 'abuse'? What specific cases of abuse can you point to?", 
+                          "uid": 444262205, 
+                          "user": 23, 
+                          "user_score": 0.6365141682948128, 
+                          "users": {
+                            "22": 2, 
+                            "23": 1
+                          }
+                        }, 
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "children": [
+                                    {
+                                      "entropy_score": 0.0, 
+                                      "favourites": 0, 
+                                      "follower": true, 
+                                      "id": 457938934459146240, 
+                                      "reply": true, 
+                                      "timestamp": "Sun Apr 20 17:48:44 +0000 2014", 
+                                      "tree_size": 1, 
+                                      "tweet": "@JungleStrikeGuy @erynnwatson @craddo matter of record,federal inquiry investigated by RCMP evidence of illegal voting in federal election,", 
+                                      "uid": 121644639, 
+                                      "user": 22, 
+                                      "user_score": 0.0, 
+                                      "users": {
+                                        "22": 1
+                                      }
+                                    }, 
+                                    {
+                                      "entropy_score": 0.0, 
+                                      "favourites": 0, 
+                                      "follower": true, 
+                                      "id": 457939090042667010, 
+                                      "reply": true, 
+                                      "timestamp": "Sun Apr 20 17:49:21 +0000 2014", 
+                                      "tree_size": 1, 
+                                      "tweet": "@JungleStrikeGuy @erynnwatson @craddo the media never reported on it,that was a puzzle for such an important investigation", 
+                                      "uid": 121644639, 
+                                      "user": 22, 
+                                      "user_score": 0.0, 
+                                      "users": {
+                                        "22": 1
+                                      }
+                                    }, 
+                                    {
+                                      "children": [
+                                        {
+                                          "children": [
+                                            {
+                                              "children": [
+                                                {
+                                                  "children": [
+                                                    {
+                                                      "entropy_score": 0.0, 
+                                                      "favourites": 0, 
+                                                      "follower": false, 
+                                                      "id": 458031139941539841, 
+                                                      "reply": true, 
+                                                      "timestamp": "Sun Apr 20 23:55:08 +0000 2014", 
+                                                      "tree_size": 1, 
+                                                      "tweet": "@erynnwatson not true", 
+                                                      "uid": 121644639, 
+                                                      "user": 22, 
+                                                      "user_score": 0.0, 
+                                                      "users": {
+                                                        "22": 1
+                                                      }
+                                                    }
+                                                  ], 
+                                                  "entropy_score": 0.0, 
+                                                  "favourites": 0, 
+                                                  "follower": false, 
+                                                  "id": 457967444477227008, 
+                                                  "reply": true, 
+                                                  "timestamp": "Sun Apr 20 19:42:02 +0000 2014", 
+                                                  "tree_size": 2, 
+                                                  "tweet": "@GSawision Errors were administrative. There is no evidence that voters are committing fraud. Fix the system instead of disenfranchising ppl", 
+                                                  "uid": 22074696, 
+                                                  "user": 0, 
+                                                  "user_score": 0.6931471805599453, 
+                                                  "users": {
+                                                    "0": 1, 
+                                                    "22": 1
+                                                  }
+                                                }
+                                              ], 
+                                              "entropy_score": 0.0, 
+                                              "favourites": 0, 
+                                              "follower": true, 
+                                              "id": 457940494425681920, 
+                                              "reply": true, 
+                                              "timestamp": "Sun Apr 20 17:54:56 +0000 2014", 
+                                              "tree_size": 3, 
+                                              "tweet": "@JungleStrikeGuy @erynnwatson @craddo matter of record,on government web site", 
+                                              "uid": 121644639, 
+                                              "user": 22, 
+                                              "user_score": 0.6365141682948128, 
+                                              "users": {
+                                                "0": 1, 
+                                                "22": 2
+                                              }
+                                            }, 
+                                            {
+                                              "children": [
+                                                {
+                                                  "children": [
+                                                    {
+                                                      "children": [
+                                                        {
+                                                          "children": [
+                                                            {
+                                                              "children": [
+                                                                {
+                                                                  "children": [
+                                                                    {
+                                                                      "entropy_score": 0.0, 
+                                                                      "favourites": 0, 
+                                                                      "follower": true, 
+                                                                      "id": 458046099748442112, 
+                                                                      "reply": true, 
+                                                                      "timestamp": "Mon Apr 21 00:54:34 +0000 2014", 
+                                                                      "tree_size": 1, 
+                                                                      "tweet": "@craddo @junglestrikeguy @erynnwatson explain how 1500 voters just disappear after an election and people at the addresses given don't know", 
+                                                                      "uid": 121644639, 
+                                                                      "user": 22, 
+                                                                      "user_score": 0.0, 
+                                                                      "users": {
+                                                                        "22": 1
+                                                                      }
+                                                                    }, 
+                                                                    {
+                                                                      "entropy_score": 0.0, 
+                                                                      "favourites": 0, 
+                                                                      "follower": true, 
+                                                                      "id": 458046230749126656, 
+                                                                      "reply": true, 
+                                                                      "timestamp": "Mon Apr 21 00:55:06 +0000 2014", 
+                                                                      "tree_size": 1, 
+                                                                      "tweet": "@craddo @junglestrikeguy @erynnwatson the federal inquiry was called because RCMP said it was clear there was evidence", 
+                                                                      "uid": 121644639, 
+                                                                      "user": 22, 
+                                                                      "user_score": 0.0, 
+                                                                      "users": {
+                                                                        "22": 1
+                                                                      }
+                                                                    }, 
+                                                                    {
+                                                                      "children": [
+                                                                        {
+                                                                          "children": [
+                                                                            {
+                                                                              "entropy_score": 0.0, 
+                                                                              "favourites": 0, 
+                                                                              "follower": true, 
+                                                                              "id": 458073666463363072, 
+                                                                              "reply": true, 
+                                                                              "timestamp": "Mon Apr 21 02:44:07 +0000 2014", 
+                                                                              "tree_size": 1, 
+                                                                              "tweet": "@craddo @junglestrikeguy @erynnwatson there was a federal parliamentary inquiry in 2005", 
+                                                                              "uid": 121644639, 
+                                                                              "user": 22, 
+                                                                              "user_score": 0.0, 
+                                                                              "users": {
+                                                                                "22": 1
+                                                                              }
+                                                                            }
+                                                                          ], 
+                                                                          "entropy_score": 0.0, 
+                                                                          "favourites": 1, 
+                                                                          "follower": false, 
+                                                                          "id": 458072727677452288, 
+                                                                          "reply": true, 
+                                                                          "timestamp": "Mon Apr 21 02:40:23 +0000 2014", 
+                                                                          "tree_size": 2, 
+                                                                          "tweet": "@GSawision @JungleStrikeGuy @erynnwatson why is this \"evidence\" not being presented at parliament?", 
+                                                                          "uid": 76977981, 
+                                                                          "user": 24, 
+                                                                          "user_score": 0.6931471805599453, 
+                                                                          "users": {
+                                                                            "22": 1, 
+                                                                            "24": 1
+                                                                          }
+                                                                        }, 
+                                                                        {
+                                                                          "children": [
+                                                                            {
+                                                                              "entropy_score": 0.0, 
+                                                                              "favourites": 0, 
+                                                                              "follower": true, 
+                                                                              "id": 458073805877817346, 
+                                                                              "reply": true, 
+                                                                              "timestamp": "Mon Apr 21 02:44:40 +0000 2014", 
+                                                                              "tree_size": 1, 
+                                                                              "tweet": "@craddo @junglestrikeguy @erynnwatson Harper isn't concerned about Toronto ,he has no real support here", 
+                                                                              "uid": 121644639, 
+                                                                              "user": 22, 
+                                                                              "user_score": 0.0, 
+                                                                              "users": {
+                                                                                "22": 1
+                                                                              }
+                                                                            }, 
+                                                                            {
+                                                                              "children": [
+                                                                                {
+                                                                                  "children": [
+                                                                                    {
+                                                                                      "entropy_score": 0.0, 
+                                                                                      "favourites": 0, 
+                                                                                      "follower": true, 
+                                                                                      "id": 458078829521563648, 
+                                                                                      "reply": true, 
+                                                                                      "timestamp": "Mon Apr 21 03:04:38 +0000 2014", 
+                                                                                      "tree_size": 1, 
+                                                                                      "tweet": "@craddo @junglestrikeguy @erynnwatson well this government is the power behind the bill,and we have little choice", 
+                                                                                      "uid": 121644639, 
+                                                                                      "user": 22, 
+                                                                                      "user_score": 0.0, 
+                                                                                      "users": {
+                                                                                        "22": 1
+                                                                                      }
+                                                                                    }, 
+                                                                                    {
+                                                                                      "children": [
+                                                                                        {
+                                                                                          "entropy_score": 0.0, 
+                                                                                          "favourites": 0, 
+                                                                                          "follower": false, 
+                                                                                          "id": 458085895254462465, 
+                                                                                          "reply": true, 
+                                                                                          "timestamp": "Mon Apr 21 03:32:42 +0000 2014", 
+                                                                                          "tree_size": 1, 
+                                                                                          "tweet": "@erynnwatson @craddo @junglestrikeguy yes there are so many \"experts\" out there", 
+                                                                                          "uid": 121644639, 
+                                                                                          "user": 22, 
+                                                                                          "user_score": 0.0, 
+                                                                                          "users": {
+                                                                                            "22": 1
+                                                                                          }
+                                                                                        }
+                                                                                      ], 
+                                                                                      "entropy_score": 0.0, 
+                                                                                      "favourites": 1, 
+                                                                                      "follower": false, 
+                                                                                      "id": 458079558957162497, 
+                                                                                      "reply": true, 
+                                                                                      "timestamp": "Mon Apr 21 03:07:32 +0000 2014", 
+                                                                                      "tree_size": 2, 
+                                                                                      "tweet": "@craddo @GSawision @JungleStrikeGuy All the experts agree it doesn't.  I'll trust them over urban legends &amp; boogeyman myths anyday.", 
+                                                                                      "uid": 22074696, 
+                                                                                      "user": 0, 
+                                                                                      "user_score": 0.6931471805599453, 
+                                                                                      "users": {
+                                                                                        "0": 1, 
+                                                                                        "22": 1
+                                                                                      }
+                                                                                    }
+                                                                                  ], 
+                                                                                  "entropy_score": 0.7001655851242942, 
+                                                                                  "favourites": 0, 
+                                                                                  "follower": false, 
+                                                                                  "id": 458078441066094592, 
+                                                                                  "reply": true, 
+                                                                                  "timestamp": "Mon Apr 21 03:03:05 +0000 2014", 
+                                                                                  "tree_size": 4, 
+                                                                                  "tweet": "@GSawision @JungleStrikeGuy @erynnwatson even if some fraud exists, this bill stinks. Frauds lack credibility on fraud. Reform can't be uniL", 
+                                                                                  "uid": 76977981, 
+                                                                                  "user": 24, 
+                                                                                  "user_score": 1.0397207708399179, 
+                                                                                  "users": {
+                                                                                    "0": 1, 
+                                                                                    "22": 2, 
+                                                                                    "24": 1
+                                                                                  }
+                                                                                }, 
+                                                                                {
+                                                                                  "children": [
+                                                                                    {
+                                                                                      "children": [
+                                                                                        {
+                                                                                          "children": [
+                                                                                            {
+                                                                                              "entropy_score": 0.0, 
+                                                                                              "favourites": 0, 
+                                                                                              "follower": false, 
+                                                                                              "id": 458087984806363136, 
+                                                                                              "reply": true, 
+                                                                                              "timestamp": "Mon Apr 21 03:41:01 +0000 2014", 
+                                                                                              "tree_size": 1, 
+                                                                                              "tweet": "@erynnwatson @craddo @junglestrikeguy privileged? To be a Canadian?give me a break", 
+                                                                                              "uid": 121644639, 
+                                                                                              "user": 22, 
+                                                                                              "user_score": 0.0, 
+                                                                                              "users": {
+                                                                                                "22": 1
+                                                                                              }
+                                                                                            }
+                                                                                          ], 
+                                                                                          "entropy_score": 0.0, 
+                                                                                          "favourites": 0, 
+                                                                                          "follower": false, 
+                                                                                          "id": 458081215145197568, 
+                                                                                          "reply": true, 
+                                                                                          "timestamp": "Mon Apr 21 03:14:07 +0000 2014", 
+                                                                                          "tree_size": 2, 
+                                                                                          "tweet": "@GSawision @craddo @JungleStrikeGuy Just because you're part of the privileged with easy access to Id with your address doesn't mean all are", 
+                                                                                          "uid": 22074696, 
+                                                                                          "user": 0, 
+                                                                                          "user_score": 0.6931471805599453, 
+                                                                                          "users": {
+                                                                                            "0": 1, 
+                                                                                            "22": 1
+                                                                                          }
+                                                                                        }, 
+                                                                                        {
+                                                                                          "children": [
+                                                                                            {
+                                                                                              "entropy_score": 0.0, 
+                                                                                              "favourites": 0, 
+                                                                                              "follower": false, 
+                                                                                              "id": 458086233718009856, 
+                                                                                              "reply": true, 
+                                                                                              "timestamp": "Mon Apr 21 03:34:03 +0000 2014", 
+                                                                                              "tree_size": 1, 
+                                                                                              "tweet": "@erynnwatson @craddo @junglestrikeguy illegal voting puts us up there with third world elections years ago in Toronto", 
+                                                                                              "uid": 121644639, 
+                                                                                              "user": 22, 
+                                                                                              "user_score": 0.0, 
+                                                                                              "users": {
+                                                                                                "22": 1
+                                                                                              }
+                                                                                            }, 
+                                                                                            {
+                                                                                              "entropy_score": 0.0, 
+                                                                                              "favourites": 0, 
+                                                                                              "follower": false, 
+                                                                                              "id": 458088296501882880, 
+                                                                                              "reply": true, 
+                                                                                              "timestamp": "Mon Apr 21 03:42:15 +0000 2014", 
+                                                                                              "tree_size": 1, 
+                                                                                              "tweet": "@erynnwatson @craddo @junglestrikeguy so a person comes into the poll,no ID swears an oath for a ballot,later turns out address fake,u ok?", 
+                                                                                              "uid": 121644639, 
+                                                                                              "user": 22, 
+                                                                                              "user_score": 0.0, 
+                                                                                              "users": {
+                                                                                                "22": 1
+                                                                                              }
+                                                                                            }, 
+                                                                                            {
+                                                                                              "children": [
+                                                                                                {
+                                                                                                  "children": [
+                                                                                                    {
+                                                                                                      "children": [
+                                                                                                        {
+                                                                                                          "children": [
+                                                                                                            {
+                                                                                                              "children": [
+                                                                                                                {
+                                                                                                                  "children": [
+                                                                                                                    {
+                                                                                                                      "entropy_score": 0.0, 
+                                                                                                                      "favourites": 0, 
+                                                                                                                      "follower": true, 
+                                                                                                                      "id": 458224154303815680, 
+                                                                                                                      "reply": true, 
+                                                                                                                      "timestamp": "Mon Apr 21 12:42:06 +0000 2014", 
+                                                                                                                      "tree_size": 1, 
+                                                                                                                      "tweet": "@craddo @erynnwatson @JungleStrikeGuy I doubt if you are interested in the truth in the first place,that I understand ,few really do", 
+                                                                                                                      "uid": 121644639, 
+                                                                                                                      "user": 22, 
+                                                                                                                      "user_score": 0.0, 
+                                                                                                                      "users": {
+                                                                                                                        "22": 1
+                                                                                                                      }
+                                                                                                                    }
+                                                                                                                  ], 
+                                                                                                                  "entropy_score": 0.0, 
+                                                                                                                  "favourites": 0, 
+                                                                                                                  "follower": false, 
+                                                                                                                  "id": 458223191295414275, 
+                                                                                                                  "reply": true, 
+                                                                                                                  "timestamp": "Mon Apr 21 12:38:16 +0000 2014", 
+                                                                                                                  "tree_size": 2, 
+                                                                                                                  "tweet": "@GSawision @erynnwatson @JungleStrikeGuy why not stop saying things at all, I don't believe you.", 
+                                                                                                                  "uid": 76977981, 
+                                                                                                                  "user": 24, 
+                                                                                                                  "user_score": 0.6931471805599453, 
+                                                                                                                  "users": {
+                                                                                                                    "22": 1, 
+                                                                                                                    "24": 1
+                                                                                                                  }
+                                                                                                                }
+                                                                                                              ], 
+                                                                                                              "entropy_score": 0.0, 
+                                                                                                              "favourites": 0, 
+                                                                                                              "follower": true, 
+                                                                                                              "id": 458095354857410561, 
+                                                                                                              "reply": true, 
+                                                                                                              "timestamp": "Mon Apr 21 04:10:18 +0000 2014", 
+                                                                                                              "tree_size": 3, 
+                                                                                                              "tweet": "@craddo @erynnwatson @junglestrikeguy ok lost you again, do I have to say it again?", 
+                                                                                                              "uid": 121644639, 
+                                                                                                              "user": 22, 
+                                                                                                              "user_score": 0.6365141682948128, 
+                                                                                                              "users": {
+                                                                                                                "22": 2, 
+                                                                                                                "24": 1
+                                                                                                              }
+                                                                                                            }
+                                                                                                          ], 
+                                                                                                          "entropy_score": 0.0, 
+                                                                                                          "favourites": 0, 
+                                                                                                          "follower": false, 
+                                                                                                          "id": 458095063675854848, 
+                                                                                                          "reply": true, 
+                                                                                                          "timestamp": "Mon Apr 21 04:09:08 +0000 2014", 
+                                                                                                          "tree_size": 4, 
+                                                                                                          "tweet": "@GSawision @erynnwatson @JungleStrikeGuy yeah, you're a real oppressed group, George.", 
+                                                                                                          "uid": 76977981, 
+                                                                                                          "user": 24, 
+                                                                                                          "user_score": 0.6931471805599453, 
+                                                                                                          "users": {
+                                                                                                            "22": 2, 
+                                                                                                            "24": 2
+                                                                                                          }
+                                                                                                        }
+                                                                                                      ], 
+                                                                                                      "entropy_score": 0.0, 
+                                                                                                      "favourites": 0, 
+                                                                                                      "follower": true, 
+                                                                                                      "id": 458094691053891584, 
+                                                                                                      "reply": true, 
+                                                                                                      "timestamp": "Mon Apr 21 04:07:39 +0000 2014", 
+                                                                                                      "tree_size": 5, 
+                                                                                                      "tweet": "@craddo @erynnwatson @junglestrikeguy no, the guards would be carrying me out!", 
+                                                                                                      "uid": 121644639, 
+                                                                                                      "user": 22, 
+                                                                                                      "user_score": 0.6730116670092565, 
+                                                                                                      "users": {
+                                                                                                        "22": 3, 
+                                                                                                        "24": 2
+                                                                                                      }
+                                                                                                    }, 
+                                                                                                    {
+                                                                                                      "entropy_score": 0.0, 
+                                                                                                      "favourites": 0, 
+                                                                                                      "follower": true, 
+                                                                                                      "id": 458094938022899712, 
+                                                                                                      "reply": true, 
+                                                                                                      "timestamp": "Mon Apr 21 04:08:38 +0000 2014", 
+                                                                                                      "tree_size": 1, 
+                                                                                                      "tweet": "@craddo Peter shurman who was as skeptical f me as you are also found out the truth the hard way,he was carried out many times", 
+                                                                                                      "uid": 121644639, 
+                                                                                                      "user": 22, 
+                                                                                                      "user_score": 0.0, 
+                                                                                                      "users": {
+                                                                                                        "22": 1
+                                                                                                      }
+                                                                                                    }, 
+                                                                                                    {
+                                                                                                      "children": [
+                                                                                                        {
+                                                                                                          "children": [
+                                                                                                            {
+                                                                                                              "children": [
+                                                                                                                {
+                                                                                                                  "children": [
+                                                                                                                    {
+                                                                                                                      "entropy_score": 0.0, 
+                                                                                                                      "favourites": 0, 
+                                                                                                                      "follower": true, 
+                                                                                                                      "id": 458228454853730304, 
+                                                                                                                      "reply": true, 
+                                                                                                                      "timestamp": "Mon Apr 21 12:59:11 +0000 2014", 
+                                                                                                                      "tree_size": 1, 
+                                                                                                                      "tweet": "@craddo @erynnwatson @JungleStrikeGuy well I haven't lied ,so don't get your point", 
+                                                                                                                      "uid": 121644639, 
+                                                                                                                      "user": 22, 
+                                                                                                                      "user_score": 0.0, 
+                                                                                                                      "users": {
+                                                                                                                        "22": 1
+                                                                                                                      }
+                                                                                                                    }, 
+                                                                                                                    {
+                                                                                                                      "children": [
+                                                                                                                        {
+                                                                                                                          "entropy_score": 0.0, 
+                                                                                                                          "favourites": 0, 
+                                                                                                                          "follower": false, 
+                                                                                                                          "id": 458264779539230720, 
+                                                                                                                          "reply": true, 
+                                                                                                                          "timestamp": "Mon Apr 21 15:23:32 +0000 2014", 
+                                                                                                                          "tree_size": 1, 
+                                                                                                                          "tweet": "@erynnwatson me neither. He's a terrible man.", 
+                                                                                                                          "uid": 76977981, 
+                                                                                                                          "user": 24, 
+                                                                                                                          "user_score": 0.0, 
+                                                                                                                          "users": {
+                                                                                                                            "24": 1
+                                                                                                                          }
+                                                                                                                        }
+                                                                                                                      ], 
+                                                                                                                      "entropy_score": 0.0, 
+                                                                                                                      "favourites": 0, 
+                                                                                                                      "follower": false, 
+                                                                                                                      "id": 458249208483430400, 
+                                                                                                                      "reply": true, 
+                                                                                                                      "timestamp": "Mon Apr 21 14:21:39 +0000 2014", 
+                                                                                                                      "tree_size": 2, 
+                                                                                                                      "tweet": "@craddo Guy's is like a dog with a bone. I'm done. Not gonna abandon my values of universal suffrage cuz some guy on twitter says so. :-)", 
+                                                                                                                      "uid": 22074696, 
+                                                                                                                      "user": 0, 
+                                                                                                                      "user_score": 0.6931471805599453, 
+                                                                                                                      "users": {
+                                                                                                                        "0": 1, 
+                                                                                                                        "24": 1
+                                                                                                                      }
+                                                                                                                    }
+                                                                                                                  ], 
+                                                                                                                  "entropy_score": 0.7001655851242942, 
+                                                                                                                  "favourites": 0, 
+                                                                                                                  "follower": false, 
+                                                                                                                  "id": 458227737212096512, 
+                                                                                                                  "reply": true, 
+                                                                                                                  "timestamp": "Mon Apr 21 12:56:20 +0000 2014", 
+                                                                                                                  "tree_size": 4, 
+                                                                                                                  "tweet": "@GSawision @erynnwatson @JungleStrikeGuy YES! IT CASTS THEM INTO SERIOUS DOUBT. #lies", 
+                                                                                                                  "uid": 76977981, 
+                                                                                                                  "user": 24, 
+                                                                                                                  "user_score": 1.0397207708399179, 
+                                                                                                                  "users": {
+                                                                                                                    "0": 1, 
+                                                                                                                    "22": 1, 
+                                                                                                                    "24": 2
+                                                                                                                  }
+                                                                                                                }
+                                                                                                              ], 
+                                                                                                              "entropy_score": 0.7001655851242942, 
+                                                                                                              "favourites": 0, 
+                                                                                                              "follower": true, 
+                                                                                                              "id": 458224822536114176, 
+                                                                                                              "reply": true, 
+                                                                                                              "timestamp": "Mon Apr 21 12:44:45 +0000 2014", 
+                                                                                                              "tree_size": 5, 
+                                                                                                              "tweet": "@craddo @erynnwatson @JungleStrikeGuy well retracting facts don't change facts, does it?", 
+                                                                                                              "uid": 121644639, 
+                                                                                                              "user": 22, 
+                                                                                                              "user_score": 1.0549201679861442, 
+                                                                                                              "users": {
+                                                                                                                "0": 1, 
+                                                                                                                "22": 2, 
+                                                                                                                "24": 2
+                                                                                                              }
+                                                                                                            }, 
+                                                                                                            {
+                                                                                                              "entropy_score": 0.0, 
+                                                                                                              "favourites": 0, 
+                                                                                                              "follower": true, 
+                                                                                                              "id": 458225138233008129, 
+                                                                                                              "reply": true, 
+                                                                                                              "timestamp": "Mon Apr 21 12:46:01 +0000 2014", 
+                                                                                                              "tree_size": 1, 
+                                                                                                              "tweet": "@craddo @erynnwatson @JungleStrikeGuy sorry,it seems I can't help you in what you are seeking,have a good day", 
+                                                                                                              "uid": 121644639, 
+                                                                                                              "user": 22, 
+                                                                                                              "user_score": 0.0, 
+                                                                                                              "users": {
+                                                                                                                "22": 1
+                                                                                                              }
+                                                                                                            }
+                                                                                                          ], 
+                                                                                                          "entropy_score": 1.1957829148772292, 
+                                                                                                          "favourites": 0, 
+                                                                                                          "follower": false, 
+                                                                                                          "id": 458223949973696512, 
+                                                                                                          "reply": true, 
+                                                                                                          "timestamp": "Mon Apr 21 12:41:17 +0000 2014", 
+                                                                                                          "tree_size": 7, 
+                                                                                                          "tweet": "@GSawision @erynnwatson @JungleStrikeGuy that's what all those MPs said! Before they retracted.", 
+                                                                                                          "uid": 76977981, 
+                                                                                                          "user": 24, 
+                                                                                                          "user_score": 1.0042424730540764, 
+                                                                                                          "users": {
+                                                                                                            "0": 1, 
+                                                                                                            "22": 3, 
+                                                                                                            "24": 3
+                                                                                                          }
+                                                                                                        }
+                                                                                                      ], 
+                                                                                                      "entropy_score": 1.1957829148772292, 
+                                                                                                      "favourites": 0, 
+                                                                                                      "follower": true, 
+                                                                                                      "id": 458095196110979072, 
+                                                                                                      "reply": true, 
+                                                                                                      "timestamp": "Mon Apr 21 04:09:40 +0000 2014", 
+                                                                                                      "tree_size": 8, 
+                                                                                                      "tweet": "@craddo @erynnwatson @junglestrikeguy besides I have experienced the antics in the poll first hand,case closed", 
+                                                                                                      "uid": 121644639, 
+                                                                                                      "user": 22, 
+                                                                                                      "user_score": 0.9743147528693494, 
+                                                                                                      "users": {
+                                                                                                        "0": 1, 
+                                                                                                        "22": 4, 
+                                                                                                        "24": 3
+                                                                                                      }
+                                                                                                    }
+                                                                                                  ], 
+                                                                                                  "entropy_score": 2.15938925708472, 
+                                                                                                  "favourites": 0, 
+                                                                                                  "follower": false, 
+                                                                                                  "id": 458094385909874688, 
+                                                                                                  "important_entropy": true, 
+                                                                                                  "reply": true, 
+                                                                                                  "timestamp": "Mon Apr 21 04:06:27 +0000 2014", 
+                                                                                                  "tree_size": 15, 
+                                                                                                  "tweet": "@GSawision @erynnwatson @JungleStrikeGuy if twitter were parliament, you would have withdrawn your statements by now", 
+                                                                                                  "uid": 76977981, 
+                                                                                                  "user": 24, 
+                                                                                                  "user_score": 0.8823109245150755, 
+                                                                                                  "users": {
+                                                                                                    "0": 1, 
+                                                                                                    "22": 8, 
+                                                                                                    "24": 6
+                                                                                                  }
+                                                                                                }
+                                                                                              ], 
+                                                                                              "entropy_score": 2.15938925708472, 
+                                                                                              "favourites": 0, 
+                                                                                              "follower": false, 
+                                                                                              "id": 458088577516048384, 
+                                                                                              "reply": true, 
+                                                                                              "timestamp": "Mon Apr 21 03:43:22 +0000 2014", 
+                                                                                              "tree_size": 16, 
+                                                                                              "tweet": "@erynnwatson @craddo @junglestrikeguy we used tolerate a few illegals but someone figured out this can help win elections", 
+                                                                                              "uid": 121644639, 
+                                                                                              "user": 22, 
+                                                                                              "user_score": 0.8647400965276372, 
+                                                                                              "users": {
+                                                                                                "0": 1, 
+                                                                                                "22": 9, 
+                                                                                                "24": 6
+                                                                                              }
+                                                                                            }, 
+                                                                                            {
+                                                                                              "children": [
+                                                                                                {
+                                                                                                  "children": [
+                                                                                                    {
+                                                                                                      "children": [
+                                                                                                        {
+                                                                                                          "children": [
+                                                                                                            {
+                                                                                                              "children": [
+                                                                                                                {
+                                                                                                                  "entropy_score": 0.0, 
+                                                                                                                  "favourites": 0, 
+                                                                                                                  "follower": false, 
+                                                                                                                  "id": 458092631273140225, 
+                                                                                                                  "reply": true, 
+                                                                                                                  "timestamp": "Mon Apr 21 03:59:28 +0000 2014", 
+                                                                                                                  "tree_size": 1, 
+                                                                                                                  "tweet": "@GSawision @erynnwatson @JungleStrikeGuy of not illegal election tactics or fundraising", 
+                                                                                                                  "uid": 76977981, 
+                                                                                                                  "user": 24, 
+                                                                                                                  "user_score": 0.0, 
+                                                                                                                  "users": {
+                                                                                                                    "24": 1
+                                                                                                                  }
+                                                                                                                }
+                                                                                                              ], 
+                                                                                                              "entropy_score": 0.0, 
+                                                                                                              "favourites": 0, 
+                                                                                                              "follower": true, 
+                                                                                                              "id": 458092197074567168, 
+                                                                                                              "reply": true, 
+                                                                                                              "timestamp": "Mon Apr 21 03:57:45 +0000 2014", 
+                                                                                                              "tree_size": 2, 
+                                                                                                              "tweet": "@craddo @erynnwatson @junglestrikeguy ok, don't get stressed,authorities continue to deal with illegal voters", 
+                                                                                                              "uid": 121644639, 
+                                                                                                              "user": 22, 
+                                                                                                              "user_score": 0.6931471805599453, 
+                                                                                                              "users": {
+                                                                                                                "22": 1, 
+                                                                                                                "24": 1
+                                                                                                              }
+                                                                                                            }
+                                                                                                          ], 
+                                                                                                          "entropy_score": 0.0, 
+                                                                                                          "favourites": 0, 
+                                                                                                          "follower": false, 
+                                                                                                          "id": 458091999967461377, 
+                                                                                                          "reply": true, 
+                                                                                                          "timestamp": "Mon Apr 21 03:56:58 +0000 2014", 
+                                                                                                          "tree_size": 3, 
+                                                                                                          "tweet": "@GSawision @erynnwatson @JungleStrikeGuy STOP TELLING ME \"not to worry my head\" #patronizingdick", 
+                                                                                                          "uid": 76977981, 
+                                                                                                          "user": 24, 
+                                                                                                          "user_score": 0.6365141682948128, 
+                                                                                                          "users": {
+                                                                                                            "22": 1, 
+                                                                                                            "24": 2
+                                                                                                          }
+                                                                                                        }
+                                                                                                      ], 
+                                                                                                      "entropy_score": 0.0, 
+                                                                                                      "favourites": 0, 
+                                                                                                      "follower": true, 
+                                                                                                      "id": 458091829070540800, 
+                                                                                                      "reply": true, 
+                                                                                                      "timestamp": "Mon Apr 21 03:56:17 +0000 2014", 
+                                                                                                      "tree_size": 4, 
+                                                                                                      "tweet": "@craddo @erynnwatson @junglestrikeguy I wouldn't worry your head about this,RCMP know what they are doing", 
+                                                                                                      "uid": 121644639, 
+                                                                                                      "user": 22, 
+                                                                                                      "user_score": 0.6931471805599453, 
+                                                                                                      "users": {
+                                                                                                        "22": 2, 
+                                                                                                        "24": 2
+                                                                                                      }
+                                                                                                    }
+                                                                                                  ], 
+                                                                                                  "entropy_score": 0.0, 
+                                                                                                  "favourites": 0, 
+                                                                                                  "follower": false, 
+                                                                                                  "id": 458090849293725696, 
+                                                                                                  "reply": true, 
+                                                                                                  "timestamp": "Mon Apr 21 03:52:24 +0000 2014", 
+                                                                                                  "tree_size": 5, 
+                                                                                                  "tweet": "@GSawision @erynnwatson @JungleStrikeGuy if there was evidence, they'd use it. Just astroturf-y twitter guys like this.", 
+                                                                                                  "uid": 76977981, 
+                                                                                                  "user": 24, 
+                                                                                                  "user_score": 0.6730116670092565, 
+                                                                                                  "users": {
+                                                                                                    "22": 2, 
+                                                                                                    "24": 3
+                                                                                                  }
+                                                                                                }
+                                                                                              ], 
+                                                                                              "entropy_score": 0.0, 
+                                                                                              "favourites": 0, 
+                                                                                              "follower": false, 
+                                                                                              "id": 458089134708367360, 
+                                                                                              "reply": true, 
+                                                                                              "timestamp": "Mon Apr 21 03:45:35 +0000 2014", 
+                                                                                              "tree_size": 6, 
+                                                                                              "tweet": "@erynnwatson @craddo @junglestrikeguy please be specific,who do you think this affects?", 
+                                                                                              "uid": 121644639, 
+                                                                                              "user": 22, 
+                                                                                              "user_score": 0.6931471805599453, 
+                                                                                              "users": {
+                                                                                                "22": 3, 
+                                                                                                "24": 3
+                                                                                              }
+                                                                                            }
+                                                                                          ], 
+                                                                                          "entropy_score": 3.129282886787239, 
+                                                                                          "favourites": 0, 
+                                                                                          "follower": false, 
+                                                                                          "id": 458081246300499969, 
+                                                                                          "important_entropy": true, 
+                                                                                          "reply": true, 
+                                                                                          "timestamp": "Mon Apr 21 03:14:14 +0000 2014", 
+                                                                                          "tree_size": 25, 
+                                                                                          "tweet": "@GSawision @craddo @JungleStrikeGuy For govt to deem these people unfit to vote with no consensus puts us down a bad path.", 
+                                                                                          "uid": 22074696, 
+                                                                                          "user": 0, 
+                                                                                          "user_score": 0.8945510979978213, 
+                                                                                          "users": {
+                                                                                            "0": 2, 
+                                                                                            "22": 14, 
+                                                                                            "24": 9
+                                                                                          }
+                                                                                        }
+                                                                                      ], 
+                                                                                      "entropy_score": 3.4197401437954307, 
+                                                                                      "favourites": 0, 
+                                                                                      "follower": false, 
+                                                                                      "id": 458079307894489088, 
+                                                                                      "reply": true, 
+                                                                                      "timestamp": "Mon Apr 21 03:06:32 +0000 2014", 
+                                                                                      "tree_size": 28, 
+                                                                                      "tweet": "@erynnwatson @craddo @junglestrikeguy oh c'mon even you don't believe that", 
+                                                                                      "uid": 121644639, 
+                                                                                      "user": 22, 
+                                                                                      "user_score": 0.9239088809656752, 
+                                                                                      "users": {
+                                                                                        "0": 3, 
+                                                                                        "22": 16, 
+                                                                                        "24": 9
+                                                                                      }
+                                                                                    }
+                                                                                  ], 
+                                                                                  "entropy_score": 3.4197401437954307, 
+                                                                                  "favourites": 1, 
+                                                                                  "follower": false, 
+                                                                                  "id": 458078762047787008, 
+                                                                                  "reply": true, 
+                                                                                  "timestamp": "Mon Apr 21 03:04:22 +0000 2014", 
+                                                                                  "tree_size": 29, 
+                                                                                  "tweet": "@GSawision @craddo @JungleStrikeGuy which is still not proof of fraudulent voters &amp; not reason to disenfranchise 100000s of voters.", 
+                                                                                  "uid": 22074696, 
+                                                                                  "user": 0, 
+                                                                                  "user_score": 0.9644814094229556, 
+                                                                                  "users": {
+                                                                                    "0": 4, 
+                                                                                    "22": 16, 
+                                                                                    "24": 9
+                                                                                  }
+                                                                                }
+                                                                              ], 
+                                                                              "entropy_score": 4.526172162729942, 
+                                                                              "favourites": 0, 
+                                                                              "follower": true, 
+                                                                              "id": 458074071935115264, 
+                                                                              "important_entropy": true, 
+                                                                              "reply": true, 
+                                                                              "timestamp": "Mon Apr 21 02:45:44 +0000 2014", 
+                                                                              "tree_size": 34, 
+                                                                              "tweet": "@craddo @junglestrikeguy @erynnwatson the inquiry was stopped because they couldn't find the voters who actually voted LOL so no charges", 
+                                                                              "uid": 121644639, 
+                                                                              "user": 22, 
+                                                                              "user_score": 0.9670257864904752, 
+                                                                              "users": {
+                                                                                "0": 5, 
+                                                                                "22": 19, 
+                                                                                "24": 10
+                                                                              }
+                                                                            }
+                                                                          ], 
+                                                                          "entropy_score": 4.668886926921314, 
+                                                                          "favourites": 0, 
+                                                                          "follower": false, 
+                                                                          "id": 458073015742246913, 
+                                                                          "reply": true, 
+                                                                          "timestamp": "Mon Apr 21 02:41:32 +0000 2014", 
+                                                                          "tree_size": 36, 
+                                                                          "tweet": "@GSawision @JungleStrikeGuy @erynnwatson and clearly harper is concerned because the rats don't vote conservative?", 
+                                                                          "uid": 76977981, 
+                                                                          "user": 24, 
+                                                                          "user_score": 0.9629999652885434, 
+                                                                          "users": {
+                                                                            "0": 5, 
+                                                                            "22": 20, 
+                                                                            "24": 11
+                                                                          }
+                                                                        }
+                                                                      ], 
+                                                                      "entropy_score": 4.895698182617869, 
+                                                                      "favourites": 0, 
+                                                                      "follower": true, 
+                                                                      "id": 458046580721864704, 
+                                                                      "reply": true, 
+                                                                      "timestamp": "Mon Apr 21 00:56:29 +0000 2014", 
+                                                                      "tree_size": 39, 
+                                                                      "tweet": "@craddo @junglestrikeguy @erynnwatson we had 300 voters registered at an abandoned building, maybe rats can vote? LOL", 
+                                                                      "uid": 121644639, 
+                                                                      "user": 22, 
+                                                                      "user_score": 0.9489718170653014, 
+                                                                      "users": {
+                                                                        "0": 5, 
+                                                                        "22": 22, 
+                                                                        "24": 12
+                                                                      }
+                                                                    }
+                                                                  ], 
+                                                                  "entropy_score": 5.147291001871587, 
+                                                                  "favourites": 0, 
+                                                                  "follower": false, 
+                                                                  "id": 458045018842734593, 
+                                                                  "reply": true, 
+                                                                  "timestamp": "Mon Apr 21 00:50:17 +0000 2014", 
+                                                                  "tree_size": 42, 
+                                                                  "tweet": "@GSawision @JungleStrikeGuy @erynnwatson I'm not buying evidence of voter fraud, but we do have evidence of campaign fraud. Why trust them?", 
+                                                                  "uid": 76977981, 
+                                                                  "user": 24, 
+                                                                  "user_score": 0.9361262102471499, 
+                                                                  "users": {
+                                                                    "0": 5, 
+                                                                    "22": 24, 
+                                                                    "24": 13
+                                                                  }
+                                                                }
+                                                              ], 
+                                                              "entropy_score": 5.147291001871587, 
+                                                              "favourites": 0, 
+                                                              "follower": true, 
+                                                              "id": 458031708454273024, 
+                                                              "reply": true, 
+                                                              "timestamp": "Sun Apr 20 23:57:23 +0000 2014", 
+                                                              "tree_size": 43, 
+                                                              "tweet": "@craddo @JungleStrikeGuy @erynnwatson Jesus died standing up to government sorry but I am not affiliated with any party", 
+                                                              "uid": 121644639, 
+                                                              "user": 22, 
+                                                              "user_score": 0.9271669335801787, 
+                                                              "users": {
+                                                                "0": 5, 
+                                                                "22": 25, 
+                                                                "24": 13
+                                                              }
+                                                            }
+                                                          ], 
+                                                          "entropy_score": 5.147291001871587, 
+                                                          "favourites": 0, 
+                                                          "follower": false, 
+                                                          "id": 458022977208979457, 
+                                                          "reply": true, 
+                                                          "timestamp": "Sun Apr 20 23:22:42 +0000 2014", 
+                                                          "tree_size": 44, 
+                                                          "tweet": "@GSawision @JungleStrikeGuy @erynnwatson Happy Easter! Jesus especially died for conservative shills!", 
+                                                          "uid": 76977981, 
+                                                          "user": 24, 
+                                                          "user_score": 0.932692183952599, 
+                                                          "users": {
+                                                            "0": 5, 
+                                                            "22": 25, 
+                                                            "24": 14
+                                                          }
+                                                        }
+                                                      ], 
+                                                      "entropy_score": 5.147291001871587, 
+                                                      "favourites": 0, 
+                                                      "follower": true, 
+                                                      "id": 457942509394460672, 
+                                                      "reply": true, 
+                                                      "timestamp": "Sun Apr 20 18:02:57 +0000 2014", 
+                                                      "tree_size": 45, 
+                                                      "tweet": "@JungleStrikeGuy @erynnwatson @craddo you as well", 
+                                                      "uid": 121644639, 
+                                                      "user": 22, 
+                                                      "user_score": 0.924340219429372, 
+                                                      "users": {
+                                                        "0": 5, 
+                                                        "22": 26, 
+                                                        "24": 14
+                                                      }
+                                                    }
+                                                  ], 
+                                                  "entropy_score": 5.147291001871587, 
+                                                  "favourites": 0, 
+                                                  "follower": true, 
+                                                  "id": 457942265441161219, 
+                                                  "reply": true, 
+                                                  "timestamp": "Sun Apr 20 18:01:58 +0000 2014", 
+                                                  "tree_size": 46, 
+                                                  "tweet": "@GSawision @erynnwatson @craddo Happy Easter George :)", 
+                                                  "uid": 444262205, 
+                                                  "user": 23, 
+                                                  "user_score": 1.0089783059381676, 
+                                                  "users": {
+                                                    "0": 5, 
+                                                    "22": 26, 
+                                                    "23": 1, 
+                                                    "24": 14
+                                                  }
+                                                }
+                                              ], 
+                                              "entropy_score": 5.147291001871587, 
+                                              "favourites": 0, 
+                                              "follower": true, 
+                                              "id": 457940642895642624, 
+                                              "reply": true, 
+                                              "timestamp": "Sun Apr 20 17:55:32 +0000 2014", 
+                                              "tree_size": 47, 
+                                              "tweet": "@JungleStrikeGuy @erynnwatson @craddo but don't worry your little head about it,I'm sure it won't be taught in any university classroom", 
+                                              "uid": 121644639, 
+                                              "user": 22, 
+                                              "user_score": 0.9994755259887607, 
+                                              "users": {
+                                                "0": 5, 
+                                                "22": 27, 
+                                                "23": 1, 
+                                                "24": 14
+                                              }
+                                            }
+                                          ], 
+                                          "entropy_score": 5.396955276622252, 
+                                          "favourites": 0, 
+                                          "follower": true, 
+                                          "id": 457940189306839042, 
+                                          "reply": true, 
+                                          "timestamp": "Sun Apr 20 17:53:43 +0000 2014", 
+                                          "tree_size": 51, 
+                                          "tweet": "@GSawision @erynnwatson @craddo Uh huh.", 
+                                          "uid": 444262205, 
+                                          "user": 23, 
+                                          "user_score": 1.0546642040829615, 
+                                          "users": {
+                                            "0": 6, 
+                                            "22": 29, 
+                                            "23": 2, 
+                                            "24": 14
+                                          }
+                                        }
+                                      ], 
+                                      "entropy_score": 5.396955276622252, 
+                                      "favourites": 0, 
+                                      "follower": true, 
+                                      "id": 457939894107521024, 
+                                      "reply": true, 
+                                      "timestamp": "Sun Apr 20 17:52:33 +0000 2014", 
+                                      "tree_size": 52, 
+                                      "tweet": "@JungleStrikeGuy @erynnwatson @craddo I had to work with RCMP and identify which voters registered to vote but didn't live in riding,vouched", 
+                                      "uid": 121644639, 
+                                      "user": 22, 
+                                      "user_score": 1.045098040870533, 
+                                      "users": {
+                                        "0": 6, 
+                                        "22": 30, 
+                                        "23": 2, 
+                                        "24": 14
+                                      }
+                                    }
+                                  ], 
+                                  "entropy_score": 5.59944623334559, 
+                                  "favourites": 0, 
+                                  "follower": true, 
+                                  "id": 457938467897344000, 
+                                  "reply": true, 
+                                  "timestamp": "Sun Apr 20 17:46:53 +0000 2014", 
+                                  "tree_size": 55, 
+                                  "tweet": "@GSawision @erynnwatson @craddo What federal inquiry?", 
+                                  "uid": 444262205, 
+                                  "user": 23, 
+                                  "user_score": 1.0637560000401522, 
+                                  "users": {
+                                    "0": 6, 
+                                    "22": 32, 
+                                    "23": 3, 
+                                    "24": 14
+                                  }
+                                }
+                              ], 
+                              "entropy_score": 5.59944623334559, 
+                              "favourites": 0, 
+                              "follower": false, 
+                              "id": 457938305250631680, 
+                              "reply": true, 
+                              "timestamp": "Sun Apr 20 17:46:14 +0000 2014", 
+                              "tree_size": 56, 
+                              "tweet": "@erynnwatson @junglestrikeguy @craddo not true,but in the federal inquiry,it was noted that vouched voters couldn't be found after  election", 
+                              "uid": 121644639, 
+                              "user": 22, 
+                              "user_score": 1.0543169438712183, 
+                              "users": {
+                                "0": 6, 
+                                "22": 33, 
+                                "23": 3, 
+                                "24": 14
+                              }
+                            }, 
+                            {
+                              "entropy_score": 0.0, 
+                              "favourites": 0, 
+                              "follower": true, 
+                              "id": 457938328961048576, 
+                              "reply": true, 
+                              "timestamp": "Sun Apr 20 17:46:20 +0000 2014", 
+                              "tree_size": 1, 
+                              "tweet": "@erynnwatson @GSawision @craddo Yep. Unfortunately George, we will have to file your comments in the same place with Butt's / Hawn 's :)", 
+                              "uid": 444262205, 
+                              "user": 23, 
+                              "user_score": 0.0, 
+                              "users": {
+                                "23": 1
+                              }
+                            }, 
+                            {
+                              "children": [
+                                {
+                                  "children": [
+                                    {
+                                      "entropy_score": 0.0, 
+                                      "favourites": 0, 
+                                      "follower": false, 
+                                      "id": 458031065521995777, 
+                                      "reply": true, 
+                                      "timestamp": "Sun Apr 20 23:54:50 +0000 2014", 
+                                      "tree_size": 1, 
+                                      "tweet": "@erynnwatson come to trinity spadina next electiion", 
+                                      "uid": 121644639, 
+                                      "user": 22, 
+                                      "user_score": 0.0, 
+                                      "users": {
+                                        "22": 1
+                                      }
+                                    }
+                                  ], 
+                                  "entropy_score": 0.0, 
+                                  "favourites": 0, 
+                                  "follower": false, 
+                                  "id": 457967663126294529, 
+                                  "reply": true, 
+                                  "timestamp": "Sun Apr 20 19:42:54 +0000 2014", 
+                                  "tree_size": 2, 
+                                  "tweet": "@GSawision Funny how there is so much concern about nonexistent fraudulent voters yet when it comes to CIMS &amp; Pierre Poutine, not so much.", 
+                                  "uid": 22074696, 
+                                  "user": 0, 
+                                  "user_score": 0.6931471805599453, 
+                                  "users": {
+                                    "0": 1, 
+                                    "22": 1
+                                  }
+                                }
+                              ], 
+                              "entropy_score": 0.0, 
+                              "favourites": 0, 
+                              "follower": false, 
+                              "id": 457938506023567360, 
+                              "reply": true, 
+                              "timestamp": "Sun Apr 20 17:47:02 +0000 2014", 
+                              "tree_size": 3, 
+                              "tweet": "@erynnwatson @junglestrikeguy @craddo there is no way of stopping illegal voters if they wish to vote,", 
+                              "uid": 121644639, 
+                              "user": 22, 
+                              "user_score": 0.6365141682948128, 
+                              "users": {
+                                "0": 1, 
+                                "22": 2
+                              }
+                            }
+                          ], 
+                          "entropy_score": 5.910107173425068, 
+                          "favourites": 0, 
+                          "follower": false, 
+                          "id": 457938081933320192, 
+                          "reply": true, 
+                          "timestamp": "Sun Apr 20 17:45:21 +0000 2014", 
+                          "tree_size": 61, 
+                          "tweet": "@GSawision @JungleStrikeGuy @craddo There's no evidence of people abusing vouching, only administrative errors.", 
+                          "uid": 22074696, 
+                          "user": 0, 
+                          "user_score": 1.101616576555912, 
+                          "users": {
+                            "0": 8, 
+                            "22": 35, 
+                            "23": 4, 
+                            "24": 14
+                          }
+                        }
+                      ], 
+                      "entropy_score": 6.880698950632992, 
+                      "favourites": 0, 
+                      "follower": true, 
+                      "id": 457935490704891904, 
+                      "important_entropy": true, 
+                      "reply": true, 
+                      "timestamp": "Sun Apr 20 17:35:03 +0000 2014", 
+                      "tree_size": 65, 
+                      "tweet": "@JungleStrikeGuy @erynnwatson @craddo the abuse of vouching has brought us to this situation", 
+                      "uid": 121644639, 
+                      "user": 22, 
+                      "user_score": 1.0996519071290916, 
+                      "users": {
+                        "0": 8, 
+                        "22": 38, 
+                        "23": 5, 
+                        "24": 14
+                      }
+                    }
+                  ], 
+                  "entropy_score": 6.880698950632992, 
+                  "favourites": 0, 
+                  "follower": true, 
+                  "id": 457933800761065472, 
+                  "important_users": true, 
+                  "reply": true, 
+                  "timestamp": "Sun Apr 20 17:28:20 +0000 2014", 
+                  "tree_size": 66, 
+                  "tweet": "@GSawision @erynnwatson @craddo http://t.co/2dZyLqz94m", 
+                  "uid": 444262205, 
+                  "user": 23, 
+                  "user_score": 1.1205461687987999, 
+                  "users": {
+                    "0": 8, 
+                    "22": 38, 
+                    "23": 6, 
+                    "24": 14
+                  }
+                }
+              ], 
+              "entropy_score": 6.880698950632992, 
+              "favourites": 0, 
+              "follower": false, 
+              "id": 457932586866577408, 
+              "important_users": true, 
+              "reply": true, 
+              "timestamp": "Sun Apr 20 17:23:31 +0000 2014", 
+              "tree_size": 67, 
+              "tweet": "@erynnwatson @craddo it's only a big issue downtown as many seem to vote in multiple polls,using envelopes as address ID", 
+              "uid": 121644639, 
+              "user": 22, 
+              "user_score": 1.1119792468166847, 
+              "users": {
+                "0": 8, 
+                "22": 39, 
+                "23": 6, 
+                "24": 14
+              }
+            }
+          ], 
+          "entropy_score": 6.880698950632992, 
+          "favourites": 0, 
+          "follower": false, 
+          "id": 457932045377732608, 
+          "important_users": true, 
+          "reply": true, 
+          "timestamp": "Sun Apr 20 17:21:22 +0000 2014", 
+          "tree_size": 68, 
+          "tweet": "@GSawision @craddo this.bill doesn't.just require id. Proof of.address will be hard.for.some.  Provisions need to be.in place for them.", 
+          "uid": 22074696, 
+          "user": 0, 
+          "user_score": 1.1261064577486928, 
+          "users": {
+            "0": 9, 
+            "22": 39, 
+            "23": 6, 
+            "24": 14
+          }
+        }
+      ], 
+      "entropy_score": 7.102828503485416, 
+      "favourites": 0, 
+      "follower": false, 
+      "id": 457907514596548610, 
+      "important_users": true, 
+      "reply": true, 
+      "timestamp": "Sun Apr 20 15:43:53 +0000 2014", 
+      "tree_size": 72, 
+      "tweet": "@erynnwatson @craddo LOL SO you agree non citizens should have vote as well? No ID is acceptable?", 
+      "uid": 121644639, 
+      "user": 22, 
+      "user_score": 1.121895948153452, 
+      "users": {
+        "0": 9, 
+        "22": 41, 
+        "23": 6, 
+        "24": 16
+      }
+    }
+  ], 
+  "entropy_score": 9.092992827239561, 
+  "favourites": 47, 
+  "id": 456787781990088704, 
+  "important_entropy": true, 
+  "important_users": true, 
+  "reply": false, 
+  "timestamp": "Thu Apr 17 13:34:28 +0000 2014", 
+  "total_tweets": 114, 
+  "total_users": 42, 
+  "tree_size": 114, 
+  "tweet": "I'm an ordinary Canadian &amp; I oppose bill #c23. \\n #Selfie4Democracy http://t.co/8YL5O8r4rH", 
+  "uid": 22074696, 
+  "user": 0, 
+  "user_score": 2.640279318911138, 
+  "users": {
+    "0": 11, 
+    "1": 1, 
+    "10": 1, 
+    "11": 1, 
+    "12": 1, 
+    "13": 1, 
+    "14": 1, 
+    "15": 1, 
+    "16": 1, 
+    "17": 1, 
+    "18": 1, 
+    "19": 1, 
+    "2": 1, 
+    "20": 1, 
+    "21": 1, 
+    "22": 41, 
+    "23": 6, 
+    "24": 17, 
+    "25": 1, 
+    "26": 1, 
+    "27": 1, 
+    "28": 1, 
+    "29": 1, 
+    "3": 1, 
+    "30": 1, 
+    "31": 1, 
+    "32": 1, 
+    "33": 1, 
+    "34": 1, 
+    "35": 1, 
+    "36": 1, 
+    "37": 1, 
+    "38": 1, 
+    "39": 2, 
+    "4": 1, 
+    "40": 1, 
+    "41": 1, 
+    "5": 1, 
+    "6": 1, 
+    "7": 1, 
+    "8": 1, 
+    "9": 1
+  }
+}
