@@ -4,6 +4,7 @@
     <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
     <script type="text/javascript" src="../d3/d3.js"></script>
     <script type="text/javascript" src="../d3/d3.layout.js"></script>
+    <script type="text/javascript" src="../jquery/jquery-1.12.0.min.js"></script>
     <style type="text/css">
 
 .chart {
@@ -17,19 +18,14 @@ rect {
   stroke: #eee;
   fill: #aaa;
   fill-opacity: .8;
+  cursor: pointer;
 }
 
 rect.parent {
-  cursor: pointer;
   fill: steelblue;
 }
 
-rect.scoped_parent {
-    fill: yellow;
-    cursor: pointer;
-}
-
-rect.scoped_child {
+rect.scoped {
     fill: yellow;
 }
 
@@ -105,7 +101,7 @@ function begin_animation() {
       .attr("height", function(d) { return d.dx * ky; })
       .attr("class", function(d) {
             if (GetURLParameter('scope')) {
-                return scope_ids[+GetURLParameter('scope')].indexOf(d.id) < 0 ? (d.children ? "parent" : "child") : (d.children ? "scoped_parent" : "scoped_child");
+                return scope_ids[+GetURLParameter('scope')].indexOf(d.id) < 0 ? (d.children ? "parent" : "child") : "scoped";
             }
             return d.children ? "parent" : "child";
           });
@@ -126,8 +122,6 @@ function begin_animation() {
   }
 
   function click(d) {
-    if (!d.children) return;
-
     kx = (d.y ? w - 40 : w) / (1 - d.y);
     ky = h / d.dx;
     x.domain([d.y, 1]).range([d.y ? 40 : 0, w]);
@@ -146,6 +140,8 @@ function begin_animation() {
         .style("opacity", function(d) { return d.dx * ky > 12 ? 1 : 0; });
 
     d3.event.stopPropagation();
+
+    $("document").ready(function() {window.scrollBy(-1000000, 0);} );
   }
 
   function transform(d) {
