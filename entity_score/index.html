@@ -24,6 +24,15 @@ rect.parent {
   fill: steelblue;
 }
 
+rect.scoped_parent {
+    fill: yellow;
+    cursor: pointer;
+}
+
+rect.scoped_child {
+    fill: yellow;
+}
+
 text {
   pointer-events: none;
 }
@@ -63,7 +72,8 @@ function eventFire(el, etype) {
 var w = 10000,
     h = 600,
     x = d3.scale.linear().range([0, w]),
-    y = d3.scale.linear().range([0, h]);
+    y = d3.scale.linear().range([0, h]),
+    scope_ids;
 
 var vis = d3.select("#body").append("div")
     .attr("class", "chart")
@@ -77,6 +87,9 @@ var partition = d3.layout.partition()
     .value(function(d) { return 1; });
 
 d3.json("../data/tree_info" + GetURLParameter('cascade') + ".json", function(root) {
+        d3.json("scope/scope_" + GetURLParameter('cascade') + ".json", function(json) { scope_ids = json; begin_animation();});
+
+function begin_animation() {
   var g = vis.selectAll("g")
       .data(partition.nodes(root))
     .enter().append("svg:g")
@@ -90,7 +103,12 @@ d3.json("../data/tree_info" + GetURLParameter('cascade') + ".json", function(roo
   g.append("svg:rect")
       .attr("width", root.dy * kx)
       .attr("height", function(d) { return d.dx * ky; })
-      .attr("class", function(d) { return d.children ? "parent" : "child"; });
+      .attr("class", function(d) {
+            if (GetURLParameter('scope')) {
+                return scope_ids[+GetURLParameter('scope')].indexOf(d.id) < 0 ? (d.children ? "parent" : "child") : (d.children ? "scoped_parent" : "scoped_child");
+            }
+            return d.children ? "parent" : "child";
+          });
 
   g.append("svg:text")
       .attr("transform", transform)
@@ -100,6 +118,10 @@ d3.json("../data/tree_info" + GetURLParameter('cascade') + ".json", function(roo
 
   d3.select(window)
       .on("click", function() { click(root); })
+
+  if (GetURLParameter('tweet')) {
+      eventFire(document.getElementById(GetURLParameter('tweet')), 'click');
+  }
 
   function click(d) {
     if (!d.children) return;
@@ -127,10 +149,7 @@ d3.json("../data/tree_info" + GetURLParameter('cascade') + ".json", function(roo
   function transform(d) {
     return "translate(8," + d.dx * ky / 2 + ")";
   }
-
-  if (GetURLParameter('tweet')) {
-      eventFire(document.getElementById(GetURLParameter('tweet')), 'click');
-  }
+}
 });
 
     </script>
