@@ -158,7 +158,9 @@ function begin_animation() {
 
     t.select("text")
         .attr("transform", transform)
-        .style("opacity", function(d) { return d.dx * ky > 12 ? 1 : 0; });
+        .style("opacity", function(d) { return d.dx * ky > 12 ? 1 : 0; })
+        .text(function(d1) { var textBoxLength = d.dy * kx; return d1.tweet.substring(0, Math.floor(textBoxLength / 8)); });
+
 
     d3.event.stopPropagation();
 
