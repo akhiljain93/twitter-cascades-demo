@@ -16,8 +16,9 @@
         </style>
     </head>
     <body>
-        <button id="back" onclick="location.href='master.html'" type="button">Back to master</button>
-        <button id="reset" type="button">Reset</button>
+        <a href=master.html id="back" target="_parent">Back to master</a>
+        <a href="" target="_parent" id="reset">Reset</a>
+        <h1>Cascade Summary</h1>
         <script src="../d3/d3.v3.min.js"></script>
         <script type="text/javascript"charset="utf-8">
             function GetURLParameter(sParam) {
@@ -31,9 +32,7 @@
                 }
             }
 
-            document.getElementById('reset').onclick = function() {
-                  location.href="index.html?cascade=" + GetURLParameter('cascade');
-            };
+            document.getElementById('reset').href = "index.html?cascade=" + GetURLParameter('cascade');
 
             d3.text("reps/rep_" + GetURLParameter('cascade') + ".csv", function(data) {
                     var rows = d3.csv.parseRows(data);

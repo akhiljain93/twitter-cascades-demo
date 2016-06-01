@@ -2,56 +2,11 @@
 <html>
   <head>
     <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
-    <script type="text/javascript" src="../d3/d3.js"></script>
-    <script type="text/javascript" src="../d3/d3.layout.js"></script>
-    <script type="text/javascript" src="../jquery/jquery-1.12.0.min.js"></script>
-    <style type="text/css">
-
-.chart {
-  display: block;
-  margin: auto;
-  margin-top: 60px;
-  font-size: 12px;
-}
-
-div.tooltip {
-    position: absolute;
-    text-align: center;
-    width: 250px;
-    height: 72px;
-    padding: 2px;
-    font: 12px sans-serif;
-    background: lightsteelblue;
-    border: 0px;
-    border-radius: 8px;
-}
-
-rect {
-  stroke: #eee;
-  fill: #aaa;
-  fill-opacity: .8;
-  cursor: pointer;
-}
-
-rect.parent {
-  fill: steelblue;
-}
-
-rect.scoped {
-    fill: yellow;
-}
-
-text {
-  pointer-events: none;
-}
-
-    </style>
   </head>
   <body>
-    <div id="body">
-    </div>
+    <iframe style="position: absolute; height: 100%; width: 320px" id="entities"></iframe>
+    <iframe style="position: absolute; left: 350px; height: 1000px; width: 10000px" id="cascade"></iframe>
     <script type="text/javascript">
-
 function GetURLParameter(sParam) {
     var sPageURL = window.location.search.substring(1);
     var sURLVariables = sPageURL.split('&');
@@ -64,121 +19,15 @@ function GetURLParameter(sParam) {
     return undefined;
 }
 
-function eventFire(el, etype) {
-    if (el.fireEvent) {
-        el.fireEvent('on' + etype);
-    } else {
-        var evObj = document.createEvent('Events');
-        evObj.initEvent(etype, true, false);
-        el.dispatchEvent(evObj);
-    }
+document.getElementById('entities').src = 'entities.html?cascade=' + GetURLParameter('cascade');
+
+if (GetURLParameter('scope')) {
+    document.getElementById('cascade').src = 'cascade.html?cascade=' + GetURLParameter('cascade') + '&scope=' + GetURLParameter('scope');
+} else if (GetURLParameter('tweet')) {
+    document.getElementById('cascade').src = 'cascade.html?cascade=' + GetURLParameter('cascade') + '&tweet=' + GetURLParameter('tweet');
+} else {
+    document.getElementById('cascade').src = 'cascade.html?cascade=' + GetURLParameter('cascade');
 }
-
-var w = 10000,
-    h = 1000,
-    x = d3.scale.linear().range([0, w]),
-    y = d3.scale.linear().range([0, h]),
-    scope_ids;
-
-var vis = d3.select("#body").append("div")
-    .attr("class", "chart")
-    .style("width", w + "px")
-    .style("height", h + "px")
-  .append("svg:svg")
-    .attr("width", w)
-    .attr("height", h);
-
-var div= d3.select("body")
-    .append("div")  // declare the tooltip div 
-    .attr("class", "tooltip")              // apply the 'tooltip' class
-    .style("opacity", 0);                  // set the opacity to nil
-
-var partition = d3.layout.partition()
-    .value(function(d) { return 1; });
-
-d3.json("../data/tree_info" + GetURLParameter('cascade') + ".json", function(root) {
-        d3.json("scope/scope_" + GetURLParameter('cascade') + ".json", function(json) { scope_ids = json; begin_animation();});
-
-function begin_animation() {
-  var g = vis.selectAll("g")
-      .data(partition.nodes(root))
-    .enter().append("svg:g")
-      .attr("transform", function(d) { return "translate(" + x(d.y) + "," + y(d.x) + ")"; })
-      .attr("id", function(d) { return d.id;})
-      .on("click", click)
-      .on("mouseover", function(d) {
-              div.transition()
-                  .duration(500)
-                  .style("opacity", 0);
-
-              div.transition()
-                  .duration(200)
-                  .style("opacity", .7);
-
-              div.html(d.tweet)
-                 .style("left", (d3.event.pageX) + "px")
-                 .style("top", (d3.event.pageY - 28) + "px");
-            });
-
-  var kx = w / root.dx,
-      ky = h / 1;
-
-  g.append("svg:rect")
-      .attr("width", root.dy * kx)
-      .attr("height", function(d) { return d.dx * ky; })
-      .attr("class", function(d) {
-            if (GetURLParameter('scope')) {
-                return scope_ids[+GetURLParameter('scope')].indexOf(d.id) < 0 ? (d.children ? "parent" : "child") : "scoped";
-            }
-            return d.children ? "parent" : "child";
-          });
-
-  g.append("svg:text")
-      .attr("transform", transform)
-      .attr("dy", ".35em")
-      .style("opacity", function(d) { return d.dx * ky > 12 ? 1 : 0; })
-      .text(function(d) { var textBoxLength = root.dy * kx; return d.tweet.substring(0, Math.floor(textBoxLength / 8)); });
-
-  d3.select(window)
-      .on("click", function() { click(root); })
-
-  function click(d) {
-    kx = (d.y ? w - 40 : w) / (1 - d.y);
-    ky = h / d.dx;
-    x.domain([d.y, 1]).range([d.y ? 40 : 0, w]);
-    y.domain([d.x, d.x + d.dx]);
-
-    var t = g.transition()
-        .duration(d3.event.altKey ? 7500 : 750)
-        .attr("transform", function(d) { return "translate(" + x(d.y) + "," + y(d.x) + ")"; });
-
-    t.select("rect")
-        .attr("width", d.dy * kx)
-        .attr("height", function(d) { return d.dx * ky; });
-
-    t.select("text")
-        .attr("transform", transform)
-        .style("opacity", function(d) { return d.dx * ky > 12 ? 1 : 0; })
-        .text(function(d1) { var textBoxLength = d.dy * kx; return d1.tweet.substring(0, Math.floor(textBoxLength / 8)); });
-
-
-    d3.event.stopPropagation();
-
-    $("document").ready(function() {window.scrollBy(-1000000, 0);} );
-  }
-
-  function transform(d) {
-    return "translate(8," + d.dx * ky / 2 + ")";
-  }
-
-  if (GetURLParameter('tweet')) {
-      eventFire(document.getElementById((+GetURLParameter('tweet')).toString()), 'click');
-  } else if (GetURLParameter('scope')) {
-      eventFire(document.getElementById(scope_ids[+GetURLParameter('scope')].sort()[0].toString()), 'click');
-  }
-}
-});
-
     </script>
   </body>
 </html>
