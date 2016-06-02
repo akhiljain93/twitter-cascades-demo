@@ -52,7 +52,7 @@ text {
   <body>
     <div id="body">
         <div id="cascade">
-            <h1>Cascade</h1>
+            <div id="header"></div>
             Click to go to node, click outside to move to root.<br>
             The full text of the tweet shows in the top right corner.
         </div>
@@ -63,6 +63,10 @@ if (GetURLParameter('scope')) {
     scopeText.innerHTML = "Tweets in <font color=\"yellow\">yellow</font> contain mention of selected entity";
     document.getElementById('cascade').appendChild(scopeText);
 }
+
+var header = document.createElement("div");
+header.innerHTML = "<h1>Cascade " + GetURLParameter('cascade') + "</h1>";
+document.getElementById('header').appendChild(header);
 
 function GetURLParameter(sParam) {
     var sPageURL = window.location.search.substring(1);
@@ -183,8 +187,6 @@ function begin_animation() {
 
   if (GetURLParameter('tweet')) {
       eventFire(document.getElementById((+GetURLParameter('tweet')).toString()), 'click');
-  } else if (GetURLParameter('scope')) {
-      eventFire(document.getElementById(scope_ids[+GetURLParameter('scope')].sort()[0].toString()), 'click');
   }
 }
 });

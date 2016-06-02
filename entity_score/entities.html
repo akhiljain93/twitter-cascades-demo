@@ -19,8 +19,7 @@
         <a href=master.html id="back" target="_parent">Back to master</a>
         <a href="" target="_parent" id="reset">Reset</a><br>
         <a href="" target="_blank" id="eval">Evaluation form</a>
-        <div id="header">
-        </div>
+        <div id="header"></div>
         <script src="../d3/d3.v3.min.js"></script>
         <script type="text/javascript"charset="utf-8">
             var header = document.createElement("div");
@@ -42,7 +41,7 @@
             document.getElementById('eval').href = "../evaluation/evaluation.php?cascade=" + GetURLParameter('cascade');
 
             d3.text("reps/rep_" + GetURLParameter('cascade') + ".csv", function(data) {
-                    var rows = d3.csv.parseRows(data);
+                    var rows = d3.csv.parseRows(data).map(function(val) { return val.slice(0, 3); });
                     var tbl = d3.select("body")
                         .append("table");
 
@@ -55,8 +54,10 @@
                     .data(rows[0])
                     .enter().append("th")
                     .text(function(d, i) {
-                            if (i > 0) {
+                            if (i == 1) {
                                 return d;
+                            } else if (i == 2) {
+                                return 'Context';
                             }
                         });
 
@@ -72,7 +73,7 @@
                                     context = d;
                                 } else if (i == 1) {
                                     return '<a href="index.html?cascade=' + GetURLParameter('cascade') + '&scope=' + d.split('.')[0] + '" target="_parent">' + d.split('.')[1] + '</a>';
-                                } else {
+                                } else  if (i == 2) {
                                     return '<a href="index.html?cascade=' + GetURLParameter('cascade') + '&tweet=' + d + '" target="_parent">...' + context + '...</a>';
                                 }
                             })
