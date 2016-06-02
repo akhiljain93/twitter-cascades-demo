@@ -15,7 +15,9 @@
 }
 
 div.tooltip {
-    position: absolute;
+    position: fixed;
+    left: 600px;
+    top: 50px;
     text-align: center;
     width: 250px;
     height: 72px;
@@ -52,6 +54,7 @@ text {
         <div id="cascade">
             <h1>Cascade</h1>
             Click to go to node, click outside to move to root.<br>
+            The full text of the tweet shows in the top right corner.
         </div>
     </div>
     <script type="text/javascript">
@@ -83,7 +86,7 @@ function eventFire(el, etype) {
     }
 }
 
-var w = 10000,
+var w = 1000,
     h = 1000,
     x = d3.scale.linear().range([0, w]),
     y = d3.scale.linear().range([0, h]),
@@ -124,9 +127,7 @@ function begin_animation() {
                   .duration(200)
                   .style("opacity", .7);
 
-              div.html(d.tweet)
-                 .style("left", (d3.event.pageX + 10) + "px")
-                 .style("top", (d3.event.pageY - 28) + "px");
+              div.html(d.tweet);
             });
 
   var kx = w / root.dx,
