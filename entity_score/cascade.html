@@ -16,8 +16,8 @@
 
 div.tooltip {
     position: fixed;
-    left: 600px;
-    top: 50px;
+    left: 640px;
+    top: 75px;
     text-align: center;
     width: 250px;
     height: 72px;
@@ -52,17 +52,27 @@ text {
   <body>
     <div id="body">
         <div id="cascade">
-            <h1>Cascade</h1>
-            Click to go to node, click outside to move to root.<br>
-            The full text of the tweet shows in the top right corner.
+            <div id="header"></div>
+            Click to go to node, click outside / right click to move to root.<br>
+            Click on a topic of discussion on the left to see its spread in the cascade.<br>
+            Click on a context to see the subtree rooted at the tweet with that context.<br>
+            The full text of the tweet shows in the top right corner on mouseover.
         </div>
     </div>
     <script type="text/javascript">
-if (GetURLParameter('scope')) {
+if (GetURLParameter('scope') || GetURLParameter('tweet')) {
     var scopeText = document.createElement("div");
-    scopeText.innerHTML = "Tweets in <font color=\"yellow\">yellow</font> contain mention of selected entity";
+    if (GetURLParameter('scope')) {
+        scopeText.innerHTML = "Tweets in <font color=\"yellow\">yellow</font> contain mention of selected entity";
+    } else {
+        scopeText.innerHTML = "Tweet in <font color=\"yellow\">yellow</font> is the selected tweet";
+    }
     document.getElementById('cascade').appendChild(scopeText);
 }
+
+var header = document.createElement("div");
+header.innerHTML = "<h1>Cascade " + GetURLParameter('cascade') + "</h1>";
+document.getElementById('header').appendChild(header);
 
 function GetURLParameter(sParam) {
     var sPageURL = window.location.search.substring(1);
@@ -139,6 +149,8 @@ function begin_animation() {
       .attr("class", function(d) {
             if (GetURLParameter('scope')) {
                 return scope_ids[+GetURLParameter('scope')].indexOf(d.id) < 0 ? (d.children ? "parent" : "child") : "scoped";
+            } else if (GetURLParameter('tweet')) {
+                return d.id == (+GetURLParameter('tweet')) ? "scoped" : (d.children ? "parent" : "child");
             }
             return d.children ? "parent" : "child";
           });
@@ -183,8 +195,6 @@ function begin_animation() {
 
   if (GetURLParameter('tweet')) {
       eventFire(document.getElementById((+GetURLParameter('tweet')).toString()), 'click');
-  } else if (GetURLParameter('scope')) {
-      eventFire(document.getElementById(scope_ids[+GetURLParameter('scope')].sort()[0].toString()), 'click');
   }
 }
 });

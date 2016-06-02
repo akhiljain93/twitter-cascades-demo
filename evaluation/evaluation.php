@@ -7,19 +7,31 @@
     <div class="page-header">
         <h1>Summarising twitter cascades</h1> 
     </div>
-    <form action="evaluation.php" method="post" role="form">
+    <?php
+    if (isset($_POST['submit'])) {
+    // TODO: put all the data into the database
+    ?>
+    <h3>Thank you for the evaluation. We will be in touch.</h3>
+    <?php
+        } else {
+    ?>
+    <form action="" method="post" role="form">
         <div class="form-group">
             <label for="name">Name</label>
-            <input type="text" name="name" class="form-control">
+            <input type="text" name="name" class="form-control" required>
         </div>
         <div class="form-group">
             <label for="cascade">Cascade number</label>
             <select name="cascade" class="form-control">
-                <?php
-                    for ($x = 0; $x <= 50; $x++) {
-                        echo '<option value="'.$x.'">'.$x.'</option>';
+            <?php
+                for ($x = 0; $x <= 50; $x++) {
+                    echo '<option value="'.$x.'"';
+                    if($_GET['cascade'] == $x) {
+                        echo ' selected="selected"';
                     }
-                ?>
+                    echo '>'.$x.'</option>';
+                }
+            ?>
              </select>
         </div>
         <fieldset>
@@ -75,6 +87,19 @@
                 fclose($handle);
             ?>
         </fieldset>
+        <fieldset>
+            <legend>Remarks and feedback</legend>
+            <label for="summary">Remarks on summary</label>
+            <textarea class="form-control" rows="5" id="summary"></textarea>
+            <label for="ui">Remarks on user interface</label>
+            <textarea class="form-control" rows="5" id="ui"></textarea>
+            <label for="presentation">Remarks on presentation</label>
+            <textarea class="form-control" rows="5" id="presentation"></textarea>
+        </fieldset>
+        <br>
         <button type="submit" class="btn btn-default" name="submit">Submit</button>
     </form>
+    <?php
+        }
+    ?>
 </div>
