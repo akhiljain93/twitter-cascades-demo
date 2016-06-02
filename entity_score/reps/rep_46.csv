@@ -1,11 +1,11 @@
-Context,Topic of discussion,Representative tweet
-I oppose bill #c23 \n,0.stinks bill,456787781990088704
-an ordinary Canadian & I oppose,1.canadian,456787781990088704
-that vouched voters couldn't be found,2.voters,457938305250631680
-What federal inquiry,3.inquiry,457938467897344000
-There's no evidence of people abusing,4.evidence,457938081933320192
-work with RCMP and identify which voters,5.rcmp,457939894107521024
-found after election,6.tactics election,457938305250631680
-of address will be hard for some,7.address,457932045377732608
-Easter George :),8.easter george,457942265441161219
-help win elections,9.world elections years,458088577516048384
+Context,Topic of discussion,Representative tweet id,Representative tweet
+I oppose bill #c23 \n,0.stinks bill,456787781990088704,I'm an ordinary Canadian &amp; I oppose bill #c23. \n #Selfie4Democracy http://t.co/8YL5O8r4rH
+an ordinary Canadian & I oppose,1.canadian,456787781990088704,I'm an ordinary Canadian &amp; I oppose bill #c23. \n #Selfie4Democracy http://t.co/8YL5O8r4rH
+that vouched voters couldn't be found,2.voters,457938305250631680,@erynnwatson @junglestrikeguy @craddo not true,but in the federal inquiry,it was noted that vouched voters couldn't be found after  election
+What federal inquiry,3.inquiry,457938467897344000,@GSawision @erynnwatson @craddo What federal inquiry?
+There's no evidence of people abusing,4.evidence,457938081933320192,@GSawision @JungleStrikeGuy @craddo There's no evidence of people abusing vouching, only administrative errors.
+work with RCMP and identify which voters,5.rcmp,457939894107521024,@JungleStrikeGuy @erynnwatson @craddo I had to work with RCMP and identify which voters registered to vote but didn't live in riding,vouched
+found after election,6.tactics election,457938305250631680,@erynnwatson @junglestrikeguy @craddo not true,but in the federal inquiry,it was noted that vouched voters couldn't be found after  election
+of address will be hard for some,7.address,457932045377732608,@GSawision @craddo this.bill doesn't.just require id. Proof of.address will be hard.for.some.  Provisions need to be.in place for them.
+Easter George :),8.easter george,457942265441161219,@GSawision @erynnwatson @craddo Happy Easter George :)
+help win elections,9.world elections years,458088577516048384,@erynnwatson @craddo @junglestrikeguy we used tolerate a few illegals but someone figured out this can help win elections

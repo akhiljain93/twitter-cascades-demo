@@ -1,11 +1,11 @@
-Context,Topic of discussion,Representative tweet
-straight on Jesus friends of sinners My,0.jesus,446657411764748288
-friends of sinners My latest column,1.sinners,446657411764748288
-ruffle some feathers,2.feathers ruffle,446657411764748288
-Setting the record straight on Jesus,3.record,446657411764748288
-Jesus friends of sinners My latest,4.friends,446657411764748288
-My latest column may ruffle,5.column,446657411764748288
-of their sin,6.sin privet,446722087496220672
-desired that people he interacted,7.collector tax people,446722087496220672
-mention the article I wrote,8.article,446662095413981184
-us from God,9.god,446727818769334272
+Context,Topic of discussion,Representative tweet id,Representative tweet
+straight on Jesus friends of sinners My,0.jesus,446657411764748288,"Setting the record straight on Jesus, friends of sinners" // My latest column may ruffle some feathers: http://t.co/gAGjMKX9sg
+friends of sinners My latest column,1.sinners,446657411764748288,"Setting the record straight on Jesus, friends of sinners" // My latest column may ruffle some feathers: http://t.co/gAGjMKX9sg
+ruffle some feathers,2.feathers ruffle,446657411764748288,"Setting the record straight on Jesus, friends of sinners" // My latest column may ruffle some feathers: http://t.co/gAGjMKX9sg
+Setting the record straight on Jesus,3.record,446657411764748288,"Setting the record straight on Jesus, friends of sinners" // My latest column may ruffle some feathers: http://t.co/gAGjMKX9sg
+Jesus friends of sinners My latest,4.friends,446657411764748288,"Setting the record straight on Jesus, friends of sinners" // My latest column may ruffle some feathers: http://t.co/gAGjMKX9sg
+My latest column may ruffle,5.column,446657411764748288,"Setting the record straight on Jesus, friends of sinners" // My latest column may ruffle some feathers: http://t.co/gAGjMKX9sg
+of their sin,6.sin privet,446722087496220672,@jaybakker @JonathanMerritt It's not plausible that Jesus desired that people he interacted with would repent of their sin?
+desired that people he interacted,7.collector tax people,446722087496220672,@jaybakker @JonathanMerritt It's not plausible that Jesus desired that people he interacted with would repent of their sin?
+mention the article I wrote,8.article,446662095413981184,.@JonathanMerritt Yes, it does when you misrepresent people's opinions. Why not mention the article I wrote? http://t.co/Q45FB9z7Bq
+us from God,9.god,446727818769334272,@jaybakker Because it implies that Jesus would condone the behavior he himself says is a sin, behavior that separates us from God.

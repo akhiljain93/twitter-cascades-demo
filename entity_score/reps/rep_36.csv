@@ -1,11 +1,11 @@
-Context,Topic of discussion,Representative tweet
-Sam pushes open his door,0.jostles sam,446393652999651328
-a young Dean :] Oh,1.dean,446439089790005248
-in the cart,2.shopping cart,446387086011404289
-gotta get beer,3.beer hipster,446498119409082368
-down the aisle Towards the vegetables,4.food front junk aisle,446421721672056832
-can toss stuff in the cart,5.stuff,446387086011404289
-at his brother You want to go,6.brother,446387086011404289
-gettin chips At least,7.pita chips,446410753940422657
-Hey Bobby drinks that PBR right,8.bobby,446505405481779200
-The pies are just on the,9.pies,446498119409082368
+Context,Topic of discussion,Representative tweet id,Representative tweet
+Sam pushes open his door,0.jostles sam,446393652999651328,@imanaquarius I'm right about everything. [Sam pushes open his door and gets out, smirking.]
+a young Dean :] Oh,1.dean,446439089790005248,@imanaquarius The 5-finger discount should ring a few bells. [Sam mimics a young Dean:] "Oh, I was just eating it in the store and forgot."
+in the cart,2.shopping cart,446387086011404289,@imanaquarius [lot, Sam looks over at his brother.] You want to go test her out more, that's fine. I can toss stuff in the cart.
+gotta get beer,3.beer hipster,446498119409082368,@S0GetThis [It's easy enough. The pies are just on the other side of the aisle.] We gotta get beer.
+down the aisle Towards the vegetables,4.food front junk aisle,446421721672056832,@imanaquarius [Sam just gives his brother a look and keeps on rolling the cart down the aisle. Towards the vegetables.]
+can toss stuff in the cart,5.stuff,446387086011404289,@imanaquarius [lot, Sam looks over at his brother.] You want to go test her out more, that's fine. I can toss stuff in the cart.
+at his brother You want to go,6.brother,446387086011404289,@imanaquarius [lot, Sam looks over at his brother.] You want to go test her out more, that's fine. I can toss stuff in the cart.
+gettin chips At least,7.pita chips,446410753940422657,@S0GetThis Oh, we're gettin' chips. At least.
+Hey Bobby drinks that PBR right,8.bobby,446505405481779200,@S0GetThis [Well, Dean won't argue that logic. Another gets set in.] Hey, Bobby drinks that PBR, right?
+The pies are just on the,9.pies,446498119409082368,@S0GetThis [It's easy enough. The pies are just on the other side of the aisle.] We gotta get beer.

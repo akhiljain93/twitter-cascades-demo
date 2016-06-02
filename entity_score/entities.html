@@ -17,10 +17,16 @@
     </head>
     <body>
         <a href=master.html id="back" target="_parent">Back to master</a>
-        <a href="" target="_parent" id="reset">Reset</a>
-        <h1>Cascade Summary</h1>
+        <a href="" target="_parent" id="reset">Reset</a><br>
+        <a href="" target="_blank" id="eval">Evaluation form</a>
+        <div id="header">
+        </div>
         <script src="../d3/d3.v3.min.js"></script>
         <script type="text/javascript"charset="utf-8">
+            var header = document.createElement("div");
+            header.innerHTML = "<h1>Cascade " + GetURLParameter('cascade') + " Summary</h1>";
+            document.getElementById('header').appendChild(header);
+
             function GetURLParameter(sParam) {
                 var sPageURL = window.location.search.substring(1);
                 var sURLVariables = sPageURL.split('&');
@@ -33,6 +39,7 @@
             }
 
             document.getElementById('reset').href = "index.html?cascade=" + GetURLParameter('cascade');
+            document.getElementById('eval').href = "../evaluation/evaluation.php?cascade=" + GetURLParameter('cascade');
 
             d3.text("reps/rep_" + GetURLParameter('cascade') + ".csv", function(data) {
                     var rows = d3.csv.parseRows(data);
