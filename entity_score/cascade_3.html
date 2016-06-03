@@ -121,10 +121,8 @@ d3.json("../data/tree_info" + GetURLParameter('cascade') + ".json", function(jso
       update(root);
       if (GetURLParameter('tweet')) {
         setTimeout(scrollToTweet, duration);
-      } else {
-        scrollTo(0, h/2);
       }
-    });
+  });
 });
 
 function update(source) {
