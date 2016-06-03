@@ -1,0 +1,238 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+    <script type="text/javascript" src="../d3/d3.js"></script>
+    <script type="text/javascript" src="../d3/d3.layout.js"></script>
+    <style type="text/css">
+
+div.tooltip {
+  position: absolute;	
+  text-align: center;	
+  width: 250px;	
+  height: 72px;
+  padding: 2px;	
+  font: 12px sans-serif;	
+  background: lightsteelblue;	
+  border: 0px;					
+  border-radius: 8px;
+}
+
+.node circle {
+  cursor: pointer;
+  fill: #fff;
+  stroke: steelblue;
+  stroke-width: 1.5px;
+}
+
+body {
+  overflow: scroll;
+}
+
+.node text {
+  font-size: 11px;
+}
+
+path.link {
+  fill: none;
+  stroke-width: 1.5px;
+}
+
+    </style>
+  </head>
+  <body>
+    <div id="body">
+        <div id="cascade">
+            <div id="header"></div>
+            Click on a node to expand / collapse the subtree at the node.<br>
+            Tweets in <font color="steelblue">Blue</font> have a collapsed subtree under it<br>
+            Click on a topic of discussion on the left to see its spread in the cascade.<br>
+            Click on a context to see the tweet with that context.<br>
+            The full text of the tweet shows on node mouseover.
+        </div>
+    </div>
+    <script type="text/javascript">
+if (GetURLParameter('scope') || GetURLParameter('tweet')) {
+    var scopeText = document.createElement("div");
+    if (GetURLParameter('scope')) {
+        scopeText.innerHTML = "Tweets in <font color=\"yellow\">yellow</font> contain mention of selected topic";
+    } else {
+        scopeText.innerHTML = "Tweet in <font color=\"yellow\">yellow</font> is the selected tweet";
+    }
+    document.getElementById('cascade').appendChild(scopeText);
+}
+
+var header = document.createElement("div");
+header.innerHTML = "<h1>Cascade " + GetURLParameter('cascade') + "</h1>";
+document.getElementById('header').appendChild(header);
+
+function GetURLParameter(sParam) {
+    var sPageURL = window.location.search.substring(1);
+    var sURLVariables = sPageURL.split('&');
+    for (var i = 0; i < sURLVariables.length; i++) {
+        var sParameterName = sURLVariables[i].split('=');
+        if (sParameterName[0] == sParam) {
+            return sParameterName[1];
+        }
+    }
+    return undefined;
+}
+
+var m = [120, 120, 20, 120],
+    w = 12800 - m[1] - m[3],
+    h = 800 - m[0] - m[2],
+    i = 0,
+    root,
+    scope_ids;
+
+var tree = d3.layout.tree()
+    .size([h, w]);
+
+var diagonal = d3.svg.diagonal()
+    .projection(function(d) { return [d.y, d.x]; });
+
+var vis = d3.select("#body").append("svg:svg")
+    .attr("width", w + m[1] + m[3])
+    .attr("height", h + m[0] + m[2])
+  .append("svg:g")
+    .attr("transform", "translate(" + m[3] + "," + m[0] + ")");
+
+var div = d3.select("body")
+	.append("div")  // declare the tooltip div 
+	.attr("class", "tooltip")              // apply the 'tooltip' class
+	.style("opacity", 0);                  // set the opacity to nil
+
+var duration = d3.event && d3.event.altKey ? 5000 : 500;
+
+d3.json("../data/tree_info" + GetURLParameter('cascade') + ".json", function(json) {
+  root = json;
+  root.x0 = h / 2;
+  root.y0 = 0;
+  
+  d3.json("scope/scope_" + GetURLParameter('cascade') + ".json", function(scope) {
+      scope_ids = scope;
+      update(root);
+      scrollTo(0, h/2);
+    });
+});
+
+function update(source) {
+  // Compute the new tree layout.
+  var nodes = tree.nodes(root).reverse();
+
+  // Normalize for fixed-depth.
+  nodes.forEach(function(d) { d.y = d.depth * 180; });
+
+  // Update the nodes...
+  var node = vis.selectAll("g.node")
+      .data(nodes, function(d) { return d.id || (d.id = ++i); });
+
+  // Enter any new nodes at the parent's previous position.
+  var nodeEnter = node.enter().append("svg:g")
+      .attr("class", "node")
+      .attr("transform", function(d) { return "translate(" + source.y0 + "," + source.x0 + ")"; })
+      .attr("id", function(d) { return d.id; })
+      .on("click", function(d) { toggle(d); update(d); })
+      .on("mouseover", function(d) {
+            div.transition()
+            .duration(500)	
+            .style("opacity", 0);
+            
+            div.transition()
+            .duration(200)	
+            .style("opacity", .7);
+
+            div.html(d.tweet)
+            .style("left", (d3.event.pageX + 20) + "px")
+            .style("top", (d3.event.pageY - 28) + "px");
+        });
+
+  nodeEnter.append("svg:circle")
+      .attr("r", 1e-6)
+      .style("fill", color);
+
+  // Transition nodes to their new position.
+  var nodeUpdate = node.transition()
+      .duration(duration)
+      .attr("transform", function(d) { return "translate(" + d.y + "," + d.x + ")"; });
+
+  nodeUpdate.select("circle")
+      .attr("r", 4.5)
+      .style("fill", color);
+
+  nodeUpdate.select("text")
+      .style("fill-opacity", 1);
+
+  // Transition exiting nodes to the parent's new position.
+  var nodeExit = node.exit().transition()
+      .duration(duration)
+      .attr("transform", function(d) { return "translate(" + source.y + "," + source.x + ")"; })
+      .remove();
+
+  nodeExit.select("circle")
+      .attr("r", 1e-6);
+
+  nodeExit.select("text")
+      .style("fill-opacity", 1e-6);
+
+  // Update the links...
+  var link = vis.selectAll("path.link")
+      .data(tree.links(nodes), function(d) { return d.target.id; });
+
+  // Enter any new links at the parent's previous position.
+  link.enter().insert("svg:path", "g")
+      .attr("class", "link")
+      .attr("d", function(d) {
+	gl = d;
+        var o = {x: source.x0, y: source.y0};
+	return diagonal({source: o, target: o});
+      })
+    .style("stroke", "#FFA4C4")
+    .transition()
+      .duration(duration)
+      .attr("d", diagonal);
+
+  // Transition links to their new position.
+  link.transition()
+      .duration(duration)
+      .attr("d", diagonal);
+
+  // Transition exiting nodes to the parent's new position.
+  link.exit().transition()
+      .duration(duration)
+      .attr("d", function(d) {
+        var o = {x: source.x, y: source.y};
+        return diagonal({source: o, target: o});
+      })
+      .remove();
+
+  // Stash the old positions for transition.
+  nodes.forEach(function(d) {
+    d.x0 = d.x;
+    d.y0 = d.y;
+  });
+}
+
+// Toggle children.
+function toggle(d) {
+  if (d.children) {
+    d._children = d.children;
+    d.children = null;
+  } else {
+    d.children = d._children;
+    d._children = null;
+  }
+}
+
+function color(d) {
+    if (GetURLParameter('scope')) {
+        return scope_ids[+GetURLParameter('scope')].indexOf(d.id) >= 0 ? "yellow" : d._children ? "steelblue" : "#fff";
+    } else if (GetURLParameter('tweet')) {
+        return d.id == +GetURLParameter('tweet') ? "yellow" : d._children ? "steelblue" : "#fff";
+    } else {
+        return d._children ? "steelblue" : "#fff";
+    }
+}
+    </script>
+  </body>
+</html>
