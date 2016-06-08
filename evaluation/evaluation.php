@@ -19,7 +19,7 @@
             die("Could not connect: ".mysql_error());
         }
 
-        if (! get_magic_quotes_gpc()) {
+        if (!get_magic_quotes_gpc()) {
             $name = addslashes($_POST['name']);
             $email = addslashes($_POST['email']);
             $summary = addslashes($_POST['summary']);
@@ -68,57 +68,50 @@
             <input type="text" name="email" class="form-control" required>
         </div>
         <fieldset>
-            <legend>Keywords - Rate the importance</legend>
+            <legend>Keywords - representative tweets - rate the correctness</legend>
+            <table class="table table-bordered table-hover">
+            <tr>
+                <th>Entity</th>
+                <th>Important tweet</th>
+                <th>Entity importance</th>
+                <th>Tweet identification</th>
+            </tr>
             <?php
                 $handle = fopen("../entity_score/reps/rep_".$_GET['cascade'].".csv", "r");
                 $row = 0;
                 while (($data = fgetcsv($handle, 1000, ",")) !== FALSE) {
                     if ($row > 0) {
-                    ?>
-                        <div class="form-group">
+            ?>
+                <tr>
                     <?php
-                        echo '<label for="entity_'.$row.'">'.explode(".", $data[1])[1].'</label>';
-                        echo '<select name="entity_'.$row.'" class="form-control">';
+                        echo '<td><label for="entity_'.$row.'">'.explode(".", $data[1])[1].'</label></td>';
+                        echo '<td><label for="tweet_'.$row.'">';
+                        for ($x = 3; $x < count($data); $x++) {
+                            echo $data[$x];
+                        }
+                    ?>
+                        </label></td>
+                    <?php
+                        echo '<td><select name="entity_'.$row.'">';
                         for ($x = 5; $x > 0; $x--) {
                             echo '<option value="'.$x.'">'.$x.'</option>';
                         }
                     ?>
-                            </select>
-                        </div>
+                        </select></td>
                     <?php
-                    }
-                    $row++;
-                }
-                fclose($handle);
-            ?>
-        </fieldset>
-        <fieldset>
-            <legend>Keywords - representative tweets - rate the correctness</legend>
+                        echo '<td><select name="tweet_'.$row.'">';
+                    ?>
+                        <option value="1">Correct</option>
+                        <option value="0">Incorrect</option>
+                        </select></td>
+                </tr>
             <?php
-                $handle = fopen("../entity_score/reps/rep_".$_GET['cascade'].".csv", "r");
-                $row = 0;
-                while (($data = fgetcsv($handle, 1000, ",")) !== FALSE) {
-                    if ($row > 0) {
-                    ?>
-                        <div class="form-group">
-                    <?php
-                        echo '<label for="tweet_'.$row.'">'.explode(".", $data[1])[1].' - "';
-                        for ($x = 3; $x < count($data); $x++) {
-                            echo $data[$x];
-                        }
-                        echo '"</label>';
-                        echo '<select name="tweet_'.$row.'" class="form-control">';
-                        echo '<option value="correct">Correct</option>';
-                        echo '<option value="incorrect">Incorrect</option>';
-                    ?>
-                            </select>
-                        </div>
-                    <?php
                     }
                     $row++;
                 }
                 fclose($handle);
             ?>
+            </table>
         </fieldset>
         <fieldset>
             <legend>Remarks and feedback</legend>
