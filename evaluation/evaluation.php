@@ -20,17 +20,17 @@
         }
 
         if (!get_magic_quotes_gpc()) {
-            $name = addslashes($_POST['name']);
-            $email = addslashes($_POST['email']);
-            $summary = addslashes($_POST['summary']);
-            $user_interface = addslashes($_POST['ui']);
-            $presentation = addslashes($_POST['presentation']);
+            $name = htmlspecialchars(addslashes($_POST['name']));
+            $email = htmlspecialchars(addslashes($_POST['email']));
+            $summary = htmlspecialchars(addslashes($_POST['summary']));
+            $user_interface = htmlspecialchars(addslashes($_POST['ui']));
+            $presentation = htmlspecialchars(addslashes($_POST['presentation']));
         } else {
-            $name = $_POST['name'];
-            $email = $_POST['email'];
-            $summary = $_POST['summary'];
-            $user_interface = $_POST['ui'];
-            $presentation = $_POST['presentation'];
+            $name = htmlspecialchars($_POST['name']);
+            $email = htmlspecialchars($_POST['email']);
+            $summary = htmlspecialchars($_POST['summary']);
+            $user_interface = htmlspecialchars($_POST['ui']);
+            $presentation = htmlspecialchars($_POST['presentation']);
         }
 
         $cascade = intval($_GET['cascade']);
@@ -116,11 +116,11 @@
         <fieldset>
             <legend>Remarks and feedback</legend>
             <label for="summary">Remarks on summary</label>
-            <textarea class="form-control" rows="5" id="summary"></textarea>
+            <textarea class="form-control" rows="5" name="summary"></textarea>
             <label for="ui">Remarks on user interface</label>
-            <textarea class="form-control" rows="5" id="ui"></textarea>
+            <textarea class="form-control" rows="5" name="ui"></textarea>
             <label for="presentation">Remarks on presentation</label>
-            <textarea class="form-control" rows="5" id="presentation"></textarea>
+            <textarea class="form-control" rows="5" name="presentation"></textarea>
         </fieldset>
         <br>
         <button type="submit" class="btn btn-default" name="submit">Submit</button>
