@@ -84,13 +84,13 @@
             ?>
                 <tr>
                     <?php
-                        echo '<td><label for="entity_'.$row.'">'.explode(".", $data[1])[1].'</label></td>';
-                        echo '<td><label for="tweet_'.$row.'">';
+                        echo '<td><label for="entity_'.$row.'"><a href="../entity_score/index.html?cascade='.$_GET['cascade'].'&scope='.($row - 1).'" target="_blank">'.explode(".", $data[1])[1].'</a></label></td>';
+                        echo '<td><label for="tweet_'.$row.'"><a href="../entity_score/index.html?cascade='.$_GET['cascade'].'&tweet='.$data[2].'" target="_blank">';
                         for ($x = 3; $x < count($data); $x++) {
                             echo $data[$x];
                         }
                     ?>
-                        </label></td>
+                        </a></label></td>
                     <?php
                         echo '<td><select name="entity_'.$row.'">';
                         for ($x = 5; $x > 0; $x--) {
