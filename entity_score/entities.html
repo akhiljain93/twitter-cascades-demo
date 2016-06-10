@@ -37,8 +37,7 @@
                 }
             }
 
-            var view = GetURLParameter('view') ? GetURLParameter('view') : '1';
-            document.getElementById('reset').href = "index.html?cascade=" + GetURLParameter('cascade') + "&view=" + view;
+            document.getElementById('reset').href = "index.html?cascade=" + GetURLParameter('cascade');
             document.getElementById('eval').href = "../evaluation/evaluation.php?cascade=" + GetURLParameter('cascade');
 
             d3.text("reps/rep_" + GetURLParameter('cascade') + ".csv", function(data) {
@@ -73,9 +72,9 @@
                                 if (i == 0) {
                                     context = d;
                                 } else if (i == 1) {
-                                    return '<a href="index.html?cascade=' + GetURLParameter('cascade') + '&view=' + view + '&scope=' + d.split('.')[0] + '" target="_parent">' + d.split('.')[1] + '</a>';
+                                    return '<a href="index.html?cascade=' + GetURLParameter('cascade') + '&scope=' + d.split('.')[0] + '" target="_parent">' + d.split('.')[1] + '</a>';
                                 } else  if (i == 2) {
-                                    return '<a href="index.html?cascade=' + GetURLParameter('cascade') + '&view=' + view + '&tweet=' + d + '" target="_parent">...' + context + '...</a>';
+                                    return '<a href="index.html?cascade=' + GetURLParameter('cascade') + '&tweet=' + d + '" target="_parent">...' + context + '...</a>';
                                 }
                             })
             });

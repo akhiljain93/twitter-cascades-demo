@@ -28,7 +28,7 @@ path.link {
 <div id="cascade">
     <div id="header"></div>
     Click on a node to expand / collapse the subtree at the node.<br>
-    Tweets in <font color="steelblue">Blue</font> have a collapsed subtree under it<br>
+    Tweets in <font color="#ff3333">Red</font> have a collapsed subtree under it<br>
     Click on a topic of discussion on the left to see its spread in the cascade.<br>
     Click on a context to see the tweet with that context.
 </div>
@@ -205,11 +205,11 @@ function click(d) {
 
 function color(d) {
     if (GetURLParameter('scope')) {
-        return scope_ids[+GetURLParameter('scope')].indexOf(d.id) >= 0 ? "yellow" : d._children ? "steelblue" : "#aaa";
+        return scope_ids[+GetURLParameter('scope')].indexOf(d.id) >= 0 ? "yellow" : d._children ? "#ff3333" : "#aaa";
     } else if (GetURLParameter('tweet')) {
-        return d.id == +GetURLParameter('tweet') ? "yellow" : d._children ? "steelblue" : "#aaa";
+        return d.id == +GetURLParameter('tweet') ? "yellow" : d._children ? "#ff3333" : "#aaa";
     } else {
-        return d._children ? "steelblue" : "#aaa";
+        return d._children ? "#ff3333" : "#aaa";
     }
 }
 </script>

@@ -8,7 +8,7 @@
     <iframe style="position: fixed; left: 0; height: 100%; width: 320px" id="entities"></iframe>
     <iframe style="position: relative; left: 321px;" id="cascade"></iframe>
     <script type="text/javascript">
-var duration = 400;
+var duration = 500;
 function scrollToTweet() {
     if (GetURLParameter('tweet')) {
         scrollTo(0, document.getElementById('cascade').contentWindow.document.getElementById((+GetURLParameter('tweet')).toString()).getBoundingClientRect().y - 100);
@@ -27,20 +27,16 @@ function GetURLParameter(sParam) {
     return undefined;
 }
 
-var view = GetURLParameter('view') ? GetURLParameter('view') : '1';
+setTimeout(scrollToTweet, duration);
 
-if (view === '1') {
-    setTimeout(scrollToTweet, duration);
-}
-
-document.getElementById('entities').src = 'entities.html?cascade=' + GetURLParameter('cascade') + '&view=' + view;
+document.getElementById('entities').src = 'entities.html?cascade=' + GetURLParameter('cascade');
 
 if (GetURLParameter('scope')) {
-    document.getElementById('cascade').src = 'cascade_' + view + '.html?cascade=' + GetURLParameter('cascade') + '&scope=' + GetURLParameter('scope');
+    document.getElementById('cascade').src = 'cascade.html?cascade=' + GetURLParameter('cascade') + '&scope=' + GetURLParameter('scope');
 } else if (GetURLParameter('tweet')) {
-    document.getElementById('cascade').src = 'cascade_' + view + '.html?cascade=' + GetURLParameter('cascade') + '&tweet=' + GetURLParameter('tweet');
+    document.getElementById('cascade').src = 'cascade.html?cascade=' + GetURLParameter('cascade') + '&tweet=' + GetURLParameter('tweet');
 } else {
-    document.getElementById('cascade').src = 'cascade_' + view + '.html?cascade=' + GetURLParameter('cascade');
+    document.getElementById('cascade').src = 'cascade.html?cascade=' + GetURLParameter('cascade');
 }
 
 document.getElementById('cascade').width = screen.width - 412;
