@@ -22,21 +22,18 @@
         if (!get_magic_quotes_gpc()) {
             $name = htmlspecialchars(addslashes($_POST['name']));
             $email = htmlspecialchars(addslashes($_POST['email']));
-            $summary = htmlspecialchars(addslashes($_POST['summary']));
-            $user_interface = htmlspecialchars(addslashes($_POST['ui']));
-            $presentation = htmlspecialchars(addslashes($_POST['presentation']));
+            $miss = htmlspecialchars(addslashes($_POST['miss']));
         } else {
             $name = htmlspecialchars($_POST['name']);
             $email = htmlspecialchars($_POST['email']);
-            $summary = htmlspecialchars($_POST['summary']);
-            $user_interface = htmlspecialchars($_POST['ui']);
-            $presentation = htmlspecialchars($_POST['presentation']);
+            $miss = htmlspecialchars($_POST['miss']);
         }
 
         $cascade = intval($_GET['cascade']);
+        $ease = intval($_POST['ease']);
 
-        $values = "$cascade, '$name', '$email', '$presentation', '$summary', '$user_interface'";
-        $columns = "cascade_no, name, email, presentation, summary, user_interface";
+        $values = "$cascade, '$name', '$email', '$miss', $ease";
+        $columns = "cascade_no, name, email, missing_entities, ease_of_use";
 
         for ($x = 1; $x <= 10; $x++) {
             $tweets = intval($_POST['tweet_'.$x]);
@@ -71,10 +68,10 @@
             <legend>Keywords - representative tweets - rate the correctness</legend>
             <table class="table table-bordered table-hover">
             <tr>
-                <th>Entity</th>
-                <th>Important tweet</th>
-                <th>Entity importance</th>
-                <th>Tweet identification</th>
+                <th style="text-align: center">Entity<br>(1)</th>
+                <th style="text-align: center">Important tweet<br>(2)</th>
+                <th style="text-align: center">How important is the entity in (1) to this cascade?</th>
+                <th style="text-align: center">Is (2) the most important tweet for (1)?</th>
             </tr>
             <?php
                 $handle = fopen("../entity_score/reps/rep_".$_GET['cascade'].".csv", "r");
@@ -94,15 +91,21 @@
                     <?php
                         echo '<td><select name="entity_'.$row.'">';
                         for ($x = 5; $x > 0; $x--) {
-                            echo '<option value="'.$x.'">'.$x.'</option>';
+                            echo '<option value="'.$x.'">'.$x;
+                            if ($x == 5) {
+                                echo ' - Most important';
+                            } else if ($x == 1) {
+                                echo ' - Least important';
+                            }
+                            echo '</option>';
                         }
                     ?>
                         </select></td>
                     <?php
                         echo '<td><select name="tweet_'.$row.'">';
                     ?>
-                        <option value="1">Correct</option>
-                        <option value="0">Incorrect</option>
+                        <option value="1">Yes</option>
+                        <option value="0">No</option>
                         </select></td>
                 </tr>
             <?php
@@ -115,15 +118,25 @@
         </fieldset>
         <fieldset>
             <legend>Remarks and feedback</legend>
-            <label for="summary">Remarks on summary</label>
-            <textarea class="form-control" rows="5" name="summary"></textarea>
-            <label for="ui">Remarks on user interface</label>
-            <textarea class="form-control" rows="5" name="ui"></textarea>
-            <label for="presentation">Remarks on presentation</label>
-            <textarea class="form-control" rows="5" name="presentation"></textarea>
+            <label for="miss">Were there any entities important to the cascade that you think our system missed?</label>
+            <textarea class="form-control" rows="5" name="miss"></textarea>
+            <label for="ease">Compared to the traditional style of browsing twitter, how useful is this system?</label>
+            <select name="ease" class="form-control">
+            <?php
+                for ($x = 5; $x > 0; $x--) {
+                    echo '<option value="'.$x.'">'.$x;
+                    if ($x == 5) {
+                        echo ' - Most useful';
+                    } else if ($x == 1) {
+                        echo ' - Least useful';
+                    }
+                    echo '</option>';
+                }
+            ?>
+            </select>
         </fieldset>
         <br>
-        <button type="submit" class="btn btn-default" name="submit">Submit</button>
+        <p class="pager"><button type="submit" class="btn btn-default" name="submit">Submit</button></p>
     </form>
     <?php
         }
