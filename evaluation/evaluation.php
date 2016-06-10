@@ -120,7 +120,7 @@
             <legend>Remarks and feedback</legend>
             <label for="miss">Were there any entities important to the cascade that you think our system missed?</label>
             <textarea class="form-control" rows="5" name="miss"></textarea>
-            <label for="ease">Compared to the traditional style of browsing twitter, how useful is this system?</label>
+            <label for="ease">Compared to the traditional style of browsing twitter (BaseView), how useful is EasyBrowse?</label>
             <select name="ease" class="form-control">
             <?php
                 for ($x = 5; $x > 0; $x--) {
