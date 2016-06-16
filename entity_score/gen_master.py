@@ -16,7 +16,7 @@ def printCascadeInfo(i):
 
 foreign_lang_cascades = [3, 8, 15, 22, 33, 42]
 
-print '<!DOCTYPE html>\n<html>\n  <head>\n    <meta http-equiv=\"Content-Type\" content=\"text/html;charset=utf-8\"/>\n  </head>\n  <body>\n    <h1>Twitter Cascade Summarisation</h1>\n    <p>Please use \'Ctrl + F\' to search for a keyword of interest.</p>\n    <table border=\"1\" style=\"width:50%; float: left\">\n      <tr>\n        <th>BaseView</th>\n        <th>EasyBrowse</th>\n        <th>Major entities</th>\n      </tr>'
+print '<!DOCTYPE html>\n<html>\n  <head>\n    <meta http-equiv=\"Content-Type\" content=\"text/html;charset=utf-8\"/>\n  </head>\n  <body>\n    <h1>EasyBrowse - the Twitter Cascade Summarisation project</h1>\n    <p>Please use \'Ctrl + F\' to search for a keyword of interest.</p>\n    <table border=\"1\" style=\"width:50%; float: left\">\n      <tr>\n        <th>BaseView</th>\n        <th>EasyBrowse</th>\n        <th>Major entities</th>\n      </tr>'
 
 for i in range(25):
     printCascadeInfo(i)
