@@ -46,9 +46,11 @@
         </tr>
         <?php
             $servername = "localhost";
-            $user = "user";
-            $password = "password";
-            $database = "database";
+
+            $credentials = fopen("../credentials.txt", "r");
+            $user = trim(fgets($credentials));
+            $password = trim(fgets($credentials));
+            $database = trim(fgets($credentials));
             $conn = mysql_connect($servername, $user, $password);
 
             if (!$conn) {
