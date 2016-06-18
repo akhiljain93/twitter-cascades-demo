@@ -54,6 +54,7 @@
         mysql_close($conn);
     ?>
     <h3>Thank you for the evaluation. We will be in touch.</h3>
+    <a href=../entity_score/master.php type="button" class="btn btn-success">Back to Master</a>
     <?php
         } else {
     ?>
