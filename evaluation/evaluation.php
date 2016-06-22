@@ -122,17 +122,19 @@
         </fieldset>
         <fieldset>
             <legend>Remarks and feedback</legend>
-            <label for="miss">Were there any entities important to the cascade that you think our system missed?</label>
+            <label for="miss">Were there any entities important to the cascade that you think our system missed? (Please enter one entity per line)</label>
             <textarea class="form-control" rows="5" name="miss"></textarea>
-            <label for="ease">Compared to the traditional style of browsing twitter (BaseView), how useful is EasyBrowse?</label>
+            <label for="ease">How much more likely are you to use EasyBrowse as compared to the traditional style of browsing twitter (BaseView)?</label>
             <select name="ease" class="form-control">
             <?php
-                for ($x = 5; $x > 0; $x--) {
+                for ($x = 2; $x > -3; $x--) {
                     echo '<option value="'.$x.'">'.$x;
-                    if ($x == 5) {
-                        echo ' - Most useful';
-                    } else if ($x == 1) {
-                        echo ' - Least useful';
+                    if ($x == 2) {
+                        echo ' - EasyBrowse >> BaseView';
+                    } else if ($x == 0) {
+                        echo ' - EasyBrowse = BaseView';
+                    } else if ($x == -2) {
+                        echo ' - EasyBrowse << BaseView';
                     }
                     echo '</option>';
                 }
