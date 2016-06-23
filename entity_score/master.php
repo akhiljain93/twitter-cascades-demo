@@ -1,12 +1,10 @@
 <?php
     function printRow($x, $conn, $foreign_cascades) {
-        echo '<tr>';
-        echo '<td><a href=cascade.html?cascade='.$x.' target="_blank">BV '.$x.'</a></td>';
-        echo '<td><a href=index.html?cascade='.$x.'>EB '.$x.'</a></td>';
-        echo '<td>';
-        if (in_array($x, $foreign_cascades)) {
-            echo 'Foreign Language Cascade';
-        } else {
+        if (!in_array($x, $foreign_cascades)) {
+            echo '<tr>';
+            echo '<td><a href=cascade.html?cascade='.$x.' target="_blank">BV '.$x.'</a></td>';
+            echo '<td><a href=index.html?cascade='.$x.'>EB '.$x.'</a></td>';
+            echo '<td>';
             $handle = fopen("../entity_score/reps/rep_".$x.".csv", "r");
             $row = 0;
             while (($data = fgetcsv($handle, 1000, ",")) !== FALSE) {
@@ -19,15 +17,15 @@
                 }
                 $row++;
             }
+            echo '</td>';
+            $search_query = "select count(*) from results where cascade_no=".$x;
+            $result = mysql_query($search_query, $conn);
+            if (!$result) {
+                die('Could not run query: '.mysql_error());
+            }
+            echo '<td>'.mysql_result($result, 0).'</td>';
+            echo '</tr>';
         }
-        echo '</td>';
-        $search_query = "select count(*) from results where cascade_no=".$x;
-        $result = mysql_query($search_query, $conn);
-        if (!$result) {
-            die('Could not run query: '.mysql_error());
-        }
-        echo '<td>'.mysql_result($result, 0).'</td>';
-        echo '</tr>';
     }
 ?>
 <title>EasyBrowse</title>
