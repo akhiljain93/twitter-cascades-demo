@@ -10,9 +10,11 @@
     <?php
     if (isset($_POST['submit'])) {
         $servername = "localhost";
-        $user = "root";
-        $password = "root";
-        $database = "evaluation_data";
+
+        $credentials = fopen("../credentials.txt", "r");
+        $user = trim(fgets($credentials));
+        $password = trim(fgets($credentials));
+        $database = trim(fgets($credentials));
         $conn = mysql_connect($servername, $user, $password);
 
         if (!$conn) {
@@ -52,6 +54,7 @@
         mysql_close($conn);
     ?>
     <h3>Thank you for the evaluation. We will be in touch.</h3>
+    <a href=../entity_score/master.php type="button" class="btn btn-success">Back to Master</a>
     <?php
         } else {
     ?>
