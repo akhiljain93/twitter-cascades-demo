@@ -1,4 +1,22 @@
 <title>Evaluate cascade summaries</title>
+<script type="text/javascript">
+    function checkForm(form) {
+        var x = form.email.value;
+        var atpos = x.indexOf("@");
+        var dotpos = x.lastIndexOf(".");
+        if (atpos < 1 || dotpos < atpos + 2 || dotpos + 2 >= x.length) {
+            alert("Not a valid e-mail address");
+            form.email.focus();
+            return false;
+        }
+        if(!form.captcha.value.match(/^\d{5}$/)) {
+            alert('Please enter the CAPTCHA digits in the box provided');
+            form.captcha.focus();
+            return false;
+        }
+        return true;
+    }
+</script>
 <head>
     <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
     <link rel="stylesheet" href="../bootstrap/bootstrap.min.css">
@@ -9,6 +27,12 @@
     </div>
     <?php
     if (isset($_POST['submit'])) {
+        session_start();
+        if ($_POST['captcha'] != $_SESSION['digit']) {
+            die("Sorry, the CAPTCHA code entered was incorrect!");
+        }
+        session_destroy();
+
         $servername = "localhost";
 
         $credentials = fopen("../credentials.txt", "r");
@@ -34,8 +58,8 @@
         $cascade = intval($_GET['cascade']);
         $ease = intval($_POST['ease']);
 
-        $values = "$cascade, '$name', '$email', '$miss', $ease";
-        $columns = "cascade_no, name, email, missing_entities, ease_of_use";
+        $values = "$cascade, '$name', '$email', '$miss', $ease, now()";
+        $columns = "cascade_no, name, email, missing_entities, ease_of_use, timestamp";
 
         for ($x = 1; $x <= 10; $x++) {
             $tweets = intval($_POST['tweet_'.$x]);
@@ -58,7 +82,7 @@
     <?php
         } else {
     ?>
-    <form action="" method="post" role="form">
+    <form action="" method="post" role="form" onsubmit="return checkForm(this);">
         <div class="form-group">
             <label for="name">Name</label>
             <input type="text" name="name" class="form-control" required>
@@ -122,26 +146,37 @@
         </fieldset>
         <fieldset>
             <legend>Remarks and feedback</legend>
-            <label for="miss">Were there any entities important to the cascade that you think our system missed? (Please enter one entity per line)</label>
-            <textarea class="form-control" rows="5" name="miss"></textarea>
-            <label for="ease">How much more likely are you to use EasyBrowse as compared to the traditional style of browsing twitter (BaseView)?</label>
-            <select name="ease" class="form-control">
-            <?php
-                for ($x = 2; $x > -3; $x--) {
-                    echo '<option value="'.$x.'">'.$x;
-                    if ($x == 2) {
-                        echo ' - EasyBrowse >> BaseView';
-                    } else if ($x == 0) {
-                        echo ' - EasyBrowse = BaseView';
-                    } else if ($x == -2) {
-                        echo ' - EasyBrowse << BaseView';
+            <div class="form-group">
+                <label for="miss">Were there any entities important to the cascade that you think our system missed? (Please enter one entity per line)</label>
+                <textarea class="form-control" rows="5" name="miss"></textarea>
+            </div>
+            <div class="form-group">
+                <label for="ease">How much more likely are you to use EasyBrowse as compared to the traditional style of browsing twitter (BaseView)?</label>
+                <select name="ease" class="form-control">
+                <?php
+                    for ($x = 2; $x > -3; $x--) {
+                        echo '<option value="'.$x.'">'.$x;
+                        if ($x == 2) {
+                            echo ' - EasyBrowse is much better than BaseView';
+                        } else if ($x == 0) {
+                            echo ' - EasyBrowse is similar to BaseView';
+                        } else if ($x == -2) {
+                            echo ' - EasyBrowse is much worse than BaseView';
+                        }
+                        echo '</option>';
                     }
-                    echo '</option>';
-                }
-            ?>
-            </select>
+                ?>
+                </select>
+            </div>
         </fieldset>
-        <br>
+        <fieldset>
+            <legend>Verify you are human</legend>
+            <img src="./captcha.php" width="400" height="100" border="1" alt="CAPTCHA" class="img-thumbnail center-block">
+            <div class="form-group">
+                <label for="captcha">Copy the digits from the image into this box</label>
+                <input type="text" class="form-control" name="captcha" value="" required>
+            </div>
+        </fieldset>
         <p class="pager"><button type="submit" class="btn btn-default" name="submit">Submit</button></p>
     </form>
     <?php
