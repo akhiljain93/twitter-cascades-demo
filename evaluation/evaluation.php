@@ -49,17 +49,19 @@
             $name = htmlspecialchars(addslashes($_POST['name']));
             $email = htmlspecialchars(addslashes($_POST['email']));
             $miss = htmlspecialchars(addslashes($_POST['miss']));
+            $summary = htmlspecialchars(addslashes($_POST['summary']));
         } else {
             $name = htmlspecialchars($_POST['name']);
             $email = htmlspecialchars($_POST['email']);
             $miss = htmlspecialchars($_POST['miss']);
+            $summary = htmlspecialchars($_POST['summary']);
         }
 
         $cascade = intval($_GET['cascade']);
         $ease = intval($_POST['ease']);
 
-        $values = "$cascade, '$name', '$email', '$miss', $ease, now()";
-        $columns = "cascade_no, name, email, missing_entities, ease_of_use, timestamp";
+        $values = "$cascade, '$name', '$email', '$miss', $ease, now(), '$summary'";
+        $columns = "cascade_no, name, email, missing_entities, ease_of_use, timestamp, summary";
 
         for ($x = 1; $x <= 10; $x++) {
             $tweets = intval($_POST['tweet_'.$x]);
@@ -171,6 +173,10 @@
         </fieldset>
         <fieldset>
             <legend>Verify you are human</legend>
+            <div class="form-group">
+                <label for="summary">Please write a short (2 line) summary of the cascade.</label>
+                <textarea class="form-control" rows="5" name="summary" required></textarea>
+            </div>
             <img src="./captcha.php" width="400" height="100" border="1" alt="CAPTCHA" class="img-thumbnail center-block">
             <div class="form-group">
                 <label for="captcha">Copy the digits from the image into this box</label>

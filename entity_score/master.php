@@ -34,7 +34,23 @@
 </head>
 <body>
     <h1>EasyBrowse - the Twitter Cascade Summarisation project</h1>
-    <h3>Instructions</h3>
+    <h3>Background</h3>
+    <p>There has been an explosion of information on Social networks today and most of us have accounts on multiple social networks. Now consider this scenario:</p>
+    <p>You decided you wanted to sleep early tonight and went to bed. Meanwhile, your best friend Akash posted something funny/important on Twitter. This particular tweet gained a lot of traction amongst your friends who began retweeting and replying to it. By the time you woke up in the morning, that tweet had led to a conversation (cascade) spanning 100+ tweets. Now him being your best friend, you obviously want to read through it, but reading through 100+ tweets is going to be a pain, right? What do you do in such a scenario? :(</p>
+    <p>What if I gave you a crisp and short summary of all the important talking points in the cascade and also pointed you to the most important tweet for that topic?</p>
+    <p>Here comes <b>EasyBrowse</b> - a system that automatically goes through cascades and does all the hard work for you, so that when you wake up in the morning, you can quickly go through the summary and be updated about all that happened while you were asleep.</p>
+
+    <h3>The Raffle</h3>
+    We are initiating a raffle where 3 users with the maximum number of evaluations will get Amazon vouchers with total prizes worth Rs. 1000<sup>*</sup>.
+    <ol>
+        <li>Please note that users would be uniquely identified through the name and email combination, so please use the same email id for all the evaluations that you submit.
+        <li>Only one evaluation for each cascade shall be considered, so it would be better for you to evaluate the next cascade once you are done evaluating one (even if the number of evaluations of that cascade is more, refer rule 1 below).
+        <li>We have built in checks in the evaluation scheme to identify fake submissions. All such non-sincere submissions shall be disregarded from the raffle.
+    </ol>
+    <p><sup>*</sup>: We are trying to get more funds for the prizes. Shall keep you updated here.</p>
+    <b>The raffle ends on July 2, 2016</b>. So get on your evaluation glasses, keep calm and carry on! :)
+
+    <h3>Instructions for evaluation</h3>
     <ol>
         <li>Please choose a cascade that presently has the minimum number of evaluations.
         <li>Click on its <b>BaseView</b> and go through all the tweets of the conversational cascade.<br>While doing so, please note down the entities/topics that you think are important to the cascade.<br>
@@ -85,6 +101,7 @@
             for ($x = 12; $x <= 24; $x++) {
                 printRow($x, $conn, $foreign_cascades);
             }
+            printRow(46, $conn, $foreign_cascades);
             mysql_close($conn);
         ?>
     </table>
